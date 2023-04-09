@@ -7,8 +7,7 @@ permalink: /
 notification: NECRG
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: INVIGORATE, INTERACT, INSPIRE
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -28,4 +27,18 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
+  - infobar:
+      title: Infobar Title
+      description: Infobar description
+      button: Button Text
 ---
