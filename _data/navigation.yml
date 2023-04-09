@@ -8,8 +8,6 @@ links:
     collection: example-folder
   - title: PD for Educators
     url: /permalink
-  - title: PD for Educators
-    url: /permalink
     sublinks:
       - title: Submenu Title
         url: /permalink
