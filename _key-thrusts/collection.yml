@@ -2,5 +2,6 @@ collections:
   key-thrusts:
     output: true
     order:
+      - "Thrust 3: A Professional Community Engaged in Pedagogical Innovation.md"
       - "Thrust 2: Empowering Citizenship Experiences.md"
       - "Thrust 1: A Shared and Lively Narrative.md"
