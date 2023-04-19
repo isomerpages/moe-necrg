@@ -2,4 +2,5 @@ collections:
   key-thrusts:
     output: true
     order:
+      - "Thrust 2: Empowering Citizenship Experiences.md"
       - "Thrust 1: A Shared and Lively Narrative.md"
