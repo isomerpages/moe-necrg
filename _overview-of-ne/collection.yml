@@ -2,4 +2,5 @@ collections:
   overview-of-ne:
     output: true
     order:
+      - Changing Contexts of NE.md
       - What is National Education?.md
