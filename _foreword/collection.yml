@@ -1,4 +1,5 @@
 collections:
   foreword:
     output: true
-    order: []
+    order:
+      - Forward.md
