@@ -11,8 +11,8 @@ links:
     url: /permalink
     sublinks:
       - title: Overview
-        url: /permalink
-      - title: "Key Thrusts "
+        url: overview/permalink
+      - title: Key Thrusts
         url: /permalink
       - title: Designing NE Experiences
         url: /permalink
