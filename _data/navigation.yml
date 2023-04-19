@@ -11,11 +11,11 @@ links:
     url: /permalink
     sublinks:
       - title: Overview
-        url: overview/permalink
+        url: /overview/permalink
       - title: Key Thrusts
-        url: Key Thrust/permalink
+        url: /keythrusts/permalink
       - title: Designing NE Experiences
-        url: Designing NE Experiences/permalink
+        url: /designingNEexperiences/permalink
   - title: NE Experiences for Students
     url: /permalink
     sublinks:
