@@ -1,0 +1,4 @@
+collections:
+  key-thrusts:
+    output: true
+    order: []
