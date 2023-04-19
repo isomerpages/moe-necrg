@@ -1,9 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Home
-    url: /contact-us/
+    url: /permalink
+    sublinks:
+      - title: Foreword
+        url: /permalink
+      - title: Content
+        url: /permalink
   - title: Overview of NE
-    url: /what is national education/
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
   - title: PD for Educators
     url: /permalink
     sublinks:
