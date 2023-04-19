@@ -2,4 +2,4 @@ collections:
   foreword:
     output: true
     order:
-      - Foreward.md
+      - Foreword.md
