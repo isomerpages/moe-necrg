@@ -12,8 +12,37 @@ links:
     sublinks:
       - title: Overview
         url: /permalink
+      - title: "Key Thrusts "
+        url: /permalink
+      - title: Designing NE Experiences
+        url: /permalink
+  - title: NE Experiences for Students
+    url: /permalink
+    sublinks:
+      - title: Assembly Programmes
+        url: /permalink
+      - title: Awards & Competitions
+        url: /permalink
+      - title: Teaching & Learning Resources
+        url: /permalink
+      - title: Cohort Learning Journeys
+        url: /permalink
+      - title: NE-related Learning Journeys
+        url: /permalink
+      - title: Travelling Exhibitions
+        url: /permalink
+      - title: Opportunities for VIA
+        url: /permalink
+      - title: Workshops
+        url: /permalink
   - title: PD for Educators
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: Awards for Educators & Schools
+        url: /permalink
+      - title: NE-related Learning Journeys
+        url: /permalink
+      - title: Opportunities for VIA
+        url: /permalink
+      - title: Workshops
         url: /permalink
