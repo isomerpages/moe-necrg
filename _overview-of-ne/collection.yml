@@ -2,6 +2,6 @@ collections:
   overview-of-ne:
     output: true
     order:
-      - Key Citizenship Disposition.md
       - What is National Education?.md
+      - Key Citizenship Disposition.md
       - Changing Contexts of NE.md
