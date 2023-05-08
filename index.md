@@ -8,7 +8,7 @@ notification: National Education Community Resources
 sections:
   - hero:
       background: /images/picture 1.JPG
-      title: INVIGORATE, INTERACT, INSPIRE
+      title: INVIGORATE INTERACT INSPIRE
   - resources:
       title: Latest News
       button: FIND OUT MORE
