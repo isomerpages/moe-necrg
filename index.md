@@ -13,7 +13,8 @@ sections:
       title: Latest News
       button: FIND OUT MORE
   - infobar:
-      title: Infobar Title
-      description: Infobar description
-      button: Button Text
+      title: What's New?
+      description: Links to OPAL 2.0 microsite
+      button: View here
+      url: home/overview of NE
 ---
