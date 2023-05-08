@@ -4,13 +4,10 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: NECRG
+notification: ""
 sections:
   - hero:
-      title: INVIGORATE, INTERACT, INSPIRE
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/picture 1.JPG
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -22,11 +19,11 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "Dear Fellow Educators, "
+      subtitle: FOREWORD
+      description: "We hope that this website provides our students with enriching NE
+        learning experiences which enables them to interact with community & be
+        concerned citizens "
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
