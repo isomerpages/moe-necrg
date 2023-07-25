@@ -5,7 +5,7 @@ description: ""
 ---
 National Education (NE) was launched in 1997. As a significant aspect of CCE, NE comprises a wide range of school efforts that aims to:
 
-•** Provide our students with the knowledge, skills, and values** to understand Singapore’s history, realities and challenges unique to our nation, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation’s future.
+• **Provide our students with the knowledge, skills, and values** to understand Singapore’s history, realities and challenges unique to our nation, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation’s future.
 
 • **Be empowering and aspirational** allowing for individual sense-making, so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional, and global issues.
 
