@@ -3,15 +3,15 @@ title: Contents
 permalink: /contents/permalink/
 description: ""
 ---
-**NE Experiences For Students**
-
+# NE Experiences For Students
+**
 Assembly Programmes
 
 Awards & Competitions
 
 Resources for Teaching & Learning 
 
-Cohort Learning Journeys
+Cohort Learning Journeys**
 
 NE-related Learning Journeys
 * Arts, Culture & Heritage
@@ -20,23 +20,23 @@ NE-related Learning Journeys
 * Health & Community
 * Infrastructure & Utilities
 
-Travelling Exhibitions
+**Travelling Exhibitions
 
 Opportuntities for Values in Action
 
 Workshops
-
-**PD for Educators**
-
-Awards for Educators & Schools
-
-NE-related Learning Journeys
+**
+# PD for Educators
+**
+Awards for Educators & Schools**
+**
+NE-related Learning Journeys**
 * Arts, Culture & Heritage
 * Defence, Law & Order
 * Environment & Sustainability
 * Health & Community
 * Infrastructure & Utilities
-
+**
 Opportunities for Values in Action
 
-Workshops
+Workshops**
