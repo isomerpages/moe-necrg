@@ -1,5 +1,4 @@
 collections:
   foreword:
     output: true
-    order:
-      - Foreword.md
+    order: []
