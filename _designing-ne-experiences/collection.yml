@@ -2,10 +2,10 @@ collections:
   designing-ne-experiences:
     output: true
     order:
-      - Cohort Learning Journeys/Performing Arts Based Learning (PABL).md
-      - Cohort Learning Journeys/Museum Based Learning (MBL).md
-      - Cohort Learning Journeys/Overview.md
       - Cohort Learning Journeys/.keep
+      - Cohort Learning Journeys/Overview.md
+      - Cohort Learning Journeys/Museum Based Learning (MBL).md
+      - Cohort Learning Journeys/Performing Arts Based Learning (PABL).md
       - For Educators' Professional Development.md
       - For Students.md
       - NE Commemorative Days/.keep
