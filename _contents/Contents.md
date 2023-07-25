@@ -4,39 +4,39 @@ permalink: /contents/
 description: ""
 ---
 # NE Experiences For Students
-**
-Assembly Programmes
 
-Awards & Competitions
+**Assembly Programmes**
 
-Resources for Teaching & Learning 
+**Awards & Competitions**
 
-Cohort Learning Journeys**
+**Resources for Teaching & Learning** 
 
-NE-related Learning Journeys
+**Cohort Learning Journeys**
+
+**NE-related Learning Journeys**
 * Arts, Culture & Heritage
 * Defence, Law & Order
 * Environment & Sustainability
 * Health & Community
 * Infrastructure & Utilities
 
-**Travelling Exhibitions
+**Travelling Exhibitions**
 
-Opportuntities for Values in Action
+**Opportuntities for Values in Action**
 
-Workshops
-**
+**Workshops**
+
 # PD for Educators
-**
-Awards for Educators & Schools**
-**
-NE-related Learning Journeys**
+
+**Awards for Educators & Schools**
+
+**NE-related Learning Journeys**
 * Arts, Culture & Heritage
 * Defence, Law & Order
 * Environment & Sustainability
 * Health & Community
 * Infrastructure & Utilities
-**
-Opportunities for Values in Action
 
-Workshops**
+**Opportunities for Values in Action**
+
+**Workshops**
