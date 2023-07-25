@@ -2,6 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - NE Commemorative Days/NE Commemorative Days.md
       - NE Commemorative Days/Total Defence Day.md
       - NE Commemorative Days/.keep
       - For Educators' Professional Development.md
