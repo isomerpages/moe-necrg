@@ -6,7 +6,7 @@ links:
       - title: Foreword
         url: /home/foreword/permalink
       - title: Contents
-        url: /home/contents/permalink
+        url: /contents
   - title: Overview of NE
     url: /permalink
     sublinks:
