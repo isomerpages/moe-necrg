@@ -1,5 +1,5 @@
 collections:
-  contents:
+  home:
     output: true
     order:
       - Contents.md
