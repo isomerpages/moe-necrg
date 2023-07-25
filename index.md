@@ -9,6 +9,7 @@ sections:
   - hero:
       background: /images/picture 1.JPG
       title: INVIGORATE INTERACT INSPIRE
+      subtitle: NE Community Resource Guide
   - resources:
       title: Latest News
       button: FIND OUT MORE
