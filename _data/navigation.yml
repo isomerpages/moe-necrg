@@ -4,9 +4,9 @@ links:
     url: /home/permalink
     sublinks:
       - title: Foreword
-        url: /home/foreword/permalink
+        url: /home/foreword/
       - title: Contents
-        url: /contents
+        url: /home/contents
   - title: Overview of NE
     url: /permalink
     sublinks:
