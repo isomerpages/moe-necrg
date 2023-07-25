@@ -4,3 +4,7 @@ permalink: /designing-ne-experiences/cohort-learning-journeys/overview/
 description: ""
 third_nav_title: Cohort Learning Journeys
 ---
+Cohort Learning Journeys (LJs) have been developed to provide all students with opportunities to explore their Singaporean identity through the arts, culture and
+heritage. These complement our national Art, Character and Citizenship Education, Social Studies and History curricula.
+
+Cohort LJs consist of the Primary 5 NE Show, Museum-Based Learning (MBL) and Performing Arts-Based Learning (PABL) experiences.
