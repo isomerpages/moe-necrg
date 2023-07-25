@@ -1,12 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Home
-    url: /permalink
+    url: /home/permalink
     sublinks:
       - title: Foreword
-        url: /foreword/permalink
-      - title: Content
-        url: /content/permalink
+        url: /home/foreword/permalink
+      - title: Contents
+        url: /home/contents/permalink
   - title: Overview of NE
     url: /permalink
     sublinks:
