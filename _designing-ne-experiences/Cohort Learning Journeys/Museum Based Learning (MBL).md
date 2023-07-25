@@ -11,3 +11,6 @@ designated academic level and in all three phases (i.e. pre-, during and post-le
 The pre-visit experience arouses students' interest, activates their prior knowledge and provides relevant context to allow students to form deeper and more meaningful connections to the new knowledge and experiences gained during the visit. The post-visit experience provides time and space for students to review, reflect and help them make connections between what they already know or have experienced within their lives and across the curriculum.
 
 All the MBL experiences are facilitated by museum educators with expertise in content on both the galleries and artefacts at the respective sites.
+
+# Resources
+The resources for the respective MBLs can be found in the pre-learning journey lessons in the Student Learning Space (SLS), in teacher-view mode.
