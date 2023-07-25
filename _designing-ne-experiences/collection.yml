@@ -2,6 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - Cohort Learning Journeys/Museum Based Learning (MBL).md
       - Cohort Learning Journeys/Overview.md
       - Cohort Learning Journeys/.keep
       - For Educators' Professional Development.md
