@@ -2,9 +2,9 @@ collections:
   designing-ne-experiences:
     output: true
     order:
-      - Values in Action (VIA)/Everyday Responsibilities.md
-      - Values in Action (VIA)/Overview.md
       - Values in Action (VIA)/.keep
+      - Values in Action (VIA)/Overview.md
+      - Values in Action (VIA)/Everyday Responsibilities.md
       - NE Commemorative Days/.keep
       - NE Commemorative Days/NE Commemorative Days.md
       - NE Commemorative Days/Total Defence Day.md
