@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - NEXUS, Ministry of Defence/SG101.md
       - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
       - NEXUS, Ministry of Defence/Total Defence Interactive Video.md
       - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
