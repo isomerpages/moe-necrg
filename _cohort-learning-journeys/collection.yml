@@ -2,6 +2,7 @@ collections:
   cohort-learning-journeys:
     output: true
     order:
+      - "National Heritage Board/Museum Based Learning: Tales of the Emporium.md"
       - "National Heritage Board/Museum Based Learning: Culture Archives.md"
       - National Heritage Board/.keep
       - Overview.md
