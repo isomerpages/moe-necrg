@@ -1,0 +1,4 @@
+collections:
+  travelling-exhibitions:
+    output: true
+    order: []
