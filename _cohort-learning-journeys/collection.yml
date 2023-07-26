@@ -2,6 +2,6 @@ collections:
   cohort-learning-journeys:
     output: true
     order:
-      - National Museum Of Singapore.md
-      - Indian Heritage Centre.md
       - Asian Civilisations Musuem.md
+      - Indian Heritage Centre.md
+      - National Museum Of Singapore.md
