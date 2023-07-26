@@ -2,6 +2,7 @@ collections:
   awards-and-competitions:
     output: true
     order:
+      - South West CDC.md
       - Overview.md
       - Land Transport Authority.md
       - Singapore Civil Defence Force.md
