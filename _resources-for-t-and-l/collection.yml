@@ -2,6 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Land Transport Authority/'Let's Share Our Paths Safely and Graciously!'
+        Education Toolkit.md
       - Land Transport Authority/.keep
       - Inland Revenue Authority of Singapore.md
       - Overview.md
