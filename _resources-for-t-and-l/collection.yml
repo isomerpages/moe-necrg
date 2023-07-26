@@ -2,5 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Corrupt Practices Investigation Bureau (CPIB).md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
