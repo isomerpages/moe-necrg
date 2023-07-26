@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Overview.md
       - "CPIB/Corrupt Practices Investigation Bureau (CPIB): The Corruption
         Casebook: Stories From Under The Table.md"
       - CPIB/.keep
