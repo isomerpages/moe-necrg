@@ -2,8 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - "National Heritage Board/Sun Yat Sen Nanyang Memorial Hall: Let's Learn
-        with Uncle Ting Online Children's Activity Booklets.md"
+      - "National Heritage Board/Sun Yat Sen Nanyang Memorial Hall: 'Let's Learn
+        with Uncle Ting' Online Children's Activity Booklets.md"
       - National Heritage Board/.keep
       - Overview.md
       - Central Provident Fund Board (CPFB).md
