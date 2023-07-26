@@ -14,3 +14,15 @@ All the MBL experiences are facilitated by museum educators with expertise in co
 
 # Resources
 The resources for the respective MBLs can be found in the pre-learning journey lessons in the Student Learning Space (SLS), in teacher-view mode.
+
+**Click on the following to find out more:**
+
+[P4 Culture Archives (CCE & Social Studies)](https://go.gov.sg/pre-onsitembl-kahg)
+
+[P4 Tales of the Emporium (CCE & Social Studies)](https://go.gov.sg/pre-onsitembl-gshg)
+
+[P5 Sights & Sounds of Little India (CCE & Social Studies)](https://go.gov.sg/pre-onsitembl-ihc)
+
+[P6 Asian Adventures (CCE & Social Studies)](https://go.gov.sg/pre-onsitembl-acm)
+
+[S2 Artefactually Speaking (CCE & History)](https://go.gov.sg/pre-onsitembl-nms)
