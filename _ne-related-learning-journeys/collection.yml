@@ -1,0 +1,4 @@
+collections:
+  ne-related-learning-journeys:
+    output: true
+    order: []
