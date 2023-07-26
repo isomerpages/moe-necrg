@@ -2,6 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - Resources for the National Pledge.md
       - For Educators' Professional Development.md
       - For Students.md
       - NE Commemorative Days/.keep
