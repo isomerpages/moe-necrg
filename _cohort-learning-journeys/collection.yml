@@ -2,4 +2,5 @@ collections:
   cohort-learning-journeys:
     output: true
     order:
+      - Indian Heritage Centre.md
       - Asian Civilisations Musuem.md
