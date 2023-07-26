@@ -2,5 +2,6 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - Central Narcotics Bureau/School Talk and Exhibition.md
       - Central Narcotics Bureau/.keep
       - Overview.md
