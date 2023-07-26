@@ -4,7 +4,6 @@ permalink: /awards-and-competitions/singapore-kindness-movement/write-for-kindne
 description: ""
 third_nav_title: Singapore Kindness Movement
 ---
-# Write For Kindness
 A national creative writing competition co-organised by SKM in collaboration with the Singapore Book Council as SKM programme partner.
 
 A platform for students to promote kindness to young children by creating age-appropriate and culturally relevant children’s stories through short stories, poetry, songs and illustrations.
