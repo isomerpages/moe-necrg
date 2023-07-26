@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Singapore Kindness Movement/Kindness Badge Junior.md
       - Singapore Kindness Movement/Kindsville Times and AOK!.md
       - Singapore Kindness Movement/.keep
       - Overview.md
