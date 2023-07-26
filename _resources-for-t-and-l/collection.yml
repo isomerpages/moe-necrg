@@ -2,4 +2,5 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
