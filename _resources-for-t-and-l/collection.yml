@@ -2,11 +2,11 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - "National Heritage Board/Sun Yat Sen Nanyang Memorial Hall:
-        ''Celebrating Commonalities: Festive Customs In Singapore''.md"
+      - National Heritage Board/.keep
       - National Heritage Board/Sun Yat Sen Nanyang Memorial Hall ''Let's Learn
         With Uncle Ting''.md
-      - National Heritage Board/.keep
+      - "National Heritage Board/Sun Yat Sen Nanyang Memorial Hall:
+        ''Celebrating Commonalities: Festive Customs In Singapore''.md"
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
