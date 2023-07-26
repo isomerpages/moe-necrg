@@ -1,0 +1,4 @@
+collections:
+  cohort-learning-journeys:
+    output: true
+    order: []
