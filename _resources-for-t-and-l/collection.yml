@@ -2,9 +2,9 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Urban Redevelopment Authority/City Stories.md
-      - Urban Redevelopment Authority/My Conservation Portal.md
       - Urban Redevelopment Authority/.keep
+      - Urban Redevelopment Authority/My Conservation Portal.md
+      - Urban Redevelopment Authority/City Stories.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
