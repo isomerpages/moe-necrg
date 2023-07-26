@@ -2,11 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Land Transport Authority/.keep
-      - Land Transport Authority/'Let's Share Our Paths Safely and Graciously!'
-        Education Toolkit.md
-      - Land Transport Authority/Safe Route to School.md
-      - Inland Revenue Authority of Singapore.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
@@ -17,3 +12,8 @@ collections:
       - Housing & Development Board/.keep
       - Housing & Development Board/Heartland Spots.md
       - Housing & Development Board/Eco Trail Resource Kit.md
+      - Inland Revenue Authority of Singapore.md
+      - Land Transport Authority/.keep
+      - Land Transport Authority/'Let's Share Our Paths Safely and Graciously!'
+        Education Toolkit.md
+      - Land Transport Authority/Safe Route to School.md
