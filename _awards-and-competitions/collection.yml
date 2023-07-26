@@ -1,0 +1,4 @@
+collections:
+  awards-and-competitions:
+    output: true
+    order: []
