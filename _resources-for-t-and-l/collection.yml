@@ -2,13 +2,13 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - NEXUS, Ministry of Defence/National Education (NE) Rsource Packages.md
-      - NEXUS, Ministry of Defence/SG101.md
-      - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
-      - NEXUS, Ministry of Defence/Total Defence Interactive Video.md
-      - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
-      - NEXUS, Ministry of Defence/News In Focus.md
       - NEXUS, Ministry of Defence/.keep
+      - NEXUS, Ministry of Defence/News In Focus.md
+      - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
+      - NEXUS, Ministry of Defence/Total Defence Interactive Video.md
+      - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
+      - NEXUS, Ministry of Defence/SG101.md
+      - NEXUS, Ministry of Defence/National Education (NE) Rsource Packages.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
