@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - Land Transport Authority/Public Transport Security.md
       - Land Transport Authority/.keep
       - Housing & Development Board.md
       - Overview.md
