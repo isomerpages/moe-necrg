@@ -1,0 +1,4 @@
+collections:
+  workshops:
+    output: true
+    order: []
