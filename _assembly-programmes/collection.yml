@@ -1,0 +1,4 @@
+collections:
+  assembly-programmes:
+    output: true
+    order: []
