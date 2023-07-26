@@ -2,9 +2,6 @@ collections:
   designing-ne-experiences:
     output: true
     order:
-      - Flag raising Ceremony.md
-      - NE Quiz.md
-      - SG Perspectives.md
       - For Educators' Professional Development.md
       - For Students.md
       - NE Commemorative Days/.keep
@@ -20,3 +17,6 @@ collections:
       - Cohort Learning Journeys/Overview.md
       - Cohort Learning Journeys/Museum Based Learning (MBL).md
       - Cohort Learning Journeys/Performing Arts Based Learning (PABL).md
+      - SG Perspectives.md
+      - NE Quiz.md
+      - Flag raising Ceremony.md
