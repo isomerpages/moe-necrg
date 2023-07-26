@@ -2,7 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - CPIB/Corrupt Practices Investigation Bureau (CPIB).md
+      - "CPIB/Corrupt Practices Investigation Bureau (CPIB): The Corruption
+        Casebook: Stories From Under The Table.md"
       - CPIB/.keep
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
