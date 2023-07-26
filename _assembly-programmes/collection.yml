@@ -1,4 +1,5 @@
 collections:
   assembly-programmes:
     output: true
-    order: []
+    order:
+      - Overview.md
