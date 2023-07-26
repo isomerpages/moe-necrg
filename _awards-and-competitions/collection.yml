@@ -2,5 +2,6 @@ collections:
   awards-and-competitions:
     output: true
     order:
+      - Singapore Civil Defence Force.md
       - Land Transport Authority.md
       - Overview.md
