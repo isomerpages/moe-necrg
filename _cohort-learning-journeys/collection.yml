@@ -2,10 +2,10 @@ collections:
   cohort-learning-journeys:
     output: true
     order:
-      - National Heritage Board/.keep
-      - "National Heritage Board/Museum Based Learning: Culture Archives.md"
-      - "National Heritage Board/Museum Based Learning: Tales of the Emporium.md"
       - Overview.md
       - Asian Civilisations Musuem.md
       - Indian Heritage Centre.md
       - National Museum Of Singapore.md
+      - National Heritage Board/.keep
+      - "National Heritage Board/Museum Based Learning: Culture Archives.md"
+      - "National Heritage Board/Museum Based Learning: Tales of the Emporium.md"
