@@ -2,8 +2,8 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - Corrupt Practices Investigation Bureau (CPIB).md
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Interactive Skits.md
       - Central Narcotics Bureau/School Talk and Exhibition.md
+      - Corrupt Practices Investigation Bureau (CPIB).md
