@@ -2,9 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Singapore Kindness Movement/.keep
-      - Singapore Kindness Movement/Kindsville Times and AOK!.md
-      - Singapore Kindness Movement/Kindness Badge Junior.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
@@ -32,3 +29,6 @@ collections:
       - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
       - NEXUS, Ministry of Defence/SG101.md
       - NEXUS, Ministry of Defence/National Education (NE) Resource Packages.md
+      - Singapore Kindness Movement/.keep
+      - Singapore Kindness Movement/Kindsville Times and AOK!.md
+      - Singapore Kindness Movement/Kindness Badge Junior.md
