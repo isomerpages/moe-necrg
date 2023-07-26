@@ -2,10 +2,10 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Land Transport Authority/Safe Route to School.md
+      - Land Transport Authority/.keep
       - Land Transport Authority/'Let's Share Our Paths Safely and Graciously!'
         Education Toolkit.md
-      - Land Transport Authority/.keep
+      - Land Transport Authority/Safe Route to School.md
       - Inland Revenue Authority of Singapore.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
