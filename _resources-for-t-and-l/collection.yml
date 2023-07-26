@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
       - NEXUS, Ministry of Defence/News In Focus.md
       - NEXUS, Ministry of Defence/.keep
       - Overview.md
