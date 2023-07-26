@@ -2,13 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - NEXUS, Ministry of Defence/.keep
-      - NEXUS, Ministry of Defence/News In Focus.md
-      - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
-      - NEXUS, Ministry of Defence/Total Defence Interactive Video.md
-      - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
-      - NEXUS, Ministry of Defence/SG101.md
-      - NEXUS, Ministry of Defence/National Education (NE) Resource Packages.md
       - Overview.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
@@ -29,3 +22,10 @@ collections:
         With Uncle Ting''.md
       - "National Heritage Board/Sun Yat Sen Nanyang Memorial Hall:
         ''Celebrating Commonalities: Festive Customs In Singapore''.md"
+      - NEXUS, Ministry of Defence/.keep
+      - NEXUS, Ministry of Defence/News In Focus.md
+      - NEXUS, Ministry of Defence/Total Defence Classroom Activity Sheets.md
+      - NEXUS, Ministry of Defence/Total Defence Interactive Video.md
+      - NEXUS, Ministry of Defence/Connexionsg Facebook and Instagram.md
+      - NEXUS, Ministry of Defence/SG101.md
+      - NEXUS, Ministry of Defence/National Education (NE) Resource Packages.md
