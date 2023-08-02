@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Arts, Culture & Heritage/Asian Civilisations Museum.md
       - Arts, Culture & Heritage/National Arts Council.md
       - Arts, Culture & Heritage/National Heritage Board Sun Yat Sen Nanyang
         Memorial Hall.md
