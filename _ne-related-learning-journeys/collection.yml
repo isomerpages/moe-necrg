@@ -2,5 +2,6 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Overview.md
       - Indian Heritage Centre.md
       - Asian Civilisations Museum.md
