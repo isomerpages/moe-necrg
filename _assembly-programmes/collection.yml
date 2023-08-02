@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - South West CDC.md
       - Singapore Kindness Movement/Secondary School Post Secondary (Junior
         College and Centralised Institute) Assembly Show.md
       - Singapore Kindness Movement/Primary Assembly Show.md
