@@ -1,4 +1,5 @@
 collections:
   ne-related-learning-journeys:
     output: true
-    order: []
+    order:
+      - Asian Civilisations Museum.md
