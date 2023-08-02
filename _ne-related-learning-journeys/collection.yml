@@ -2,5 +2,6 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Changi Chapel and Museum.md
       - Overview.md
       - Asian Civilisations Museum.md
