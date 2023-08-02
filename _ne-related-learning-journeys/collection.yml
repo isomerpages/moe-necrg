@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Arts, Culture & Heritage/.keep
       - National Heritage Board Sun Yat Sen Nanyang Memorial Hall.md
       - National Arts Council.md
       - Changi Chapel and Museum.md
