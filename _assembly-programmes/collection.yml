@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - The National Kidney Foundation.md
       - National Gallery Singapore.md
       - Ministry of Health.md
       - Overview.md
