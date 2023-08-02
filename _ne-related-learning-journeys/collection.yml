@@ -2,7 +2,6 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
-      - National Museum of Singapore.md
       - Overview.md
       - Indian Heritage Centre.md
       - Asian Civilisations Museum.md
