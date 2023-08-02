@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - Singapore Kindness Movement/Primary Assembly Show.md
       - Singapore Kindness Movement/Overview.md
       - Singapore Kindness Movement/.keep
       - Overview.md
