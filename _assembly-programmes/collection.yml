@@ -2,13 +2,11 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - The National Kidney Foundation.md
-      - National Gallery Singapore.md
-      - Ministry of Health.md
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Interactive Skits.md
       - Central Narcotics Bureau/School Talk and Exhibition.md
+      - The National Kidney Foundation.md
       - Corrupt Practices Investigation Bureau (CPIB).md
       - Housing & Development Board.md
       - Land Transport Authority/.keep
@@ -16,3 +14,5 @@ collections:
       - Land Transport Authority/'Make The Switch' Assembly Programme.md
       - Land Transport Authority/'Sharing Our Paths Safely and Graciously'
         Assembly Talk and Resources.md
+      - Ministry of Health.md
+      - National Gallery Singapore.md
