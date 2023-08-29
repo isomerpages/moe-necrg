@@ -2,7 +2,6 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
-      - Defence, Law & Order/.keep
       - Arts, Culture & Heritage/.keep
       - Arts, Culture & Heritage/Overview.md
       - Arts, Culture & Heritage/Asian Civilisations Museum.md
@@ -23,3 +22,4 @@ collections:
         Prgrammes.md
       - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Self Guided
         Visits.md
+      - Defence, Law & Order/.keep
