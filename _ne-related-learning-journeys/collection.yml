@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Defence, Law & Order/.keep
+      - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Self Guided
+        Visits.md
       - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Online School
         Prgrammes.md
       - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Guided
