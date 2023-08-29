@@ -2,7 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
-      - SG Chinese Cultural Centre/.keep
+      - Defence, Law & Order/.keep
       - Arts, Culture & Heritage/Reflections At Bukit Chandu.md
       - Arts, Culture & Heritage/National Heritage Board.md
       - Arts, Culture & Heritage/National Library Board (NLB).md
