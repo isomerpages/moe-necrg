@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Arts, Culture & Heritage/Founders' Memorial, National Heritage Board.md
       - Arts, Culture & Heritage/.keep
       - Arts, Culture & Heritage/Overview.md
       - Arts, Culture & Heritage/Asian Civilisations Museum.md
