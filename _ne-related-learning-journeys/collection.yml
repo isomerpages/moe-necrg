@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Defence, Law & Order/.keep
+      - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Guided
+        Tours.md
       - Arts, Culture & Heritage/Singapore Chinese Cultural Centre Guided Tours
         with Workshop.md
       - Arts, Culture & Heritage/Reflections At Bukit Chandu.md
