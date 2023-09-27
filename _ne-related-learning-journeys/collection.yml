@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Environment & Sustainability/Overview.md
       - Environment & Sustainability/Public Utilities Board.md
       - Environment & Sustainability/National Environment Agency.md
       - Environment & Sustainability/.keep
