@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Health & Community/.keep
       - Environment & Sustainability/.keep
       - Environment & Sustainability/Overview.md
       - Environment & Sustainability/National Environment Agency.md
