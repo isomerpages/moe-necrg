@@ -2,10 +2,10 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
-      - Environment & Sustainability/Overview.md
-      - Environment & Sustainability/Public Utilities Board.md
-      - Environment & Sustainability/National Environment Agency.md
       - Environment & Sustainability/.keep
+      - Environment & Sustainability/Overview.md
+      - Environment & Sustainability/National Environment Agency.md
+      - Environment & Sustainability/Public Utilities Board.md
       - Arts, Culture & Heritage/.keep
       - Arts, Culture & Heritage/Overview.md
       - Arts, Culture & Heritage/Asian Civilisations Museum.md
