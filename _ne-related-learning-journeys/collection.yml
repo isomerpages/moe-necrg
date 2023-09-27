@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Health & Community/Ministry of Home Affairs.md
       - Health & Community/KWONG WAI SHIU HOSPITAL.md
       - Health & Community/Harmony Centre @ An Nahdhah Mosque.md
       - Health & Community/Dialogue in the Dark Singapore.md
