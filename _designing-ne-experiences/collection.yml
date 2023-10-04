@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NE Commemorative Days/.keep
-      - NE Commemorative Days/Overview.md
       - NE Commemorative Days/Racial Harmony Day.md
       - Values in Action (VIA)/.keep
       - Values in Action (VIA)/Overview.md
