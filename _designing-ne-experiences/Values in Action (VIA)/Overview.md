@@ -10,6 +10,6 @@ The [Values In Action](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wik
 
        
 
-## [**Everyday Responsibilities**](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wiki/page/view?title=Daily+Routines+-+Everyday+Responsibilities)****
+### [**Everyday Responsibilities**](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wiki/page/view?title=Daily+Routines+-+Everyday+Responsibilities)
 
 Schools inculcate a sense of responsibility and care in students, for their own space and for shared spaces. Cleaning is carried out in the classrooms and common areas. Most schools already incorporate five to ten minutes of cleaning activities in their classrooms each day. The learning from schools can be transferred to the home environment and, with this constant practice, students learn pro-social behaviours and cultivate good life habits.
