@@ -4,24 +4,12 @@ permalink: /designing-ne-experiences/values-in-action-via/overview/
 description: ""
 third_nav_title: Values in Action (VIA)
 ---
-# Values in Action (VIA)
-**Overview**
+### Values in Action (VIA)
 
-The Values In Action experience nurtures in students a commitment to
-address concerns of the community and nation, and encourages students
-to exercise ownership of the community and initiate ways to contribute to
-the nation.
+The [Values In Action](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wiki/page/view?title=Values+in+Action+%28VIA%29-+beta) experience nurtures in students a commitment to address concerns of the community and nation, and encourages students to exercise ownership of the community and initiate ways to contribute to the nation.
 
-Students are given an opportunity to choose and have a voice in what
-they believe will make a difference to the community. Being actively
-involved in learning about and appreciating the community develops
-their sense of commitment in playing their part to make it a better place.
+       
 
-Schools are encouraged to implement 4- or 6-year development plans to
-ensure progressive, coherent and sustainable learning for students. As
-students develop, the amount of teacher guidance should be reduced,
-and student initiation and ownership should increase.
+## [**Everyday Responsibilities**](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wiki/page/view?title=Daily+Routines+-+Everyday+Responsibilities)****
 
-When students have greater ownership of their VIA experiences, they will
-find it more meaningful and be more motivated to continue making a
-difference, after graduation, to their community and nation.
+Schools inculcate a sense of responsibility and care in students, for their own space and for shared spaces. Cleaning is carried out in the classrooms and common areas. Most schools already incorporate five to ten minutes of cleaning activities in their classrooms each day. The learning from schools can be transferred to the home environment and, with this constant practice, students learn pro-social behaviours and cultivate good life habits.
