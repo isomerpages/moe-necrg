@@ -2,6 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - Values in Action (VIA).md
       - Overview.md
       - NE Commemorative Days.md
       - Values in Action (VIA)/.keep
