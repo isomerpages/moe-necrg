@@ -2,7 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - NE Commemorative Days.md
       - Values in Action (VIA).md
       - Cohort Learning Journeys.md
-      - NE Commemorative Days.md
       - NRIC Presentation Ceremony.md
