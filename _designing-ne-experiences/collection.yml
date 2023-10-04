@@ -2,6 +2,7 @@ collections:
   designing-ne-experiences:
     output: true
     order:
+      - Overview.md
       - NE Commemorative Days/.keep
       - NE Commemorative Days/Racial Harmony Day.md
       - Values in Action (VIA)/.keep
