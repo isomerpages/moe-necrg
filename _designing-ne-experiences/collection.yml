@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NE Commemorative Days.md
-      - NE Commemorative Days/.keep
       - Values in Action (VIA)/.keep
       - Values in Action (VIA)/Overview.md
       - Values in Action (VIA)/Everyday Responsibilities.md
