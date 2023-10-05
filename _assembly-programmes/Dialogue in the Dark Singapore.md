@@ -18,3 +18,6 @@ Students will be
 * More mindful of how to engage with a blind person 
 * Inspired to overcome obstacles in their lives
 
+> “It was enriching and helpful in clearing the doubts on visually impaired individuals. I am sure you will be happy to hear that the students found the talk interesting and insightful.”
+
+*Teacher from a secondary school*
