@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - Technology/Smart National & Digital Government Group.md
       - Technology/.keep
       - Health & Community/Ministry of Home Affairs.md
       - Health & Community/KWONG WAI SHIU HOSPITAL.md
