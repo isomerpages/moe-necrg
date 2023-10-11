@@ -49,5 +49,4 @@ Learn how robots can be programmed to do specific tasks, by teaching one to danc
 
 > "It is important for kids to be exposed to such technologies as the use of AI and tech is increasing"
 
-Julia Lin, Changkat Changi Secondary School 
-
+Julia Lin, Changkat Changi Secondary School
