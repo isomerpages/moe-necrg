@@ -28,6 +28,3 @@ ILP serves as a “Values in Action” (VIA) programme as it fosters student own
 > The school would like to express our appreciation for the organisers' commitment to creating a holistic learning experience for the students. By fostering collaboration, enabling practical application, and encouraging reflection, you have provided them with an opportunity to truly connect their learning with real-life situations. This approach is invaluable in shaping well-rounded individuals who can transfer their knowledge and skills across various contexts.
 
 - Mdm Sri Masayu Binte Moktar on behalf of the Character and Citizenship Education (CCE) programme
-
-
-
