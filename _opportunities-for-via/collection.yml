@@ -1,5 +1,4 @@
 collections:
   opportunities-for-via:
     output: true
-    order:
-      - Council for Third Age (C3A).md
+    order: []
