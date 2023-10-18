@@ -13,7 +13,32 @@ The Intergenerational Learning Programme (ILP) is an initiative by the Council f
 
 An ILP provides a unique experience of intergenerational interactions; where students and seniors can teach/learn from each other or learn/work together collaboratively. The topics offered can be digital readiness (e.g. computer skills or social media applications), handicraft work or even topics in which the schools specialise in (e.g. art and crafts, photography, culinary, and music). ILPs can be conducted in English/Mandarin/Malay/Tamil, as long as students can converse in it.
 
+**Learning Objectives**
+
 ILP serves as a “Values in Action” (VIA) programme as it fosters student ownership over how they can contribute to the community. Through the application of practical skills and knowledge, the students develop character and values. The students will also gain a deeper understanding of the elderly and develop skills such as empathy, patience, and respect for their elders through the experiences.
+
+**Target Audience:** Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+
+**Runtime:** All year round
+
+**Fee:** Complimentary
+
+**Modality:** 
+| In-person? | Virtual? | Hybrid? |
+| -------- | -------- | -------- |
+| Yes     | Yes     | Yes     |
+
+**Duration of session:**  3-8 hours, held over 1-4 sessions
+
+**Capacity:** Minimum 15 students and maximum 40 students.
+
+**Website:**  https://www.c3a.org.sg/intergenerational-learning-programme
+
+**How to register?**  By email
+
+**Contact:**  Mr Winston Mok, 64785041, winston.mok@c3a.org.sg or Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg
+
+
 
 > > Overall, it was a valuable learning experience for the students as they had the opportunity to host, interact, engage, and share their knowledge with the elderly. The efforts put into organizing this initiative and creating a platform for intergenerational interaction were much appreciated.
 > 
