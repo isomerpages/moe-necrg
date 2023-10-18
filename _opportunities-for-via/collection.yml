@@ -1,5 +1,4 @@
 collections:
   opportunities-for-via:
     output: true
-    order:
-      - Intergenerational Learning Programme (ILP).md
+    order: []
