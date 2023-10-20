@@ -14,3 +14,20 @@ This resource is available for free and can be downloaded in PDF format online v
 **Learning Objectives**
 
 The book educates readers on the far-reaching consequences of corruption in various aspects of society and inculcates the values of integrity and honesty.
+
+
+**Target Audience:** Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+
+**Fee**: Complimentary
+
+**Modality**:
+| In-person| Virtual | Hybrid |
+| -------- | -------- | -------- |
+| No     | Yes     | No     |
+
+**Website**: www.cpib.gov.sg/resources/corruption-casebook
+
+**Contact:** info@cpib.gov.sg
+
+> Students have found the stories interesting, informative and easy to understand.
+
