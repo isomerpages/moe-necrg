@@ -29,4 +29,4 @@ The book educates readers on the far-reaching consequences of corruption in vari
 
 **Contact:** info@cpib.gov.sg
 
-> Students have found the stories interesting, informative and easy to understand.
+> > Students have found the stories interesting, informative and easy to understand.
