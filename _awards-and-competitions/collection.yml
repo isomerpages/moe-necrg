@@ -2,6 +2,7 @@ collections:
   awards-and-competitions:
     output: true
     order:
+      - Central Narcotics Bureau/.keep
       - Overview.md
       - Central Narcotics Bureau.md
       - Land Transport Authority.md
