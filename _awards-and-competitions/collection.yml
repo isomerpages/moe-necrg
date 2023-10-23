@@ -2,9 +2,9 @@ collections:
   awards-and-competitions:
     output: true
     order:
-      - Central Narcotics Bureau/Central Narcotics Bureau.md
-      - Central Narcotics Bureau/.keep
       - Overview.md
+      - Central Narcotics Bureau/.keep
+      - Central Narcotics Bureau/Central Narcotics Bureau.md
       - Land Transport Authority.md
       - Singapore Civil Defence Force.md
       - Singapore Kindness Movement/.keep
