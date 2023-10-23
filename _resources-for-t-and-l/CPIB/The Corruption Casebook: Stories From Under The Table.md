@@ -24,6 +24,8 @@ The book educates readers on the far-reaching consequences of corruption in vari
 | -------- | -------- | -------- |
 | No     | Yes     | No     |
 
+**How to register?**  By email
+
 **Website**: www.cpib.gov.sg/resources/corruption-casebook
 
 **Contact:** info@cpib.gov.sg
