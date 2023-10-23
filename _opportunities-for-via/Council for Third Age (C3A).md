@@ -3,7 +3,7 @@ title: Council for Third Age (C3A)
 permalink: /opportunities-for-via/c3a/
 description: ""
 ---
-**Intergenerational Learning Programme (ILP)**
+# Intergenerational Learning Programme (ILP)
 
 The Intergenerational Learning Programme (ILP) is an initiative by the Council for Third Age (C3A) and is part of the National Silver Academy (NSA). ILP aims to forge intergenerational solidarity between the young and the old to create a more cohesive and gracious society, promote active living, and enhance mental and social well-being among seniors.
 
