@@ -37,4 +37,3 @@ Students will be introduced to relevant National Monuments associated to the com
 **Due Date for registration**: 1 month in advance
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
-
