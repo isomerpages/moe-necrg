@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Malay Heritage Centre/Tales from the Nusantara Storytelling Videos.md
       - Malay Heritage Centre/.keep
       - Overview.md
       - Central Provident Fund Board (CPFB).md
