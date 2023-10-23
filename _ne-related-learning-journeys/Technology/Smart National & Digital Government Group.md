@@ -17,8 +17,8 @@ An interactive exhibit consisting of eight zones - Sensors, Geospatial, Biometri
 Students will learn about the underlying concepts behind emerging technologies in a fun and relatable way, understand how these technologies are being applied, and be inspired to find out more about them. 
 
 **Target Audience**:
-P4 - P6 students
-S1 - S2 students
+Primary 4 - Primary 6 students
+Secondary 1 - Secondary 2 students
 
 **Programme Runtime:** All year round
 
