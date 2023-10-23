@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - National Heritage Board/.keep
       - Dialogue in the Dark Singapore.md
       - Overview.md
       - Assurance, Care and Engagement Group, Ministry of Manpower.md
