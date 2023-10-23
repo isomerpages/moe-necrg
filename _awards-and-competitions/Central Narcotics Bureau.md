@@ -3,8 +3,6 @@ title: Central Narcotics Bureau
 permalink: /awards-and-competitions/cnb/
 description: ""
 ---
-# DrugFreeSG Video Competition
-
 A video-making competition to target youths interested in video production to creatively express their understanding of the harms of drug abuse through making a short film.
 
 **Details:** 
