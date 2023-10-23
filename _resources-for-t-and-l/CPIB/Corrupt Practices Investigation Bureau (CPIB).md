@@ -4,8 +4,6 @@ permalink: /resources-for-t-and-l/cpib/cpib/
 description: ""
 third_nav_title: CPIB
 ---
-# Kopi’s Case Files Animated Mini-Series
-
 The four-episode animated series champion important values tied to anti-corruption such as honesty, fairness and integrity in an engaging and relatable way through the use of animated characters, creative story-telling and original song compositions.
 
 **Details:** 
