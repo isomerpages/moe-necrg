@@ -17,4 +17,25 @@ Students will learn about Singapore’s anti-corruption journey, the role that C
 
 **Target Audience:** Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
+**Runtime:** All year round
+
+**Fee:** Complimentary
+
+**Modality:** 
+| **In-person | Virtual | Hybrid **|
+| -------- | -------- | -------- |
+| Yes     | Yes     | No     |**
+
+**Duration of Session:** 1 hour
+
+**Capacity:** Minimum 20 pax
+
+**Website:** www.cpib.gov.sg/e-services/e-booking-for-learning-journey
+
+**How to register?** By email or online through website link.
+
+**Contact:** info@cpib.gov.sg
+
+   
+	 
 > “ Students and educators have found the talk interesting, informative and easy to understand."
