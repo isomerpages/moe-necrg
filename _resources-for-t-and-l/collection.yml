@@ -2,12 +2,12 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Malay Heritage Centre.md
       - Overview.md
+      - Malay Heritage Centre.md
       - Central Provident Fund Board (CPFB).md
       - Asian Civilisations Museums.md
-      - CPIB/Kopi’s Case Files Animated Mini Series.md
       - CPIB/.keep
+      - CPIB/Kopi’s Case Files Animated Mini Series.md
       - "CPIB/The Corruption Casebook: Stories From Under The Table.md"
       - CPIB/Corruzione.md
       - Housing & Development Board/.keep
