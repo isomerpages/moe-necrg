@@ -39,4 +39,7 @@ Singapore’s development as a city-state.
 
 **Contact Information:** Visit https://www.judiciary.gov.sg/visit-us/tour-courts for more information.
      
-**Website:**
+**Website:** https://www.judiciary.gov.sg/visit-us/tour-courts
+
+![](/images/state%20court%20heritage%20gallery%201.jpg)
+
