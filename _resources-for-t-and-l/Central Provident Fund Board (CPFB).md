@@ -50,6 +50,7 @@ At the end of the game, players will congregate at the Library (a debriefing roo
 
 **Mode of Registration:** Public booking via cpf.gov.sg/CatchingInsomnia
 Private booking via youth_engagement@cpf.gov.sg 
+[](/files/cpf%20board's%20catching%20insomnia%20game.pdf)
 
 **Contact Information:** For private bookings and any other enquiries, please contact youth_engagement@cpf.gov.sg
 
