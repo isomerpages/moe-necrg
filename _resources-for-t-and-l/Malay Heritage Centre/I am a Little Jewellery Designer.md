@@ -8,7 +8,7 @@ Did you know that a diamond village called Kampong Intan used to exist in Singap
 
 Join our friends Laila and Oreo in this interactive video game where students can harvest their own intan (diamond), polish it and set it in a beautiful piece of jewellery. Their creations will also be available for download as an image file to keep forever.
 
-**Details	**		
+**Details**	
 
 Teachers can provide handheld devices to students to play the game in schools or assign it as a home-based learning activity.			
 
@@ -30,4 +30,4 @@ Students will be introduced to the Banjarese community and traditional jewellery
 
 **How to register?** Online through website link.
 			
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg 			
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
