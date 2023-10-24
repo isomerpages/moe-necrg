@@ -2,6 +2,7 @@ collections:
   ne-related-learning-journeys:
     output: true
     order:
+      - gggg.md
       - Technology/Smart National & Digital Government Group.md
       - Technology/.keep
       - Health & Community/Ministry of Home Affairs.md
