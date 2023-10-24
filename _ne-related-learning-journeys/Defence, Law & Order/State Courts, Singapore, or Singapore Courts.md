@@ -37,6 +37,6 @@ Singapore’s development as a city-state.
 
 **Mode of Registration:** Online through website link
 
-**Contact Information:** 
-
-**Website:** 
+**Contact Information:** Visit https://www.judiciary.gov.sg/visit-us/tour-courts for more information.
+     
+**Website:**
