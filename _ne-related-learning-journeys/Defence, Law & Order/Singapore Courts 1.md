@@ -42,3 +42,7 @@ Singapore’s development as a city-state.
 **Website:** https://www.judiciary.gov.sg/visit-us/tour-courts
 
 ![](/images/state%20court%20heritage%20gallery%201.jpg)
+In this heritage courtroom, learn how court technology has been applied progressively through the re-enactment of three cases over different eras.
+
+![](/images/state%20court%20heritage%20gallery%202.jpg)
+The interactive digital displays showcase the initiatives that the State Courts introduced over the years to provide the community in Singapore access to justice.
