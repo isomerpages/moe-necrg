@@ -1,9 +1,9 @@
 title: Title
-url: ""
+url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#49759a"
+  secondary-color: "#00838f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.dv0r2asq51s1u.amplifyapp.com
 prod: https://master.dv0r2asq51s1u.amplifyapp.com
 resources_name: news-1
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
