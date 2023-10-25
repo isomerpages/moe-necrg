@@ -1,5 +1,5 @@
 collections:
-  ne-related-learning-journeys:
+  ne-related-lj-for-students:
     output: true
     order:
       - gggg.md
