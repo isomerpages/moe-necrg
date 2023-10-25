@@ -1,5 +1,5 @@
 collections:
-  opportunities-for-via-students:
+  via-opportunities-for-students:
     output: true
     order:
       - Council for Third Age (C3A).md
