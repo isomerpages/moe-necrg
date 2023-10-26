@@ -36,5 +36,3 @@ Students will find out more about Singapore’s historical healthcare landscape 
 **Due Date for registration**: At least 3 weeks in advance 		
 		
 **Contact**: heritage@kwsh.org.sg or 6422 1265
-
-	
