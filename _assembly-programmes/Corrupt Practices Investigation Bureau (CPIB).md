@@ -21,10 +21,7 @@ Students will learn about Singapore’s anti-corruption journey, the role that C
 
 **Fee:** Complimentary
 
-**Modality:** 
-| **In-person | Virtual | Hybrid **|
-| -------- | -------- | -------- |
-| Yes     | Yes     | No     |**
+**Modality:** In-person, Virtual
 
 **Duration of Session:** 1 hour
 
@@ -36,6 +33,7 @@ Students will learn about Singapore’s anti-corruption journey, the role that C
 
 **Contact:** info@cpib.gov.sg
 
-   
-	 
 > “ Students and educators have found the talk interesting, informative and easy to understand."
+
+![](/images/cpib%20learning%20journey.jpg)
+CPIB Learning Journey
