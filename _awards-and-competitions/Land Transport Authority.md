@@ -36,4 +36,4 @@ Students will learn the importance of car-lite travel, and how they each can pla
 
 > "Our teachers felt that the challenge offered many opportunities to instil values such as integrity, responsibility, and independence in the students."
 
-*Vice Principal of Bukit Panjang Primary*
+*Mr Tan Seng Chuan, Vice Principal of Bukit Panjang Primary*
