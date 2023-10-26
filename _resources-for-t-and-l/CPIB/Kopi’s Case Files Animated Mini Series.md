@@ -29,3 +29,6 @@ Students will learn about the basic concepts of anti-corruption and inculcate im
 **How to register?** By email.
 
 **Contact:** info@cpib.gov.sg
+
+![](/images/kopi’s%20case%20files%20animated%20mini-series_photo%201.png)
+Kopi’s Case Files Animated Mini-Series
