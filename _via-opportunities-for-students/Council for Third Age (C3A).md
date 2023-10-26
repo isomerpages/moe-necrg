@@ -8,7 +8,6 @@ description: ""
 The Intergenerational Learning Programme (ILP) is an initiative by the Council for Third Age (C3A) and is part of the National Silver Academy (NSA). ILP aims to forge intergenerational solidarity between the young and the old to create a more cohesive and gracious society, promote active living, and enhance mental and social well-being among seniors.
 
 
-
 **Details**
 
 An ILP provides a unique experience of intergenerational interactions; where students and seniors can teach/learn from each other or learn/work together collaboratively. The topics offered can be digital readiness (e.g. computer skills or social media applications), handicraft work or even topics in which the schools specialise in (e.g. art and crafts, photography, culinary, and music). ILPs can be conducted in English/Mandarin/Malay/Tamil, as long as students can converse in it.
@@ -17,16 +16,15 @@ An ILP provides a unique experience of intergenerational interactions; where stu
 
 ILP serves as a “Values in Action” (VIA) programme as it fosters student ownership over how they can contribute to the community. Through the application of practical skills and knowledge, the students develop character and values. The students will also gain a deeper understanding of the elderly and develop skills such as empathy, patience, and respect for their elders through the experiences.
 
+
+
 **Target Audience:** Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
 **Runtime:** All year round
 
 **Fee:** Complimentary
 
-**Modality:** 
-| In-person? | Virtual? | Hybrid? |
-| -------- | -------- | -------- |
-| Yes     | Yes     | Yes     |
+**Modality:**  In-person, Virtual, Hybrid
 
 **Duration of session:**  3-8 hours, held over 1-4 sessions
 
@@ -40,7 +38,7 @@ ILP serves as a “Values in Action” (VIA) programme as it fosters student own
 
 
 
-> > Overall, it was a valuable learning experience for the students as they had the opportunity to host, interact, engage, and share their knowledge with the elderly. The efforts put into organizing this initiative and creating a platform for intergenerational interaction were much appreciated.
+> Overall, it was a valuable learning experience for the students as they had the opportunity to host, interact, engage, and share their knowledge with the elderly. The efforts put into organizing this initiative and creating a platform for intergenerational interaction were much appreciated.
 > 
 > One aspect that stood out during this collaboration was the emphasis on making learning stick. By enabling students to connect, transfer, and apply their learning across different experiences, it created a truly comprehensive educational experience. This approach has immense value, as it allows students to recognize the practical value and impact of their learning in real-life contexts. The connection they make between theory and practice is an invaluable step in their overall development.
 > 
