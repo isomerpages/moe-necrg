@@ -34,5 +34,6 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 
 **Contact:** CNB_Community_Partnership@cnb.gov.sg
 
-![](/images/pdetalk.jpeg)
+![](/images/pdetalkcnb.jpeg)
 PDE Talk
+
