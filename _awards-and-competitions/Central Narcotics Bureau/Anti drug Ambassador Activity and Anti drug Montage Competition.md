@@ -27,3 +27,6 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 **Due Date for registration**: Before the end of the school year
 
 **Contact**: CNB_Community_Partnership@cnb.gov.sg
+
+![](/images/montage.png)
+1 of the winning entries for the Anti-drug Montage Competition
