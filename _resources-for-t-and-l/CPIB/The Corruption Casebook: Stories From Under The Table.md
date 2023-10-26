@@ -19,10 +19,7 @@ The book educates readers on the far-reaching consequences of corruption in vari
 
 **Fee**: Complimentary
 
-**Modality**:
-| In-person| Virtual | Hybrid |
-| -------- | -------- | -------- |
-| No     | Yes     | No     |
+**Modality**: Virtual
 
 **How to register?**  By email
 
