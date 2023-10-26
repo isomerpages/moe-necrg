@@ -31,3 +31,6 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 **Due Date for registration**: Before competition closing deadline
 
 **Contact:** CNB_Community_Partnership@cnb.gov.sg
+
+![](/images/vidcomp.png)
+DrugFreeSG Video Competition
