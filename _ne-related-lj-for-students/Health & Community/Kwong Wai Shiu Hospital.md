@@ -35,4 +35,6 @@ Students will find out more about Singapore’s historical healthcare landscape 
 
 **Due Date for registration**: At least 3 weeks in advance 		
 		
-**Contact**: heritage@kwsh.org.sg or 6422 1265
+**Contact**: heritage@kwsh.org.sg or  6422 1265
+
+![](/images/kwsh%20heritage%20gallery%20learning%20journey_photo%201.jpg)A group of students visiting KWSH’s pavilion garden en route to the Heritage Gallery
