@@ -34,3 +34,6 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 **Due Date for registration**: 1 month in advance.
 
 **Contact:** CNB_Community_Partnership@cnb.gov.sg
+
+![](/images/pdeskit.png)
+PDE Skit
