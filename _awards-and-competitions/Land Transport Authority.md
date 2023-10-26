@@ -35,8 +35,5 @@ Students will learn the importance of car-lite travel, and how they each can pla
 **Contact**: oneearth@lta.gov.sg
 
 > "Our teachers felt that the challenge offered many opportunities to instil values such as integrity, responsibility, and independence in the students."
-> 
-*Vice Principal of Bukit Panjang Primary*
 
-![](/images/bpps%20checkin.png)
-Students at Bukit Panjang Primary doing their morning scan-ins to report their travel mode
+*Vice Principal of Bukit Panjang Primary*
