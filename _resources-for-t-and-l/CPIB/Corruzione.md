@@ -29,3 +29,6 @@ Players will learn how corruption can have far-reaching consequences, and the im
 **How to register?**  By email
 
 **Contact:** info@cpib.gov.sg
+
+![](/images/corruzione_photo%201.png)
+Corruzione
