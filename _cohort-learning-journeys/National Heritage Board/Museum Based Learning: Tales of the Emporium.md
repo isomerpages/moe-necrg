@@ -18,7 +18,7 @@ Through guided field work, Students will learn about the history of Geylang Sera
 
 **Runtime**: January to May, July to November
 
-**Fee**: $8 before GST		
+**Fee**: $8 before GST (MOE funding provided to schools)		
 
 **Modality**: In-person
 		
