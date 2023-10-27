@@ -49,4 +49,3 @@ At the learning journey participants will:
 
 > "Thank you for your comprehensive sharing. We are all inspired by your commitment towards enhancing racial and religious harmony in our country." 
 - MOE Cluster Superintendent
-
