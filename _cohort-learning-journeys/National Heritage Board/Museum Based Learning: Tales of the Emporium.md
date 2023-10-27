@@ -18,17 +18,20 @@ Through guided field work, Students will learn about the history of Geylang Sera
 
 **Runtime**: January to May, July to November
 
-Fee: Complimentary		
-Modality: In-person, Virtual, Hybrid		
+**Fee**: $8 before GST		
+
+**Modality**: In-person
 		
-		
-Duration of Session: 		
-Capacity: 		
+**Duration of Session**: 2.5 hours 		
+
+**Capacity**: 100 pax per session		
 		
 **Relevant Commemorative Days**: Racial Harmony Day, National Day	
 
-Website:		
-How to register? By email.		
-Due Date for registration: 		
+**Website**: https://www.bookmuseums.nhb.gov.sg/programmepreview/c69370c4-7ca3-4da4-bdf7-1ce40f1aa33a
+
+**How to register?** Online through website link.
+
+**Due Date for registration**: 6 weeks in advance of visit		
 		
-Contact: 		
+**Contact**: nhb_gshg_mbl@nhb.gov.sg
