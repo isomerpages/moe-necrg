@@ -39,3 +39,13 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 **Due Date for registration**: 3 weeks in advance. 		
 		
 **Contact**: steven_sung@lta.gov.sg or telephone 65851123
+
+> I would like to express my thanks to you and your team for the assembly talk on 13 Feb 2023 and the recess engagement activities on 15 Feb 2023. 
+> 
+> Both pupils and staff have learned much on how to be a vigilant commuter though your talk and fun-filled activities. 
+> 
+> LTA's support has made commemorating Total Defence Day at SNGS a memorable one.
+> 
+> I look forward to working with you and your team in the near future again. Together We Make Singapore Strong! 
+
+-CHIJ St Nicholas Girls' School (Primary)
