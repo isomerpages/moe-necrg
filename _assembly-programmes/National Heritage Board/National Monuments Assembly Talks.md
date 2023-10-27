@@ -22,11 +22,7 @@ Students will be introduced to relevant National Monuments associated to the com
 
 **Fee**: Please email for more details.
 
-**Modality:**
-
-| In-person | Virtual | Hybrid |
-| -------- | -------- | -------- |
-| Yes     | Yes     | No    |
+**Modality:** In-person, Virtual
 
 **Duration of Session:** 30-45mins
 
