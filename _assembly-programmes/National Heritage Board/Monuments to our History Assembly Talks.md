@@ -14,7 +14,7 @@ The talks are presented in visually impactful slides and will start with a short
 
 **Learning Objectives**
 
-Students will be introduced to relevant National Monuments associated to the commemorative days and gain a better understanding of the significance of these commemorative days through built heritage.
+Students will be introduced to relevant National Monuments and gain a better understanding of the importance of these commemorative days through built heritage.
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
 
@@ -26,11 +26,11 @@ Students will be introduced to relevant National Monuments associated to the com
 
 **Duration of Session:** 30-45mins
 
-**Relevant Commemorative Days:** Racial Harmony Day, National Day
+**Relevant Commemorative Days:** Total Defence Day, Racial Harmony Day, National Day
 
 **How to register?** By email.
 
-**Due Date for registration**: 1 month in advance
+**Due Date for registration**: 6-8 weeks in advance.
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
 
