@@ -38,4 +38,4 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 
 **Due Date for registration**: 3 weeks in advance. 		
 		
-**Contact**: steven_sung@lta.gov.sg or telephone 65851123 		
+**Contact**: steven_sung@lta.gov.sg or telephone 65851123
