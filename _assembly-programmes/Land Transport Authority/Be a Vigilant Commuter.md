@@ -47,5 +47,5 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 > LTA's support has made commemorating Total Defence Day at SNGS a memorable one.
 > 
 > I look forward to working with you and your team in the near future again. Together We Make Singapore Strong! 
-
+> 
 -CHIJ St Nicholas Girls' School (Primary)
