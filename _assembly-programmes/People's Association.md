@@ -33,5 +33,4 @@ Students will learn the origin of Chingay Parade and how Chingay highlights the 
 
 **Due Date for registration**: 2 weeks in advance 	
 	
-**Contact**: PA_ACD@pa.gov.sg ; Clare_CHENG@pa.gov.sg	
-    
+**Contact**: PA_ACD@pa.gov.sg ; Clare_CHENG@pa.gov.sg
