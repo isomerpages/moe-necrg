@@ -33,3 +33,6 @@ Students will be introduced to relevant National Monuments associated to the com
 **Due Date for registration**: 1 month in advance
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
+
+![](/images/programme%20photo%201.PNG)
+Our National Monuments reflect Singapore's diversity and development from a colony to an independent nation
