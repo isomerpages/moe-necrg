@@ -36,4 +36,4 @@ Together we can make a positive impact and redefine how we approach end-of-life 
 
 **Due Date for registration**: 1 month in advance 		
 		
-**Contact**: theresal@hcahospicecare.org.sg / kailingl@hcahospicecare.org.sg		
+**Contact**: theresal@hcahospicecare.org.sg / kailingl@hcahospicecare.org.sg
