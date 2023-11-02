@@ -2,6 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Malay Heritage Centre/3D Virtual Exhibition of Malay Heritage Centre's
+        Permanent Galleries.md
       - Malay Heritage Centre/Curators' Tour of Malay Heritage Centre's
         Permanent Galleries.md
       - Malay Heritage Centre/'Ayuh Teroka!' (Let's Explore) Video Series.md
