@@ -21,12 +21,12 @@ HISTORY, HERITAGE AND CULTURE
 * Discover the evolution of our hawkers and advancement of our hawker centres. 
 
 NATIONAL EDUCATION 
-*Inculcate community-bonding and graciousness amongst nation. 
+* Inculcate community-bonding and graciousness amongst nation. 
 
 SAFEGUARDING FOR A SUSTAINABLE FUTURE 
-*Sustain and safeguard the hawker culture. 
-*Learn about our unique food culture, hawker trade and culinary practices. 
-*Create vibrancy in our hawker centres and appreciate them as community dining rooms.
+* Sustain and safeguard the hawker culture. 
+* Learn about our unique food culture, hawker trade and culinary practices. 
+* Create vibrancy in our hawker centres and appreciate them as community dining rooms.
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
 
