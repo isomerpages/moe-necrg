@@ -17,7 +17,7 @@ Schools can explore the gallery on their own using the gallery’s activity book
 
 Students will learn about Singapore’s transformation from a small trading post into a global hub port and leading international maritime centre, discover the stories that led to Singapore’s growth and Singapore’s strategy for the future, and understand the thriving ecosystem that makes up Maritime Singapore and find out what makes Singapore a bustling maritime nation.
 
-Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
 **Runtime:** All year round; Open daily and closed on Mondays, except Public Holidays
 
