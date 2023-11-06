@@ -1,4 +1,5 @@
 collections:
   ne-related-lj-for-educators:
     output: true
-    order: []
+    order:
+      - "Singapore Chinese Cultural Centre: Programmes for Educators.md"
