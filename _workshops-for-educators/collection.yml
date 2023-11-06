@@ -1,4 +1,5 @@
 collections:
   workshops-for-educators:
     output: true
-    order: []
+    order:
+      - Dialogue in the Dark Singapore/.keep
