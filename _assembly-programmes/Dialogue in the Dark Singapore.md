@@ -2,6 +2,7 @@
 title: Dialogue in the Dark Singapore
 permalink: /assembly-programmes/dialogue-in-the-dark-singapore/
 description: ""
+variant: markdown
 ---
 ### See My World
 
@@ -9,15 +10,29 @@ This educational and inspirational talk seeks to broaden students’ perspective
 
 **Details**
 
-The programme is a 30-minute or 60-minute talk by a visually-impaired speaker. 
+The programme is a 30-minute or 60-minute talk by a visually-impaired speaker.
 
 **Learning Objectives**
 
 Students will be 
 * Educated on the daily challenges faced by the visually impaired and be more appreciative of their abilities 
-* More mindful of how to engage with a blind person 
-* Inspired to overcome obstacles in their lives
+* More mindful of how to engage with a blind person
+* Inspired to overcome obstacles in their lives 
 
-> “It was enriching and helpful in clearing the doubts on visually impaired individuals. I am sure you will be happy to hear that the students found the talk interesting and insightful.”
+**Target Audience**: Primary 5- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
-*Teacher from a secondary school*
+**Runtime**: All year round
+
+**Fee**:  Please email for more details
+
+**Modality**: In-person
+
+**Duration of Session**: Option of 30 minutes or 1 hour
+
+**Website**: https://www.np.edu.sg/didsg
+
+**How to register?** By email.
+
+**Due Date for registration**:  At least 2 weeks in advance
+
+**Contact**: Email: didsg@np.edu.sg Tel: 64606222
