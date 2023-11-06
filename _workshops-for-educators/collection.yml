@@ -2,4 +2,5 @@ collections:
   workshops-for-educators:
     output: true
     order:
+      - Dialogue in the Dark Singapore/Workshops in the Dark.md
       - Dialogue in the Dark Singapore/.keep
