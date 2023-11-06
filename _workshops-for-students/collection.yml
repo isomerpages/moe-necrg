@@ -2,5 +2,6 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Dialogue in the Dark Singapore/Spotlight on the Blind.md
       - Dialogue in the Dark Singapore/.keep
       - Urban Redevelopment Authority.md
