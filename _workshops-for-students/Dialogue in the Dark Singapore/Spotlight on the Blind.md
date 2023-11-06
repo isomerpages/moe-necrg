@@ -13,27 +13,31 @@ The in-person programme will be conducted in a suitable classroom with AV projec
 
 **Learning Objectives**
 
- Participants will be:  * 
-More aware of and empathetic to the challenges faced by the blind community. - Inspired by the accomplishments and resilience of people who are blind.  - Encouraged to think about what they can do to be more inclusive.
+Participants will be: 
+*More aware of and empathetic to the challenges faced by the blind community. 
+*Inspired by the accomplishments and resilience of people who are blind. 
+*Encouraged to think about what they can do to be more inclusive.
 
-Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Primary 5- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
-Runtime: All year round
+**Runtime**: All year round
 
-Fee: Complimentary
+**Fee**: Students: $12 ($12.96 after GST) for online, $18 ($19.44 after GST) for in-person 
 
-Modality: In-person, Virtual, Hybrid
+Adult: $20 ($21.60 after GST) for online, $50 ($54 after GST) for in-person
 
-Duration of Session: 
+**Modality**: In-person, Virtual
 
-Capacity: 
+**Duration of Session**: 1h 15 mins (virtual) or 1h 30 mins (in-person)
 
-Relevant Commemorative Days: 
+**Capacity**: Virtual: Minimum 30 pax for students, minimum 20 pax for adults  
 
-Website:
+In-person: Minimum 40 pax for students, minimum 20 pax for adults
 
-How to register? By email.
+**Website:** https://www.np.edu.sg/didsg
 
-Due Date for registration: 
+**How to register?** By email.
 
-Contact: 
+**Due Date for registration**: At least 2 weeks in advance
+
+**Contact**: Email: didsg@np.edu.sg Tel: 64606222
