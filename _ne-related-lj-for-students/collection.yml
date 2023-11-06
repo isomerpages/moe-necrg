@@ -2,27 +2,9 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
-      - Infrastructure and Utilities/Urban Redevelopment Authority.md
-      - Infrastructure and Utilities/.keep
-      - Technology/Smart National & Digital Government Group.md
-      - Technology/.keep
-      - Health & Community/RELIGIOUS REHABILITATION GROUP.md
-      - Health & Community/HCA Hospice.md
-      - Health & Community/Kwong Wai Shiu Hospital.md
-      - Health & Community/Ministry of Home Affairs.md
-      - Health & Community/KWONG WAI SHIU HOSPITAL.md
-      - Health & Community/Harmony Centre @ An Nahdhah Mosque.md
-      - Health & Community/Dialogue in the Dark Singapore.md
-      - Health & Community/.keep
-      - "Environment & Sustainability/National Environment Agency: Discovery
-        Journey (Hawker Culture As A Nation).md"
-      - Environment & Sustainability/.keep
-      - Environment & Sustainability/Overview.md
-      - Environment & Sustainability/National Environment Agency.md
-      - Environment & Sustainability/Public Utilities Board.md
+      - Arts, Culture & Heritage/.keep
       - Arts, Culture & Heritage/Monumental Hunt in the Civic District (NHB).md
       - Arts, Culture & Heritage/Monumental Learning Journeys (NHB).md
-      - Arts, Culture & Heritage/.keep
       - Arts, Culture & Heritage/Overview.md
       - Arts, Culture & Heritage/Asian Civilisations Museum.md
       - Arts, Culture & Heritage/Changi Chapel and Museum.md
@@ -42,8 +24,8 @@ collections:
         Prgrammes.md
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Self Guided
         Visits.md"
-      - Defence, Law & Order/Singapore Courts 2.md
       - Defence, Law & Order/.keep
+      - Defence, Law & Order/Singapore Courts 2.md
       - Defence, Law & Order/Overview.md
       - Defence, Law & Order/Internal Security Department.md
       - Defence, Law & Order/National Library Board (NLB).md
@@ -52,3 +34,21 @@ collections:
       - Defence, Law & Order/Singapore Discovery Centre.md
       - Defence, Law & Order/Singapore Courts 1.md
       - Defence, Law & Order/Supreme Court of Singapore, or Singapore Courts.md
+      - Environment & Sustainability/.keep
+      - "Environment & Sustainability/National Environment Agency: Discovery
+        Journey (Hawker Culture As A Nation).md"
+      - Environment & Sustainability/Overview.md
+      - Environment & Sustainability/National Environment Agency.md
+      - Environment & Sustainability/Public Utilities Board.md
+      - Health & Community/.keep
+      - Health & Community/RELIGIOUS REHABILITATION GROUP.md
+      - Health & Community/HCA Hospice.md
+      - Health & Community/Kwong Wai Shiu Hospital.md
+      - Health & Community/Ministry of Home Affairs.md
+      - Health & Community/KWONG WAI SHIU HOSPITAL.md
+      - Health & Community/Harmony Centre @ An Nahdhah Mosque.md
+      - Health & Community/Dialogue in the Dark Singapore.md
+      - Infrastructure and Utilities/.keep
+      - Infrastructure and Utilities/Urban Redevelopment Authority.md
+      - Technology/.keep
+      - Technology/Smart National & Digital Government Group.md
