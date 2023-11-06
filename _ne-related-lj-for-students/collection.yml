@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
+      - Infrastructure and Utilities/Infrastructure and Utilities.md
       - Infrastructure and Utilities/.keep
       - Technology/Smart National & Digital Government Group.md
       - Technology/.keep
