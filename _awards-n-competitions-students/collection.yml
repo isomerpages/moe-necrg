@@ -1,5 +1,5 @@
 collections:
-  awards-and-competitions:
+  awards-n-competitions-students:
     output: true
     order:
       - Overview.md
