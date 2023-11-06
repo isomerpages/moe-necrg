@@ -11,7 +11,10 @@ Spotlight on the Blind is an interactive programme designed to develop empathy a
 
 The in-person programme will be conducted in a suitable classroom with AV projection facilities. As a class (preferable class size of 20 - 25 students), participants will engage in videos, simulations, and discussions, all led by blind facilitators.   The virtual programme will be conducted fully online via Zoom.  Following a brief introduction, participants will go into online breakout rooms where they will engage in videos, simulations and discussions, all led by blind facilitators.
 
-Learning Objectives
+**Learning Objectives**
+
+ Participants will be:  * 
+More aware of and empathetic to the challenges faced by the blind community. - Inspired by the accomplishments and resilience of people who are blind.  - Encouraged to think about what they can do to be more inclusive.
 
 Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
