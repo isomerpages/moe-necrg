@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
-### Rediscover Singapore River Interactive Quizshow
-
 **Details**
 
 Looking for a post-exam activity for your upper secondary and pre-university students? Bring them down to The URA Centre for this hosted interactive video and quiz session to learn more about how long-term planning, conservation, urban design and other planning strategies come together to create a liveable, distinctive and vibrant Singapore River precinct. The session also includes time for students to self-explore the Singapore City Gallery (online gallery quest activity available for students to participate in).
