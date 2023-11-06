@@ -2,4 +2,5 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Dialogue in the Dark Singapore/.keep
       - Urban Redevelopment Authority.md
