@@ -3,6 +3,7 @@ title: Hari Raya Resources Catalogue
 permalink: /resources-for-t-and-l/malay-heritage-centre/hari-raya-resources-catalogue/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 In this catalogue, you will find a collection of educational resources related to Ramadan and Hari Raya Puasa by the Malay Heritage Centre (MHC). 
 
@@ -29,5 +30,7 @@ Students will learn about the customs and traditions of the different ethnic com
 **Website:** https://www.malayheritage.gov.sg/hrcatalogue/html5/index.html
 
 **How to register?** Online through website link.						
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg 			
-			
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/hari%20raya%20resources%20catalogue.jpg)
+Hari Raya Resources Catalogue by Malay Heritage Centre
