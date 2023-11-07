@@ -35,3 +35,6 @@ Students will be able to deepen their knowledge of Singapore’s history through
 **Due Date for registration**: TBC (Jan 2024)		
 		
 **Contact**: founders_memorial@nhb.gov.sg
+
+![](/images/sap%20founders%20memorial.jpg)
+SAP filming
