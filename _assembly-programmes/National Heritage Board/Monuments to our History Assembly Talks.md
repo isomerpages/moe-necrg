@@ -3,6 +3,7 @@ title: Monuments to our History Assembly Talks
 permalink: /assembly-programmes/national-heritage-board/monuments-to-our-history-assembly-talks/
 description: ""
 third_nav_title: National Heritage Board
+variant: markdown
 ---
 Our National Monuments stand proudly as physical manifestations of our nation’s multicultural heritage. They also witnessed key milestones in Singapore's journey from a British colony to an independent nation.
 
@@ -34,5 +35,5 @@ Students will be introduced to relevant National Monuments and gain a better und
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
 
-![](/images/programme%20photo%201.PNG)
-Our National Monuments reflect Singapore's diversity and development from a colony to an independent nation
+![](/images/question%2018%20-%20programme%20photo%201.PNG)
+Learning from our Built Heritage
