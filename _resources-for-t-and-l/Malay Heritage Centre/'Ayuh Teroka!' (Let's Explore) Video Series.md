@@ -3,6 +3,7 @@ title: "'Ayuh Teroka!' (Let's Explore) Video Series"
 permalink: /resources-for-t-and-l/malay-heritage-centre/ayuh-teroka-lets-explore-video-series/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 The 'Let's Explore!' video series highlight the history, culture, fashion and the roots of the Malay community through the artefacts on display in the historic Istana Kampong Gelam, a National Monument. The Malay Heritage Centre had collaborated with several Malay Language teachers to create this video series in Malay to complement the Secondary school Malay curriculum. 
 
@@ -27,3 +28,4 @@ Students will learn about the culture, traditions and history of the Malay commu
 **How to register?** Online through website link.
 
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
