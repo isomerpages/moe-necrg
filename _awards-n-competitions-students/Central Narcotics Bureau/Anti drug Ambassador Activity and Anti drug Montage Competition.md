@@ -3,6 +3,7 @@ title: Anti drug Ambassador Activity and Anti drug Montage Competition
 permalink: /awards-and-competitions/central-narcotics-bureau/ambassdor-activity-montage-com/
 description: ""
 third_nav_title: Central Narcotics Bureau
+variant: markdown
 ---
 The Anti-drug Ambassador Activity is filled with engaging puzzles and an art montage competition for primary schools to take part to show support for the drug-free cause.
 
@@ -15,6 +16,8 @@ The Anti-drug Ambassador Activity, available as activity booklets and an online 
 Students will learn and understand the harmful effects of drugs, refusal tips and how to lead a healthy drug-free lifestyle.
 
 **Target Audience**: Primary 1- P6 students
+
+*The activity itself is for P4 and P5 while the montage competition is open to all primary school levels.
 
 **Runtime:** May to November
 
