@@ -2,6 +2,7 @@
 title: Land Transport Authority
 permalink: /awards-and-competitions/lta/
 description: ""
+variant: markdown
 ---
 ### OneEarth Challenge
 The programme uses gamification to encourage primary school students to travel to school by car-lite modes. OneEarth inculcates car-lite attitudes and behaviours among school children and can potentially help to alleviate congestion outside schools. Beyond the car-lite theme, LTA also partners with relevant environmental agencies to deliver a holistic environmental messaging to students.
@@ -33,6 +34,10 @@ Students will learn the importance of car-lite travel, and how they each can pla
 **Due Date for registration**: 2 months in advance
 
 **Contact**: oneearth@lta.gov.sg
+
+![](/images/bpps%20check-in.png)
+
+Students at Bukit Panjang Primary doing their morning scan-ins to report their travel mode
 
 > "Our teachers felt that the challenge offered many opportunities to instil values such as integrity, responsibility, and independence in the students."
 
