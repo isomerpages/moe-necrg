@@ -9,30 +9,31 @@ Set off on a fun-filled outdoor expedition featuring our National Monuments in t
 
 **Details**
 
-The puzzle hunt is facilitated by a guide who will explain more about the history and buildings in the Civic District. Students will be each give a puzzle kit and receive a prize upon completion of 
+The puzzle hunt is facilitated by a guide who will explain more about the history and buildings in the Civic District. Students will be each give a puzzle kit and receive a prize upon completion of the hunt.
 
 **Learning Objectives**
 
 Students will gain a better appreciation of Singapore's history and development through our built heritage.
 		
-**Target Audience**: , Secondary 1- 4/5 students
+**Target Audience**: , Secondary 1- 4/5 students, Post-Secondary (JC/Poly/ITE) students
 
 **Runtime**: All year round		
 
 **Fee**: Please email for more details.		
 
-**Modality**: In-person
+**Modality**: In-perso
 		
-		
-**Duration of Session**: 1.5 hours 			
-		
-**Relevant Commemorative Days**: Total Defence Day, Racial Harmony Day, National Day 		
+**Duration of Session**: 2.5 hours 			
+
+**Capacity**: Minimum 25 pax
+
+**Website**: https://tribe-tours.com/product/monumental-hunt-civic-district/
 
 **How to register?** By email.		
 
 **Due Date for registration**: 1 month in advance 		
 		
-**Contact:** nhb_nationalmonuments@nhb.gov.sg
+**Contact:** bookings@tribe-tours.com
 
 ![](/images/monumental%20hunt%20in%20the%20civic%20district.jpg)
 Monumental Hunt in the Civic District Puzzle Kit
