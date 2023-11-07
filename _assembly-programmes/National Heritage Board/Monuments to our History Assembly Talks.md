@@ -35,5 +35,5 @@ Students will be introduced to relevant National Monuments and gain a better und
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
 
-![](/images/question%2018%20-%20programme%20photo%201.PNG)
+![](/images/monumental%20to%20our%20history.PNG)
 Learning from our Built Heritage
