@@ -4,10 +4,8 @@ title: "National Environment Agency: Learning Journey to Semakau Landfill and
 permalink: /ne-related-learning-journeys/environment-and-sustainability/nea/
 description: ""
 third_nav_title: Environment & Sustainability
-variant: tiptap
+variant: markdown
 ---
-### LEARNING JOURNEY TO SEMAKAU LANDFILL AND INCINERATION PLANTS
-
 **Semakau Landfill**, the only landfill that habours human produced waste, has its lifespan
 shortened every minute from the current rate of waste generation. In this guided tour, visitors
 will understand the importance of waste minimisation, and how they could play a role in
@@ -47,3 +45,9 @@ This programme aims to educate students on the imporatance of a well-managed was
 **Due Date for registration**: 3 weeks in advance 		
 		
 **Contact**: https://www.eportal.nea.gov.sg
+
+![](/images/phase%201.png)
+Phase I and the Operations of Semakau Landfill
+
+![](/images/phase%202.png)
+Phase II and the Biodiversity of Semakau Landfill
