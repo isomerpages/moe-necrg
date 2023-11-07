@@ -39,5 +39,5 @@ Together we can make a positive impact and redefine how we approach end-of-life 
 		
 **Contact**: theresal@hcahospicecare.org.sg / kailingl@hcahospicecare.org.sg
 
-![](/images/oasis%20at%20the%20end%20of%20life.JPG)
+![](/images/hca%20oasis%20at%20the%20end%20of%20life%20.JPG)
 HCA patients engaging in a floral arrangement class as part of their horticultural therapy
