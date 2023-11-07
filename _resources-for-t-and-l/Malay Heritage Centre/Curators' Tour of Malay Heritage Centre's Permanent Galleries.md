@@ -3,6 +3,7 @@ title: Curators' Tour of Malay Heritage Centre's Permanent Galleries
 permalink: /resources-for-t-and-l/malay-heritage-centre/curators-tour-of-mhc-permanent-galleries/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 Come explore the permanent galleries of the Malay Heritage Centre from the comforts of your own home! The Malay Heritage Centre is housed in the Istana Kampong Gelam in the heart of historic Kampong Gelam in Singapore. In this video series, discover artefacts and objects through anecdotes and insights shared by our curators.
 
@@ -24,4 +25,7 @@ Students will learn about the history of Kampong Gelam through the artefacts fro
 
 **How to register?** Online through website 	
 			
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg			
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/curators'%20tour%20of%20malay%20heritage%20centre's%20permanent%20galleries.png)
+YouTube playlist of Curator's Tour of Malay Heritage Centre's Permanent Galleries
