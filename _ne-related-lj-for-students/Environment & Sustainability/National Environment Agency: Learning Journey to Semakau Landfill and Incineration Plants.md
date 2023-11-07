@@ -51,3 +51,5 @@ Phase I and the Operations of Semakau Landfill
 
 ![](/images/phase%202.png)
 Phase II and the Biodiversity of Semakau Landfill
+
+*More educational videos can be found in NEA and CleanGreenSingapore Youtube channels, and there are more videos with different environmental topics in the “Playlists” segment which educators may use as educational materials.*
