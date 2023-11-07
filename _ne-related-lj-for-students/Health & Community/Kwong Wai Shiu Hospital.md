@@ -3,10 +3,13 @@ title: Kwong Wai Shiu Hospital
 permalink: /ne-related-lj-for-students/health-and-community/kwong-wai-shiu-hospital/
 description: ""
 third_nav_title: Health & Community
+variant: markdown
 ---
 ### KWSH Heritage Gallery Learning Journey
 
-Embark on a learning journey to Singapore’s largest single-site nursing home and one of the nation’s oldest charitable healthcare institutions, Kwong Wai Shiu Hospital (KWSH). Students will get to visit KWSH’s Heritage Gallery, which recounts the evolution of Singapore’s healthcare and social services, as well as KWSH’s momentous journey of responding to the nation’s changing healthcare needs for more than 100 years. The programme takes approximately two hours to complete. There are multiple modes of learning which could be customized based on the school’s programme needs: • Guided tour and sharing/reflection After a guided heritage tour, students may go through a short sharing/reflection. A list of guiding questions could be offered to the teachers/group leaders to facilitate discussion on the learning experience. • Guided tour and an opportunity to plan a simple activity (Values in Action) for our residents Following a guided heritage tour, students can plan a short activity and mingle with our residents from the nursing home.
+Embark on a learning journey to Singapore’s largest single-site nursing home and one of the nation’s oldest charitable healthcare institutions, Kwong Wai Shiu Hospital (KWSH). Students will get to visit KWSH’s Heritage Gallery, which recounts the evolution of Singapore’s healthcare and social services, as well as KWSH’s momentous journey of responding to the nation’s changing healthcare needs for more than 100 years. The programme takes approximately two hours to complete. There are multiple modes of learning which could be customized based on the school’s programme needs: 
+• Guided tour and sharing/reflection After a guided heritage tour, students may go through a short sharing/reflection. A list of guiding questions could be offered to the teachers/group leaders to facilitate discussion on the learning experience.
+• Guided tour and an opportunity to plan a simple activity (Values in Action) for our residents Following a guided heritage tour, students can plan a short activity and mingle with our residents from the nursing home.
 
 **Details**		
 
@@ -23,7 +26,6 @@ Students will find out more about Singapore’s historical healthcare landscape 
 **Fee**: Complimentary		
 
 **Modality**: In-person
-		
 		
 **Duration of Session**: 2 hours 		
 
