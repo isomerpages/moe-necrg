@@ -28,4 +28,7 @@ Students will be introduced to the diverse material culture and traditions – f
 
 **How to register?** Online through website link.
 		
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg		
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/'3d%20virtual%20exhibition%20of%20malay%20heritage%20centre's%20'cerita'%20(stories)%20special%20exhibition.png)
+'3D Virtual Exhibition of Malay Heritage Centre's 'Cerita' (Stories) Special Exhibition
