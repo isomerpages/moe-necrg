@@ -3,6 +3,7 @@ title: "Museum Based Learning: Tales of the Emporium"
 permalink: /cohort-learning-journeys/national-heritage-board/mbl-tales-of-the-emporium/
 description: ""
 third_nav_title: National Heritage Board
+variant: markdown
 ---
 Travel with us to the emporium of Geylang Serai and join our expedition to learn about the contributions of the Malay community! Students, playing the role of young explorers, will visit Geylang Serai Heritage Gallery and discover the rich history of the area. They will also learn about leisure activities from yesteryear and the pasar (market) as a centre for food and goods for special occasions celebrated by the Malay and Muslim community.
 
@@ -35,3 +36,8 @@ Through guided field work, Students will learn about the history of Geylang Sera
 **Due Date for registration**: 6 weeks in advance of visit		
 		
 **Contact**: nhb_gshg_mbl@nhb.gov.sg
+
+![](/images/tales%20of%20the%20emporium_photo_1c.jpg)
+Photograph belongs to National Heritage Board.
+
+![](/images/tales%20of%20the%20emporium_photo_2.jpg)Image courtesy of Zhenghua Primary School.
