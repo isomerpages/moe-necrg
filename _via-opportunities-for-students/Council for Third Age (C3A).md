@@ -2,6 +2,7 @@
 title: Council for Third Age (C3A)
 permalink: /opportunities-for-via/c3a/
 description: ""
+variant: markdown
 ---
 ### Intergenerational Learning Programme (ILP)
 
@@ -36,7 +37,13 @@ ILP serves as a “Values in Action” (VIA) programme as it fosters student own
 
 **Contact:**  Mr Winston Mok, 64785041, winston.mok@c3a.org.sg or Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg
 
+![](/images/c3a%20photo%201.jpg)
 
+Jurongville Secondary School’s students guided the seniors in designing how they would like their butterfly bouquet to look like (May 2023).
+
+![](/images/programme_photo%202.jpg)
+
+A student from Jurongville Secondary School guided a senior in assembling their own butterfly bouquet with LED lights (May 2023).
 
 > Overall, it was a valuable learning experience for the students as they had the opportunity to host, interact, engage, and share their knowledge with the elderly. The efforts put into organizing this initiative and creating a platform for intergenerational interaction were much appreciated.
 > 
