@@ -3,6 +3,7 @@ title: Celebrating Hari Raya Information Banners
 permalink: /resources-for-t-and-l/malay-heritage-centre/celebrating-hari-raya-information-banners/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 In Singapore and Malaysia, Hari Raya Aidilfitri is also known as Hari Raya Puasa and it is the most celebrated Muslim festival here. This set of pull up banners highlights the key features of Hari Raya for teachers to loan and display as part of the school's celebrations. A set of props featuring a  tray of fabricated Malay kuih, a tablemat and a photo album is also include to enhance the festive atmosphere and enrich student's learning. 
 
@@ -33,3 +34,6 @@ Students will be able to learn more about the customs and traditions of the Mala
 **How to register?** By email or online through website link.
 
 **Contact**: Teachers can make a booking through Malay Heritage Centre (MHC)'s Peatix page when general registration is open before Ramadan. For further inquiry, please contact  NHB_MHC@nhb.gov.sg
+
+![](/images/celebrating%20hari%20raya%20information%20banners.png)
+Pull-up banners being displayed in Jurong West Secondary School decorated with some props.
