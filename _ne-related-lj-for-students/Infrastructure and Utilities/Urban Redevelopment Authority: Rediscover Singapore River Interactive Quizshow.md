@@ -27,3 +27,6 @@ Students will find out more about how long-term planning, conservation, urban de
 **How to register?** By email.
 
 **Contact**: ura_outreach@ura.gov.sg
+
+![](/images/rediscover%20singapore%20river%20interactive%20quizshow.png)
+Rediscover Singapore River Interactive Quizshow
