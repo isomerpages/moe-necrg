@@ -3,16 +3,17 @@ title: RELIGIOUS REHABILITATION GROUP
 permalink: /ne-related-lj-for-students/health-and-community/religious-rehabilitation-group/
 description: ""
 third_nav_title: Health & Community
+variant: markdown
 ---
 ### LEARNING JOURNEY TO RRG RESOURCE & COUNSELLING CENTRE
 
 The Religious Rehabilitation Group (RRG) was formed in 2003 by a group of Islamic scholars and teachers who assist in the religious rehabilitation and counselling of radicalised and self-radicalised individuals. Since then, its focus has expanded to include counselling and support for families of detainees in order to prevent further radicalisation.
 
-**Details	**
+**Details**
 
 Tours and learning experiences are customisable according to age groups and specific interests of participants. Learning activities compliment the Social Studies curriculum with meaningful group discussions.
 
-**Learning Objectives	**
+**Learning Objectives**
 
 At the learning journey participants will: 
 •	learn about terrorism and radicalisation and how these threats adversely impact social harmony and cohesion. 
@@ -40,6 +41,12 @@ At the learning journey participants will:
 **Due Date for registration**: 3 weeks / 1 month in advance for registration	
 	
 **Contact**: SALIM MOHAMED NASIR
+
+![](/images/programme_photo1.png)
+Student-based activities at the RRG-RCC
+
+![](/images/programme_photo2.jpg)
+Singapore Rehabilitation Approach
 
 > "This is an amazing effort to fight something pertinent to our community that is overlooked. I look forward to seeing how this can become something more, something that the youth of today realise is important." 
 - Post-Secondary Student
