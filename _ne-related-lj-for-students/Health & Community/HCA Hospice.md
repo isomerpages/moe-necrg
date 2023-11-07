@@ -3,6 +3,7 @@ title: HCA Hospice
 permalink: /ne-related-lj-for-students/health-and-community/hca-hospice/
 description: ""
 third_nav_title: Health & Community
+variant: markdown
 ---
 ### Oasis at The End of Life
 
@@ -37,3 +38,6 @@ Together we can make a positive impact and redefine how we approach end-of-life 
 **Due Date for registration**: 1 month in advance 		
 		
 **Contact**: theresal@hcahospicecare.org.sg / kailingl@hcahospicecare.org.sg
+
+![](/images/oasis%20at%20the%20end%20of%20life.JPG)
+HCA patients engaging in a floral arrangement class as part of their horticultural therapy
