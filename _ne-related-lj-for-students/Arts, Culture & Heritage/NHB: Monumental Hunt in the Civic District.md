@@ -21,7 +21,7 @@ Students will gain a better appreciation of Singapore's history and development 
 
 **Fee**: Please email for more details.		
 
-**Modality**: In-perso
+**Modality**: In-person
 		
 **Duration of Session**: 2.5 hours 			
 
