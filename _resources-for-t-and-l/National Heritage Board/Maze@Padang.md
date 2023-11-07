@@ -32,3 +32,6 @@ The game aims for students to learn about the significance of the Padang and the
 **Due Date for registration**: 2 weeks in advance
 
 **Contact**: nhb_nationalmonuments@nhb.gov.sg
+
+![](/images/maze@padang_photo.jpg)
+Learn about our National Symbols in Maze@Padang!
