@@ -3,6 +3,7 @@ title: My First Wayang Kulit Show
 permalink: /resources-for-t-and-l/malay-heritage-centre/my-first-wayang-kulit-show/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 Explore the wonders of wayang kulit together with Laila in this interactive online game! Students can get a chance to be a little dalang (puppeteer), put up their first Ramayana performance and learn what goes on behind the screen in a wayang kulit show.
 
@@ -28,4 +29,7 @@ Students will get the rare opportunity to go in-depth to learn about the musical
 
 **How to register?** Online through website link.
 			
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg			
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/my%20first%20wayang%20kulit%20show.png)
+'My First Wayang Kulit Show' online game by Malay Heritage Centre
