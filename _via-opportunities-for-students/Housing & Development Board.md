@@ -8,7 +8,7 @@ variant: markdown
 
 The Lively Places Programme aims to support community-led efforts in enlivening Singapore’s public spaces. Under this programme, schools can organise activities in public spaces that bring communities together or create installations that enliven our public spaces.
 
-**Details	**
+**Detail**
 	
 Student teams can apply to HDB for the Lively Places Fund to organise projects that activate public spaces, bring residents and stakeholders together, or foster stronger bonds and promote a stronger sense of community. HDB will assign an officer to guide the team through the grant application process and project implementation.
 
