@@ -2,6 +2,7 @@
 title: Housing & Development Board
 permalink: /via-opportunities-for-students/housing-and-development-board/
 description: ""
+variant: markdown
 ---
 ### Lively Places Programme
 
@@ -31,7 +32,12 @@ Students will get to learn how to organise themselves; engage members of the pub
 	
 **Contact**: Mr Ian Pay at ian_ch_pay@hdb.gov.sg	
 
-> The students enjoyed organizing and leading the workshops and through this experience, have gained useful skills in teaching and communicating with the public. 
+![](/images/photo%201.jpg)
+Students engaged and bonded with residents through a series of art workshops.
 
+![](/images/photo%202.jpg)
+Students conducted a Kokedama making workshop to bring residents together.
+
+> The students enjoyed organizing and leading the workshops and through this experience, have gained useful skills in teaching and communicating with the public. 
 
 – Dexter Sim, teacher
