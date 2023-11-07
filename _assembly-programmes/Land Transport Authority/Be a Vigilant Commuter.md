@@ -3,6 +3,7 @@ title: Be a Vigilant Commuter
 permalink: /assembly-programmes/land-transport-authority/be-a-vigilant-commuter/
 description: ""
 third_nav_title: Land Transport Authority
+variant: markdown
 ---
 For the program, ‘Be a Vigilant Commuter’, we will be sharing the importance on public transport security and highlights of past incidents from other countries and Singapore. The presentation will empower the students with the knowledge and tools to identify and report security threats including basic first aid skills during your daily commute fostering a vigilant and united community that looks out for one another. 
 
@@ -39,6 +40,9 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 **Due Date for registration**: 3 weeks in advance. 		
 		
 **Contact**: steven_sung@lta.gov.sg or telephone 65851123
+
+![](/images/be%20a%20vigilant%20commuter.jpeg)
+Recess engagement & sharing session at Pri Sch
 
 > I would like to express my thanks to you and your team for the assembly talk on 13 Feb 2023 and the recess engagement activities on 15 Feb 2023. 
 > 
