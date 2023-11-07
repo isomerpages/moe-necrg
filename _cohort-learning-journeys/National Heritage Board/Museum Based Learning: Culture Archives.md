@@ -40,9 +40,10 @@ Through guided field work, Students will learn about the history of Kreta Ayer a
 
 **Due Date for registration**: 6 weeks in advance of visit 		
 		
+
+
 **Contact**: nhb_kahg_mbl@nhb.gov.sg
 ![](/images/mbl%20culture%20archives%201.jpg)
-
 Photograph belongs to National Heritage Board.
 ![](/images/museum-based%20learning%20culture%20archives%202.jpg)
 Image courtesy of Horizon Primary School.
