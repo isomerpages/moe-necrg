@@ -3,7 +3,7 @@ title: "NHB: Monumental Learning Journeys"
 permalink: /ne-related-lj-for-students/arts-culture-and-heritage/nhb-monumental-learning-journeys/
 description: ""
 third_nav_title: Arts, Culture & Heritage
-variant: tiptap
+variant: markdown
 ---
 This series of guided walking tours bring students to our majestic National Monuments to discover Singapore history through built heritage! 
 
@@ -35,3 +35,6 @@ Students will gain a better appreciation of Singapore's history through our buil
 **Due Date for registration**: 1 month in advance 		
 		
 **Contact:** nhb_nationalmonuments@nhb.gov.sg
+
+![](/images/monumental%20lj.png)
+Thian Hock Keng
