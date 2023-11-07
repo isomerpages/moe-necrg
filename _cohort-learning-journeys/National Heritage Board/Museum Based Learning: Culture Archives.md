@@ -3,6 +3,7 @@ title: "Museum Based Learning: Culture Archives"
 permalink: /cohort-learning-journeys/national-heritage-board/mbl-culture-archives/
 description: ""
 third_nav_title: National Heritage Board
+variant: markdown
 ---
 Take a trip with us to the cultural heartland of Kreta Ayer and join our “research team” to learn more about the contributions of the Chinese community! Students, playing the role of young researchers, will visit Kreta Ayer Heritage Gallery and study the Intangible Cultural Heritage of five cultural arts – Chinese Opera, Chinese Puppetry, Chinese Calligraphy, Chinese Tea and Nanyin. They will also learn about the shophouses of the area and the history of a former famous street, Sago Lane.
 
@@ -39,4 +40,9 @@ Through guided field work, Students will learn about the history of Kreta Ayer a
 
 **Due Date for registration**: 6 weeks in advance of visit 		
 		
-**Contact**: nhb_kahg_mbl@nhb.gov.sg		
+**Contact**: nhb_kahg_mbl@nhb.gov.sg
+![](/images/mbl%20culture%20archives%201.jpg)
+
+Photograph belongs to National Heritage Board.
+![](/images/museum-based%20learning%20culture%20archives%202.jpg)
+Image courtesy of Horizon Primary School.
