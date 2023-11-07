@@ -9,7 +9,7 @@ The Malay Heritage Centre may be closed but you can still go on an exploration o
 
 The exhibition focuses on Kampong Gelam's historical significance as a thriving port town to highlight the local Malay community’s rich history, culture and heritage as well as Singapore’s connections to the wider Malay Archipelago.
 
-**Details	**
+**Details**
 	
 Teachers can explore the virtual exhibition to highlight some artefacts to their students during lessons or assign students to explore the exhibition on their own to learn more about Singapore's Malay culture and heritage. Teachers may also choose to pair the 'Curators' Tour of Malay Heritage Centre Permanent Galleries' with this resource.
 
@@ -27,4 +27,7 @@ Students will learn about the history of Kampong Gelam through the artefacts fro
 	
 **How to register?** Online through website link.	
 	
-**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg	
+**Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/3d%20virtual%20exhibition%20of%20malay%20heritage%20centre's%20permanent%20galleries.png)
+3D Virtual Exhibition of Malay Heritage Centre's Permanent Galleries
