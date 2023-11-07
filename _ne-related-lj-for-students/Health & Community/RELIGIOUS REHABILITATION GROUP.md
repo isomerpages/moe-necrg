@@ -45,7 +45,6 @@ At the learning journey participants will:
 **Contact**: SALIM MOHAMED NASIR
 
 ![](/images/programme_photo1.png)
-Student-based activities at the RRG-RCC
 
 ![](/images/programme_photo2.jpg)
 Singapore Rehabilitation Approach
