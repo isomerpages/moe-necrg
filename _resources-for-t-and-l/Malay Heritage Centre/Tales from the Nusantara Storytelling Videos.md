@@ -3,6 +3,7 @@ title: Tales from the Nusantara Storytelling Videos
 permalink: /resources-for-t-and-l/malay-heritage-centre/tales-from-the-nusantara-storytelling-videos/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 Learn more about Malay culture and heritage through this storytelling video series available on Malay Heritage Centre's YouTube. Stories included folktales from the Nusantara (Malay world) and an inspiring story of one of our local pioneers, Zubir Said. Available in English and/or Malay.
 
@@ -27,3 +28,6 @@ Students will be introduced to stories from the region which will explores the r
 **How to register?** Online through website link.
 
 **Contact:** Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/tales%20from%20the%20nusantara%20storytelling%20videos.png)
+Tales from the Nusantara YouTube playlist by the Malay Heritage Centre
