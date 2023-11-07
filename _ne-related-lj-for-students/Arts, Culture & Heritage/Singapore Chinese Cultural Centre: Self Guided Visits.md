@@ -37,4 +37,5 @@ Participants will
 
 **Due Date for registration**: 3 weeks in advance	
 	
-**Contact**: https://education@singaporeccc.org.sg	
+**Contact**: https://education@singaporeccc.org.sg
+
