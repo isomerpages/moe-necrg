@@ -2,4 +2,5 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Duplicate page.md
       - "Singapore Chinese Cultural Centre: Programmes for Educators.md"
