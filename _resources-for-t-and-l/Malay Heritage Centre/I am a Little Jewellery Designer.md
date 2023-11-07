@@ -3,6 +3,7 @@ title: I am a Little Jewellery Designer
 permalink: /resources-for-t-and-l/malay-heritage-centre/i-am-a-little-jewellery-designer/
 description: ""
 third_nav_title: Malay Heritage Centre
+variant: markdown
 ---
 Did you know that a diamond village called Kampong Intan used to exist in Singapore? It was bustling with diamond traders and jewellery designers!
 
@@ -31,3 +32,6 @@ Students will be introduced to the Banjarese community and traditional jewellery
 **How to register?** Online through website link.
 			
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
+
+![](/images/i%20am%20a%20little%20jewellery%20designer.png)
+'I am a Little Jewellery Designer' online game by Malay Heritage Centre
