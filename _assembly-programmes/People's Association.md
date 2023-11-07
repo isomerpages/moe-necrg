@@ -2,6 +2,7 @@
 title: People's Association
 permalink: /assembly-programmes/peoples-association/
 description: ""
+variant: markdown
 ---
 ### Chingay National Education (NE) Programme
 
@@ -33,4 +34,10 @@ Students will learn the origin of Chingay Parade and how Chingay highlights the 
 
 **Due Date for registration**: 2 weeks in advance 	
 	
-**Contact**: PA_ACD@pa.gov.sg ; Clare_CHENG@pa.gov.sg
+**Contact**: PA_ACD@pa.gov.sg ; 
+
+![](/images/photograph%201_ai%20tong%20.jpg)
+Chingay 2023 NE Assembly Programme at Ai Tong 
+
+![](/images/photograph%202_kranji%20.jpg)
+Chingay 2023 NE Assembly Programme at Kranji Secondary School
