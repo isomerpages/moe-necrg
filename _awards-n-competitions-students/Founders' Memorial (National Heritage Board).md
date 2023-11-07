@@ -10,11 +10,11 @@ SAP is an oral history project organised by the Founders' Memorial and National 
 
 SAP provides students with the rare opportunity of contributing research and content to NMS, and the upcoming Founders’ Memorial (FM) at Gardens Bay East, which honours the values and ideals demonstrated by Singapore’s founding generation of leaders as they faced dilemmas and undertook difficult decisions to ensure the country’s survival in its fledging years.
 
-**Details		**
+**Details**
 		
 SAP will take place over 6-7months, with a call for application in Jan, an oral interview skill workshop, and dateline for submission at the end. After looking through the submissions, selected schools will be invited to conduct a video interview that the Founders' Memorial will showcase in our upcoming exhibitions.
 
-**Learning Objectives		**
+**Learning Objectives**
 		
 Students will be able to deepen their knowledge of Singapore’s history through discovering how major events/policies under specific themes affected the lives of people in Singapore, apply oral history methodology to conduct an oral history interview, be encouraged to do research, recording and presenting of history, and have inter-generational dialogue on Singapore history and heritage.
 
