@@ -15,6 +15,8 @@ Every morning, students scan in their individual QR cards at iPad stations and e
 
 Students will learn the importance of car-lite travel, and how they each can play their part to care for the environment.
 
+*We are currently running low-fidelity version of OneEarth Challenge (OEC), known as Car-Free Challenge (CFC) as an interim measure to keep schools and students warm before the first OEC run in 2024. Since OEC is targeted at upper primary students, we are planning to run CFC concurrently for the lower primary cohorts so that the entire school can participate.
+
 **Target Audience**: Primary 4- P6 students
 
 **Runtime:** 2-3 weeks per year
