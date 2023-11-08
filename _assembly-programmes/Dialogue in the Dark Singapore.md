@@ -37,6 +37,10 @@ Students will be
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
 
+![](/images/photo%201%20see%20my%20world%20talk_grace%20or.JPG)
+Sharing during an assembly
+
+![](/images/photo%202%20see%20my%20world%20talk_ite.JPG)
 
 
 
