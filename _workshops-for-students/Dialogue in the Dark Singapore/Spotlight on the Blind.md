@@ -46,4 +46,15 @@ advance
 ![](/images/spotlight%201.jpeg)
 A session of Spotlight on the Blind over Zoom
 
-![](/images/spotlight%202.jpeg)After an enriching session led by our blind guide
+![](/images/spotlight%202.jpeg)After an enriching 
+session led by our blind guide
+
+
+> "Our students enjoyed the programme and were fully engaged!  I am heartened that it builds students’ awareness, understanding, as well as empathy towards the visually impaired.” 
+> 
+> > Teacher, Spectra Sec School
+> 
+“Fantastic effort to convert a physical session into an online session.” ~ Senior Counsellor, Ngee Ann Polytechnic
+
+> “The session was great! I appreciate how intentionally the activities were designed to create an immersive experience.”
+~ Senior Course Manager, Skillseed Singapore
