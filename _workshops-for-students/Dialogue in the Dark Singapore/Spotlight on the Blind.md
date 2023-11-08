@@ -38,6 +38,12 @@ In-person: Minimum 40 pax for students, minimum 20 pax for adults
 
 **How to register?** By email.
 
-**Due Date for registration**: At least 2 weeks in advance
+**Due Date for registration**: At least 2 weeks in 
+advance
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+![](/images/spotlight%201.jpeg)
+A session of Spotlight on the Blind over Zoom
+
+![](/images/spotlight%202.jpeg)After an enriching session led by our blind guide
