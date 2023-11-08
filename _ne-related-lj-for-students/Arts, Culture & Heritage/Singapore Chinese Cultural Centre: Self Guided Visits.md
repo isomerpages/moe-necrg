@@ -39,3 +39,8 @@ Participants will
 	
 **Contact**: https://education@singaporeccc.org.sg
 
+![](/images/tampines%20secondary%20school%20student%20exploring%20the%20language%20cardse.jpg)
+Tampines Secondary School students exploring the kopitiam table
+
+![](/images/tampines%20secondary%20school%20students%20exploring%20the%20kopitiam%20tablee.jpg)
+Tampines Secondary School student exploring the language cards
