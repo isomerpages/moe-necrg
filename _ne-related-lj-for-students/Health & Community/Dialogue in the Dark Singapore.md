@@ -38,4 +38,7 @@ Participants will:
 
 **Due Date for registration**: At least 2 weeks in advance	
 	
-**Contact**: Email: didsg@np.edu.sg Tel: 64606222	
+**Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+![](/images/signature%20tour%20in%20the%20dark%20photo.JPG)
+Participants lining up to enter the tour
