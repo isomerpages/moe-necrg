@@ -36,3 +36,14 @@ Students will be
 **Due Date for registration**:  At least 2 weeks in advance
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+
+
+
+> “Thank you so much for conducting the talk for our students. They found the talk very interesting and inspiring.”
+
+– Lecturer from a Polytechnic
+> 
+> “It was enriching and helpful in clearing the doubts on visually impaired individuals. I am sure you will be happy to hear that the students found the talk interesting and insightful.”
+
+– Teacher from a secondary school
