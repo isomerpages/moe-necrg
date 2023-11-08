@@ -34,3 +34,10 @@ Participants will  - develop awareness of and empathy for the blind community - 
 **Due Date for registration**: At least 2 weeks in advance
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+![](/images/4sights_photo%202.JPG)
+Learning some Braille
+
+> “I want to thank all of you for a smooth programme and an enjoyable visit to DiD. All your staff were energetic and very interactive with the children. It was very enriching and the children learnt a lot from it. I especially appreciated giving every child the opportunity to try out the canes and that you got child sizes that fit them perfectly.” 
+
+-Teacher, St. James' Church Kindergarten
