@@ -32,3 +32,8 @@ Students will gain valuable insights on how URA brings plans to reality through 
 **How to register?** Online through website link, https://www.booking.gov.sg/public/services/8ZlQjdeM/availability?anonymous=true
 
 **Contact**: ura_outreach@ura.gov.sg
+
+![](/images/learning%20journey%20.JPG)
+
+![](/images/student%20worksheet.jpg)
+Students at Singapore City Gallery
