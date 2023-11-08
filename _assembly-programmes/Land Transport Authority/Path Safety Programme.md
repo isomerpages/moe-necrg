@@ -44,3 +44,10 @@ Students will find out more on how pedestrians and active mobility device users 
 **Due Date for registration**: 1 month in advance
 
 **Contact**: Path Safety Week, Educational Toolkit, and Animation Video: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools\_am@lta.gov.sg.
+
+
+![](/images/path%20safety.png)
+Confidence on Wheels Programme
+
+![](/images/talk%20pic.jpg)
+School Assembly Talk, Recess Time Booth
