@@ -9,7 +9,14 @@ Path Safety Programme comprises 3 components – assembly talk on safe path shar
 
 **Details**
 
-Physical Talk: An LTA speaker will conduct the talk in the school hall, where short videos and quizzes will be used to engage the students. Recess Time Booth: Engaging educational games on safe path sharing are offered at the recess time booth, where participating students have the chance to win prizes. Confidence on Wheels: The session (Primary level) comprises: • Show-and-tell introduction to various types of Active Mobility devices, paths and gracious riding behaviour • Learn basic device handling skills through riding through a circuit with mock-ups of key path infrastructure such as bus stops, road crossings etc. • Debrief to highlight key learning points; The session (Secondary/Post-Secondary level) comprises of: • Short video introduction to key rules and code of conducts on public paths and roads • Skills-based practical session to test students’ knowledge and safe riding skills by riding through several activity stations • Short quiz to reiterate key learning points; Self-help resources: Teachers can use the self-help resources (slides and videos) to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths during PE or CCE class.
+Physical Talk: An LTA speaker will conduct the talk in the school hall, where short videos and quizzes will be used to engage the students. Recess Time Booth: Engaging educational games on safe path sharing are offered at the recess time booth, where participating students have the chance to win prizes. 
+
+Confidence on Wheels: The session (Primary level) comprises: 
+• Show-and-tell introduction to various types of Active Mobility devices, paths and gracious riding behaviour 
+• Learn basic device handling skills through riding through a circuit with mock-ups of key path infrastructure such as bus stops, road crossings etc. 
+• Debrief to highlight key learning points; The session 
+
+(Secondary/Post-Secondary level) comprises of: • Short video introduction to key rules and code of conducts on public paths and roads • Skills-based practical session to test students’ knowledge and safe riding skills by riding through several activity stations • Short quiz to reiterate key learning points; Self-help resources: Teachers can use the self-help resources (slides and videos) to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths during PE or CCE class.
 
 **Learning Objectives**
 
