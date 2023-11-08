@@ -33,3 +33,6 @@ Students will gain deeper insight into how long-term strategic planning has shap
 **How to register?** Online through website link
 
 **Contact**: ura_outreach@ura.gov.sg
+
+![](/images/nus%20geographical%20society%20x%20ura%20workshops%20for%20youth.jpg)
+NUS Geographical Society x URA Workshops for Youth
