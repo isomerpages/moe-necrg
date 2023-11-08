@@ -32,3 +32,10 @@ Learning objectives will vary depending on the needs of your participants.
 **Due Date for registration**: At least 4 weeks in advance
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+![](/images/workshops%20in%20the%20dark.jpg)
+Reflections after an activity in the dark
+
+> "When faced with common adversity, it brings either the best or the worst in us. Fortunately, our team fared well with care, humor and teamwork." 
+
+– Participant from ITE
