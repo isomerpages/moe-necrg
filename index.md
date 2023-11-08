@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: NE Community Resource Guide
+description: An e-guide for NE-related Learning Journeys
 image: /images/isomer-logo.svg
 permalink: /
 notification: National Education Community Resources
