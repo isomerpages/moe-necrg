@@ -39,4 +39,10 @@ Participants will
 
 **Due Date for registration**:  5 weeks in advance	
 	
-**Contact**: education@singaporeccc.org.sg 	
+**Contact**: education@singaporeccc.org.sg
+
+![](/images/guided%20tour%20for%20hwa%20chong%20institution%20studentse.jpg)
+Guided tour for Hwa Chong Institution students
+
+![](/images/a%20hwa%20chong%20institution%20student%20looking%20at%20the%20chinese%20new%20year%20.jpg)
+A Hwa Chong Institution student looking at the Chinese New Year display
