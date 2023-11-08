@@ -34,3 +34,25 @@ Students will learn to better communicate and collaborate, as well as practise p
 **Due Date for registration**: At least 2 weeks in advance.
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
+
+![](/images/photo%201%20waiting%20to%20enter%20the%20themed%20rooms%20-%20leran%20to%20see%20educational%20workshop.JPG)
+Waiting to enter the themed room
+
+![](/images/photo%202%20educational%20workshop.jpg)
+Participants working on an activity that is facilitated by the blind guide
+
+> “In the dark, I felt afraid. However, the knowledge that my guide and my friends were always with me gave me confidence and comfort. Also, I learnt that I should not take my sight for granted. Given the chance, I really want to come back again!” 
+
+~ Student from a secondary school
+
+> “A very fun, enjoyable, and engaging workshop experience. It has inspired me in an emotional way.” 
+
+~ Student from a secondary school
+
+> “The key component of the program was the debrief, where the facilitators posed good questions. With these, students were able to reflect upon their experiences in the dark, as well as to identify their strengths and weaknesses.” 
+
+~ Teacher from a secondary school
+
+>  “It was fun yet exhilarating. It showed me a different world and simulated how a blind person lives, which is really cool.”
+
+~ Student from an international school
