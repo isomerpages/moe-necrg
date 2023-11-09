@@ -36,4 +36,3 @@ Students will find out more on how pedestrians and active mobility device users 
 **Due Date for registration**: 1 week in advance
 
 **Contact**: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools_am@lta.gov.sg.
-
