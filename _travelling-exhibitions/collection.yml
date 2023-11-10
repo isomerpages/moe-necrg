@@ -1,4 +1,5 @@
 collections:
   travelling-exhibitions:
     output: true
-    order: []
+    order:
+      - Festivals Unlocked Travelling Exhibition.md
