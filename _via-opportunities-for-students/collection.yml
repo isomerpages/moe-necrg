@@ -2,6 +2,8 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - National Environment Agency/I am an Advocate of Singapore's Hawker
+        Culture.md
       - National Environment Agency/.keep
       - HCA Hospice Limited/Value In Action @ HCA Day Hospice.md
       - HCA Hospice Limited/.keep
