@@ -20,24 +20,20 @@ Students will learn to:
 * Encourage character building, increase level of confidence and inculcate leadership capabilities through public interactions and participation. 
 * Exploration and learning about the history and evolution of Singapore's Hawker Culture.
 
-Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
+**Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
 		
-Runtime: All year round		
+**Runtime**: All year round		
 		
-Fee: Complimentary		
+**Fee**: Complimentary		
 		
-Modality: In-person, Virtual, Hybrid		
+**Modality**: In-person		
 		
-Duration of Session: 		
+**Duration of Session**: 1.5-2 hours		
+
+**Relevant Commemorative Days**: National Day		
 		
-Capacity: 		
+**How to register?** By email.		
 		
-Relevant Commemorative Days: 		
+**Due Date for registration**: 6 weeks prior the selected date of the Values-In Action programme, subject to NEA's approval.		
 		
-Website:		
-		
-How to register? By email.		
-		
-Due Date for registration: 		
-		
-Contact:
+**Contact**: sghawkerculture@nea.gov.sg
