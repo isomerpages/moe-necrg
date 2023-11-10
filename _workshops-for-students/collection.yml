@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Singapore Courts/“A Day in Court” student seminar.md
       - Singapore Courts/.keep
       - Dialogue in the Dark Singapore/Learn to See Educational Workshop.md
       - Dialogue in the Dark Singapore/Lunch in the Dark.md
