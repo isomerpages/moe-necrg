@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - HCA Hospice Limited/.keep
       - Value In Action @ HCA Day Hospice.md
       - Housing & Development Board.md
       - Council for Third Age (C3A).md
