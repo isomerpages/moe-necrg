@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - Ministry of Manpower/.keep
       - National Heritage Board/Monuments to our History Assembly Talks.md
       - National Heritage Board/.keep
       - Dialogue in the Dark Singapore.md
