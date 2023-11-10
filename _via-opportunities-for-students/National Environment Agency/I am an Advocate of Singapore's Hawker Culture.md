@@ -16,7 +16,8 @@ The programme provides students the opportunities to grow and develop to be an a
 **Learning Objectives**		
 		
 Students will learn to: 
-* Exercise their creativity and build teamwork through brainstorming sessions. - Encourage character building, increase level of confidence and inculcate leadership capabilities through public interactions and participation. 
+* Exercise their creativity and build teamwork through brainstorming sessions. 
+* Encourage character building, increase level of confidence and inculcate leadership capabilities through public interactions and participation. 
 * Exploration and learning about the history and evolution of Singapore's Hawker Culture.
 
 Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
