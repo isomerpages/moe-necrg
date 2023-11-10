@@ -38,3 +38,15 @@ What was life in Southeast Asia like in the past? Your students will be guided b
 **Due Date for registration**: 42 days in advance
 	
 **Contact**: 	nhb_acm_edu@nhb.gov.sg
+
+> “Love the story-telling concept and also the activity booklet.” 
+
+-Primary 6 student
+
+> “The most memorable moment was when I got to see real objects from the past.” 
+
+-Primary 6 student
+
+> “I liked how the educators were very engaging in telling us the stories and how they manage to answer our questions.” 
+
+-Primary 6 teacher
