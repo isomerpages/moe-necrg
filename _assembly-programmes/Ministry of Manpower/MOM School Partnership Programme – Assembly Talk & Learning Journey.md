@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: Ministry of Manpower
 ---
-### MOM School Partnership Programme – Assembly Talk & Learning Journey
-
 The MOM School Partnership Programme seeks to provide your students with informed perspectives of our migrant workforce by (i) raising their awareness on key issues involving our migrant workforce including policy considerations, (ii) building their appreciation for our migrant workers, and (iii) encouraging action in partnership with MOM on areas of interest. This in turn would equip your students with civic values and social-emotional competencies – such as appreciation of diversity, cultural sensitivity and empathy, in developing their social awareness to understand the perspectives and needs of people with different backgrounds or cultures.
 
 **Details**
