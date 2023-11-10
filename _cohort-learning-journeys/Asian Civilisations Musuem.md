@@ -2,25 +2,40 @@
 title: Asian Civilisations Musuem
 permalink: /cohort-learning-journeys/acm/
 description: ""
+variant: markdown
 ---
-# MUSEUM-BASED LEARNING: ASIAN ADVENTURES
-Ever wondered what life in Southeast Asia was like in the past? Students go on a journey to uncover stories, engage actively with artefacts and have a discussion with trained Museum Educators (MEs) to consider this question. Students will also get an opportunity to handle objects in this interactive experience. This programme has been developed as part of the Social Studies and Character and Citizenship Education cohort learning journey.
+### MUSEUM-BASED LEARNING: ASIAN ADVENTURES
+
+What was life in Southeast Asia like in the past? Your students will be guided by this question as they journey with a mythical Makara to discover stories about objects in ACM. This programme is aligned with the Primary 6 Character and Citizenship Education and Social Studies syllabi, and jointly designed with MOE. Travel to different time periods in Southeast Asia to explore what trade was like and learn about ways of life in the region.
+
+For MOE schools only. Book min 42 days in advance. 
 
 **Details**
 
-Students will visit 6 different stations and be guided by Museum Educators. They will listen to stories from the past, be engaged in discussion with the guides, handle objects and complete activities in their activity booklet. This will guide them to answer the question
-- What was life in Southeast Asia like in the past?
+Onsite 2 hours. Students will go through 6 stations guided by Museum Educators in a soapbox style.
 
 **Learning Objectives**
 
-Participants will:
-* Understand the cultural and historical ties that have been influenced by the countries in Southeast Asia
-* Explore how Singapore's cultural heritage has evolved over time, influenced by the mix of cultures
+What was life in Southeast Asia like in the past? Your students will be guided by this question as they journey with a mythical Makara to discover stories about objects in ACM. This programme is aligned with the Primary 6 Character and Citizenship Education and Social Studies syllabi, and jointly designed with MOE. Travel to different time periods in Southeast Asia to explore what trade was like and learn about ways of life in the region.
 
-> “ I like the part when we get to listen to stories by the Museum Educators. The most memorable moment was when I got to see real objects from the past."
-
-*Primary 6 students who attended the MBL onsite programme*
-
-> “ As an art teacher, the programme connects content of different subjects especially when the P6s are learning them in the classroom. For example, students learn about the 'fusion' of symbolic creatures to form their own 'identity'.
-
-*Primary School Teacher*
+**Target Audience**: Primary P6 students
+	
+**Runtime**: All year round	
+	
+**Fee**: $8 per student (excluding GST)
+	
+**Modality**: In-person
+	
+**Duration of Session**: 2 hours	
+	
+**Capacity**: Max 120 students (split into 6 groups) per session. Schools may be combined.	
+	
+**Relevant Commemorative Days**: International Friendship Day, Racial Harmony Day, National Day	
+	
+**Website**: www.bookmuseums.nhb.gov.sg
+	
+**How to register?** Online through website link
+	
+**Due Date for registration**: 42 days in advance
+	
+**Contact**: 	nhb_acm_edu@nhb.gov.sg
