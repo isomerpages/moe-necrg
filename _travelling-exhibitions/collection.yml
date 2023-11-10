@@ -2,4 +2,5 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - S'pore Chinese Cultural Centre/.keep
       - Festivals Unlocked Travelling Exhibition.md
