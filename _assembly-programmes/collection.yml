@@ -2,9 +2,9 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - Ministry of Manpower/MOM School Partnership Programme – Assembly Talk &
-        Learning Journey.md
-      - Ministry of Manpower/.keep
+      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
+        Talk & Learning Journey.md
+      - Ministry of Manpower (ACE)/.keep
       - National Heritage Board/Monuments to our History Assembly Talks.md
       - National Heritage Board/.keep
       - Dialogue in the Dark Singapore.md
