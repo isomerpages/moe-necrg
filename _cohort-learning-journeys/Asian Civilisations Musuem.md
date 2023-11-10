@@ -6,8 +6,7 @@ variant: markdown
 ---
 ### MUSEUM-BASED LEARNING: ASIAN ADVENTURES
 
-What was life in Southeast Asia like in the past? Your students will be guided by this question as they journey with a mythical Makara to discover stories about objects in ACM. This programme is aligned with the Primary 6 Character and Citizenship Education and Social Studies syllabi, and jointly designed with MOE. Travel to different time periods in Southeast Asia to explore what trade was like and learn about ways of life in the region.
-
+What was life in Southeast Asia like in the past? Your students will be guided by this question as they journey with a mythical Makara to discover stories about objects in ACM. This programme is aligned with the Primary 6 Character and Citizenship Education and Social Studies syllabi, and jointly designed with MOE. Travel to different time periods in Southeast Asia to explore what trade was like and learn about ways of life in the region. 
 For MOE schools only. 
 
 **Details**
