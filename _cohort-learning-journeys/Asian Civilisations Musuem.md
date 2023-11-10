@@ -8,11 +8,11 @@ variant: markdown
 
 What was life in Southeast Asia like in the past? Your students will be guided by this question as they journey with a mythical Makara to discover stories about objects in ACM. This programme is aligned with the Primary 6 Character and Citizenship Education and Social Studies syllabi, and jointly designed with MOE. Travel to different time periods in Southeast Asia to explore what trade was like and learn about ways of life in the region.
 
-For MOE schools only. Book min 42 days in advance. 
+For MOE schools only. 
 
 **Details**
 
-Onsite 2 hours. Students will go through 6 stations guided by Museum Educators in a soapbox style.
+Students will go through 6 stations guided by Museum Educators in a soapbox style.
 
 **Learning Objectives**
 
