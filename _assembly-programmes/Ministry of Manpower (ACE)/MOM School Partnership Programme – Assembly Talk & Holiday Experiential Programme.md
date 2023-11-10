@@ -16,24 +16,20 @@ Assembly talks helps students attain contextual knowledge on our migrant workfor
 
 Students will have a deeper understanding on migrant workforce issues, attain better insights on the livelihood of migrant workers in Singapore and develop empathy for our migrant workforce through dialogues and experiential learning.
 
-Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Post Secondary (JC/ Poly/ ITE)
 
-Runtime: All year round
+**Runtime**: All year round
 
-Fee: Complimentary
+**Fee**: Complimentary
 
 **Modality**: In-person 
 
-Duration of Session: 
+**Duration of Session**: Assembly talk – 1h ; Holiday Experiential Programme – 2 days 
 
-Capacity: 
+**Relevant Commemorative Days**: International Migrants Day
 
-Relevant Commemorative Days: 
+**How to register?** By email.
 
-Website:
+**Due Date for registration**: 2 months in advance
 
-How to register? By email.
-
-Due Date for registration: 
-
-Contact: 
+**Contact**: youths@mom.gov.sg
