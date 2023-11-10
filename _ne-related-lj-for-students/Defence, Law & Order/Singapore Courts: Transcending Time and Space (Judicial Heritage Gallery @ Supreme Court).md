@@ -12,7 +12,7 @@ The Supreme Court Judicial Heritage Gallery was launched by Chief Justice Sundar
 
 **Details**
 
-The Judicial Heritage Gallery learning journey is conducted via a guided walkthough of the five thematic zones of the gallery. Schools interested in signing up for a guided tour of the Judicial Heritage Gallery @ Supreme Court may contact the authorised educational partners for more details about the programme and fees. (https://www.judiciary.gov.sg/visit-us/tour-courts)
+The Judicial Heritage Gallery learning journey is conducted via a guided walkthough of the five thematic zones of the gallery. 
 
 **Learning Objectives**
 
