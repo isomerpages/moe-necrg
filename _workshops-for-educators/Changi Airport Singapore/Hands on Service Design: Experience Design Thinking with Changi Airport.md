@@ -27,9 +27,7 @@ Through the workshop, participants will have the opportunity to work on their ow
 
 **Modality**: In-person 
 
-**Duration of Session**: 1.5 hour
-
-**Relevant Commemorative Days**: Total Defence Day, National Day
+**Duration of Session**: 3 hours
 
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
