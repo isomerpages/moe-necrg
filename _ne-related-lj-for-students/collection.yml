@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
+      - "Aviation/Changi Airport Singapore: Changi Experience Studio.md"
       - Aviation/.keep
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
