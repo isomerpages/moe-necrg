@@ -12,13 +12,15 @@ Come along on a journey with us as we share our planning philosophy, design prin
 
 **Details**
 
-The programme will be a sit down sharing session conducted by our Airport Managers, followed by a Q&A session. Participants will be able to get first-hand understanding from subject matter experts and discover how CAG strives to be champions of excellence, innovators of experience and creators of community across the diverse realms of airport managemen
+The programme will be a sit down sharing session conducted by our Airport Managers, followed by a Q&A session. Participants will be able to get first-hand understanding from subject matter experts and discover how CAG strives to be champions of excellence, innovators of experience and creators of community across the diverse realms of airport management
+
 **Learning Objectives**
 
 * Gain insight on the key airport planning philosophy and design principles
 * Learn about new technologies and innovations that will be adopted in the latest airport developments to enhance experience and operations, and how leveraging on technology can be part of creative solutions
 
-**Target Audience**: Secondary 3 - 4/5 Post-Secondary (JC/Poly/ITE), Educators
+**Target Audience**: Post-Secondary (JC/Poly/ITE), Educators
+
 **Runtime**: All year round
 
 **Fee**: Please email for more details
