@@ -11,13 +11,15 @@ Changi Airport has one of Singapore’s largest collection of artwork, with a wi
 
 **Details**
 
-The programme will be a sit down sharing session conducted by our Airport resident art curator, with short videos and interactive segments to engage students. 
+The programme will be a sit down sharing session conducted by our Airport Managers.
+There is also an optional add-on for a Changi / Jewel sustainability self guided quest to discover the Airport's sustainability efforts which you never knew. 
+
 **Learning Objectives**
 
-*  Get insights on CAG’s key themes underlying its art collection, at the same time gaining a deeper appreciation of art in a commercial context 
-* Gain a deeper understanding of the different stages of commissioning an artwork (from conception to production to installation to maintenance)
+* Get an in-depth understanding on CAG's sustainability approach, various pillars of initiatives and how these are integrated into different aspects of the airport
+* Learn more about the importance of an ecosystem and stakeholder engagement in building a sustainable environment
 
-**Target Audience**: Post-Secondary (JC/Poly/ITE) (Art Specialization)
+**Target Audience**: Secondary 3 - 4/5 students, Post-Secondary (JC/Poly/ITE), Educators
 
 **Runtime**: All year round
 
@@ -25,7 +27,7 @@ The programme will be a sit down sharing session conducted by our Airport reside
 
 **Modality**: In-person or Virtual
 
-**Duration of Session**: 1.5 hour
+**Duration of Session**: 1 hour
 
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
