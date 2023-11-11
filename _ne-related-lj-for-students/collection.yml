@@ -2,7 +2,8 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
-      - Aviation/Example Title.md
+      - "Aviation/Changi Airport Singapore: Planning the Best Airport of the
+        Future.md"
       - "Aviation/Changi Airport Singapore: Forging a Sustainable Changi.md"
       - "Aviation/Changi Airport Singapore: Growing The Changi Air Hub.md"
       - "Aviation/Changi Airport Singapore: Managing the World's Best Airport.md"
