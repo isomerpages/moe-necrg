@@ -2,5 +2,6 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Changi Airport Singapore/.keep
       - Duplicate page.md
       - "Singapore Chinese Cultural Centre: Programmes for Educators.md"
