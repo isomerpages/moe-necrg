@@ -2,6 +2,8 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
+      - "Aviation/Changi Airport Singapore: Singapore Story: The Changi Airpot
+        Chapter.md"
       - "Aviation/Changi Airport Singapore: Changi Experience Studio.md"
       - Aviation/.keep
       - Arts, Culture & Heritage/.keep
