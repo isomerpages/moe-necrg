@@ -28,8 +28,6 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 
 **Duration of Session**: 1 hour
 
-**Relevant Commemorative Days:** Total Defence Day, National Day
-
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
 **How to register?** By email
