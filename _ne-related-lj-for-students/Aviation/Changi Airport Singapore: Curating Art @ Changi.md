@@ -36,3 +36,7 @@ There is also an optional add-on for a Changi / Jewel sustainability self guided
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/6__Curating_Art_Changi_1.jpg)   Peranakan Love Story at Terminal 4
+
+![](/images/6__Curating_Art_Changi_2.jpg)   Hey Ah Chek! at Terminal 4
