@@ -37,3 +37,5 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/8__Growing_the_Changi_Airhub.jpg)    Role of aviation in Singapore’s development
