@@ -40,4 +40,10 @@ Educators
 
 **Due Date for registration**: 2 weeks in advance
 
-**Contact**: ces.sales@changiairport.com 
+**Contact**: ces.sales@changiairport.com
+
+![](/images/1__Changi_Experience_Studio_Visit_1.jpg)
+Take part in an exciting race between a plane and a race car
+
+![](/images/1__Changi_Experience_Studio_Visit_2.jpg)
+Learn how the airport functions through fun and interactive games
