@@ -18,7 +18,7 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 * Learn about Changi Airport’s airport management philosophy and different aspects of airport operations that make Changi tick like clockwork
 * Understand the diversity of roles and learn how Changi Airport continues to deliver world-class service and memorable passenger experience
 
-**Target Audience**: Secondary students, Post-Secondary (JC/Poly/ITE)
+**Target Audience**: Secondary students, Post-Secondary (JC/Poly/ITE), Educators
 
 **Runtime**: All year round
 
