@@ -41,3 +41,5 @@ There is also an optional add-on for a Changi / Jewel sustainability self guided
 **Contact**: ces.sales@changiairport.com
 
 ![](/images/9__Forging_a_Sustainable_Changi_1.jpg)   Building a sustainable airport terminal
+
+![](/images/9__Forging_a_Sustainable_Changi_2.jpg)   Recycling efforts at Changi Airport
