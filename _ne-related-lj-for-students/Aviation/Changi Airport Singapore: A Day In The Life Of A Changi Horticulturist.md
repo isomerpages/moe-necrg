@@ -36,3 +36,7 @@ There is also an optional add-on for a visit to Changi Airport Nursery to learn 
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/4__A_Day_in_the_Life_of_a_Changi_Horticulturist_1_.jpg)   Changi Jurassic Mile
+
+![](/images/4__A_Day_in_the_Life_of_a_Changi_Horticulturist_2.jpg)   Creating beautiful gardens for passengers
