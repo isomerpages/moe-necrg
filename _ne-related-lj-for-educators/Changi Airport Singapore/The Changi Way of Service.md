@@ -35,3 +35,6 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/14__The_Changi_Way_of_Service_1.jpg)   A personalized, stress-free and positively surprising airport experience
+![](/images/14__The_Changi_Way_of_Service_2.jpg)Building a culture of service at Changi Airport
