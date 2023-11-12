@@ -38,3 +38,5 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/11__Creating_a_Stress_Free_Changi_Experience_2.png)   Automated immigration gates
