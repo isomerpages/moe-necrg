@@ -36,3 +36,6 @@ Through the workshop, participants will have the opportunity to work on their ow
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/16__Hands_on_Service_Design_1.png)Experience Design Thinking with Changi Airport
+![](/images/16__Hands_on_Service_Design_2.jpg)   Participants putting into practice the framework and tools learnt
