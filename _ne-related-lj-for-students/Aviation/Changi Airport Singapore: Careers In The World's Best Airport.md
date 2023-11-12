@@ -35,3 +35,5 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/3__Careers_in_the_World_s_Best_Airport.jpg)   The friendly faces of Changi Airport
