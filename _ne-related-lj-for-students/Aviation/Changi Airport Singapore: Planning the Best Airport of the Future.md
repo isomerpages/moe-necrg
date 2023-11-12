@@ -38,3 +38,5 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/10__Planning_the_Best_Airport_for_the_Future_.jpg)   The future Terminal 5
