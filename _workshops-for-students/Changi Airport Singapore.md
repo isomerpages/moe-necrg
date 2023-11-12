@@ -40,3 +40,6 @@ The best part is, they will be having fun while learning how to create user-cent
 
 **Contact**: ces.sales@changiairport.com
 
+![](/images/12__Day_in_the_Life_of_a_Changi_Trolley_1.png)   Journey with a passenger as a Changi Airport trolley
+
+![](/images/12__Day_in_the_Life_of_a_Changi_Trolley_2.jpg)   Learn the key elements of design thinking
