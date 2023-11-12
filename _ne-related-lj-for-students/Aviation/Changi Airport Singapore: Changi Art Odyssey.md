@@ -18,7 +18,7 @@ An interactive sketchwalk will also form part of the learning experience, with s
 
 *  Learn about different types of artforms that are found in Changi Airport and how art is used at airport to create experiences
 *  Nurture an informed awareness and appreciation of the visual arts
-*  Appraise art pieces through the lens of design principles, materials and processes​
+*  Appraise art pieces through the lens of design principles, materials and processes
 *  Propose alternative concepts for an art piece (e.g. if not this material, what material, etc)
 *  Assess the context, materiality, shape & form of artworks in their environment
 
@@ -39,3 +39,7 @@ An interactive sketchwalk will also form part of the learning experience, with s
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/5__Changi_Art_Odyssey_1.jpg)   Floral Inspirations by Han Sai Por
+
+![](/images/5__Changi_Art_Odyssey_2.jpg)   Petalclouds at Terminal 4
