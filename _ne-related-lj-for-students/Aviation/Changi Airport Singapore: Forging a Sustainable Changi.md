@@ -39,3 +39,5 @@ There is also an optional add-on for a Changi / Jewel sustainability self guided
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/9__Forging_a_Sustainable_Changi_1.jpg)   Building a sustainable airport terminal
