@@ -40,3 +40,7 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/2__Singapore_Story___The_Changi_Airport_Chapter_1_.jpg)   Transformation of Changi Airport over the years
+
+![](/images/2__Singapore_Story___The_Changi_Airport_Chapter_2.jpg)Success of Singapore’s air hub
