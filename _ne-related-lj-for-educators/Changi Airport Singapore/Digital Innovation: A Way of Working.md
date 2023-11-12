@@ -34,3 +34,6 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/13__Digital_Innovation_1.png)   Cleaning robots at Changi Airport
+![](/images/13__Digital_Innovation_2.jpg)   Incorporate a culture of innovation into the way of working
