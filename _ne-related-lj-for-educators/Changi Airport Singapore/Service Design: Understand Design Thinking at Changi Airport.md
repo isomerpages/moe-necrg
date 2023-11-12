@@ -35,3 +35,7 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 **Due Date for registration**: 3 weeks in advance
 
 **Contact**: ces.sales@changiairport.com
+
+![](/images/15__Service_Design_1.jpg)   Bringing a positive impact to our passengers
+
+![](/images/15__Service_Design_2.PNG)Designing ideas and events that bring positive impact to passengers
