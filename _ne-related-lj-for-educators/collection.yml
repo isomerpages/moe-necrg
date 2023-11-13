@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
       - Changi Airport Singapore/Planning The Best Airport Of The Future.md
       - Changi Airport Singapore/Forging a Sustainable Changi.md
       - Changi Airport Singapore/Managing The World's Best Airport.md
