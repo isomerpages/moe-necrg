@@ -34,7 +34,7 @@ There is also an optional add-on for a Changi / Jewel sustainability self guided
 
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
-**Mode of Registration** By email
+**Mode of Registration:** By email
 
 **Due Date for registration**: 3 weeks in advance
 
