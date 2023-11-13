@@ -36,7 +36,7 @@ Educators
 
 **Website**: https://www.jewelchangiairport.com/changiexperiencestudio
 
-**Mode of Registration** By email
+**Mode of Registration:** By email
 
 **Due Date for registration**: 2 weeks in advance
 
