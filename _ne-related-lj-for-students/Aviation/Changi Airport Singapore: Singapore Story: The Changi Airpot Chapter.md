@@ -35,7 +35,7 @@ The programme will be a sit down sharing session conducted by our Airport Manage
 
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
-**How to register?** By email
+**Mode of Registration:** By email
 
 **Due Date for registration**: 3 weeks in advance
 
