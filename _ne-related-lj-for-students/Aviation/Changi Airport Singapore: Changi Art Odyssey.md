@@ -34,7 +34,7 @@ An interactive sketchwalk will also form part of the learning experience, with s
 
 **Website**: https://www.changiairport.com/en/discover/learning-journeys.html
 
-**How to register?** By email
+**Mode of Registration:** By email
 
 **Due Date for registration**: 3 weeks in advance
 
