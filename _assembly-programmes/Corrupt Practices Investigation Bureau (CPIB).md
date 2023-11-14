@@ -2,6 +2,7 @@
 title: Corrupt Practices Investigation Bureau (CPIB)
 permalink: /assembly-programmes/cpib/
 description: ""
+variant: markdown
 ---
 ### CPIB Learning Journey
 
@@ -29,11 +30,11 @@ Students will learn about Singapore’s anti-corruption journey, the role that C
 
 **Website:** www.cpib.gov.sg/e-services/e-booking-for-learning-journey
 
-**How to register?** By email or online through website link.
+**Mode of registration:** By email or online through website link.
 
 **Contact:** info@cpib.gov.sg
 
-> “ Students and educators have found the talk interesting, informative and easy to understand."
-
 ![](/images/cpib%20learning%20journey.jpg)
 CPIB Learning Journey
+
+> “ Students and educators have found the talk interesting, informative and easy to understand."
