@@ -25,7 +25,7 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 
 **Modality**: Hybrid
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: Before the end of the school year
 
