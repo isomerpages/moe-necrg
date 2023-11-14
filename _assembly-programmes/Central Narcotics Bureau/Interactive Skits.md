@@ -3,6 +3,7 @@ title: Interactive Skits
 permalink: /assembly-programmes/central-narcotics-bureau/interactive-skits/
 description: ""
 third_nav_title: Central Narcotics Bureau
+variant: markdown
 ---
 Interactive Preventive Drug Education (PDE) skits for Primary, Secondary and Post-Secondary School students is presented by professionals engaged by the Central Narcotics Bureau (CNB).
 
@@ -29,7 +30,7 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 
 **Website:** https://www.cnb.gov.sg/educational-resources/core-programmes/skit-for-primary-schools  https://www.cnb.gov.sg/educational-resources/core-programmes/skit-for-secondary-schools
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 1 month in advance.
 
