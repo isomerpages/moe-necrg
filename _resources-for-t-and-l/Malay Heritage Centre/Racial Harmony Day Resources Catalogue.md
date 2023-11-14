@@ -27,7 +27,7 @@ Students will learn about the customs and traditions of the different ethnic com
 
 **Website:** https://www.malayheritage.gov.sg/rhd/flipviewerxpress.html			
 
-**How to register**? Online through website link.
+**Mode of registration:**  Online through website link.
 
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
 
