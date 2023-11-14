@@ -32,7 +32,7 @@ Students will learn to:
 
 **Relevant Commemorative Days**: National Day		
 		
-**How to register?** By email.		
+**Mode of registration:** By email.		
 		
 **Due Date for registration**: 6 weeks prior the selected date of the Values-In Action programme, subject to NEA's approval.		
 		
