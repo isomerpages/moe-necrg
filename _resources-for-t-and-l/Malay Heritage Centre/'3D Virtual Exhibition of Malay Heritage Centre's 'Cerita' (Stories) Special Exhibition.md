@@ -26,7 +26,7 @@ Students will be introduced to the diverse material culture and traditions – f
 			
 **Website:** https://www.malayheritage.gov.sg/en/whats-on/exhibitions/2023_03-cerita-special-exhibition/details
 
-**How to register?** Online through website link.
+**Mode of registration:** Online through website link.
 		
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
 
