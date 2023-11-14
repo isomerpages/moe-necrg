@@ -30,7 +30,7 @@ Students will gain a better appreciation of Singapore's history through our buil
 		
 **Relevant Commemorative Days**: Total Defence Day, Racial Harmony Day, National Day 		
 
-**How to register?** By email.		
+**Mode of registration:** By email.		
 
 **Due Date for registration**: 1 month in advance 		
 		
