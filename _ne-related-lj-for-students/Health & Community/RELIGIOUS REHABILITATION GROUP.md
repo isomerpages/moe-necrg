@@ -16,9 +16,9 @@ Tours and learning experiences are customisable according to age groups and spec
 **Learning Objectives**
 
 At the learning journey participants will: 
-•	learn about terrorism and radicalisation and how these threats adversely impact social harmony and cohesion. 
-•	Understand the rehabilitation approach undertaken by key stakeholders.  
-•	reflect on the importance of building a strong foundation of social cohesion and resilience so that Singapore will be safe and secure.
+* learn about terrorism and radicalisation and how these threats adversely impact social harmony and cohesion. 
+* understand the rehabilitation approach undertaken by key stakeholders.  
+* reflect on the importance of building a strong foundation of social cohesion and resilience so that Singapore will be safe and secure.
 
 *As part of its outreach efforts, the RRG conducts school talks and workshops for students and educators on topics related to radicalisation, rehabilitation and the importance of social cohesion.
 
