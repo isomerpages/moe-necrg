@@ -30,7 +30,7 @@ Students will learn the origin of Chingay Parade and how Chingay highlights the 
 	
 **Website**: www.chingay.gov.sg
 
-**How to register?** By email.	
+**Mode of registration:** By email.	
 
 **Due Date for registration**: 2 weeks in advance 	
 	
