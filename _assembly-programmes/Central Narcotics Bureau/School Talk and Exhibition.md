@@ -3,6 +3,7 @@ title: School Talk and Exhibition
 permalink: /assembly-programmes/central-narcotics-bureau/school-talk-and-exhibition/
 description: ""
 third_nav_title: Central Narcotics Bureau
+variant: markdown
 ---
 Preventive Drug Education (PDE) Talk and Exhibition is conducted by experienced Narcotics Officers from the Central Narcotics Bureau (CNB). 
 
@@ -28,7 +29,7 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 
 **Website**:  https://www.cnb.gov.sg/educational-resources/core-programmes/school-talks-and-exhibitions
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration:** 1 month in advance.
 
@@ -36,4 +37,3 @@ Students will learn and understand the harmful effects of drugs, refusal tips an
 
 ![](/images/pdetalkcnb.jpeg)
 PDE Talk
-
