@@ -25,7 +25,6 @@ Students will learn about the culture, traditions and history of the Malay commu
 			
 **Website:** https://www.youtube.com/watch?v=b11CGNnAQBk&list=PLv0BVx54Fye11HbjlGEG69A9Rz_RdZdW0&pp=iAQB			
 
-**How to register?** Online through website link.
+**Mode of registration:**  Online through website link.
 
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
-
