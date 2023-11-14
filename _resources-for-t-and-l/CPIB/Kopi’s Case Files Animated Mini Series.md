@@ -27,7 +27,7 @@ Students will learn about the basic concepts of anti-corruption and inculcate im
 
 **Website**: https://www.youtube.com/user/CPIBsingapore
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Contact:** info@cpib.gov.sg
 
