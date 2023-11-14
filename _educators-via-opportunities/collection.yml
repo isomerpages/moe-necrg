@@ -1,4 +1,6 @@
 collections:
   educators-via-opportunities:
     output: true
-    order: []
+    order:
+      - "Caring SG Commuters Committee: Public Transport Council and Land
+        Transport Authority.md"
