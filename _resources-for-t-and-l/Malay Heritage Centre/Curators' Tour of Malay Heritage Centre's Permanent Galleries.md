@@ -23,7 +23,7 @@ Students will learn about the history of Kampong Gelam through the artefacts fro
 
 **Modality**:	Virtual		
 
-**How to register?** Online through website 	
+**Mode of registration:** Online through website 	
 			
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
 
