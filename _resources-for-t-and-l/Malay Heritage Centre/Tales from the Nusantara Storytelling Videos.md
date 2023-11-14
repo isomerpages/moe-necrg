@@ -25,7 +25,7 @@ Students will be introduced to stories from the region which will explores the r
 
 **Website**: https://www.youtube.com/watch?v=HXnCr7WbMkU&list=PLv0BVx54Fye2SM9Bt0FwxA2RBpqPnAgrk
 
-**How to register?** Online through website link.
+**Mode of registration:** Online through website link.
 
 **Contact:** Ms Shereen at Shereen_Tan@nhb.gov.sg
 
