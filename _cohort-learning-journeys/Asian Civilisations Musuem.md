@@ -33,7 +33,7 @@ What was life in Southeast Asia like in the past? Your students will be guided b
 	
 **Website**: www.bookmuseums.nhb.gov.sg
 	
-**How to register?** Online through website link
+**Mode of registration:** Online through website link
 	
 **Due Date for registration**: 42 days in advance
 	
