@@ -27,7 +27,7 @@ Students will get the rare opportunity to go in-depth to learn about the musical
 
 **Website**: https://www.malayheritage.gov.sg/myfirstwayangkulitshow
 
-**How to register?** Online through website link.
+**Mode of registration:**  Online through website link.
 			
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
 
