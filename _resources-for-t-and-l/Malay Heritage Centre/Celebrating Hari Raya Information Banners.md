@@ -31,7 +31,7 @@ Students will be able to learn more about the customs and traditions of the Mala
 
 **Website**: https://malayheritagecentre.peatix.com/
 
-**How to register?** By email or online through website link.
+**Mode of registration:** By email or online through website link.
 
 **Contact**: Teachers can make a booking through Malay Heritage Centre (MHC)'s Peatix page when general registration is open before Ramadan. For further inquiry, please contact  NHB_MHC@nhb.gov.sg
 
