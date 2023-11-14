@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - HCA Hospice/.keep
       - Oasis at The End of Life.md
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
       - Changi Airport Singapore/Planning The Best Airport Of The Future.md
