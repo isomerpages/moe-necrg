@@ -29,7 +29,7 @@ Students will gain a better appreciation of Singapore's history and development 
 
 **Website**: https://tribe-tours.com/product/monumental-hunt-civic-district/
 
-**How to register?** By email.		
+**Mode of registration:**  By email.		
 
 **Due Date for registration**: 1 month in advance 		
 		
