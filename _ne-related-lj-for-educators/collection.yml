@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Rediscover Singapore River Interactive Quizshow.md
       - Monument Hunt in the Civic District.md
       - Religious Rehabilitation On Group.md
       - Learning Journey to Semakau Landfill and Incineration Plants.md
