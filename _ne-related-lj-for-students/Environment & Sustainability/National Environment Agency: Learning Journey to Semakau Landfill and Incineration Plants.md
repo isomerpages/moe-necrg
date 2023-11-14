@@ -40,7 +40,7 @@ This programme aims to educate students on the imporatance of a well-managed was
 	
 **Website**: https://www.eportal.nea.gov.sg (Click on Public Education & Partnership)		
 
-**How to register?** Sign up via NEA ePortal 3 weeks in advance.		
+**Mode of registration:** Sign up via NEA ePortal 3 weeks in advance.		
 
 **Due Date for registration**: 3 weeks in advance 		
 		
