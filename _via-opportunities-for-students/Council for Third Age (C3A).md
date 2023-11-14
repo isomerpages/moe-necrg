@@ -33,7 +33,7 @@ ILP serves as a “Values in Action” (VIA) programme as it fosters student own
 
 **Website:**  https://www.c3a.org.sg/intergenerational-learning-programme
 
-**How to register?**  By email
+**Mode of registration**: By email
 
 **Contact:**  Mr Winston Mok, 64785041, winston.mok@c3a.org.sg or Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg
 
