@@ -35,7 +35,7 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 
 **Website** https://lta.gov.sg
 
-**How to register?** By email.		
+**Mode of registration:** By email.		
 
 **Due Date for registration**: 3 weeks in advance. 		
 		
