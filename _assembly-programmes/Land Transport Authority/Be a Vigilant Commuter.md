@@ -44,12 +44,12 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 ![](/images/be%20a%20vigilant%20commuter.jpeg)
 Recess engagement & sharing session at Pri Sch
 
-> I would like to express my thanks to you and your team for the assembly talk on 13 Feb 2023 and the recess engagement activities on 15 Feb 2023. 
-> 
-> Both pupils and staff have learned much on how to be a vigilant commuter though your talk and fun-filled activities. 
-> 
-> LTA's support has made commemorating Total Defence Day at SNGS a memorable one.
-> 
-> I look forward to working with you and your team in the near future again. Together We Make Singapore Strong! 
-> 
+> > I would like to express my thanks to you and your team for the assembly talk on 13 Feb 2023 and the recess engagement activities on 15 Feb 2023. 
+> > 
+> > Both pupils and staff have learned much on how to be a vigilant commuter though your talk and fun-filled activities. 
+> > 
+> > LTA's support has made commemorating Total Defence Day at SNGS a memorable one.
+> > 
+> > I look forward to working with you and your team in the near future again. Together We Make Singapore Strong! 
+
 -CHIJ St Nicholas Girls' School (Primary)
