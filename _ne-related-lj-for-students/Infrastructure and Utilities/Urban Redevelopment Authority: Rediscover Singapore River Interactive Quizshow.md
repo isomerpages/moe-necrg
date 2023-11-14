@@ -24,7 +24,7 @@ Students will find out more about how long-term planning, conservation, urban de
 
 **Duration of Session**: 2.5 hours per session
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Contact**: ura_outreach@ura.gov.sg
 
