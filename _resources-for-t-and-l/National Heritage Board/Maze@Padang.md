@@ -27,7 +27,7 @@ The game aims for students to learn about the significance of the Padang and the
 
 **Relevant Commemorative Days:** National Day
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 2 weeks in advance
 
