@@ -30,7 +30,7 @@ Students will be able to deepen their knowledge of Singapore’s history through
 
 **Capacity**: 3-4 per team (Max 2 teams per school) 
 
-**How to register?** Online through website link		
+**Mode of registration:** Online through website link		
 
 **Due Date for registration**: TBC (Jan 2024)		
 		
