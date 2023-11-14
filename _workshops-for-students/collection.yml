@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - National Arts Council (NAC).md
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
       - Spore Chinese Cultural Centre/Cultural Ambassadors Programme.md
