@@ -3,6 +3,7 @@ title: Corruzione
 permalink: /resources-for-t-and-l/cpib/corruzione/
 description: ""
 third_nav_title: CPIB
+variant: markdown
 ---
 Corruzione is a Web Game application that leverages on gamification to educate on the far-reaching consequences of corruption in a fun and interactive way. Through a restaurant simulation setting, players will have to face challenges and make decisions which emphasise the importance of honesty and integrity.
 
@@ -24,9 +25,9 @@ Players will learn how corruption can have far-reaching consequences, and the im
 
 **Duration of session:** Approximately 20 minutes
 
-**Website:** https://www.cpib.gov.sg/resources/corruzione-web-game
+**Website:** https://www.cpib.gov.sg/resources/corruzione-web-game 
 
-**How to register?**  By email
+**Mode of registration:** By email
 
 **Contact:** info@cpib.gov.sg
 
