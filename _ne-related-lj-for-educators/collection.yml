@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - National Environment Agency/.keep
       - Urban Redevelopment Authority/Rediscover Singapore River Interactive
         Quizshow.md
       - Urban Redevelopment Authority/.keep
