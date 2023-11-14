@@ -29,7 +29,8 @@ Students will learn about the customs and traditions of the different ethnic com
 
 **Website:** https://www.malayheritage.gov.sg/hrcatalogue/html5/index.html
 
-**How to register?** Online through website link.						
+**Mode of registration:**  Online through website link.						
+
 **Contact**: For further inquiry, please contact Ms Shereen at Shereen_Tan@nhb.gov.sg
 
 ![](/images/hari%20raya%20resources%20catalogue.jpg)
