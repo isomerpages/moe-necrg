@@ -31,7 +31,7 @@ Through guided field work, Students will learn about the history of Geylang Sera
 
 **Website**: https://www.bookmuseums.nhb.gov.sg/programmepreview/c69370c4-7ca3-4da4-bdf7-1ce40f1aa33a
 
-**How to register?** Online through website link.
+**Mode of registration:** Online through website link.
 
 **Due Date for registration**: 6 weeks in advance of visit		
 		
