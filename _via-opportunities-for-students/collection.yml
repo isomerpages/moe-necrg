@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - People's Assosciation.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
       - National Environment Agency/I am an Advocate of Singapore's Hawker
