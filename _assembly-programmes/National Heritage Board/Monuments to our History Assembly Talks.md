@@ -29,7 +29,7 @@ Students will be introduced to relevant National Monuments and gain a better und
 
 **Relevant Commemorative Days:** Total Defence Day, Racial Harmony Day, National Day
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 6-8 weeks in advance.
 
