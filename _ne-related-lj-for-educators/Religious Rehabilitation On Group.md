@@ -21,7 +21,7 @@ At the learning journey participants will:
 
 *As part of its outreach efforts, the RRG conducts school talks and workshops for students and educators on topics related to radicalisation, rehabilitation and the importance of social cohesion.
 
-**Target Audience**: Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)	
+**Target Audience**: Educators
 
 **Runtime**: All year round	
 
