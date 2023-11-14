@@ -31,7 +31,7 @@ Students will learn the importance of car-lite travel, and how they each can pla
 
 **Relevant Commemorative Days**: Earth Day
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 2 months in advance
 
