@@ -15,7 +15,7 @@ Join HCA for a learning journey to our day hospice – a day care centre for the
 		
 The Learning Journey will feature a 1hour talk on palliative and hospice care followed by a 30 minute tour of our Oasis@Outram Day Hospice. 
 
-**Learning Objectives	**	
+**Learning Objectives**	
 
 Together we can make a positive impact and redefine how we approach end-of-life care, ensuring that every person's last chapter is filled with dignity and compassion.
 
@@ -33,7 +33,7 @@ Together we can make a positive impact and redefine how we approach end-of-life 
 		
 **Relevant Commemorative Days**: World Hospice and Palliative Care Day	
 
-**How to register?** By email.		
+**Mode of registration:** By email.		
 
 **Due Date for registration**: 1 month in advance 		
 		
