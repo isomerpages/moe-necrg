@@ -2,6 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
+        Montage Competition.md
       - Central Narcotics Bureau/.keep
       - S'pore Chinese Cultural Centre/SCCC Resources.md
       - S'pore Chinese Cultural Centre/.keep
