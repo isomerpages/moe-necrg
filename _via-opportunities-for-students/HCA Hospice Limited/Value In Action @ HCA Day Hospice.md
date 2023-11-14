@@ -31,7 +31,7 @@ Students will find out more about hospice care services, get to interact with pa
 
 **Website**: https://hca.org.sg/
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: at least 3 months in advance
 
