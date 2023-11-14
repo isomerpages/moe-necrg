@@ -3,6 +3,7 @@ title: "The Corruption Casebook: Stories From Under The Table"
 permalink: /resources-for-t-and-l/cpib-the-corruption-casebook/
 description: ""
 third_nav_title: CPIB
+variant: markdown
 ---
 Co-written with a Straits Times copy editor, the book features 16 actual corruption cases investigated by CPIB in a short story format and features learning points for readers.
 
@@ -21,13 +22,13 @@ The book educates readers on the far-reaching consequences of corruption in vari
 
 **Modality**: Virtual
 
-**How to register?**  By email
+**Mode of registration:** By email
 
 **Website**: www.cpib.gov.sg/resources/corruption-casebook
 
 **Contact:** info@cpib.gov.sg
 
-> > Students have found the stories interesting, informative and easy to understand.
-
 ![](/images/image009.png)
 The Corruption Casebook – Stories From Under The Table
+
+> > Students have found the stories interesting, informative and easy to understand.
