@@ -30,7 +30,7 @@ Students will find out more about Singapore’s historical healthcare landscape 
 		
 **Website**: (https://heritage.kwsh.org.sg/)https://heritage.kwsh.org.sg/		
 
-**How to register?** By email. Registration via phone is also available @ 6422 1265		
+**Mode of registration:** By email. Registration via phone is also available @ 6422 1265		
 
 **Due Date for registration**: At least 3 weeks in advance 		
 		
