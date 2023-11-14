@@ -36,7 +36,7 @@ Through guided field work, Students will learn about the history of Kreta Ayer a
 
 **Website**: https://www.bookmuseums.nhb.gov.sg/programmepreview/3fa6d83a-f6a6-4076-b951-01441eb2e94b		
 
-**How to register?** Online through website link.	
+**Mode of registration:** Online through website link.	
 
 **Due Date for registration**: 6 weeks in advance of visit 		
 		
