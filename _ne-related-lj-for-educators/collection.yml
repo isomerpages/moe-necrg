@@ -2,6 +2,8 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - National Environment Agency/Learning Journey to Semakau Landfill and
+        Incineration Plants.md
       - National Environment Agency/.keep
       - Urban Redevelopment Authority/Rediscover Singapore River Interactive
         Quizshow.md
