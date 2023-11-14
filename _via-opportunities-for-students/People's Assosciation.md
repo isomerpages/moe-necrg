@@ -26,10 +26,17 @@ Students will be able to build a deeper understanding of the community they live
 
 **Capacity:** Maximum 300 students
 
-**Website**: https://www.caringcommuters.gov.sg
+**Relevant Commemorative Days**: International Friendship Day
 
 **Mode of Registration:** By email.
 
 **Due Date for registration**: 2 months in advance
 
 **Contact**: giam_jia_man@pa.gov.sg
+
+![](/images/PA1.jpg)Students taught participants how to play different traditional games such as congkak, five stones and Chinese chess.
+![](/images/PA2.jpg)Participants knock down cans with ping pong balls, testing their hand-eye coordination and dexterity.
+
+> The Service-Learning Champion Programme enabled our students to link up with beneficiaries and events in the constituency, allowing them to plan for activities and address real needs of the communities. Students also received constructive feedback from Limbang Youth Network which was valuable in helping them learn how to adapt and solve problems.
+
+*Mr Tan Yong Wei, KIA Coordinator, Kranji Secondary School*
