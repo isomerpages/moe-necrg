@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NE Community Resource Guide
+description: An e-guide for NE-related Learning Journeys
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: National Education Community Resources
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/picture 1.JPG
+      title: INVIGORATE INTERACT INSPIRE
+      subtitle: NE Community Resource Guide
+  - resources:
+      title: Latest News
+      button: FIND OUT MORE
+  - infobar:
+      title: What's New?
+      description: Links to OPAL 2.0 microsite
+      button: View here
+      url: home/overview of NE
 ---
-

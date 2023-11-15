@@ -1,0 +1,10 @@
+collections:
+  workshops-for-educators:
+    output: true
+    order:
+      - "Caring SG Commuters Committee: Public Transport Council.md"
+      - "Changi Airport Singapore/Hands on Service Design: Experience Design
+        Thinking with Changi Airport.md"
+      - Changi Airport Singapore/.keep
+      - Dialogue in the Dark Singapore/Workshops in the Dark.md
+      - Dialogue in the Dark Singapore/.keep

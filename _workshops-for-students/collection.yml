@@ -1,0 +1,17 @@
+collections:
+  workshops-for-students:
+    output: true
+    order:
+      - National Arts Council (NAC).md
+      - "Caring SG Commuters Committee: Public Transport Council.md"
+      - Changi Airport Singapore.md
+      - Spore Chinese Cultural Centre/Cultural Ambassadors Programme.md
+      - Spore Chinese Cultural Centre/.keep
+      - Singapore Courts/“A Day in Court” student seminar.md
+      - Singapore Courts/.keep
+      - Dialogue in the Dark Singapore/Learn to See Educational Workshop.md
+      - Dialogue in the Dark Singapore/Lunch in the Dark.md
+      - Dialogue in the Dark Singapore/4Sights.md
+      - Dialogue in the Dark Singapore/Spotlight on the Blind.md
+      - Dialogue in the Dark Singapore/.keep
+      - Urban Redevelopment Authority.md
