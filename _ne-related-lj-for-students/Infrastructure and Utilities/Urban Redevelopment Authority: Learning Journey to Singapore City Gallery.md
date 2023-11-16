@@ -29,7 +29,7 @@ Students will gain valuable insights on how URA brings plans to reality through 
 
 **Website**: https://www.ura.gov.sg/Corporate/Singapore-City-Gallery
 
-**How to register?** Online through website link, https://www.booking.gov.sg/public/services/8ZlQjdeM/availability?anonymous=true
+**Mode of registration:** Online through website link, https://www.booking.gov.sg/public/services/8ZlQjdeM/availability?anonymous=true
 
 **Contact**: ura_outreach@ura.gov.sg
 
