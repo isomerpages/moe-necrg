@@ -2,7 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Learning Journey to Singapore City Gallery.md
       - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
         Montage Competition.md
       - Central Narcotics Bureau/.keep
