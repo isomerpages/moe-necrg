@@ -27,7 +27,7 @@ Learning objectives will vary depending on the needs of your participants.
 
 **Website**: https://www.np.edu.sg/didsg
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: At least 4 weeks in advance
 
