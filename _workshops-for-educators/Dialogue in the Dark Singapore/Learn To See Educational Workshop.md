@@ -15,7 +15,7 @@ In groups of about 8, students will enter the different themed rooms at Dialogue
 
 Students will learn to better communicate and collaborate, as well as practise problem-solving and elements of leadership.  They will also develop self-awareness, and empathy for the blind community, and be encouraged to practise social inclusion.
 
-**Target Audience**: Eduators
+**Target Audience**: Educators
 
 **Runtime**: All year round
 
