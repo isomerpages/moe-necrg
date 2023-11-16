@@ -2,7 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
-      - National Arts Council/National Arts Council (NAC).md
+      - National Arts Council/Artists in School Scheme.md
       - National Arts Council/.keep
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
