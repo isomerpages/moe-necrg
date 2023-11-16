@@ -41,7 +41,7 @@ Students will be
 Sharing during an assembly
 
 ![](/images/photo%202%20see%20my%20world%20talk_ite.JPG)
-
+A cosy setting to hear from our blind guide
 
 
 > “Thank you so much for conducting the talk for our students. They found the talk very interesting and inspiring.”
