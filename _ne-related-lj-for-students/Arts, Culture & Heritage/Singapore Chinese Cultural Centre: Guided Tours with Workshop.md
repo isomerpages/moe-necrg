@@ -37,7 +37,7 @@ Participants will:
 
 **Website**: https://singaporeccc.org.sg/group-visits/#for-schools
 
-**How to register?** Online through website link or https://www.bookmuseums.nhb.gov.sg/
+**Mode of registration:** Online through website link or https://www.bookmuseums.nhb.gov.sg/
 
 **Due Date for registration**: 5 weeks in advance
 
