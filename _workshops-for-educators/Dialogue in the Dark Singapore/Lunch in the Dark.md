@@ -15,7 +15,7 @@ Staff/Students will be led to their table in total darkness in groups of up to 7
 
 Students/staff will get to foster team cohesivenes and energise team vitality in a fun, memorable way whilst also gaining insights into some of the challenges and views of someone living with a disability. They will also tap into their other senses as they enjoy their meal in total darkness, and develop a sense of gratitide for their sense of sight.
 
-**Target Audience**: Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Educators
 
 **Runtime**: All year round
 
