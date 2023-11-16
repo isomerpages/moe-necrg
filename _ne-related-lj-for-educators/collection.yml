@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Maritime & PAS/Singapore Maritime Gallery.md
       - Maritime & PAS/.keep
       - National Heritage Board/Monument Hunt in the Civic District.md
       - National Heritage Board/.keep
