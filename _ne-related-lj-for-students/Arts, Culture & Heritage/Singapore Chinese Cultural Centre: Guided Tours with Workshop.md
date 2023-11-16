@@ -44,9 +44,7 @@ Participants will:
 **Contact**: education@singaporeccc.org.sg
 
 ![](/images/Dunman_High_School_students_at_the_food_projection_table.JPG)
-
 Dunman High School students at the food projection table
 
 ![](/images/Guided_tour_with_workshop_for_Dunman_High_School.JPG)
-
 Guided tour with workshop for Dunman High School
