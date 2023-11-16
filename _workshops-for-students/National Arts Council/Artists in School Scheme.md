@@ -39,3 +39,6 @@ It is also hoped that students’ interactions with professional artists and art
 **Due Date for registration**: The application window for AISS projects taking place in CY 2024 will be open from 11 September – 23 October 2023. Applications are to be submitted via Form.Sg. Interested applicants may refer to the AISS 2024 Application Guide for Teachers and Grant Guidelines documents found on the AISS webpage.
 
 **Contact**: For general queries about AISS as a whole, please contact NAC Education Unit at nac_aep@nac.gov.sg. For programme-specific queries, schools should contact artists / arts professionals directly before submitting an application to NAC. Please note that ITQ still applies for projects above $6,000.
+
+![](/images/AISS_Photo_1.jpg)Artist-Educator Lim Huimin providing feedback on students' music compositions for an Artist-in-School Scheme project. *Credit: Suhaimi Abdullah*
+![](/images/AISS_Photo_2.jpg)Artist-Educator Saiful Abu Bakar guiding students as they hone their observational drawing techniques. *Credit: Suhaimi Abdullah*
