@@ -41,3 +41,9 @@ Participants will:
 **Due Date for registration**: 5 weeks in advance
 
 **Contact**: education@singaporeccc.org.sg
+
+![](/images/Online_session_with_Ang_Mo_Kio_Secondary_School_studentsE.jpg)
+Online session with Ang Mo Kio Secondary School students
+
+![](/images/A_completed_activity_sheet_E.jpg)
+A completed activity sheet
