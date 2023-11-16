@@ -42,3 +42,15 @@ Participants will:
 
 ![](/images/signature%20tour%20in%20the%20dark%20photo.JPG)
 Participants lining up to enter the tour
+
+> “The debrief was extremely helpful and enriching in allowing me to understand how the visually impaired experience their life. I also experienced my senses being heightened in the dark. It was extremely fun.” 
+> 
+- Teacher from a secondary school
+
+> “I saw the importance of having empathy and being inclusive. Everyone deserves to be treated equally." 
+
+- Student leader
+
+> “Enlightening! In the dark, I realised how important feedback and communication are."
+
+- Deputy Director, Civil Service organisation
