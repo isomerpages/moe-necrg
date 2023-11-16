@@ -56,7 +56,7 @@ session led by our blind guide
 -Teacher, Spectra Sec School
 
 > 
-“Fantastic effort to convert a physical session into an online session.” 
+> “Fantastic effort to convert a physical session into an online session.” 
 
 -Senior Counsellor, Ngee Ann Polytechnic
 
