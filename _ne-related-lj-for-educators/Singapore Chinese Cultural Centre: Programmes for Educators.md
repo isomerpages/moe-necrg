@@ -13,9 +13,8 @@ Join us every quarter for a guided tour of the exhibition, “SINGAPO人: Discov
 **Learning Objectives**
 
 Participants will: 
-
-•	Learn about the distinctiveness of Chinese Singaporean culture  
-•	Link the permanent exhibition content to Chinese and Character and Citizenship Education syllabuses
+* Learn about the distinctiveness of Chinese Singaporean culture  
+* Link the permanent exhibition content to Chinese and Character and Citizenship Education syllabuses
 
 **Target Audience**: Educators
 
@@ -33,8 +32,14 @@ Participants will:
 
 **Website**: https://singaporeccc.org.sg/group-visits/#for-educators;  https://singaporeccc.org.sg/group-visits/#for-general-publics
 
-**How to register?** Online through website link
+**Mode of registration:** Online through website link
 
 **Due Date for registration**: Please email for more details
 
 **Contact:** education@singaporeccc.org.sg
+
+![](/images/Teachers_learning_more_about_the_Chinese_in_SingaporeE.jpg)
+Teachers learning more about the Chinese in Singapore
+
+![](/images/Teachers_enjoying_themselves_at_the_projection_wall.jpg)
+Teachers enjoying themselves at the projection wall
