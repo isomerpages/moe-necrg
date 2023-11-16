@@ -31,8 +31,9 @@ Students will learn about Singapore’s transformation from a small trading post
 
 **Website**: https://go.gov.sg/sg-maritime-gallery
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 2 weeks in advance
 
 **Contact**: sgmaritimegallery@mpa.gov.sg
+
