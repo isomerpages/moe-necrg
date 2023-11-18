@@ -29,7 +29,7 @@ At the end of the programme, students will be equipped with critical, inventive 
 
 **Website**: https://fos.kindness.sg/
 
-**Mode of Registration:** Online through website linkBy email.
+**Mode of Registration:** Online through website link
 
 **Due Date for registration**: 31 January 2024
 
