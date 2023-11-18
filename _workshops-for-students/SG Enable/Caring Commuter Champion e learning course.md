@@ -30,3 +30,5 @@ Students will learn how they can play your part in creating a more inclusive and
 **Mode of Registration**Online through website link, Others: https://caringcommuterchampion.thinkific.com/courses/training
 
 **Contact**: imable@sgenable.sg
+
+![](/images/SG_Enable_Caring_Commuter_Champion.png)Caring Commuter Champion e-learning course
