@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - South East CDC/Sustainable Living @ South East.md
       - South East CDC/The Wormery Movement.md
       - South East CDC/.keep
       - SG Enable/Caring Commuter Champion e learning course.md
