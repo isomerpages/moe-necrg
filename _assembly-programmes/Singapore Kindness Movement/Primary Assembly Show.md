@@ -34,3 +34,7 @@ Students will learn to develop critical thinking and decision-making skills when
 **Due Date for registration**: Please book the show early with a minimum of 1 month notice.
 
 **Contact**: primary@kindness.sg
+
+![](/images/SKM__Primary_Assembly_1.jpg)Assembly Shows (Primary) Photo 1
+
+![](/images/SKM_Primary_Assembly_2.JPG)Assembly Shows (Primary) Photo 2
