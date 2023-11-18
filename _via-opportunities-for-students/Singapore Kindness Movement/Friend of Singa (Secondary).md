@@ -34,3 +34,5 @@ At the end of the programme, students will be equipped with critical, inventive 
 **Due Date for registration**: 31 January 2024
 
 **Contact**: secondary@kindness.sg
+
+![](/images/SKM_Friend_of_Singa__Secondary__Photo2.png)FOS (Sec) Logo
