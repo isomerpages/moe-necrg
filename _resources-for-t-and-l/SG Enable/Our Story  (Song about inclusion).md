@@ -33,3 +33,4 @@ Students can learn more about disability inclusion through a song as they delve 
 
 **Contact**: imable@sgenable.sg
 
+![](/images/SKM_1_Our_Story_MV.png)Thumbnail for "Our Story" Music Video
