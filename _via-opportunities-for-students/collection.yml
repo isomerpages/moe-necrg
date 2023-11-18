@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - Singapore Kindness Movement/.keep
       - KWSH Heritage Gallery Learning Journey.md
       - People's Assosciation.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
