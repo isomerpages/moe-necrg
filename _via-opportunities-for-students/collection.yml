@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - Singapore Kindness Movement/Friends of Singa (Primary).md
       - Singapore Kindness Movement/Friend of Singa (Secondary).md
       - Singapore Kindness Movement/.keep
       - KWSH Heritage Gallery Learning Journey.md
