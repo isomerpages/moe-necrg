@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - National Gallery Singapore/Memories of Architecture.md
       - National Gallery Singapore/.keep
       - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
         Talk & Holiday Experiential Programme.md
