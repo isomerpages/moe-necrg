@@ -26,3 +26,6 @@ Students and educators will be able to use the Conservation Portal for online re
 **Website**: https://www.ura.gov.sg/conservation-portal/intro
 	
 **Contact**: URA_Outreach@ura.gov.sg
+
+![](/images/MyConsPortal_logo.jpg)
+Logo
