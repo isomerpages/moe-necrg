@@ -27,8 +27,13 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 1 week in advance
 
 **Contact**: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools_am@lta.gov.sg.
+
+![](/images/Teacher_Guide.PNG)
+
+![](/images/Student_Activity_Book.PNG)
+‘Let’s Share Our Paths Safely and Graciously!’ Education Toolkit
