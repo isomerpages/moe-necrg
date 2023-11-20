@@ -16,10 +16,10 @@ The booklets include tips and information on caring behaviors that students can 
 
 **Target Audience**: Primary 1- P6 students
 		
-**Runtime**: All year round		
+**Runtime**: All year round, Programme will be launched in end 2023	
 		
 **Modality**: Hybrid		
 		
 **Website**: https://www.caringcommuters.gov.sg/ 	
 		
-**Contact**: TransportForAll@lta.gov.sg		
+**Contact**: TransportForAll@lta.gov.sg
