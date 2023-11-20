@@ -5,7 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: Ministry of Manpower (ACE)
 ---
-The MOM School Partnership Programme seeks to provide your students with informed perspectives of our migrant workforce by (i) raising their awareness on key issues involving our migrant workforce including policy considerations, (ii) building their appreciation for our migrant workers, and (iii) encouraging action in partnership with MOM on areas of interest. This in turn would equip your students with civic values and social-emotional competencies – such as appreciation of diversity, cultural sensitivity and empathy, in developing their social awareness to understand the perspectives and needs of people with different backgrounds or cultures.
+The MOM School Partnership Programme seeks to provide your students with informed perspectives of our migrant workforce by 
+* (i) raising their awareness on key issues involving our migrant workforce including policy considerations, 
+* (ii) building their appreciation for our migrant workers, and 
+* (iii) encouraging action in partnership with MOM on areas of interest. This in turn would equip your students with civic values and social-emotional competencies – such as appreciation of diversity, cultural sensitivity and empathy, in developing their social awareness to understand the perspectives and needs of people with different backgrounds or cultures.
 
 **Details**
 
@@ -29,8 +32,14 @@ Students will have a deeper understanding on migrant workforce issues, attain be
 
 **Relevant Commemorative Days**: International Migrants Day
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 2 months in advance
 
 **Contact**: youths@mom.gov.sg
+
+![](/images/NYJC_Photo1.jpg)
+Assembly talk at Nanyang JC - MOM speakers sharing with students on the support systems provided by the government and how they can help support our migrant workforce
+
+![](/images/TJC_Photo2.jpg)
+Learning Journey - Temasek JC students interacting with migrant worker residents during a dormitory learning journey
