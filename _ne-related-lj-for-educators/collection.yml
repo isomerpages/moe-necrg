@@ -2,6 +2,8 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - "Singapore Courts/Transcending Time and Space: Judicial Heritage Gallery
+        @ Supreme Court.md"
       - Singapore Courts/.keep
       - Land Transport Authority/Singapore Mobility Gallery.md
       - Land Transport Authority/.keep
