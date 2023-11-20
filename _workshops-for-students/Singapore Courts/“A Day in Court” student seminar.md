@@ -29,8 +29,14 @@ Students will gain an understanding of the role of the Courts, and what students
 
 **Capacity**: To be advised through invitation
 
-**How to register?** Online through website link when registration opens.
+**Mode of registration:** Online through website link when registration opens.
 
 **Due Date for registration**: Invitation will be sent at least one month in advance.
 
 **Contact**: Contact Judiciary_Comms@judiciary.gov.sg if you have any queries.
+
+![](/images/Hl_44.jpg)
+Students will learn about the role of the Courts from our court staff.
+
+![](/images/Hl_57.jpg)
+Students will engage in fun and interactive activities/ discussions with their peers from other schools.
