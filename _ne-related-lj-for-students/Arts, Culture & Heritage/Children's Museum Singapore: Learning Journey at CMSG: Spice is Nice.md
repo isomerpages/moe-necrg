@@ -15,26 +15,27 @@ Ahoy! Ahoy! Meet our friends, Pandan and Chilli!  Let them bring you on a time t
 		
 **Learning Objectives**
 
+Pupils will learn more about:  
+* the different spices and their uses. 
+* the different types of cargoes that were brought into Singapore. 
+* the different occupations and lives in the early days of Singapore marketplace.
+		
+**Target Audience**: Primary 1- 3 students
+		
+**Runtime**: All year round		
+		
+**Fee**: $15		
+		
+**Modality**: In-person
+		
+**Duration of Session**: 1 hour 45 minutes	
+		
+**Capacity**: 50		
+		
+**Relevant Commemorative Days**: International Friendship Day, Racial Harmony Day		
 
+**Mode of registration**: Online through website link	
 		
-Target Audience: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
+**Due Date for registration**: 6 weeks in advance		
 		
-Runtime: All year round		
-		
-Fee: Complimentary		
-		
-Modality: In-person, Virtual, Hybrid		
-		
-Duration of Session: 		
-		
-Capacity: 		
-		
-Relevant Commemorative Days: 		
-		
-Website:		
-		
-Mode of registration: By email.		
-		
-Due Date for registration: 		
-		
-Contact: 		
+**Contact**: nhb_cmsg_edu@nhb.gov.sg		
