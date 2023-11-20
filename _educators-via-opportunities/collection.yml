@@ -2,6 +2,7 @@ collections:
   educators-via-opportunities:
     output: true
     order:
+      - HCA Hospice Limited/HCA Values In Action @ HCA Day Hospice.md
       - HCA Hospice Limited/.keep
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
