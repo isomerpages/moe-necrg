@@ -4,7 +4,6 @@ permalink: /resources-for-t-and-l/cpfb/
 description: ""
 variant: markdown
 ---
-### ‘Catching Insomnia’ Digital Escape Game
 As part of NE efforts to instil national identity and the spirit of togetherness in the young, the CPF topic is introduced in the curriculum to seed early appreciation and understanding of the role it plays in Singapore and the importance of active saving to meet key needs in life. Using an immersive storytelling approach to shed light on the intricate link between sleep, emotions and financial decisions in the metaverse, ‘Catching Insomnia’ aims to impel youths to make smart decisions with their money and life, not emotional ones. With an intriguing fantasy plot, a plethora of puzzles, mind-boggling clues and nerve-wrecking time limit, this game guarantees a learning experience like no other!
 
 **Details**
