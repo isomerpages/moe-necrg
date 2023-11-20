@@ -28,3 +28,6 @@ Students and educators will be able to use the City Stories platform to go on a 
 **Website**: http://citystories.sg/
 
 **Contact**: URA_Outreach@ura.gov.sg
+
+![](/images/CityStories_Visual_Publicity.jpg)
+Banner photo for City Stories
