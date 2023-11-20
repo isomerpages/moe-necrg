@@ -36,3 +36,9 @@ Pupils will learn more about  -	the flora and fauna in Singapore and Southeast A
 **Due Date for registration**: 6 weeks in advance
 
 **Contact**: nhb_cmsg_edu@nhb.gov.sg
+
+
+
+> The pupils were very curious about the exhibits and learnt about Singapore and the various birthday traditions in a fun and engaging way. 
+
+-Teacher from Hong Wen School
