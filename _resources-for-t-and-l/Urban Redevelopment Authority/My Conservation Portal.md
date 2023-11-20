@@ -15,7 +15,7 @@ My Conservation Portal is an online resource that can be accessed by educators, 
 
 Students and educators will be able to use the Conservation Portal for online research on conserved buildings, structures and historical areas across Singapore. Besides write-ups on the history of conserved buildings, places and structures, this resource features photographs and plans from URA’s rich archives. This would help students to develop analytical and research skills. At the same time, it would also help them gain an understanding of conservation and planning principles that shape Singapore as a city and nation.
 
-**Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)	
+**Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE), Educators
 	
 **Runtime**: All year round	
 	
