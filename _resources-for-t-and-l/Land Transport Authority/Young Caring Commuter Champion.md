@@ -14,7 +14,7 @@ There are two volumes available – one catered for Lower Primary students and t
 **Learning Objectives**		
 The booklets include tips and information on caring behaviors that students can learn and apply when they travel on the public transport.
 
-**Target Audience**: Primary 4- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Primary 1- P6 students
 		
 **Runtime**: All year round		
 		
