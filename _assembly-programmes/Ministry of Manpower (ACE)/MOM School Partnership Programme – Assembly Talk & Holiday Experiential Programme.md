@@ -28,8 +28,14 @@ Students will have a deeper understanding on migrant workforce issues, attain be
 
 **Relevant Commemorative Days**: International Migrants Day
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: 2 months in advance
 
 **Contact**: youths@mom.gov.sg
+
+![](/images/TMJC_Photo1.jpg)
+Assembly talk – MOM speakers sharing with Tampines Meridian JC students on the support systems provided by the government and how they can help support our migrant workforce
+
+![](/images/HEP_Photo2.jpg)
+Holiday Experiential Programme - Students from various schools visiting Our Migrant Workers’ Gallery at 3 Geylang Bahru Lane during their Holiday Experiential Programme
