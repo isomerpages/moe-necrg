@@ -18,7 +18,7 @@ The Learning Court leverages cutting-edge interactive multimedia to educate, eng
 
 Students will experience the work of the Supreme Court and how it impacts the man on the street. The Learning Court is an interactive learning space that showcases Singapore’s court system, and the role of the Supreme Court.
 
-**Target Audience**: Primary 5- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Educators
 
 **Runtime**: All year round
 
