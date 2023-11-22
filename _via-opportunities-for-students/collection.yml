@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - Housing and Development Board/.keep
       - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
         Talk & Values In Action Opportunities.md
       - Ministry of Manpower (ACE)/.keep
