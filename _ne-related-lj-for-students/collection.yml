@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
+      - Sports/Kallang Alive Sports Management Co KASM Pte Ltd.md
       - Sports/.keep
       - "Aviation/Changi Airport Singapore: Creating a Stress Free Changi
         Experience.md"
