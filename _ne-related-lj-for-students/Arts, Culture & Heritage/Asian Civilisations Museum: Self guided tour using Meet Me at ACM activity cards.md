@@ -10,3 +10,5 @@ Download activity cards that you can use with your students in the galleries. Th
 Max 120 pax (split into smaller groups). See Terms and Conditions for more info.
 Admission fees may differ during special exhibitions. Check out 
  https://www.nhb.gov.sg/acm/visit/admissions
+ 
+ 
