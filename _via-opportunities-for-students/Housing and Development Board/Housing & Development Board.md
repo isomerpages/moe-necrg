@@ -5,9 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: Housing and Development Board
 ---
-### Lively Places Programme
 
-The Lively Places Programme aims to support community-led efforts in enlivening Singapore’s public spaces. Under this programme, schools can organise activities in public spaces that bring communities together or create installations that enliven our public spaces.
+The Lively Places Programme aims to support community-led efforts in enlivening Singapore’s public spaces. Under this prograchools can organise activities in public spaces that bring communities together or create installations that enliven our public spaces.
 
 **Detail**
 	
