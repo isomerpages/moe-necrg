@@ -33,3 +33,6 @@ Students will learn about colourful Peranakan culture through a specially curate
 **Due Date for registration**: 42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Guided_tour__Anak_Anak_at_the_Peranakan_Museum.png)
+Students engaged in a tour at the Peranakan Museum
