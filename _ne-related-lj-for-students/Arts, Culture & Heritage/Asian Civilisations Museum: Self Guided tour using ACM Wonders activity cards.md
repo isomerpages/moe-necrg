@@ -34,3 +34,6 @@ Students will learn about ACM's collection, featuring objects from Asia/Southeas
 **Due Date for registration**: 	7 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/ACMVentures_2.jpg)
+Explore artefacts up close using ACM Wonders activity cards.
