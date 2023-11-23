@@ -37,3 +37,6 @@ Students will learn to:
 **Due Date for registration**: 6 weeks prior the selected date of the Values-In Action programme, subject to NEA's approval.		
 		
 **Contact**: sghawkerculture@nea.gov.sg
+
+![](/images/VIA_Programme___Hawker_Culture_.jpg)
+East Coast Lagoon Food Village commenced operations in 1978. The hawker centre underwent several major upgrading exercises in 1988, 1992 and 2002. During the 2002 revamp, the structure of the new food centre was transformed to reflect Balinese-style architecture to look resort-like, to make full use of its unique location next to the beach.
