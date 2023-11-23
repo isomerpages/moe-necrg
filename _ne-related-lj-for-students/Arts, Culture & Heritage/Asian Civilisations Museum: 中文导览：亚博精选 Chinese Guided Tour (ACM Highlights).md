@@ -34,3 +34,6 @@ Students will discover Asia/Southeast Asia highlights from the ACM collection an
 **Due Date for registration**: 42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Chinese_guided_tour.jpg)
+Docent engaging students at ACM
