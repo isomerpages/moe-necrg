@@ -14,8 +14,8 @@ A travelling exhibition about Chinese festivals and the values they embody.
 **Learning Objectives**		
 		
 Participants will: 
-•	Learn about the distinctiveness of Chinese Singaporean culture  
-•	Experience a new way of learning out of the classroom
+* Learn about the distinctiveness of Chinese Singaporean culture  
+* Experience a new way of learning out of the classroom
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
 		
