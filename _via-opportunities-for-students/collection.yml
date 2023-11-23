@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - Overview.md
       - Housing and Development Board/Friends of Our Heartlands Network.md
       - Housing and Development Board/Lively Places Programme.md
       - Housing and Development Board/.keep
