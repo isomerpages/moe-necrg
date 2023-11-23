@@ -23,3 +23,6 @@ The booklets include tips and information on caring behaviors that students can 
 **Website**: https://www.caringcommuters.gov.sg/ 	
 		
 **Contact**: TransportForAll@lta.gov.sg
+
+![](/images/Caring_SG_Commuters_Logo1.png)
+Caring SG Commuters Logo
