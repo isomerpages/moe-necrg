@@ -34,3 +34,5 @@ Students will discover connections between the diverse cultures of Asia, and how
 **Due Date for registration**: 	42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Cross_cultural_Art_1.jpg)Docent engaging students at ACM
