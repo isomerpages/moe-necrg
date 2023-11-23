@@ -39,6 +39,9 @@ What was life in Southeast Asia like in the past? Your students will be guided b
 	
 **Contact**: 	nhb_acm_edu@nhb.gov.sg
 
+![](/images/MBL_1__1_.jpg)
+Museum Educator engaging Primary 6 students at Museum-based Learning Programme
+
 > “Love the story-telling concept and also the activity booklet.” 
 
 -Primary 6 student
