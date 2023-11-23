@@ -36,3 +36,6 @@ Students will learn about ACM's collection, featuring objects from Asia/Southeas
 **Due Date for registration**: 	42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Meet_Me_3.jpg)
+Young audience exploring artefacts up close using Meet Me at ACM activity cards.
