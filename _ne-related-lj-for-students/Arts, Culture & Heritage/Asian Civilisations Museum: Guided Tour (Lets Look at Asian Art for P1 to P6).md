@@ -34,3 +34,6 @@ Student will use active looking to explore different Asian art and mythical crea
 **Due Date for registration**: 	42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Let_s_Look_at_Asian_Art_P1_to_6.jpg)
+Docent engaging students at ACM
