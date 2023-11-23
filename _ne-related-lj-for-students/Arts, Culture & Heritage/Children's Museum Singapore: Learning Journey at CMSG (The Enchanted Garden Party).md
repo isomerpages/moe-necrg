@@ -38,4 +38,10 @@ Pupils will learn more about:
 		
 **Due Date for registration**: 6 weeks in advance	
 		
-**Contact**: nhb_cmsg_edu@nhb.gov.sg		
+**Contact**: nhb_cmsg_edu@nhb.gov.sg
+
+![](/images/PHPPS_Pupil_in_The_Enchanted_Party.png)
+A pupil of Pei Hwa Presbyterian Primary School posing with one of the outfits for the birthday party.
+
+![](/images/AKK_in_action_w_PHPPS_pupils.jpg)
+Our facilitator, Ang Ku Kueh, engaging a group of Primary 2 pupils from Pei Hwa Presbyterian Primary School to use their senses.
