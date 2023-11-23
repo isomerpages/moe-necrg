@@ -2,20 +2,6 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - National Arts Council/Arts Education Programme.md
-      - National Arts Council/.keep
-      - National Gallery Singapore/Memories of Architecture.md
-      - National Gallery Singapore/.keep
-      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
-        Talk & Holiday Experiential Programme.md
-      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
-        Talk & Values In Action Opportunities.md
-      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
-        Talk & Learning Journey.md
-      - Ministry of Manpower (ACE)/.keep
-      - National Heritage Board/Monuments to our History Assembly Talks.md
-      - National Heritage Board/.keep
-      - Dialogue in the Dark Singapore.md
       - Overview.md
       - Caring SG Commuters Committee – Public Transport Council and Land
         Transport Authority.md
@@ -23,19 +9,33 @@ collections:
       - Central Narcotics Bureau/Interactive Skits.md
       - Central Narcotics Bureau/School Talk and Exhibition.md
       - Corrupt Practices Investigation Bureau (CPIB).md
-      - People's Association.md
-      - The National Kidney Foundation.md
+      - Dialogue in the Dark Singapore.md
       - Housing & Development Board.md
+      - Land Transport Authority/.keep
       - Land Transport Authority/Sustainability I Have the Ability! Assembly
         Show.md
       - Land Transport Authority/Path Safety Programme.md
       - Land Transport Authority/Be a Vigilant Commuter.md
-      - Land Transport Authority/.keep
       - Ministry of Health.md
+      - Ministry of Manpower (ACE)/.keep
+      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
+        Talk & Holiday Experiential Programme.md
+      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
+        Talk & Values In Action Opportunities.md
+      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
+        Talk & Learning Journey.md
+      - National Arts Council/.keep
+      - National Arts Council/Arts Education Programme.md
+      - National Gallery Singapore/.keep
+      - National Gallery Singapore/Memories of Architecture.md
+      - National Heritage Board/.keep
+      - National Heritage Board/Monuments to our History Assembly Talks.md
       - OnePeoplesg.md
+      - People's Association.md
       - Singapore Kindness Movement/.keep
       - Singapore Kindness Movement/Secondary School Post Secondary (Junior
         College and Centralised Institute) Assembly Show.md
       - Singapore Kindness Movement/Primary Assembly Show.md
       - Singapore Kindness Movement/Overview.md
       - South West CDC.md
+      - The National Kidney Foundation.md
