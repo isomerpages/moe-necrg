@@ -35,4 +35,7 @@ Participants will:
 		
 **Due Date for registration**: Please email us to find out how to bring this exhibition to your school.	
 		
-**Contact**: education@singaporeccc.org.sg		
+**Contact**: education@singaporeccc.org.sg
+
+![](/images/Festivals_Unlocked_Overview.jpg)
+A mock-up of the exhibition
