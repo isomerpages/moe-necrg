@@ -30,3 +30,6 @@ Through simple activities, comics, kindness tips and contests, students will lea
 **Mode of registration**: No registration is needed.
 	
 **Contact**: Please email (Ms) Roxanne Lim at roxanne@kindness.sg
+
+![](/images/Kindsville_Times_and_AOK_Photo1_FINAL.jpg)
+Cover designs for Kindsville Times/A-OK! 2023
