@@ -34,3 +34,6 @@ This tour puts a spotlight on the links between Singaporeans and their ancestral
 **Due Date for registration**: 42 days in advance
 	
 **Contact:** 	nhb_acm_edu@nhb.gov.sg
+
+![](/images/Intro_to_Ancestral_Cultures_1.jpg)
+Docent engaging students at ACM
