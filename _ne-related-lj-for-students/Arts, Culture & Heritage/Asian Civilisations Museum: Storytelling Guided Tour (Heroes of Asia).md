@@ -35,3 +35,6 @@ Students will learn valuable life lessons through these stories focusing on figu
 **Due Date for registration**: 42 days in advance
 	
 **Contact**: nhb_acm_edu@nhb.gov.sg
+
+![](/images/Heroes_of_Asia.jpg)
+Docent engaging a young audience
