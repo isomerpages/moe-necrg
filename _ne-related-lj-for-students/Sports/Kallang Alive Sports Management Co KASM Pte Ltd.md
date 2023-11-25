@@ -28,3 +28,37 @@ The Singapore Sports Hub is a key project in the Government of Singapore. Singap
 **Site 2: Singapore Sports Museum**
 
 Established in 1983, the Singapore Sports Museum, whose opening coincided with the staging of the 12th Southeast Asian (SEA) Games in Singapore, was originally located at the West Entrance of the previous National Stadium. The Museum seeks to preserve, the legacy and heritage of sports in Singapore, well into the future. Here, we honour the best of our sportsmen and women who through their quest for the pinnacle of success provide inspiration to budding athletes.
+
+**Details**
+
+The Learning Journey, designed for groups of up to 24 participants, features a tour of Singapore Sports Hub sporting and lifestyle facilities, including the National Stadium. Participants will also explore the Singapore Sports Museum, learning about Singapore's sporting history and heroes. This enriching journey highlights the diverse aspects of the Singapore Sports Hub, its purpose, and achievements.
+
+*Venue tours of all our venues, including the National Stadium, are strictly subject to availability due to on-site events, set-up and/or maintenance requirements on your selected date.
+
+**Learning Objectives**
+
+* Instil a sense of pride in students on Singapore’s sporting achievements and history 
+* Enhance their understanding on the role of Sports Hub in the local sporting and community landscape 
+* Witness and learn on how Singapore Sports Hub curate engaging experiences for local and international audience
+
+**Target Audience**: Primary 1 - 6 students, Secondary 1 - 4/5 students, Post Secondary (JC/ Poly/ ITE)
+
+**Runtime:** All year round
+
+**Fee:** Please email for more details
+
+**Modality:** In-person
+
+**Duration of Session:** 2 hours
+
+**Capacity**: Maximum of 24 pax per group (4 groups max per timeslot)
+
+**Mode of Registration:** By email.
+
+**Due Date for registration**: 2 weeks in advance
+
+**Contact**: bookatour@sportshub.com.sg
+
+![](/images/Sports_Hub_LJ_NST_Viewing_1.jpg)Singapore Sports Hub Learning Journey\_National Stadium
+![](/images/Sports_Hub_Singapore_Sports_Museum_Viewing_2.jpg)Singapore Sports Hub Learning Journey\_Singapore Sports Museum
+![](/images/Sports_Hub_Singapore_Sports_Museum_Viewing_3.jpg)
