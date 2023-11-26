@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - National Parks Board/Biodiversity Week for Schools.md
       - National Parks Board/.keep
       - Central Provident Fund Board/‘Catching Insomnia’ Digital Escape Game.md
       - Central Provident Fund Board/.keep
