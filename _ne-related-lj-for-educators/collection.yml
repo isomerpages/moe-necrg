@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - National Library Board/Former Ford Factory Guided Tours and Programmes.md
-      - National Library Board/.keep
-      - Singapore Police Force/Police Heritage Centre (PHC) Tour.md
-      - Singapore Police Force/.keep
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
       - Changi Airport Singapore/Planning The Best Airport Of The Future.md
@@ -21,6 +17,10 @@ collections:
       - HCA Hospice/Oasis at The End of Life.md
       - Land Transport Authority/.keep
       - Land Transport Authority/Singapore Mobility Gallery.md
+      - National Library Board/.keep
+      - National Library Board/Former Ford Factory Guided Tours and Programmes.md
+      - Singapore Police Force/.keep
+      - Singapore Police Force/Police Heritage Centre (PHC) Tour.md
       - Maritime & PAS/.keep
       - Maritime & PAS/Singapore Maritime Gallery.md
       - National Environment Agency/.keep
