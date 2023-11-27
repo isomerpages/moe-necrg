@@ -36,3 +36,5 @@ Relevant Commemorative Days: National Day
 **Due Date for registration**: 1 month in advance
 
 **Contact**: nparks_sbg_edu@nparks.gov.sg
+
+![](/images/npark_lj_1.jpg)Learning Journeys
