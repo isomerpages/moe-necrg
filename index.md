@@ -14,8 +14,7 @@ sections:
       title: Latest News
       button: FIND OUT MORE
   - infobar:
-      title: What's New?
-      description: Links to OPAL 2.0 microsite
-      button: View here
+      title: Looking to publish on NECRG?
+      description: Email to koh_mun_ling@moe.gov.sg for more details.
       url: home/overview of NE
 ---
