@@ -2,8 +2,6 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
-      - National Parks Board/Youth Stewards for Nature.md
-      - National Parks Board/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
@@ -20,6 +18,8 @@ collections:
       - National Environment Agency/.keep
       - National Environment Agency/I am an Advocate of Singapore's Hawker
         Culture.md
+      - National Parks Board/.keep
+      - National Parks Board/Youth Stewards for Nature.md
       - People's Assosciation.md
       - Singapore Kindness Movement/.keep
       - Singapore Kindness Movement/Seed Kindness Fund.md
