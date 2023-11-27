@@ -2,10 +2,6 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - National Library Board/Be SURE with Fake News.md
-      - National Library Board/Be SURE with Generative AI.md
-      - National Library Board/Be SURE with Academic Research.md
-      - National Library Board/.keep
       - Overview.md
       - Caring SG Commuters Committee – Public Transport Council and Land
         Transport Authority.md
@@ -32,9 +28,13 @@ collections:
       - National Gallery Singapore/Memories of Architecture.md
       - National Heritage Board/.keep
       - National Heritage Board/Monuments to our History Assembly Talks.md
+      - National Library Board/.keep
+      - National Library Board/Be SURE with Fake News.md
+      - National Library Board/Be SURE with Generative AI.md
+      - National Library Board/Be SURE with Academic Research.md
+      - National Parks Board/.keep
       - National Parks Board/Responsible Pet Ownership.md
       - National Parks Board/School Talks.md
-      - National Parks Board/.keep
       - National Parks Board/School Plays.md
       - People's Association.md
       - Singapore Kindness Movement/.keep
