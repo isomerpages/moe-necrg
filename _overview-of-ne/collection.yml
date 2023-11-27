@@ -2,6 +2,6 @@ collections:
   overview-of-ne:
     output: true
     order:
-      - Key Thrusts in the Design of NE Experiences.md
       - What is National Education?.md
+      - Key Thrusts in the Design of NE Experiences.md
       - Key Citizenship Disposition.md
