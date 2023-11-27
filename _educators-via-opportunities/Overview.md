@@ -4,4 +4,4 @@ permalink: /educators-via-opportunities/overview/
 variant: markdown
 description: ""
 ---
-![](/images/cohort_LJ_cover.PNG)
+![](/images/VIA_cover.PNG)
