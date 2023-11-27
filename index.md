@@ -15,6 +15,6 @@ sections:
       button: FIND OUT MORE
   - infobar:
       title: Looking to publish on NECRG?
-      description: Email to koh_mun_ling@moe.gov.sg for more details.
+      description: Email to MOE_CCEB@moe.gov.sg for more details.
       url: home/overview of NE
 ---
