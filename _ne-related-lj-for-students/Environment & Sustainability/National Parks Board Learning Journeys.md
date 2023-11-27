@@ -26,12 +26,12 @@ Embark on a learning journey through our parks and gardens, about the diversity 
 **Duration of Session:** 2 hours
 
 **Website**: https://www.nparks.gov.sg/activities/workshops-and-guided-walks/c-singapore-botanic-gardens
-
+****
 **Mode of Registration:** By email, online through website link
 
-Capacity: email for more info
+**Capacity**: email for more info
 
-Relevant Commemorative Days: National Day
+**Relevant Commemorative Days**: National Day
 
 **Due Date for registration**: 1 month in advance
 
