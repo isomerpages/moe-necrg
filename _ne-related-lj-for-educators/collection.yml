@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - Overview.md
       - National Library Board/Former Ford Factory Guided Tours and Programmes.md
       - National Library Board/.keep
       - Singapore Police Force/Police Heritage Centre (PHC) Tour.md
