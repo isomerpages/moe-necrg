@@ -2,6 +2,7 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - Singapore Food Agency/.keep
       - ECO/Heritage On The Move.md
       - ECO/.keep
       - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
