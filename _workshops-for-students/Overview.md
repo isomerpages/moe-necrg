@@ -1,6 +1,7 @@
 ---
 title: Overview
 permalink: /workshops-for-students/overview/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/pic_3.PNG)
