@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - National Heritage Board/Asian Civilisations Musuem.md
       - National Heritage Board/.keep
       - "National Heritage Board/Museum Based Learning: Culture Archives.md"
       - "National Heritage Board/Museum Based Learning: Tales of the Emporium.md"
