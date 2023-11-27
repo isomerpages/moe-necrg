@@ -5,6 +5,8 @@ description: ""
 third_nav_title: National Heritage Board
 variant: markdown
 ---
+### Museum Based Learning: Tales of the Emporium
+
 Travel with us to the emporium of Geylang Serai and join our expedition to learn about the contributions of the Malay community! Students, playing the role of young explorers, will visit Geylang Serai Heritage Gallery and discover the rich history of the area. They will also learn about leisure activities from yesteryear and the pasar (market) as a centre for food and goods for special occasions celebrated by the Malay and Muslim community.
 
 **Details**
