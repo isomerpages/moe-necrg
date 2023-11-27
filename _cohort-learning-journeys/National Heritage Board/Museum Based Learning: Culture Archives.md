@@ -5,6 +5,8 @@ description: ""
 third_nav_title: National Heritage Board
 variant: markdown
 ---
+### Museum Based Learning: Culture Archive
+
 Take a trip with us to the cultural heartland of Kreta Ayer and join our “research team” to learn more about the contributions of the Chinese community! Students, playing the role of young researchers, will visit Kreta Ayer Heritage Gallery and study the Intangible Cultural Heritage of five cultural arts – Chinese Opera, Chinese Puppetry, Chinese Calligraphy, Chinese Tea and Nanyin. They will also learn about the shophouses of the area and the history of a former famous street, Sago Lane.
 
 **Details**
