@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - National Library Board/Be SURE with Generative AI.md
       - National Library Board/Be SURE with Academic Research.md
       - National Library Board/.keep
       - "Caring SG Commuters Committee: Public Transport Council.md"
