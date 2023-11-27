@@ -16,5 +16,4 @@ We would love to hear your thoughts on the changes we have made. Feel free to co
 
 Wishing you a wonderful and exciting 2024 ahead!
 
-The NE Resource Guide 
-Joey & Mun Ling
+The NE Resource Guide Team (Joey & Mun Ling)
