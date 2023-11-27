@@ -2,8 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - "Singapore Food Agency/Food Security: Feeding a Nation.md"
-      - Singapore Food Agency/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
@@ -46,6 +44,8 @@ collections:
       - SG Enable/Our Story  (Song about inclusion).md
       - S'pore Chinese Cultural Centre/.keep
       - S'pore Chinese Cultural Centre/SCCC Resources.md
+      - Singapore Food Agency/.keep
+      - "Singapore Food Agency/Food Security: Feeding a Nation.md"
       - Singapore Kindness Movement/.keep
       - Singapore Kindness Movement/Kindsville Times and AOK!.md
       - Urban Redevelopment Authority/.keep
