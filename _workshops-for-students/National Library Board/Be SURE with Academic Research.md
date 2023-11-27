@@ -21,7 +21,7 @@ Students will learn how to craft a reseach scope by analysing a topic statement,
 
 **Runtime:** All year round
 
-**Fee:** Please email for more details
+**Fee:** Complimentary
 
 **Modality:** In-person, Virtual
 
@@ -32,8 +32,6 @@ Students will learn how to craft a reseach scope by analysing a topic statement,
 **Mode of Registration:** By email
 
 **Capacity**: Minimum 160 pax
-
-**Relevant Commemorative Days**: National Day
 
 **Due Date for registration**: 1 month in advance
 
