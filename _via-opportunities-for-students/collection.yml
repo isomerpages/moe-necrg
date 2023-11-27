@@ -2,6 +2,7 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
+      - National Parks Board/Youth Stewards for Nature.md
       - National Parks Board/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
