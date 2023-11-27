@@ -23,15 +23,13 @@ To educate students on Singapore's City in Nature journey, conservation of our g
 
 **Modality:** In-person
 
-**Website**: https://www.nparks.gov.sg/activities/workshops-and-guided-walks/c-singapore-botanic-gardens
+**Website**: https://www.nparks.gov.sg/learning/programmes-for-schools/talks-and-exhibitions-for-schools
 
 **Mode of Registration:** By email, online through website link
 
 **Capacity**: email for more info
 
 **Due Date for registration**: 1 month in advance
-
-**Website**: https://www.nparks.gov.sg/learning/programmes-for-schools/talks-and-exhibitions-for-schools
 
 **Contact**: raymond_chan@nparks.gov.sg
 
