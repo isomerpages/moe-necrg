@@ -3,24 +3,22 @@ collections:
     output: true
     order:
       - Arts, Culture & Heritage/.keep
-      - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
-        the Peranakan Museum).md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: 中文导览：亚博精选 Chinese
-        Guided Tour (ACM Highlights).md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour
-        (Introduction to Ancestral Cultures).md"
-      - Arts, Culture & Heritage/National Gallery Singapore.md
-      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self Guided tour
-        using ACM Wonders activity cards.md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self guided tour
-        using Meet Me at ACM activity cards (9 to 12 yrs old).md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self guided tour
-        using Meet Me at ACM activity cards (5 to 8yrs old).md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Lets
-        Look at Asian Art for P1 to P6).md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour
+        (Introduction to Ancestral Cultures).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Lets
+        Look at Asian Art for P1 to P6).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: 中文导览：亚博精选 Chinese
+        Guided Tour (ACM Highlights).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self guided tour
+        using Meet Me at ACM activity cards (5 to 8yrs old).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self guided tour
+        using Meet Me at ACM activity cards (9 to 12 yrs old).md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Self Guided tour
+        using ACM Wonders activity cards.md"
+      - "Arts, Culture & Heritage/Asian Civilisations Museum: Storytelling
+        Guided Tour (Heroes of Asia).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
         at CMSG (The Enchanted Garden Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
@@ -29,16 +27,18 @@ collections:
         at CMSG (A maze ing Birthday Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Self guided Visit
         at CMGS (A Voyage Back in Time).md"
-      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
+      - Arts, Culture & Heritage/National Gallery Singapore.md
+      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
       - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
-      - "Arts, Culture & Heritage/Asian Civilisations Museum: Storytelling
-        Guided Tour (Heroes of Asia).md"
+      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
       - "Arts, Culture & Heritage/National Arts Council: Arts Education
         Programme.md"
-      - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Guided
-        Tours with Workshop.md"
+      - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
+        the Peranakan Museum).md"
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Guided
         Tours.md"
+      - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Guided
+        Tours with Workshop.md"
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Online
         School Prgrammes.md"
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Self Guided
