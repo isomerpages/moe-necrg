@@ -2,15 +2,15 @@ collections:
   workshops-for-educators:
     output: true
     order:
-      - Indian Heritage Centre/Tamil Guiding Training Programme for Teachers.md
-      - Indian Heritage Centre/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
+      - Changi Airport Singapore/.keep
       - "Changi Airport Singapore/Hands on Service Design: Experience Design
         Thinking with Changi Airport.md"
-      - Changi Airport Singapore/.keep
+      - Dialogue in the Dark Singapore/.keep
       - Dialogue in the Dark Singapore/Learn To See Educational Workshop.md
       - Dialogue in the Dark Singapore/Lunch in the Dark.md
       - Dialogue in the Dark Singapore/Spotlight on the Blind.md
       - Dialogue in the Dark Singapore/Workshops in the Dark.md
-      - Dialogue in the Dark Singapore/.keep
+      - Indian Heritage Centre/.keep
+      - Indian Heritage Centre/Tamil Guiding Training Programme for Teachers.md
