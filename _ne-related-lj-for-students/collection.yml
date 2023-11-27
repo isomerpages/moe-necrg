@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
+      - Education and Career Guidance/Lifelong Learning Institute.md
       - Education and Career Guidance/.keep
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
