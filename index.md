@@ -2,7 +2,7 @@
 layout: homepage
 title: NE Community Resource Guide
 description: An e-guide for NE-related Learning Journeys
-image: /images/isomer-logo.svg
+image: /images/cover_2.PNG
 permalink: /
 notification: National Education Community Resources
 sections:
