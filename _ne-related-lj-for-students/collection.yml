@@ -3,10 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board,
-        Peranakan Museum (Chinese).md
-      - "Arts, Culture & Heritage/Perenakan Museum, National Heritage Board,
-        Guided Tour: Introduction to Peranakan Culture Highlights.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -40,6 +36,10 @@ collections:
         Programme.md"
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
         the Peranakan Museum).md"
+      - "Arts, Culture & Heritage/Perenakan Museum, National Heritage Board,
+        Guided Tour: Introduction to Peranakan Culture Highlights.md"
+      - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board,
+        Peranakan Museum (Chinese).md
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Guided
         Tours.md"
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Guided
