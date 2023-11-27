@@ -2,8 +2,6 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - National Parks Board/School Plays.md
-      - National Parks Board/.keep
       - Overview.md
       - Caring SG Commuters Committee – Public Transport Council and Land
         Transport Authority.md
@@ -32,6 +30,8 @@ collections:
       - National Gallery Singapore/Memories of Architecture.md
       - National Heritage Board/.keep
       - National Heritage Board/Monuments to our History Assembly Talks.md
+      - National Parks Board/.keep
+      - National Parks Board/School Plays.md
       - OnePeoplesg.md
       - People's Association.md
       - Singapore Kindness Movement/.keep
