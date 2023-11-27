@@ -2,8 +2,6 @@ collections:
   workshops-for-students:
     output: true
     order:
-      - Indian Heritage Centre/Student Guide Training Programme.md
-      - Indian Heritage Centre/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
@@ -12,6 +10,8 @@ collections:
       - Dialogue in the Dark Singapore/Lunch in the Dark.md
       - Dialogue in the Dark Singapore/4Sights.md
       - Dialogue in the Dark Singapore/Spotlight on the Blind.md
+      - Indian Heritage Centre/.keep
+      - Indian Heritage Centre/Student Guide Training Programme.md
       - National Arts Council/.keep
       - National Arts Council/Arts Education Programme.md
       - National Arts Council/Artists in School Scheme.md
