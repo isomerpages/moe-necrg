@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
       - Dialogue in the Dark Singapore/.keep
