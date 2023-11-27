@@ -1,6 +1,7 @@
 ---
 title: Overview
 permalink: /educators-via-opportunities/overview/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/cohort_LJ_cover.PNG)
