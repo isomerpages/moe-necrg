@@ -7,7 +7,7 @@ permalink: /
 notification: National Education Community Resources
 sections:
   - hero:
-      background: /images/ne_LJ_for_students_cover.PNG
+      background: /images/cover_2.PNG
       title: INVIGORATE INTERACT INSPIRE
       subtitle: NE Community Resource Guide
   - resources:
