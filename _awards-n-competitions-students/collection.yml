@@ -2,12 +2,12 @@ collections:
   awards-n-competitions-students:
     output: true
     order:
-      - Founders' Memorial (National Heritage Board).md
       - Overview.md
+      - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
         Montage Competition.md
-      - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/DrugFreeSG Video Competition.md
+      - Founders' Memorial (National Heritage Board).md
       - Land Transport Authority.md
       - Singapore Civil Defence Force.md
       - Singapore Kindness Movement/.keep
