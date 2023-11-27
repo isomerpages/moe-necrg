@@ -39,6 +39,5 @@ Students will Learn about the basic functions of A.I. language models and image 
 
 **Contact**: sure@nlb.gov.sg
 
-![](/images/nlb_ai_Photo_1_CHIJ_St_Joseph_s_Convent.jpg)
-Kahoot! is used to engage the students and test their knowledge throughout the workshop. (Credit: CHIJ St Joseph’s Convent, 2023)
-![](/images/nlb_ai_Photo_2_SOTA_Zoom_Screenshot.jpg)The workshop is also available in digital format with interactive elements for students (Credit: SOTA, 2021)
+![](/images/nlb_ai_Photo_1_ChatGPT.jpg)Learn the basic functions of prompting generative A.I. on different tasks
+![](/images/nlb_ai_Photo_2_AI_Image.jpg)Learn how to identify tell-tale signs of A.I. generated images
