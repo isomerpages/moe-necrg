@@ -4,4 +4,4 @@ permalink: /resources-for-t-and-l/overview/
 description: ""
 variant: markdown
 ---
-![](/images/cohort_LJ_cover.PNG)
+![](/images/PD_for_educators_cover_2.PNG)
