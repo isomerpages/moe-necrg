@@ -14,15 +14,16 @@ The in-person programme will be conducted in a suitable classroom with AV projec
 **Learning Objectives**
 
 Participants will be: 
-*More aware of and empathetic to the challenges faced by the blind community. 
-*Inspired by the accomplishments and resilience of people who are blind. 
-*Encouraged to think about what they can do to be more inclusive.
+* More aware of and empathetic to the challenges faced by the blind community. 
+* Inspired by the accomplishments and resilience of people who are blind. 
+* Encouraged to think about what they can do to be more inclusive.
 
 **Target Audience**: Primary 5- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
 **Runtime**: All year round
 
-**Fee**: Students: $12 ($12.96 after GST) for online, $18 ($19.44 after GST) for in-person 
+**Fee**: 
+Students: $12 ($12.96 after GST) for online, $18 ($19.44 after GST) for in-person 
 
 Adult: $20 ($21.60 after GST) for online, $50 ($54 after GST) for in-person
 
@@ -36,7 +37,7 @@ In-person: Minimum 40 pax for students, minimum 20 pax for adults
 
 **Website:** https://www.np.edu.sg/didsg
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: At least 2 weeks in 
 advance
@@ -51,10 +52,14 @@ session led by our blind guide
 
 
 > "Our students enjoyed the programme and were fully engaged!  I am heartened that it builds students’ awareness, understanding, as well as empathy towards the visually impaired.” 
+
+-Teacher, Spectra Sec School
+
 > 
-> > Teacher, Spectra Sec School
-> 
-“Fantastic effort to convert a physical session into an online session.” ~ Senior Counsellor, Ngee Ann Polytechnic
+> “Fantastic effort to convert a physical session into an online session.” 
+
+-Senior Counsellor, Ngee Ann Polytechnic
 
 > “The session was great! I appreciate how intentionally the activities were designed to create an immersive experience.”
-~ Senior Course Manager, Skillseed Singapore
+
+-Senior Course Manager, Skillseed Singapore

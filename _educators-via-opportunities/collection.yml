@@ -2,5 +2,10 @@ collections:
   educators-via-opportunities:
     output: true
     order:
+      - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
+      - HCA Hospice Limited/.keep
+      - HCA Hospice Limited/HCA Values In Action @ HCA Day Hospice.md
+      - National Parks Board/.keep
+      - National Parks Board/Youth Stewards for Nature.md

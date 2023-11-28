@@ -37,8 +37,14 @@ Participants will:
 
 **Website**: https://singaporeccc.org.sg/group-visits/#for-schools
 
-**How to register?** Online through website link or https://www.bookmuseums.nhb.gov.sg/
+**Mode of registration:** Online through website link or https://www.bookmuseums.nhb.gov.sg/
 
 **Due Date for registration**: 5 weeks in advance
 
 **Contact**: education@singaporeccc.org.sg
+
+![](/images/Dunman_High_School_students_at_the_food_projection_table.JPG)
+Dunman High School students at the food projection table
+
+![](/images/Guided_tour_with_workshop_for_Dunman_High_School.JPG)
+Guided tour with workshop for Dunman High School

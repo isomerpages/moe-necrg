@@ -29,3 +29,9 @@ Students will find out more about the Singapore Judiciary's rich history through
 **Website**: https://www.judiciary.gov.sg/visit-us/tour-courts
 
 **Contact**: Schools interested in signing up for a guided tour of the Judicial Heritage Gallery @ Supreme Court may contact the authorised educational partners for more details about the programme and fees at https://www.judiciary.gov.sg/visit-us/tour-courts
+
+![](/images/Programme_Photo1.jpg)
+In a 3-Act animation production, visitors are taken through the story of Singapore and the Rule of Law through the eyes of “Emily”, a school-going child.
+
+![](/images/Programme_Photo2.jpg)
+Have Your Say in Designing the Courtroom of the Future - The Year is 2065.  Visitors can look forward to co-designing the Courtroom of the Future.

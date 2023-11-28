@@ -29,3 +29,8 @@ Students will experience the work of the Supreme Court and how it impacts the ma
 **Website**: www.judiciary.gov.sg/visit-us/tour-courts
 
 **Contact**: Schools interested in visiting The Learning Court may contact the authorised educational partners for more details at https://www.judiciary.gov.sg/visit-us/tour-courts.
+
+
+![](/images/learning_court_1.jpg)The touch screen learning panels introduce students the life cycle of a civil/criminal case.
+
+![](/images/learning_court_2.jpg)The role-playing kiosk game allows students to learn first-hand how court proceedings are like.

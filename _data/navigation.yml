@@ -5,48 +5,38 @@ links:
     sublinks:
       - title: Foreword
         url: /home/foreword/
-      - title: Contents
-        url: /home/contents
   - title: Overview of NE
     url: /overview/what-is-national-education/
     sublinks:
       - title: Overview
         url: /overview/what-is-national-education/
-      - title: Key Thrusts
-        url: /key-thursts/thrust-1/
       - title: Designing NE Experiences
         url: /designing-ne-experiences/ne-commemorative-days/
   - title: NE Experiences for Students
-    url: /
+    url: /ne-related-lj-for-students/overview
     sublinks:
       - title: Assembly Programmes
         url: /assembly-programmes/overview/
       - title: Awards & Competitions
         url: /awards-and-competitions/overview/
-      - title: Teaching & Learning Resources
-        url: /resources-for-t-and-l/overview
       - title: Cohort Learning Journeys
         url: /cohort-learning-journeys/overview/
       - title: NE-related Learning Journeys
-        url: /ne-related-learning-journeys/overview
-      - title: Travelling Exhibitions
-        url: /travelling-exhibitions/overview
+        url: /ne-related-lj-for-students/overview/
       - title: Opportunities for VIA
-        url: /opportunites-for-via/overview
+        url: /via-opportunities-for-students/overviewvia/
+      - title: Travelling Exhibitions
+        url: /travelling-exhibitions/festivals-unlocked/
       - title: Workshops
-        url: /workshops/overview
+        url: /workshops-for-students/overview/
   - title: PD for Educators
     url: /
     sublinks:
-      - title: Awards for Educators & Schools
-        url: /permalink
-      - title: Awards for Educators and Sch
-        url: /award-for-educators-and-sch
       - title: NE-related LJ for Educators
-        url: /NE-related-LJ-for-educators
-      - title: VIA opportunities -Educators
-        url: VIA-opportunities-educators
+        url: /ne-related-lj-for-educators/overview/
+      - title: Opportunties for VIA
+        url: /educators-via-opportunities/overview/
+      - title: Teaching & Learning Resources
+        url: /resources-for-t-and-l/overview
       - title: Workshops for Educators
-        url: /workshops-for-educators
-      - title: Test Duplicate
-        url: /workshops-for-educators/dialogue-in-the-dark-singapore/workshops-in-the-dark/
+        url: /workshops-for-educators/overview/

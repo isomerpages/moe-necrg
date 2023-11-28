@@ -30,7 +30,7 @@ Students will gain deeper insight into how long-term strategic planning has shap
 
 **Website**: https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Programmes
 
-**How to register?** Online through website link
+**Mode of registration:** Online through website link
 
 **Contact**: ura_outreach@ura.gov.sg
 

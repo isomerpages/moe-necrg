@@ -11,7 +11,9 @@ The Singapore Chinese Cultural Centre provides complimentary resources to suppor
 
 **Learning Objectives**
 	
-Participants will: •	Learn about the distinctiveness of Chinese Singaporean culture  •	Link the permanent exhibition content to Character and Citizenship Education syllabuses
+Participants will: 
+* Learn about the distinctiveness of Chinese Singaporean culture  
+* Link the permanent exhibition content to Character and Citizenship Education syllabuses
 
 **Target Audience**: Educators
 
@@ -26,3 +28,9 @@ Participants will: •	Learn about the distinctiveness of Chinese Singaporean cu
 **Website**: https://singaporeccc.org.sg/learn-with-us/#guide-for-educators; https://singaporeccc.org.sg/jangandfox/; https://singaporeccc.org.sg/learn-with-us/#learning-resources
 	
 **Contact**: https://education@singaporeccc.org.sg
+
+![](/images/Guide_for_Educators_in_English.jpg)
+Guide for Educators in English
+
+![](/images/Comics_done_in_collaboration_with_local_illustrator_JangandFox_filial_piety.jpg)
+Comics done in collaboration with local illustrator JangandFox

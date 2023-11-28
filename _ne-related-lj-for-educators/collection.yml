@@ -2,17 +2,8 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
-      - National Heritage Board/Monument Hunt in the Civic District.md
-      - National Heritage Board/.keep
-      - National Environment Agency/Learning Journey to Semakau Landfill and
-        Incineration Plants.md
-      - National Environment Agency/.keep
-      - Urban Redevelopment Authority/Rediscover Singapore River Interactive
-        Quizshow.md
-      - Urban Redevelopment Authority/.keep
-      - Religious Rehabilitation On Group.md
-      - HCA Hospice/Oasis at The End of Life.md
-      - HCA Hospice/.keep
+      - Overview.md
+      - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
       - Changi Airport Singapore/Planning The Best Airport Of The Future.md
       - Changi Airport Singapore/Forging a Sustainable Changi.md
@@ -22,5 +13,27 @@ collections:
         Changi Airport.md"
       - Changi Airport Singapore/The Changi Way of Service.md
       - "Changi Airport Singapore/Digital Innovation: A Way of Working.md"
-      - Changi Airport Singapore/.keep
+      - HCA Hospice/.keep
+      - HCA Hospice/Oasis at The End of Life.md
+      - Land Transport Authority/.keep
+      - Land Transport Authority/Singapore Mobility Gallery.md
+      - Maritime & PAS/.keep
+      - Maritime & PAS/Singapore Maritime Gallery.md
+      - National Environment Agency/.keep
+      - National Environment Agency/Learning Journey to Semakau Landfill and
+        Incineration Plants.md
+      - National Heritage Board/.keep
+      - National Heritage Board/Monument Hunt in the Civic District.md
+      - National Library Board/.keep
+      - National Library Board/Former Ford Factory Guided Tours and Programmes.md
+      - Religious Rehabilitation On Group.md
       - "Singapore Chinese Cultural Centre: Programmes for Educators.md"
+      - Singapore Courts/.keep
+      - Singapore Courts/The Learning Court.md
+      - "Singapore Courts/Transcending Time and Space: Judicial Heritage Gallery
+        @ Supreme Court.md"
+      - Singapore Police Force/.keep
+      - Singapore Police Force/Police Heritage Centre (PHC) Tour.md
+      - Urban Redevelopment Authority/.keep
+      - Urban Redevelopment Authority/Rediscover Singapore River Interactive
+        Quizshow.md

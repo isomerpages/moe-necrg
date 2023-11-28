@@ -6,18 +6,15 @@ description: ""
 third_nav_title: Singapore Kindness Movement
 variant: markdown
 ---
-Students explore issues of Cyber Kindness and Neighbourliness in the school context through interactive drama.
+Through interactive drama, students will explore issues on: 
+* CyberKindness 
+* Neighbourliness 
 
-**Details**
+These shows aspire to shine light on relevant contemporary issues in hope of sparking meaningful conversations among students. This will be done through recreating familiar scenarios or by introducing new settings within our local context to educate and differentiate the ‘normal’ from the right.
 
-Through interactive drama, students will explore issues on:
-* CyberKindness
-* Neighbourliness
+**Details** 
 
-These shows aspire to shine light on the relevant contemporary issues in hope of sparking meaningful conversations among students. This will be done through recreating familiar scenarios or by introducing new settings within our local context to educate and differentiate the ‘normal’ from the right. 
-
-Students will be given opportunities to have a voice during these shows, whether through
-class-based online video conferencing, in-class human facilitation or hall-based live stage shows.
+Students will be given opportunities to have a voice during these shows during hall-based live stage shows.
 
 **Learning Objectives**
 
@@ -33,13 +30,11 @@ Students will develop critical thinking and decision-making skills when respondi
 
 **Duration of Session**: 50 minutes
 
-**Programme Capacity: **Whole School
+**Programme Capacity:**  Whole School
 
 **Relevant Commemorative Days:** Total Defence Day, Racial Harmony Day
 
-**Website**: https://www.np.edu.sg/didsg
-
-**How to register?** By email.
+**Mode of Registration** By email.
 
 **Due Date for registration**: Please book the show early with a minimum of 1 month notice.
 

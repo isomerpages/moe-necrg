@@ -29,7 +29,7 @@ Students/staff will get to foster team cohesivenes and energise team vitality in
 
 **Website**: https://www.np.edu.sg/didsg
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: At least 2 weeks in advance. 
 
@@ -41,4 +41,4 @@ Hearing thoughts and reflections after dining in total darkness
 > “I really enjoyed the interaction between my groupmates and my blind guide in the dark. Without our phones and other distractions, I find that there is more bonding and dialogue within the duration of
 > the lunch than we had on a typical day!” 
 
-- Participant from Ministry of Education
+-Participant from Ministry of Education

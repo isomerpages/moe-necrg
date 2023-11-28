@@ -14,8 +14,8 @@ Educators may lead students on an independent exploration of the exhibition, “
 **Learning Objectives**
 
 Participants will 
-•	Learn about our distinctive Chinese Singaporean culture  
-•	Experience a new way of learning out of the classroom
+* Learn about our distinctive Chinese Singaporean culture  
+* Experience a new way of learning out of the classroom
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)	
 
@@ -33,7 +33,7 @@ Participants will
 
 **Website**: https://singaporeccc.org.sg/group-visits/#for-schools
 
-**How to register?** Online through website link or https://www.bookmuseums.nhb.gov.sg/	
+**Mode of registration:** Online through website link or https://www.bookmuseums.nhb.gov.sg/	
 
 **Due Date for registration**: 3 weeks in advance	
 	

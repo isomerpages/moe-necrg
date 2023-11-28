@@ -3,15 +3,38 @@ title: Primary Assembly Show
 permalink: /assembly-programmes/singapore-kindness-movement/primary-assembly-show/
 description: ""
 third_nav_title: Singapore Kindness Movement
+variant: markdown
 ---
-Students explore issues on Cyber Kindness and Foreigner-Local Integration in the school context through interactive drama.
+SKM’s assembly show in interactive drama format explores various topics such as Cyber Kindness and Embracing Diversity. The show aspires to shine light on relevant contemporary issues to spark meaningful conversations among students.
 
 **Details**
 
-Through interactive theatre-styled assembly drama, students will explore issues such as “CyberKindness” and “Foreigner-local integration”. The shows aspire to shine a light on these relevant contemporary issues in the hope of sparking meaningful conversations among students. Familiar scenarios will be recreated or introduced in new settings within our local context to educate students to
-think critically and decisively when responding to undesirable behaviours and situations.
+The programme will be conducted by recreating familiar scenarios and introducing new settings within the local context to educate the students on Friendship, Embracing Diversity, Respect, Managing Screen Time and Positive Online Etiquette. Students will be encouraged and be given opportunities to voice their opinions during the assembly show.
 
 **Learning Objectives**
 
-Students will develop critical thinking and decision-making skills when responding to undesirable behaviours and situations. They will also be given opportunities to have a voice during these shows, whether through online video conferencing or in-class live participation.
-**Primary and secondary level shows are different to ensure age-appropriate content.*
+Students will learn to develop critical thinking and decision-making skills when responding to undesirable behaviours and situations in a safe setting. This will assist the students to identify and manage relevant situations, build resilience against negative behaviours and offer peer support in their community when exposed to social issues and their adverse effects online and in real life.
+
+**Target Audience**: Primary 1 - 6 students
+
+**Runtime:** January - November
+
+**Fee:** Please email for more details
+
+**Modality:** In-person
+
+**Duration of Session:** 50 minutes
+
+**Capacity**: Whole school
+
+**Relevant Commemorative Days**:  Total Defence Day, International Friendship Day, Racial Harmony Day
+
+**Mode of Registration:** By email.
+
+**Due Date for registration**: Please book the show early with a minimum of 1 month notice.
+
+**Contact**: primary@kindness.sg
+
+![](/images/SKM__Primary_Assembly_1.jpg)Assembly Shows (Primary) Photo 1
+
+![](/images/SKM_Primary_Assembly_2.JPG)Assembly Shows (Primary) Photo 2

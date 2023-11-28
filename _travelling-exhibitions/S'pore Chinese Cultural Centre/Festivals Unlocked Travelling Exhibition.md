@@ -14,8 +14,8 @@ A travelling exhibition about Chinese festivals and the values they embody.
 **Learning Objectives**		
 		
 Participants will: 
-•	Learn about the distinctiveness of Chinese Singaporean culture  
-•	Experience a new way of learning out of the classroom
+* Learn about the distinctiveness of Chinese Singaporean culture  
+* Experience a new way of learning out of the classroom
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
 		
@@ -31,8 +31,11 @@ Participants will:
 		
 **Website**: https://www.singaporeccc.org.sg/	
 		
-**How to register?** By email.		
+**Mode of Registration:** By email.		
 		
 **Due Date for registration**: Please email us to find out how to bring this exhibition to your school.	
 		
-**Contact**: education@singaporeccc.org.sg		
+**Contact**: education@singaporeccc.org.sg
+
+![](/images/Festivals_Unlocked_Overview.jpg)
+A mock-up of the exhibition

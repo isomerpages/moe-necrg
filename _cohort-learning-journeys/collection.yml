@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - Asian Civilisations Musuem.md
-      - Indian Heritage Centre.md
-      - National Museum Of Singapore.md
       - National Heritage Board/.keep
-      - "National Heritage Board/Museum Based Learning: Culture Archives.md"
-      - "National Heritage Board/Museum Based Learning: Tales of the Emporium.md"
+      - National Heritage Board/Asian Civilisations Musuem.md
+      - National Heritage Board/Geylang Serai Heritage Gallery.md
+      - National Heritage Board/Indian Heritage Centre.md
+      - National Heritage Board/Kreta Ayer Heritage Gallery.md

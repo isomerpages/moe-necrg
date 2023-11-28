@@ -29,7 +29,7 @@ Participants will  - develop awareness of and empathy for the blind community - 
 
 **Website:** https://www.np.edu.sg/didsg
 
-**How to register?** By email.
+**Mode of registration:** By email.
 
 **Due Date for registration**: At least 2 weeks in advance
 
