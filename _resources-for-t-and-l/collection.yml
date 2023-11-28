@@ -2,10 +2,10 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Overview.md
+      - Caring SG Commuters Committee/.keep
       - "Caring SG Commuters Committee/Land Transport Authority and Public
         Transport Council: Inclusivity Video Series.md"
-      - Caring SG Commuters Committee/.keep
-      - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
         Montage Competition.md
