@@ -2,6 +2,8 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - LTA and PTC/Caring SG Commuters Committee – Land Transport Authority and
+        Public Transport Council.md
       - LTA and PTC/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
