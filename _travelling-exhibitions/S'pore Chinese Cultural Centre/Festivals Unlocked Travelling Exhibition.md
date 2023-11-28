@@ -31,7 +31,7 @@ Participants will:
 		
 **Website**: https://www.singaporeccc.org.sg/	
 		
-**How to register?** By email.		
+**Mode of Registration:** By email.		
 		
 **Due Date for registration**: Please email us to find out how to bring this exhibition to your school.	
 		
