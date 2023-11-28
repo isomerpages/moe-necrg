@@ -2,7 +2,10 @@
 title: Key Thrusts in the Design of NE Experiences
 permalink: /overview-of-ne/key-thrusts/
 description: ""
+variant: markdown
 ---
+Broadly, efforts in NE should be designed based on the following three key thrusts:
+
 ##### **Thrust 1: A Shared and Lively Narrative**
 Develop a multi-dimensional Singapore Story that includes voices and experiences from our students and discussions of Singapore’s contemporary realities through issues.
 
