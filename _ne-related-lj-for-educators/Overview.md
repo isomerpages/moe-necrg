@@ -4,4 +4,4 @@ permalink: /ne-related-lj-for-educators/overview/
 variant: markdown
 description: ""
 ---
-![](/images/PD_for_educators_cover.PNG)
+**NE related Learning Journeys** provide opportunities for educators to experience, understand and appreciate Singapore’s socio-cultural, geo-political, historical and economic contexts. They aim to develop their dispositions and competencies for citizenship through authentic learning experiences from varied modalities, and enable them to explore personal and collective identity by engaging with the people, perspectives and places of Singapore.
