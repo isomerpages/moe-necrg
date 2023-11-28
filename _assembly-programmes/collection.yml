@@ -2,6 +2,8 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - Housing & Development Board/Outreach to Young and Youth (OHYAY!)
+        Programme.md
       - Housing & Development Board/.keep
       - Overview.md
       - Caring SG Commuters Committee – Public Transport Council and Land
