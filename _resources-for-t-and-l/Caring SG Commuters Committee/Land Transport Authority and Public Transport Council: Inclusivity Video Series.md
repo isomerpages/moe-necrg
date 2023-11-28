@@ -6,8 +6,6 @@ variant: markdown
 description: ""
 third_nav_title: Caring SG Commuters Committee
 ---
-### Inclusivity Video Series
-
 The Caring SG Commuters Inclusivity Video Series 2023, produced in partnerships with MINDS and Dementia Singapore, offers a glimpse into the daily lives of commuters with special needs and their collective efforts to create a caring commuting culture for all.
 
 **Details**
