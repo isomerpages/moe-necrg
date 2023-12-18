@@ -13,7 +13,7 @@ National Education (NE) Commemorative Days are linked to defining moments in Sin
 
 Schools commemorate Total Defence Day on 15 February each year to mark the fall of Singapore to the Japanese in 1942. In commemorating TDD, our students reflect on the importance of Total Defence as Singapore's best all-round response to threats and challenges that confront Singapore(e.g. terrorism, pandemics,cyber-attacks, influence campaigns or economic crises). Students also reflect on the continuing relevance of the six pillars of Total Defence - Military Defence, Civil Defence, Economic Defence, Social Defence, Digital Defence and Psychological Defence - as well as the core message of every Singaporean standing together, each playing our part to protect Singapore and our shared way of life. 
 
-##### 
+
 ##### [**5 April 2024 - International Friendship Day (IFD)**](https://www.opal2.moe.edu.sg/csl/s/cce-2021-main-sdcd/wiki/page/view?title=NE+Commemorative+Days+-+International+Friendship+Day)
 
 **Theme: Singapore in Asia**
