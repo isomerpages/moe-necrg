@@ -1,5 +1,5 @@
 ---
-title: People's Assosciation
+title: People's Association
 permalink: /via-opportunities-for-students/pa/
 variant: markdown
 description: ""
