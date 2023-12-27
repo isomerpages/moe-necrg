@@ -35,7 +35,7 @@ Students will find out more about hospice care services, get to interact with pa
 
 **Due Date for registration**: at least 3 months in advance
 
-**Contact**: Ms Frances Ng
+**Contact:** volunteer@hcahospicecare.org.sg
 
 ![](/images/Photo1.jpg)
 Engaging patients with crafts
