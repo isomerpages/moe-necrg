@@ -41,7 +41,8 @@ At the learning journey participants will:
 
 **Due Date for registration**: 3 weeks / 1 month in advance for registration	
 	
-**Contact**: SALIM MOHAMED NASIR
+**Contact**:       [admin@rrg.sg](mailto:admin@rrg.sg) or
+[issalim@ntu.edu.sg](mailto:issalim@ntu.edu.sg)
 
 ![](/images/programme_photo1.png)
 
