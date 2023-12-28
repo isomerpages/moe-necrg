@@ -29,7 +29,7 @@ Students will learn about Singapore’s transformation from a small trading post
 
 **Relevant Commemorative Days:** National Day, World Maritime Day, Day of the Seafarer, World Oceans Day
 
-**Website**: [https://go.gov.sg/sg-maritime-gallery](https://go.gov.sg/sg-maritime-gallery)https://go.gov.sg/sg-maritime-gallery
+**Website**: https://go.gov.sg/sg-maritime-gallery
 
 **Mode of registration:** By email.
 
