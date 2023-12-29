@@ -33,7 +33,7 @@ Participants will
 	
 **Relevant Commemorative Days:** Total Defence Day,  International Friendship Day, Racial Harmony Day, National Day 	
 
-**Website:** [Singapore Chinese Cultural Centre website](https://singaporeccc.org.sg/group-visits/#for-schools)
+**Website:** [Singapore Chinese Cultural Centre](https://singaporeccc.org.sg/group-visits/#for-schools)
 
 **Mode of registration:** Online through website link or https://www.bookmuseums.nhb.gov.sg/
 
