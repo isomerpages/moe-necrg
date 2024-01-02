@@ -2,7 +2,6 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
-      - Ministry of Home Affairs.md
       - Overview.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
@@ -20,6 +19,7 @@ collections:
       - Land Transport Authority/Singapore Mobility Gallery.md
       - Maritime & PAS/.keep
       - Maritime & PAS/Singapore Maritime Gallery.md
+      - Ministry of Home Affairs.md
       - National Environment Agency/.keep
       - National Environment Agency/Learning Journey to Semakau Landfill and
         Incineration Plants.md
