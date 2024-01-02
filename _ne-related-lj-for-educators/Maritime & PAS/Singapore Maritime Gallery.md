@@ -35,7 +35,7 @@ Students will learn about Singapore’s transformation from a small trading post
 
 **Due Date for registration**: 2 weeks in advance
 
-**Contact**: sgmaritimegallery@mpa.gov.sg
+**Contact**: sgmaritimegallery@mpa.gov.sg. 
 
 ![](/images/Photo_1___Singapore_Maritime_Gallery.jpg)
 Singapore Maritime Gallery is located at Marina South Pier, Level 2.

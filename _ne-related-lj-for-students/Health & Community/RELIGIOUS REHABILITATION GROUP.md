@@ -36,13 +36,13 @@ At the learning journey participants will:
 	
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, Racial Harmony Day, National Day	
 
-**Website**: WWW.RRG.SG	
+**Website**: www.rrg.sg
 
 **How to register**? By email.	
 
 **Due Date for registration**: 3 weeks / 1 month in advance for registration	
 	
-**Contact**: SALIM MOHAMED NASIR
+**Contact**: admin@rrg.sg or issalim@ntu.edu.sg
 
 ![](/images/programme_photo1.png)
 
