@@ -30,13 +30,13 @@ Participants will:
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, Racial Harmony Day, National Day 
 
-**Website**: https://singaporeccc.org.sg/group-visits/#for-educators;  https://singaporeccc.org.sg/group-visits/#for-general-publics
+**Website**: [Singapore Chinese Cultural Centre](https://singaporeccc.org.sg/group-visits/#for-educators)
 
 **Mode of registration:** Online through website link
 
 **Due Date for registration**: Please email for more details
 
-**Contact:** education@singaporeccc.org.sg
+**Contact:** [education@singaporeccc.org.sg](education@singaporeccc.org.sg)
 
 ![](/images/Teachers_learning_more_about_the_Chinese_in_SingaporeE.jpg)
 Teachers learning more about the Chinese in Singapore
