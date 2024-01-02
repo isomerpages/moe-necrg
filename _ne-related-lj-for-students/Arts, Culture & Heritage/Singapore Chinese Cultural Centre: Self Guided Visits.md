@@ -31,13 +31,13 @@ Participants will
 	
 **Relevant Commemorative Days**: Total Defence Day,  International Friendship Day, Racial Harmony Day,  National Day	
 
-**Website**: https://singaporeccc.org.sg/group-visits/#for-schools
+**Website:** [Singapore Chinese Cultural Centre](https://singaporeccc.org.sg/group-visits/#for-schools)
 
-**Mode of registration:** Online through website link or https://www.bookmuseums.nhb.gov.sg/	
+**Mode of registration:** Online through website link or [register here](https://www.bookmuseums.nhb.gov.sg/)
 
-**Due Date for registration**: 3 weeks in advance	
-	
-**Contact**: https://education@singaporeccc.org.sg
+**Due Date for registration**: 5 weeks in advance
+
+**Contact**: [education@singaporeccc.org.sg](education@singaporeccc.org.sg)
 
 ![](/images/tampines%20secondary%20school%20student%20exploring%20the%20language%20cardse.jpg)
 Tampines Secondary School students exploring the kopitiam table
