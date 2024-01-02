@@ -34,13 +34,13 @@ Participants will:
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, Racial Harmony Day, National Day
 
-**Website**: https://singaporeccc.org.sg/group-visits/#for-schools
+**Website:** [Singapore Chinese Cultural Centre](https://singaporeccc.org.sg/group-visits/#for-schools)
 
-**Mode of registration:** Online through website link, https://www.bookmuseums.nhb.gov.sg/
+**Mode of registration:** Online through website link or [register here](https://www.bookmuseums.nhb.gov.sg/)
 
 **Due Date for registration**: 5 weeks in advance
 
-**Contact**: education@singaporeccc.org.sg
+**Contact**: [education@singaporeccc.org.sg](education@singaporeccc.org.sg)
 
 ![](/images/Online_session_with_Ang_Mo_Kio_Secondary_School_studentsE.jpg)
 Online session with Ang Mo Kio Secondary School students
