@@ -35,7 +35,7 @@ Participants will
 
 **Mode of registration:** Online through website link or [register here](https://www.bookmuseums.nhb.gov.sg/)
 
-**Due Date for registration**: 5 weeks in advance
+**Due Date for registration**: 3 weeks in advance
 
 **Contact**: [education@singaporeccc.org.sg](education@singaporeccc.org.sg)
 
