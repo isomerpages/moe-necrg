@@ -27,7 +27,7 @@ Students will be able to connect historical episodes in food security with ongoi
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, National Day
 
-**Website**: https://form.gov.sg/5f5898b8416cf100119733a3
+**Website**: [https://go.gov.sg/sfa-school-form](https://go.gov.sg/sfa-school-form)
 
 **Mode of Registration:** Online through website link
 
