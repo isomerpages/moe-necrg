@@ -35,7 +35,7 @@ Learn about Singapore’s food story and our food supply strategies.
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, National Day
 
-**Website**: https://form.gov.sg/64a37cdf418c6d00111cef90
+**Website**: [https://go.gov.sg/sfa-school-form](https://go.gov.sg/sfa-school-form)
 
 **Mode of Registration:** Online through website link
 
@@ -44,4 +44,3 @@ Learn about Singapore’s food story and our food supply strategies.
 ![](/images/sfa_assembly_talk.jpeg)Assembly Talks
 
 **Others:** If you are interested in the following topics, please approach the relevant agencies: Food waste and other types of waste – National Environment Agency (NEA) https://www.nea.gov.sg/our-services/towards-zero-waste Gardening of edibles in school or at home – National Parks Board (NParks) https://www.nparks.gov.sg/gardening/gardening-with-edibles
-
