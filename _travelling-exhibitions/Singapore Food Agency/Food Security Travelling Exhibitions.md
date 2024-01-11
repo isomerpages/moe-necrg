@@ -25,7 +25,7 @@ Learn about Singapore’s food story and our food supply strategies through our 
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, National Day
 
-**Website**: https://form.gov.sg/64a37cdf418c6d00111cef90
+**Website**: [https://go.gov.sg/sfa-school-form](https://go.gov.sg/sfa-school-form)
 
 **Mode of Registration:** Online through website link
 
