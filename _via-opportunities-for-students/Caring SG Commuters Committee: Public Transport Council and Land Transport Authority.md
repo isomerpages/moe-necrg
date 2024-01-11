@@ -61,7 +61,6 @@ Both students and educators will be able to:
 ![](/images/CARING_2.JPG)
 ![](/images/CARING_4.JPG)
 ![](/images/CARING_3.JPG)
-
 Lianhua Primary School and NUS students participating in the CARE Ride programme that includes PBIC
 
 ![](/images/PTC_VIA2.jpg)![](/images/PTC_VIA2_1.jpg)      Students interacting with and helping commuters during CARE by Chung Cheng (Yishun) and CARE by Hillgrove
