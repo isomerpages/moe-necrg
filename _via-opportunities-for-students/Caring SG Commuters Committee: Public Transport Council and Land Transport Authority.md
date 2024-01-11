@@ -58,7 +58,9 @@ Both students and educators will be able to:
 
 **Contact**: Email: ptc_office@ptc.gov.sg (Attention to Insights & Advisory Division)
 
-![](/images/PTC_VIA1.jpg)![](/images/PTC_VIA1_1.jpg)![](/images/PTC_VIA1_2.jpg)![](/images/PTC_VIA1_3.jpg)
+![](/images/CARING_2.JPG)
+![](/images/CARING_3.JPG)
+
 Lianhua Primary School and NUS students participating in the CARE Ride programme that includes PBIC
 
 ![](/images/PTC_VIA2.jpg)![](/images/PTC_VIA2_1.jpg)      Students interacting with and helping commuters during CARE by Chung Cheng (Yishun) and CARE by Hillgrove
