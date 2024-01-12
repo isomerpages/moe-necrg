@@ -1,5 +1,5 @@
 ---
-title: Ministry of Home Affairs
+title: MHA and Inter Religious Organisation Collaboration
 permalink: /ne-related-lj-for-educators/mha/
 variant: tiptap
 description: ""
