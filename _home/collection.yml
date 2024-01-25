@@ -1,0 +1,5 @@
+collections:
+  home:
+    output: true
+    order:
+      - Foreword.md

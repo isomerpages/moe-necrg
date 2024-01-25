@@ -1,0 +1,27 @@
+collections:
+  via-opportunities-for-students:
+    output: true
+    order:
+      - Overview.md
+      - "Caring SG Commuters Committee: Public Transport Council and Land
+        Transport Authority.md"
+      - Council for Third Age (C3A).md
+      - HCA Hospice Limited/.keep
+      - HCA Hospice Limited/Value In Action @ HCA Day Hospice.md
+      - Housing and Development Board/.keep
+      - Housing and Development Board/Friends of Our Heartlands Network.md
+      - Housing and Development Board/Lively Places Programme.md
+      - KWSH Heritage Gallery Learning Journey.md
+      - Ministry of Manpower (ACE)/.keep
+      - Ministry of Manpower (ACE)/MOM School Partnership Programme – Assembly
+        Talk & Values In Action Opportunities.md
+      - National Environment Agency/.keep
+      - National Environment Agency/I am an Advocate of Singapore's Hawker
+        Culture.md
+      - National Parks Board/.keep
+      - National Parks Board/Youth Stewards for Nature.md
+      - People's Association.md
+      - Singapore Kindness Movement/.keep
+      - Singapore Kindness Movement/Seed Kindness Fund.md
+      - Singapore Kindness Movement/Friends of Singa (Primary).md
+      - Singapore Kindness Movement/Friend of Singa (Secondary).md

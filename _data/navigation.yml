@@ -1,0 +1,42 @@
+logo: /images/CCEB_logo.png
+links:
+  - title: Home
+    url: /home/foreword/
+    sublinks:
+      - title: Foreword
+        url: /home/foreword/
+  - title: Overview of NE
+    url: /overview/what-is-national-education/
+    sublinks:
+      - title: Overview
+        url: /overview/what-is-national-education/
+      - title: Designing NE Experiences
+        url: /designing-ne-experiences/ne-commemorative-days/
+  - title: NE Experiences for Students
+    url: /ne-related-lj-for-students/overview
+    sublinks:
+      - title: Assembly Programmes
+        url: /assembly-programmes/overview/
+      - title: Awards & Competitions
+        url: /awards-and-competitions/overview/
+      - title: Cohort Learning Journeys
+        url: /cohort-learning-journeys/overview/
+      - title: NE-related Learning Journeys
+        url: /ne-related-lj-for-students/overview/
+      - title: Opportunities for VIA
+        url: /via-opportunities-for-students/overviewvia/
+      - title: Travelling Exhibitions
+        url: /travelling-exhibitions/festivals-unlocked/
+      - title: Workshops
+        url: /workshops-for-students/overview/
+  - title: PD for Educators
+    url: /
+    sublinks:
+      - title: NE-related LJ for Educators
+        url: /ne-related-lj-for-educators/overview/
+      - title: Opportunities for VIA
+        url: /educators-via-opportunities/overview/
+      - title: Teaching & Learning Resources
+        url: /resources-for-t-and-l/overview
+      - title: Workshops for Educators
+        url: /workshops-for-educators/overview/

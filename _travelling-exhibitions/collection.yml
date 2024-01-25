@@ -1,0 +1,11 @@
+collections:
+  travelling-exhibitions:
+    output: true
+    order:
+      - ECO/.keep
+      - ECO/Heritage On The Move.md
+      - S'pore Chinese Cultural Centre/.keep
+      - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
+        Exhibition.md
+      - Singapore Food Agency/.keep
+      - Singapore Food Agency/Food Security Travelling Exhibitions.md

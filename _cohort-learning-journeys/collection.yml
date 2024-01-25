@@ -1,0 +1,10 @@
+collections:
+  cohort-learning-journeys:
+    output: true
+    order:
+      - Overview.md
+      - National Heritage Board/.keep
+      - National Heritage Board/Asian Civilisations Musuem.md
+      - National Heritage Board/Geylang Serai Heritage Gallery.md
+      - National Heritage Board/Indian Heritage Centre.md
+      - National Heritage Board/Kreta Ayer Heritage Gallery.md

@@ -1,0 +1,34 @@
+collections:
+  workshops-for-students:
+    output: true
+    order:
+      - Overview.md
+      - "Caring SG Commuters Committee: Public Transport Council.md"
+      - Changi Airport Singapore.md
+      - Dialogue in the Dark Singapore/.keep
+      - Dialogue in the Dark Singapore/Learn to See Educational Workshop.md
+      - Dialogue in the Dark Singapore/Lunch in the Dark.md
+      - Dialogue in the Dark Singapore/4Sights.md
+      - Dialogue in the Dark Singapore/Spotlight on the Blind.md
+      - Indian Heritage Centre/.keep
+      - Indian Heritage Centre/Student Guide Training Programme.md
+      - National Arts Council/.keep
+      - National Arts Council/Arts Education Programme.md
+      - National Arts Council/Artists in School Scheme.md
+      - National Library Board/.keep
+      - National Library Board/Be SURE with Academic Research.md
+      - National Library Board/BE SURE with Fake News.md
+      - National Library Board/Be SURE with Generative AI.md
+      - Spore Chinese Cultural Centre/.keep
+      - Spore Chinese Cultural Centre/Cultural Ambassadors Programme.md
+      - Singapore Courts/.keep
+      - Singapore Courts/“A Day in Court” student seminar.md
+      - SG Enable/.keep
+      - SG Enable/Caring Commuter Champion e learning course.md
+      - Singapore Kindness Movement/.keep
+      - Singapore Kindness Movement/Friend of Singa (Primary).md
+      - Singapore Kindness Movement/Friend of Singa (Secondary).md
+      - South East CDC/.keep
+      - South East CDC/Sustainable Living @ South East.md
+      - South East CDC/The Wormery Movement.md
+      - Urban Redevelopment Authority.md
