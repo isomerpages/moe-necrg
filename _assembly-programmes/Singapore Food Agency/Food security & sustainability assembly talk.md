@@ -39,7 +39,7 @@ Learn about Singapore’s food story and our food supply strategies.
 
 **Mode of Registration:** Online through website link
 
-**Contact**: [www.sfa.gov.sg/feedback](www.sfa.gov.sg/feedback)
+**Contact**: www.sfa.gov.sg/feedback 
 
 ![](/images/sfa_assembly_talk.jpeg)Assembly Talks
 
