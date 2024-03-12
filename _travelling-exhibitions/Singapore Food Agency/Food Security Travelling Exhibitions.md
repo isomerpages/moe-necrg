@@ -29,6 +29,6 @@ Learn about Singapore’s food story and our food supply strategies through our 
 
 **Mode of Registration:** Online through website link
 
-**Contact**: nicole_liang@sfa.gov.sg
+**Contact**: [www.sfa.gov.sg/feedback](www.sfa.gov.sg/feedback)
 
 ![](/images/roving_exhibits.jpg)Travelling exhibition panels
