@@ -31,6 +31,6 @@ Students will be able to connect historical episodes in food security with ongoi
 
 **Mode of Registration:** Online through website link
 
-**Contact**:[www.sfa.gov.sg/feedback](www.sfa.gov.sg/feedback)
+**Contact**: www.sfa.gov.sg/feedback
 
 ![](/images/sfa_1.JPG)![](/images/sfa_2.JPG)![](/images/sfa_3.JPG)![](/images/sfa_4.JPG)Animated video about the history of food security in Singapore
