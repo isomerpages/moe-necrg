@@ -23,4 +23,7 @@ youths and seniors or persons living with dementia.</p>
 </p>
 <p><strong>Contact</strong>: <a href="trevor.tan@aic.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tan@aic.sg</a>
 </p>
-<p>![](/images/PortraitLogo.png)Caring SG Commuters Logo</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
