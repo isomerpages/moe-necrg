@@ -28,5 +28,4 @@ through meaningful intergenerational conversations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Spark_Conversations_Toolkit.png">
 </div>
-<p><em>Spark Conversations Cover Photo</em>
-</p>
+<p></p>
