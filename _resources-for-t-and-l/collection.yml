@@ -2,9 +2,9 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Agency for Integrated Care/Spark Conversations.md
-      - Agency for Integrated Care/Agency for Integrated Care Pte Ltd.md
       - Agency for Integrated Care/.keep
+      - Agency for Integrated Care/Agency for Integrated Care Pte Ltd.md
+      - Agency for Integrated Care/Spark Conversations.md
       - Overview.md
       - Caring SG Commuters Committee/.keep
       - "Caring SG Commuters Committee/Land Transport Authority and Public
