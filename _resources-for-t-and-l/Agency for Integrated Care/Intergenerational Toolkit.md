@@ -28,5 +28,3 @@ youths and seniors or persons living with dementia.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Intergenerational_Toolkit_Cover_Photo__1_.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
