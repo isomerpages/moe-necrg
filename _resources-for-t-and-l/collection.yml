@@ -2,10 +2,10 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Overview.md
       - Agency for Integrated Care/.keep
       - Agency for Integrated Care/Intergenerational Toolkit.md
       - Agency for Integrated Care/Spark Conversations.md
-      - Overview.md
       - Caring SG Commuters Committee/.keep
       - "Caring SG Commuters Committee/Land Transport Authority and Public
         Transport Council: Inclusivity Video Series.md"
