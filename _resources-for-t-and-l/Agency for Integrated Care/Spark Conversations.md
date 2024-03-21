@@ -21,10 +21,8 @@ through meaningful intergenerational conversations.</p>
 4/5 students, Post Secondary (JC/ Poly/ ITE), Educators</p>
 <p><strong>Runtime</strong>: All year round</p>
 <p><strong>Fee</strong>: Complimentary</p>
-<p><strong>Modality</strong>: Virtual</p>
 <p><strong>Website</strong>: <a href="https://for.sg/life-review-journal" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/life-review-journal</a>
 </p>
-<p><strong>Mode of registration:</strong> Online through website link</p>
 <p><strong>Contact</strong>: <a href="trevor.tan@aic.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tan@aic.sg</a>
 </p>
 <div class="isomer-image-wrapper">
