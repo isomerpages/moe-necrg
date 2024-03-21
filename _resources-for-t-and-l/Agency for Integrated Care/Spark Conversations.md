@@ -10,7 +10,7 @@ to engage in meaningful conversations with their loved ones through guided
 questions. By sparking conversations and recording their life story and
 memoirs, students will better understand their loved ones' life journey
 and preferences.</p>
-<p><strong>Details</strong> 
+<p><strong>Details</strong>
 </p>
 <p>This resource will be read by students.</p>
 <p><strong>Learning Objectives</strong>
