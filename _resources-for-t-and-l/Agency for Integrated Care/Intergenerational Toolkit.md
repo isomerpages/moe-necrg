@@ -22,7 +22,7 @@ youths and seniors or persons living with dementia.</p>
 <p><strong>Modality</strong>: Virtual</p>
 <p><strong>Website</strong>: <a href="http://for.sg/youthhopeintergentoolkit" rel="noopener noreferrer nofollow" target="_blank">http://for.sg/youthhopeintergentoolkit</a>
 </p>
-<p><strong>Contact</strong>: <a href="shirley.chau@aic.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tan@aic.sg</a>
+<p><strong>Contact</strong>: <a href="shirley.chau@aic.sg" rel="noopener noreferrer nofollow" target="_blank">shirley.chau@aic.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Intergenerational_Toolkit_Cover_Photo__1_.png">
