@@ -20,9 +20,9 @@ youths and seniors or persons living with dementia.</p>
 <p><strong>Runtime</strong>: All year round</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality</strong>: Virtual</p>
-<p><strong>Website</strong>: <a href="https://www.aic.buzz/dementia-intergen-toolkit" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.buzz/dementia-intergen-toolkit</a>
+<p><strong>Website</strong>: <a href="http://for.sg/youthhopeintergentoolkit" rel="noopener noreferrer nofollow" target="_blank">http://for.sg/youthhopeintergentoolkit</a>
 </p>
-<p><strong>Contact</strong>: <a href="trevor.tan@aic.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tan@aic.sg</a>
+<p><strong>Contact</strong>: <a href="shirley.chau@aic.sg" rel="noopener noreferrer nofollow" target="_blank">trevor.tan@aic.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Intergenerational_Toolkit_Cover_Photo__1_.png">
