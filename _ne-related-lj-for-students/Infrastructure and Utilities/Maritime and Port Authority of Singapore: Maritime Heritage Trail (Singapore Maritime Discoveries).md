@@ -58,7 +58,6 @@ to availability.</p>
 <p>
 <br>
 </p>
-<p>Maritime Heritage Trail, Maritime Corner @ Fort Canning</p>
-<p>
+<p>Maritime Heritage Trail, Maritime Corner @ Fort Canning
 <br>
 </p>
