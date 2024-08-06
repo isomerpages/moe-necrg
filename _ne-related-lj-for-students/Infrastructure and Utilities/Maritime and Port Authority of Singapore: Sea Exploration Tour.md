@@ -64,7 +64,5 @@ to availability.</p>
 <p></p>
 <p><strong>Contact</strong>: <a href="mailto:sgmaritimetours@mpa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgmaritimetours@mpa.gov.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sea_Exploration_Tour_Photo_1.jpg">
-</div>
-Sea Exploration Tour, Pasir Panjang Terminal
+
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sea_Exploration_Tour_Photo_1.jpg">Sea Exploration Tour, Pasir Panjang Terminal
