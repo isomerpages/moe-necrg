@@ -45,7 +45,10 @@ through engaging narratives and interactive exploration.</p>
 <p><strong>Programme Capacity:</strong> Min 1 pax, max 40 pax per tour.</p>
 <p><strong>Relevant Commemorative Days:</strong> Total Defence Day, National
 Day</p>
-<p><strong>Mode of registration:</strong> By email</p>
+<p><strong>Website:</strong>  <a href="https://www.mpa.gov.sg/events-careers/public-outreach/singaporemaritimediscoveries" rel="noopener noreferrer nofollow" target="_blank">https://www.mpa.gov.sg/events-careers/public-outreach/singaporemaritimediscoveries</a>
+</p>
+<p><strong>Mode of registration:</strong> Online through website link or by
+email</p>
 <p><strong>Due Date for registration</strong>: The availability of the tour
 is based on a first-come-first-served basis and must be booked 3 weeks
 in advance. Requests received with less than 3 weeks’ notice will be subject
