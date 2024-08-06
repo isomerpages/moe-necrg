@@ -63,7 +63,8 @@ to availability.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Evolution_Trail_Photo_1.jpg">
 </div>
 <p>Maritime Evolution Trail, St James Power Station</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Evolution_Trail_Photo_2.jpg">
+</div>
 <p>Maritime Evolution Trail, Batu Berlayer</p>
 <p></p>
