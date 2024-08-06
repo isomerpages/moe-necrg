@@ -50,4 +50,4 @@ to availability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2___The_Future_is_Now.jpg">
 </div>
-<p>The gallery underwent a revamp and reopened with refreshed content.email</p>
+<p>The gallery underwent a revamp and reopened with refreshed content</p>
