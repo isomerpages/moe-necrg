@@ -67,5 +67,4 @@ to availability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sea_Exploration_Tour_Photo_1.jpg">
 </div>
-<p>Sea Exploration Tour, Pasir Panjang Terminal</p>
-<p></p>
+Sea Exploration Tour, Pasir Panjang Terminal
