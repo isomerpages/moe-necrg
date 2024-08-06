@@ -6,6 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
+<h2>Maritime Evolution Trail</h2>
 <p>Embark on a captivating journey of transformation with out Maritime Evolution
 Trail. Discover the progress of Singapore’s modern maritime industry as
 you travel from Labrador Park to St James Power Station. Along the way,
