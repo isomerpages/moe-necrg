@@ -73,5 +73,8 @@ to availability.</p>
 </div>
 <p>Raffles Lighthouse, frontal view</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raffles_Lighthouse_Tour_Photo_2.jpg">
+</div>
 <p>Raffles Lighthouse, ariel view</p>
 <p></p>
