@@ -1,7 +1,7 @@
 ---
 title: "Maritime and Port Authority of Singapore: Maritime Discovery Expeditions"
 permalink: /maritime-and-port-authority-of-singapore-maritime-discovery-expeditions/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
@@ -63,7 +63,6 @@ to availability.</p>
 <p><strong>Contact</strong>: <a href="mailto:sgmaritimetours@mpa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgmaritimetours@mpa.gov.sg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
+
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Discovery_Expeditions_Photo_1.jpg">
-</div>
-<p>Maritime Discovery Expedition, Port Operations Control Centre</p>
+Maritime Discovery Expedition, Port Operations Control Centre

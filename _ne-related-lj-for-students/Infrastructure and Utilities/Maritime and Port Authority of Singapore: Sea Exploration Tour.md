@@ -1,7 +1,7 @@
 ---
 title: "Maritime and Port Authority of Singapore: Sea Exploration Tour"
 permalink: /maritime-and-port-authority-of-singapore-sea-exploration-tour/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
@@ -64,8 +64,5 @@ to availability.</p>
 <p></p>
 <p><strong>Contact</strong>: <a href="mailto:sgmaritimetours@mpa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgmaritimetours@mpa.gov.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sea_Exploration_Tour_Photo_1.jpg">
-</div>
-<p>Sea Exploration Tour, Pasir Panjang Terminal</p>
-<p></p>
+
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sea_Exploration_Tour_Photo_1.jpg">Sea Exploration Tour, Pasir Panjang Terminal

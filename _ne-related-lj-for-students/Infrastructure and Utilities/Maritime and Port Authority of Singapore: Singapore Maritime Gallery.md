@@ -1,7 +1,7 @@
 ---
 title: "Maritime and Port Authority of Singapore: Singapore Maritime Gallery"
 permalink: /ne-related-lj-for-students/infrastructure-and-utilities/singapore-maritime-gallery/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
@@ -46,8 +46,8 @@ to availability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1___Singapore_Maritime_Gallery.jpg">
 </div>
-<p>Singapore Maritime Gallery is located at Marina South Pier, Level 2.</p>
+Singapore Maritime Gallery is located at Marina South Pier, Level 2.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2___The_Future_is_Now.jpg">
 </div>
-<p>The gallery underwent a revamp and reopened with refreshed content</p>
+Revamped gallery, reopened with refreshed content<p></p>
