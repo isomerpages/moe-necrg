@@ -41,7 +41,7 @@ advancements.</p>
 the significance of islands like Pulau Sebarok and Pulau Bukom in supporting
 the maritime landscape, and their roles in the sustainable development
 of global shipping.</p>
-<p>4.4 Explore sustainable maritime initiatives: Participants will have the
+<p>4. Explore sustainable maritime initiatives: Participants will have the
 opportunity to reflect on sustainability measures adopted within the maritime
 sector, eco-friendly practices, cutting edge green technology, and a commitment
 to shaping a more sustainable future.</p>
