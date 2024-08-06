@@ -67,4 +67,3 @@ to availability.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Discovery_Expeditions_Photo_1.jpg">
 </div>
 <p>Maritime Discovery Expedition, Port Operations Control Centre</p>
-<p>Sea Exploration Tour, Pasir Panjang Terminal</p>
