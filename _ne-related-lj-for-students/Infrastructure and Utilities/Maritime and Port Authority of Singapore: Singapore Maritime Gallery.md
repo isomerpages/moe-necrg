@@ -31,12 +31,13 @@ Singapore and find out what makes Singapore a bustling maritime nation.</p>
 email for more details on booking of tours.</p>
 <p><strong>Modality</strong>: In-person</p>
 <p><strong>Duration of Session</strong>: 1 hour</p>
+<p><strong>Programme Capacity: </strong>200 pax</p>
 <p><strong>Relevant Commemorative Days:</strong> Total Defence Day, National
 Day</p>
 <p><strong>Website</strong>: <a href="https://go.gov.sg/sg-maritime-gallery" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-maritime-gallery</a>
 </p>
 <p><strong>Mode of registration:</strong> Online through website link or by
-vailability.</p>
+email.</p>
 <p><strong>Due Date for registration</strong>: The availability of the tour
 is based on a first-come-first-served basis and must be booked 3 weeks
 in advance. Requests received with less than 3 weeks’ notice will be subject
@@ -49,4 +50,4 @@ to availability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2___The_Future_is_Now.jpg">
 </div>
-<p>The gallery underwent a revamp and reopened with refreshed content.</p>
+<p>The gallery underwent a revamp and reopened with refreshed content.email</p>
