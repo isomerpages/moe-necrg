@@ -4,7 +4,7 @@ permalink: /singapore-maritime-gallery/
 variant: tiptap
 description: ""
 ---
-<p>### Singapore Maritime Gallery</p>
+<h2>Singapore Maritime Gallery</h2>
 <p>The Singapore Maritime Gallery offers an opportunity to explore Singapore’s
 rich maritime heritage, the vital link between the maritime industry and
 our daily lives, and how Singapore maintains her position as a global hub
@@ -53,13 +53,5 @@ to availability.</p>
 <p></p>
 <p><strong>Contact</strong>: <a href="mailto:sgmaritimegallery@mpa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgmaritimegallery@mpa.gov.sg</a>
 </p>
-<p>![](/images/MBL_1__1_.jpg)</p>
-<p>Museum Educator engaging Primary 6 students at Museum-based Learning Programme</p>
-<p>&gt; “Love the story-telling concept and also the activity booklet.”</p>
-<p>-Primary 6 student</p>
-<p>&gt; “The most memorable moment was when I got to see real objects from
-the past.”</p>
-<p>-Primary 6 student</p>
-<p>&gt; “I liked how the educators were very engaging in telling us the stories
-and how they manage to answer our questions.”</p>
-<p>-Primary 6 teacher</p>
+<p></p>
+<p></p>
