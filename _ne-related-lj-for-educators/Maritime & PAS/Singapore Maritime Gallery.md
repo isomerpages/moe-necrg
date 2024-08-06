@@ -34,8 +34,13 @@ email for more details on booking of tours.</p>
 Day</p>
 <p><strong>Website</strong>: <a href="https://go.gov.sg/sg-maritime-gallery" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-maritime-gallery</a>
 </p>
-<p><strong>Mode of registration:</strong> By email.</p>
-<p><strong>Due Date for registration</strong>: 2 weeks in advance</p>
+<p><strong>Mode of registration:</strong> Online through website link or by
+email.</p>
+<p><strong>Due Date for registration</strong>: The availability of the tour
+is based on a first-come-first-served basis and must be booked 3 weeks
+in advance. Requests received with less than 3 weeks’ notice will be subject
+to availability.</p>
+<p></p>
 <p><strong>Contact</strong>: sgmaritimegallery@mpa.gov.sg.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1___Singapore_Maritime_Gallery.jpg">
