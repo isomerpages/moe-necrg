@@ -6,6 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: Infrastructure and Utilities
 ---
+<h2>Maritime Heritage Trail</h2>
 <p>Step into the past on our Maritime Heritage Trail and uncover the secrets
 of Singapore’s early maritime history. Strolling through the historic Fort
 Canning Park, Singapore River, and exploring iconic landmarks like the
