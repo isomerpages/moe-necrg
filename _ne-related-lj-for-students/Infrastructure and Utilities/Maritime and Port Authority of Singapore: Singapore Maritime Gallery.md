@@ -33,7 +33,8 @@ email for more details on booking of tours.</p>
 <p><strong>Duration of Session</strong>: 1 hour</p>
 <p><strong>Relevant Commemorative Days:</strong> Total Defence Day, National
 Day</p>
-<p><strong>Website</strong>: https://go.gov.sg/sg-maritime-gallery</p>
+<p><strong>Website</strong>: <a href="https://go.gov.sg/sg-maritime-gallery" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-maritime-gallery</a>
+</p>
 <p><strong>Mode of registration:</strong> Online through website link or by
 vailability.</p>
 <p><strong>Due Date for registration</strong>: The availability of the tour
