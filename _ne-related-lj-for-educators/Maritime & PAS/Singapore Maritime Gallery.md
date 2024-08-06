@@ -12,16 +12,11 @@ port and leading international maritime centre, while tapping on technology
 to remain world-class and future ready. The gallery also highlights the
 diversity of Maritime Singapore and a wide variety of career pathways,
 inspiring future generations to be part of Singapore’s maritime industry.</p>
-<p>
-<br>
-</p>
 <p><strong>Details</strong>
 </p>
 <p>Option to either explore the gallery on their own using the gallery’s
 activity booklets and resource guides or book the one-hour guided tour.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Learning Objectives</strong>
 </p>
 <p>Participant will learn about Singapore’s transformation from a small trading
