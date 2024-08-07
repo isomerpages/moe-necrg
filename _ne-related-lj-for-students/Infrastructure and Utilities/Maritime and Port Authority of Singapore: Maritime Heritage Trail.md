@@ -60,11 +60,9 @@ to availability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Heritage_Trail_Photo_1.jpg">
 </div>
-Maritime Heritage Trail, Clifford Pier<p></p>
+Maritime Heritage Trail, Clifford Pier
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maritime_Heritage_Trail_Photo_2.jpg">
 </div>
 Maritime Heritage Trail, Maritime Corner @ Fort Canning
-<br>
-<p></p>
