@@ -44,13 +44,9 @@ for intergenerational interaction.</p>
 <p><strong>Mode of registration</strong>: By email</p>
 <p><strong>Contact:</strong> Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Twine___Design_Programme_1_min.jpg">
-</div>
-<p>A student from Ang Mo Kio Secondary School guided a senior in crafting
-plant hangers using twine and techniques like weaving and knotting.</p>
+<img alt="" src="/images/Twine___Design_Programme_1_min.jpg">A student from Ang Mo Kio Secondary School guided a senior in crafting
+plant hangers using twine and techniques like weaving and knotting.<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Motion_Magic_with_Capcut_Programme_2_min.jpg">
-</div>
-<p>A student from Hillgrove Secondary School taught a senior on video creation
-and editing with Capcut.</p>
+<img src="/images/Motion_Magic_with_Capcut_Programme_2_min.jpg">A student from Hillgrove Secondary School taught a senior on video creation
+and editing with Capcut.<p></p></div></div>
