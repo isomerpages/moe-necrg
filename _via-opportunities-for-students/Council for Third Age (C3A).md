@@ -27,15 +27,14 @@ ILP serves as a “Values in Action” (VIA) programme as it fosters student own
 
 **Modality:**  In-person, Virtual, Hybrid
 
-**Duration of session:**  3-8 hours, held over 1-4 sessions
+**Duration of session:**  Each ILP could range from a minimum of 3 hours, held over 1 to 4 sessions. The duration of each session in the programme is up to the arrangement of the school (e.g. 3 hours over 1 session, 4 hours over 2 sessions, etc.). In addition, students will undergo 1 hour of soft skills training before the programme to equip them with the knowledge of the ageing process, and the communication skills necessary for intergenerational interaction.
 
-**Capacity:** Minimum 15 students and maximum 40 students.
 
 **Website:**  https://www.c3a.org.sg/intergenerational-learning-programme
 
 **Mode of registration**: By email
 
-**Contact:**  Mr Winston Mok, 64785041, winston.mok@c3a.org.sg or Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg
+**Contact:**  Ms Cheryl Law, 64785043, cheryl.law@c3a.org.sg
 
 ![](/images/c3a%20photo%201.jpg)
 
