@@ -1,5 +1,5 @@
 ---
-title: Asian Civilisations Musuem
+title: Asian Civilisations Museum
 permalink: /cohort-learning-journeys/acm/
 description: ""
 variant: markdown
