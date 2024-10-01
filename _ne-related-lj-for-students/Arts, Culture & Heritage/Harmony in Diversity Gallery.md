@@ -81,7 +81,13 @@ days) in advance</p>
 <p><strong>Contact Info: </strong>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or <a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a> or
 call gallery at 6221-8942</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG1.jpg">
+</div>
 <p>Many Faiths, One People</p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG2.jpg">
+</div>
 <p>We, The People of Singapore</p>
 <p></p>
