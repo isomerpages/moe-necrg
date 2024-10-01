@@ -11,20 +11,16 @@ for participants to learn about Singapore’s religious diversity and harmony.
 It comprises four galleries of exhibits, artefacts and interactive features
 that demonstrate the centrality of religious harmony to Singapore’s development,
 and the efforts required to build interfaith peace in a religiously diverse
-society. The Harmony in Diversity Gallery provides an immersive and engaging
-platform for participants to elarn about Singapore's religious diversity
-and harmony. It comprises of four galleries of exhibits, artefacts and
-interactive features that demonstrate the centrality of religious harmony
-to Singapore's development, and the efforts required to build interface
-peace in a religiously diverse society. The gallery will highlight our
-religious diversity, help us to recognise the importance of seeking common
-ground to build mutual respect and accommodation, and emphasise the need
-to protect and expand our common spaces. The visit to the gallery is also
-accompanied by a guided heritage trail, Telok Ayer – A Picture of Diversity.
-Diversity comes alive as we go back in time to relive Telok Ayer in the
-1800s. Learn about how the various immigrant communities from various races
-and religions interacted as well as the tensions and misunderstandings
-that sparked off conflicts among them.</p>
+society.</p>
+<p>The gallery will highlight our religious diversity, help us to recognise
+the importance of seeking common ground to build mutual respect and accommodation,
+and emphasise the need to protect and expand our common spaces.</p>
+<p>The visit to the gallery is also accompanied by a guided heritage trail,
+Telok Ayer – A Picture of Diversity. Diversity comes alive as we go back
+in time to relive Telok Ayer in the 1800s. Learn about how the various
+immigrant communities from various races and religions interacted as well
+as the tensions and misunderstandings that sparked off conflicts among
+them.</p>
 <p><strong>Details</strong>
 </p>
 <p>The visit comprises (1) a guided tour of the gallery and (2) a guided
@@ -84,10 +80,12 @@ call gallery at 6221-8942</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG1.jpg">
 </div>
-Many Faiths, One People<p></p>
+<p>Many Faiths, One People</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG2.jpg">
 </div>
-We, The People of Singapore<p></p>
+<p>We, The People of Singapore</p>
+<p></p>
 <p></p>
