@@ -58,7 +58,7 @@ Singapore and what all can do to preserve this previous legacy.</p>
 <p></p>
 <p><strong>Duration of Session</strong>: 2h</p>
 <p></p>
-<p><strong>Capacity:</strong> Minimum 8 pax Maximum 80 pax (divided into 4
+<p><strong>Capacity:</strong> Minimum 8 pax; Maximum 80 pax (divided into 4
 sub groups)</p>
 <p></p>
 <p><strong>Relevant Commemorative Days</strong>: Racial Harmony Day, National
