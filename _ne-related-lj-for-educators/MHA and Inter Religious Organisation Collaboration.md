@@ -80,10 +80,10 @@ call gallery at 6221-8942</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MHA_1.jpg">
-</div>
-<p>Many Faiths, One People</p>
+Many Faiths, One People</div>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MHA_2.jpg">
-</div>
-<p>We, The People of Singapore</p>
+We, The People of Singapore</div>
+<p></p>
