@@ -4,7 +4,7 @@ permalink: /ne-related-lj-for-educators/mha/
 variant: tiptap
 description: ""
 ---
-<h4>Learning Journey To Harmony In Diversity Gallery</h4>
+<h4>MHA: Learning Journey To Harmony In Diversity Gallery</h4>
 <p>The Harmony in Diversity Gallery provides an immersive and engaging platform
 for participants to learn about Singapore’s religious diversity and harmony.
 It comprises four galleries of exhibits, artefacts and interactive features
