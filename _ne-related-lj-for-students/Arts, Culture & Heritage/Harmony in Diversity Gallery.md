@@ -61,7 +61,7 @@ Singapore and what all can do to preserve this previous legacy.</p>
 into 4 sub groups)</p>
 <p><strong>Website:</strong>  <a href="http://www.harmonyindiversitygallery.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.harmonyindiversitygallery.gov.sg</a>
 </p>
-<p><strong>Mode of Registration: </strong>
+<p><strong>Mode of Registration:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -84,8 +84,3 @@ call gallery at 6221-8942</p>
 <p>Many Faiths, One People</p>
 <p>x</p>
 <p>We, The People of Singapore</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
