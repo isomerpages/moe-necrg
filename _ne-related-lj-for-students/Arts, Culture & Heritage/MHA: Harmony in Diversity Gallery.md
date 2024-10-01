@@ -81,11 +81,11 @@ call gallery at 6221-8942</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG1.jpg">
 </div>
 Many Faiths, One People
-<p></p>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HDG2.jpg">
 </div>
 We, The People of Singapore
-<p></p>
+
 <p></p>
