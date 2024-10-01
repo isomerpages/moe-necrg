@@ -80,7 +80,8 @@ into 4 sub groups)</p>
 days) in advance</p>
 <p><strong>Contact Info: </strong>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or <a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a> or
 call gallery at 6221-8942</p>
-<p>x</p>
+<p></p>
 <p>Many Faiths, One People</p>
 <p>x</p>
 <p>We, The People of Singapore</p>
+<p></p>
