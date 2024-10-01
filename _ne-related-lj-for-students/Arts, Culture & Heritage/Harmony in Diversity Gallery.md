@@ -51,13 +51,39 @@ in Singapore.</p>
 Singapore and what all can do to preserve this previous legacy.</p>
 </li>
 </ul>
-<p><strong>Target Audience</strong>
+<p><strong>Target Audience: </strong>Secondary 1- 4/5 students, Post Secondary
+(JC/ Poly/ ITE)</p>
+<p><strong>Runtime:</strong> All year round</p>
+<p><strong>Fee:</strong> Complimentary</p>
+<p><strong>Modality: </strong>In-person</p>
+<p><strong>Duration of Session: </strong>2 hours</p>
+<p><strong>Programme Capacity:</strong> Minimum 8 pax; Maximum 80 pax (divided
+into 4 sub groups)</p>
+<p><strong>Website:</strong>  <a href="http://www.harmonyindiversitygallery.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.harmonyindiversitygallery.gov.sg</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>Mode of Registration: </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>By email</p>
+</li>
+<li>
+<p>Online through website link</p>
+</li>
+<li>
+<p>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or
+<a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a>
+</p>
+</li>
+</ul>
+<p><strong>Due Date for Registration: </strong>At least 2 weeks (14 working
+days) in advance</p>
+<p><strong>Contact Info: </strong>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or <a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a> or
+call gallery at 6221-8942</p>
+<p>x</p>
+<p>Many Faiths, One People</p>
+<p>x</p>
+<p>We, The People of Singapore</p>
 <p></p>
 <p></p>
 <p></p>
