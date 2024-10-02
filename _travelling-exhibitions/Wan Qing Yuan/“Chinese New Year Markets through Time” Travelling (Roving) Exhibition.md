@@ -38,6 +38,9 @@ this exhibition.</p>
 <p><strong>Due Date for Registration: </strong>2 months in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:nhb_wqy@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_wqy@nhb.gov.sg</a>
 </p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_MOE_NECRG___CNY_Travelling_Exhibition.jpg">
+</div>
 <p>Mock-up of the exhibition</p>
 <p>s</p>
