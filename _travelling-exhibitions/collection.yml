@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - National Heritage Board/.keep
-      - Heritage On The Move.md
       - S'pore Chinese Cultural Centre/.keep
       - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
         Exhibition.md
