@@ -2,7 +2,6 @@ collections:
   workshops-for-students:
     output: true
     order:
-      - Wan Qing Yuan/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
@@ -33,3 +32,4 @@ collections:
       - South East CDC/Sustainable Living @ South East.md
       - South East CDC/The Wormery Movement.md
       - Urban Redevelopment Authority.md
+      - Wan Qing Yuan/.keep
