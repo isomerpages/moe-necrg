@@ -2,6 +2,8 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - Wan Qing Yuan/“Chinese New Year Markets through Time” Travelling
+        (Roving) Exhibition.md
       - Wan Qing Yuan/.keep
       - Overview.md
       - National Heritage Board/.keep
