@@ -28,5 +28,8 @@ and can be hosted at any time of the year to complement events or programmes.</p
 <p><strong>Contact</strong>: <a href="mailto:josephine_sin@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_sin@nhb.gov.sg</a> or
 <a href="mailto:josephine_sin@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NHB_HOTM@nhb.gov.sg</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_HOTM_NHB.jpg">
+</div>
 <p></p>
-<p>Travelling Exhibition: Heritage on the Move</p>
+<p></p>
