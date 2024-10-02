@@ -5,32 +5,30 @@ variant: tiptap
 description: ""
 third_nav_title: National Heritage Board
 ---
-Heritage on the Move is a series of travelling exhibitions that showcase Singapore's rich cultural heritage. These exhibitions cover a wide range of educational themes and are designed to be modular, making them suitable for a variety of events and venues. They are ideal for a variety of occasions, including school commemorations, cultural festivals, National Education events, and learning programmes. With its engaging exhibition topics, it is sure to enrich the learning experiences of students and visitors alike.
-
-**Details**
-
-The travelling exhibitions cover a wide range of educational themes and are designed to be modular, making them suitable for a variety of events and venues.
-
-**Learning Objectives**
-
-The travelling exhibitions showcases Singapore's rich cultural heritage ideal for a variety of occasions, including school commemorations, cultural festivals, National Education events, and learning programmes.
-
-**Target Audience**: Primary 1- Primary 6 students, Secondary 1 - 4/5 students, Post Secondary (JC/ Poly/ ITE)
-
-**Runtime**: All year round
-
-**Fee**: Please email for more details
-
-**Modality**: In-person
-
-**Duration of Session**: 2 weeks
-
-**Relevant Commemorative Days**: Total Defence Day, International Friendship Day, Racial Harmony Day, National Day
-
-**Mode of Registration:** By email.
-
-**Due Date for registration**: 2 month in advance
-
-**Contact**: NHB_HOTM@nhb.gov.sg
-
-![](/images/Deliciously_Singaporean_2.jpg)Deliciously Singaporean exhibition
+<h4>Heritage On The Move (HOTM) Travelling Exhibitions</h4>
+<p>Heritage On The Move (HOTM) is a community engagement programme by the
+National Heritage Board to that presents heritage content through travelling
+exhibitions on Singapore’s history and multicultural heritage. These modular
+exhibitions are designed to be adaptable to various spaces and there are
+currently 17 national education themed exhibitions available for hosting.
+They offer a valuable opportunity to learn about Singapore’s rich heritage
+and can be hosted at any time of the year to complement events or programmes.</p>
+<p></p>
+<p><strong>Target Audience</strong>: Primary 1 - Primary 6 students, Secondary
+1 - 4/5 students, Post Secondary (JC/ Poly/ ITE)</p>
+<p><strong>Runtime</strong>: All year round</p>
+<p><strong>Fee</strong>: Please email <a href="mailto:NHB_hotm@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NHB_hotm@nhb.gov.sg </a>for more info</p>
+<p><strong>Modality</strong>: In-person</p>
+<p><strong>Duration of Session</strong>: Minimum display period of 7 days</p>
+<p><strong>Programme Capacity: </strong>Depends on the number of pax</p>
+<p><strong>Website:</strong>  <a href="https://go.gov.sg/nhb-hotm" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nhb-hotm</u></a>
+</p>
+<p><strong>Mode of Registration:</strong>&nbsp;By email</p>
+<p><strong>Due Date for Registration</strong>: At least 1 month in advance</p>
+<p><strong>Contact</strong>: <a href="mailto:josephine_sin@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_sin@nhb.gov.sg</a> or
+<a href="mailto:josephine_sin@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NHB_HOTM@nhb.gov.sg</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Deliciously_Singaporean_2.jpg">
+</div>
+<p>Deliciously Singaporean exhibition</p>
