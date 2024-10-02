@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Inclusivity & Social Cohesion
 ---
-<h3>MHA: Learning Journey to Harmony In Diversity Gallery</h3>
+<h3>MHA and Inter-Religious Organisation Collaboration: Learning Journey to Harmony In Diversity Gallery</h3>
 <p>The Harmony in Diversity Gallery provides an immersive and engaging platform
 for participants to learn about Singapore’s religious diversity and harmony.
 It comprises four galleries of exhibits, artefacts and interactive features
@@ -26,7 +26,7 @@ them.</p>
 <p>The visit comprises (1) a guided tour of the gallery and (2) a guided
 walking heritage trail of the Telok Ayer Area (one of the Streets of Harmony).
 We also have a seminar room where groups can hold/conduct breakout discussion/dialogue
-sessions with participants.</p>
+sessions with participants</p>
 <p><strong>Learning Objectives</strong>
 </p>
 <p>Paticipants will:</p>
