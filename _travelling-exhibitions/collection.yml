@@ -2,6 +2,7 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - Heritage On The Move.md
       - ECO/.keep
       - S'pore Chinese Cultural Centre/.keep
       - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
