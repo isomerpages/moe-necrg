@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: National Heritage Board
 ---
-<h4>Heritage On The Move (HOTM) Travelling Exhibitions</h4>
+<h3>Heritage On The Move (HOTM) Travelling Exhibitions</h3>
 <p>Heritage On The Move (HOTM) is a community engagement programme by the
 National Heritage Board to that presents heritage content through travelling
 exhibitions on Singapore’s history and multicultural heritage. These modular
