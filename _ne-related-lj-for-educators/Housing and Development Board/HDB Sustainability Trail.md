@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Housing and Development Board
 ---
 <h3>HDB Sustainability Trail</h3>
-<p>The Punggol Eco Trails offer an immersive experience for participants,
+<p>The HDB Sustainability Trails offer an immersive experience for participants,
 allowing them to discover the various green initiatives and sustainability
 features aimed at promoting sustainable living in HDB heartlands. Under
 the programme, students and teachers could also sign up to be an Eco Guide
