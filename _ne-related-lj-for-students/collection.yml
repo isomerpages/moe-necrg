@@ -2,7 +2,6 @@ collections:
   ne-related-lj-for-students:
     output: true
     order:
-      - Inclusivity & Social Cohesion/.keep
       - Overview.md
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
@@ -94,6 +93,7 @@ collections:
       - "Health & Community/MOM School Partnership Programme: Assembly Talk and
         Learning Journey.md"
       - Health & Community/RELIGIOUS REHABILITATION GROUP.md
+      - Inclusivity & Social Cohesion/.keep
       - Infrastructure and Utilities/.keep
       - "Infrastructure and Utilities/Maritime and Port Authority of Singapore:
         Maritime Discovery Expeditions.md"
