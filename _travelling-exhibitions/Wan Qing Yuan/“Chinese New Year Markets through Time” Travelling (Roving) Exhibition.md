@@ -41,6 +41,5 @@ this exhibition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_MOE_NECRG___CNY_Travelling_Exhibition.jpg">
-</div>
-<p>Mock-up of the exhibition</p>
-<p>s</p>
+Mock-up of the exhibitions</div>
+<p></p>
