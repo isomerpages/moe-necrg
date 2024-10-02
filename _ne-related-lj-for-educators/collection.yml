@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Housing and Development Board/.keep
-      - Housing Development Board.md
       - Overview.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
