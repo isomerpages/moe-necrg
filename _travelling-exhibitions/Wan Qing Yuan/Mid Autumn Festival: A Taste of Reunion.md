@@ -33,5 +33,4 @@ weeks</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_MOE_NECRG___MAF_Travelling_Exhibition.jpg">
-</div>
-<p>Mock-up of the exhibition</p>
+Mock-up of the exhibition</div>
