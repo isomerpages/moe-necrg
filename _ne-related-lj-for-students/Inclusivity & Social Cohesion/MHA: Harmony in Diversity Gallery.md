@@ -58,20 +58,11 @@ into 4 sub groups)</p>
 <p><strong>Website:</strong>  <a href="http://www.harmonyindiversitygallery.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.harmonyindiversitygallery.gov.sg</a>
 </p>
 <p><strong>Mode of Registration:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>By email</p>
-</li>
-<li>
-<p>Online through website link</p>
-</li>
-<li>
-<p>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or
+By email to <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or
 <a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a>
 </p>
-</li>
-</ul>
+
+
 <p><strong>Due Date for Registration: </strong>At least 2 weeks (14 working
 days) in advance</p>
 <p><strong>Contact Info: </strong>Email <a href="mailto:mha_hdg@mha.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mha_hdg@mha.gov.sg</a> or <a href="mailto:magtan.hdg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">magtan.hdg@gmail.com</a> or
