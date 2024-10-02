@@ -55,11 +55,11 @@ required</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Trail_LearningJourney_Photo1.jpg">
-</div>
-<p>Students explored and learnt how the Dragonfly Pond promotes greater biodiversity
-in the urban environment during the Punggol Northshore Trail.</p>
+Students explored and learnt how the Dragonfly Pond promotes greater biodiversity
+in the urban environment during the Punggol Northshore Trail.</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Trail_LearningJourney_Photo2.jpg">
-</div>
-<p>Students engaged at the training to acquire the skills needed to become
-Eco Guides.</p>
+Students engaged at the training to acquire the skills needed to become
+Eco Guides.</div>
+<p></p>
