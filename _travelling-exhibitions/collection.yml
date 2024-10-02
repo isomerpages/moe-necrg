@@ -2,6 +2,7 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - Overview.md
       - "National Heritage Board/NHB: Heritage On The Move.md"
       - National Heritage Board/.keep
       - S'pore Chinese Cultural Centre/.keep
