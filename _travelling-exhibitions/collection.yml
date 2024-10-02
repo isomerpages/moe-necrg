@@ -2,9 +2,6 @@ collections:
   travelling-exhibitions:
     output: true
     order:
-      - Wan Qing Yuan/“Chinese New Year Markets through Time” Travelling
-        (Roving) Exhibition.md
-      - Wan Qing Yuan/.keep
       - Overview.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
@@ -13,3 +10,6 @@ collections:
         Exhibition.md
       - Singapore Food Agency/.keep
       - Singapore Food Agency/Food Security Travelling Exhibitions.md
+      - Wan Qing Yuan/.keep
+      - Wan Qing Yuan/“Chinese New Year Markets through Time” Travelling
+        (Roving) Exhibition.md
