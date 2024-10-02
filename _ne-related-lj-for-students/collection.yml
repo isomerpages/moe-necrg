@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board, Anak
-        Anak labels and Activity Trail.md
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -30,6 +28,7 @@ collections:
         at CMSG (A maze ing Birthday Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Self guided Visit
         at CMGS (A Voyage Back in Time).md"
+      - "Arts, Culture & Heritage/MHA: Harmony in Diversity Gallery.md"
       - Arts, Culture & Heritage/National Gallery Singapore.md
       - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
       - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
@@ -38,6 +37,8 @@ collections:
         Programme.md"
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
         the Peranakan Museum).md"
+      - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board, Anak
+        Anak labels and Activity Trail.md
       - "Arts, Culture & Heritage/Perenakan Museum, National Heritage Board,
         Guided Tour: Introduction to Peranakan Culture Highlights.md"
       - "Arts, Culture & Heritage/Peranakan Museum, National Heritage Board,
@@ -89,7 +90,6 @@ collections:
       - Health & Community/Dialogue in the Dark Singapore.md
       - Health & Community/HCA Hospice.md
       - Health & Community/Kwong Wai Shiu Hospital.md
-      - Health & Community/MHA and Inter Religious Organisation Collaboration.md
       - "Health & Community/MOM School Partnership Programme: Assembly Talk and
         Learning Journey.md"
       - Health & Community/RELIGIOUS REHABILITATION GROUP.md

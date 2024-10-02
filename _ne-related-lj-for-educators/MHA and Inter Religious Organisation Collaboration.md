@@ -1,10 +1,10 @@
 ---
 title: MHA and Inter Religious Organisation Collaboration
 permalink: /ne-related-lj-for-educators/mha/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<h4>Learning Journey To Harmony In Diversity Gallery</h4>
+<h4>MHA: Learning Journey To Harmony In Diversity Gallery</h4>
 <p>The Harmony in Diversity Gallery provides an immersive and engaging platform
 for participants to learn about Singapore’s religious diversity and harmony.
 It comprises four galleries of exhibits, artefacts and interactive features
@@ -58,7 +58,7 @@ Singapore and what all can do to preserve this previous legacy.</p>
 <p></p>
 <p><strong>Duration of Session</strong>: 2h</p>
 <p></p>
-<p><strong>Capacity:</strong> Minimum 8 pax Maximum 80 pax (divided into 4
+<p><strong>Capacity:</strong> Minimum 8 pax; Maximum 80 pax (divided into 4
 sub groups)</p>
 <p></p>
 <p><strong>Relevant Commemorative Days</strong>: Racial Harmony Day, National
@@ -80,10 +80,10 @@ call gallery at 6221-8942</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MHA_1.jpg">
-</div>
-<p>Many Faiths, One People</p>
+Many Faiths, One People</div>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MHA_2.jpg">
-</div>
-<p>We, The People of Singapore</p>
+We, The People of Singapore</div>
+<p></p>

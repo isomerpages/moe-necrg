@@ -2,8 +2,12 @@ collections:
   travelling-exhibitions:
     output: true
     order:
-      - ECO/.keep
-      - ECO/Heritage On The Move.md
+      - Wan Qing Yuan/“Chinese New Year Markets through Time” Travelling
+        (Roving) Exhibition.md
+      - Wan Qing Yuan/.keep
+      - Overview.md
+      - National Heritage Board/.keep
+      - "National Heritage Board/NHB: Heritage On The Move.md"
       - S'pore Chinese Cultural Centre/.keep
       - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
         Exhibition.md
