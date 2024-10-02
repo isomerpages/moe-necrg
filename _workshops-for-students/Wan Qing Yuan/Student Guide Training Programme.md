@@ -43,12 +43,16 @@ of local Chinese heritage, cultural traditions and history</p>
 <p><strong>Due Date for Registration: </strong>3 months in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:nhb_wqy@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_wqy@nhb.gov.sg</a>
 </p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_1.jpg">
+</div>
+<p>Trainers guiding students</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_2.jpg">
+</div>
+<p>Students guiding for peers for Mid-Autumn Festival Travelling Exhibition</p>
 <p>
 <br>
 </p>
