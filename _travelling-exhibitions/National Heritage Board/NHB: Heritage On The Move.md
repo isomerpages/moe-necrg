@@ -13,7 +13,6 @@ exhibitions are designed to be adaptable to various spaces and there are
 currently 17 national education themed exhibitions available for hosting.
 They offer a valuable opportunity to learn about Singapore’s rich heritage
 and can be hosted at any time of the year to complement events or programmes.</p>
-<p></p>
 <p><strong>Target Audience</strong>: Primary 1 - Primary 6 students, Secondary
 1 - 4/5 students, Post Secondary (JC/ Poly/ ITE)</p>
 <p><strong>Runtime</strong>: All year round</p>
