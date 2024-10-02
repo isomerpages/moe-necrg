@@ -45,16 +45,11 @@ of local Chinese heritage, cultural traditions and history</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_1.jpg">Trainers guiding students
 </div>
-<p>Trainers guiding students</p>
+
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_NECRG_SGT_Picture_2.jpg">Students guiding for peers for Mid-Autumn Festival Travelling Exhibition
 </div>
-<p>Students guiding for peers for Mid-Autumn Festival Travelling Exhibition</p>
-<p>
-<br>
-</p>
-<p></p>
 <p></p>
