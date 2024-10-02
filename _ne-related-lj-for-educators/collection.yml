@@ -2,8 +2,6 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
-      - Housing and Development Board/HDB Sustainability Trail.md
-      - Housing and Development Board/.keep
       - Overview.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
@@ -17,14 +15,16 @@ collections:
       - "Changi Airport Singapore/Digital Innovation: A Way of Working.md"
       - HCA Hospice/.keep
       - HCA Hospice/Oasis at The End of Life.md
+      - Housing and Development Board/.keep
+      - Housing and Development Board/HDB Sustainability Trail.md
       - Land Transport Authority/.keep
       - Land Transport Authority/Singapore Mobility Gallery.md
+      - Maritime & PAS/.keep
       - Maritime & PAS/Maritime Discovery Expeditions.md
       - Maritime & PAS/Sea Exploration Tour.md
       - Maritime & PAS/Raffles Lighthouse Tour.md
       - Maritime & PAS/Maritime Evolution Trail.md
       - Maritime & PAS/Maritime Heritage Trail.md
-      - Maritime & PAS/.keep
       - Maritime & PAS/Singapore Maritime Gallery.md
       - MHA and Inter Religious Organisation Collaboration.md
       - National Environment Agency/.keep
