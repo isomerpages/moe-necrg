@@ -48,4 +48,3 @@ weeks</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_MOE_NECRG___DBF_Travelling_Exhibition.jpg">
 </div>
 <p>Mock-up of the exhibition</p>
-<p>x</p>
