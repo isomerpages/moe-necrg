@@ -86,20 +86,20 @@ link</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Assembly_Show.jpg">
-</div>
-<p>Assembly Show</p>
+Assembly Show</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Electric_bus_showcase.jpg">
-</div>
-<p>Electric Bus Showcase</p>
+Electric Bus Showcase</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Green_Commutes_Challenge.jpg">
-</div>
-<p>Roving Exhibition Panels</p>
+Roving Exhibition Panels</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Roving_Exhibition_Panels.png">
-</div>
-<p>Green Commutes Challenge</p>
+Green Commutes Challenge</div>
+<p></p>
 <p></p>
