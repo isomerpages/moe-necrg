@@ -3,10 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Arts, Culture & Heritage/Children's Museum Singapore: Adventures of
-        Hawkerverse.md"
       - Arts, Culture & Heritage/.keep
-      - "Arts, Culture & Heritage/Children's Museum Singapore: Tingkat Tales.md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour
@@ -23,6 +20,9 @@ collections:
         using ACM Wonders activity cards.md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Storytelling
         Guided Tour (Heroes of Asia).md"
+      - "Arts, Culture & Heritage/Children's Museum Singapore: Adventures of
+        Hawkerverse.md"
+      - "Arts, Culture & Heritage/Children's Museum Singapore: Tingkat Tales.md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
         at CMSG (The Enchanted Garden Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
