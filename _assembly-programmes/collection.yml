@@ -2,11 +2,11 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - Children's Museum Singapore.md
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Interactive Skits.md
       - Central Narcotics Bureau/School Talk and Exhibition.md
+      - Children's Museum Singapore.md
       - Corrupt Practices Investigation Bureau (CPIB).md
       - Dialogue in the Dark Singapore.md
       - Housing & Development Board/.keep
