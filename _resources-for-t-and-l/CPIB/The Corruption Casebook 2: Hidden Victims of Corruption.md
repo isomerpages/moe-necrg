@@ -28,4 +28,7 @@ of society.</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_The_Corruption_Casebook_2_Hidden_Victims_of_Corruption_Photo_1.png">
+</div>
 <p>The Corruption Casebook 2: Hidden Victims of Corruption</p>
