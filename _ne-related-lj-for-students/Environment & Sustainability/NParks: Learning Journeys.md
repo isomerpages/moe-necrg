@@ -72,4 +72,3 @@ link</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Learning_Journey_Kids_for_Nature_2_photo_1.jpg">
 </div>
 <p>Kids For Nature Learning Journey</p>
-<p>\</p>
