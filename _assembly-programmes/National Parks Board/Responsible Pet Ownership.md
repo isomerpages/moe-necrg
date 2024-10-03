@@ -35,7 +35,7 @@ excluding public holidays</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Responsible_Pet_Ownership_photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Responsible_Pet_Ownership_photo_1.jpg">AVS' Adam educating children on the Dos and Don'ts of Responsible Pet
+Ownership
 </div>
-<p>AVS' Adam educating children on the Dos and Don'ts of Responsible Pet
-Ownership</p>
+<p></p>
