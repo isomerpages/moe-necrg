@@ -62,7 +62,7 @@ change to the environment</p>
 <p><strong>Runtime: </strong>All year round</p>
 <p><strong>Fee:</strong> Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
-<p><strong>Duration of Session: </strong>
+<p><strong>Duration of Session:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -84,4 +84,14 @@ link</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:lta_school_outreach@lta.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lta_school_outreach@lta.gov.sg</a>
 </p>
 <p>x</p>
+<p>Assembly Show</p>
+<p>x</p>
+<p>Electric Bus Showcase</p>
+<p>x</p>
+<p>Roving Exhibition Panels</p>
+<p>x</p>
+<p>Green Commutes Challenge</p>
+<p>x</p>
+<p>x</p>
+<p></p>
 <p>x</p>
