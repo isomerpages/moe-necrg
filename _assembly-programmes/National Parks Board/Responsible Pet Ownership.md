@@ -5,32 +5,37 @@ variant: tiptap
 description: ""
 third_nav_title: National Parks Board
 ---
-Through our educational programmes, students will learn about how they can contribute to a sustainable urban ecosystem where humans and animals live in harmony.
-
-**Details**
-
-Students will learn what it takes to be a good pet owner and why only certain types of animals should be kept as pets. They will also get to observe a demonstration of cleaning, feeding and grooming for various pet animals, and understand the importance of caring for a pet collectively as a household. For the Learning Journey at Jacob Ballas Children Garden, students will visit the animal classroom and meet the animal ambassadors that are currently in AVS’ care. For the Show & Tell, AVS staff will visit schools with our animal ambassadors.
-
-**Learning Objectives**
-
-Our RPO programmes equip existing and potential pet owners with knowledge about the care and responsibility needed for responsible pet ownership.
-
-**Target Audience**: Primary 1 - 6 students
-
-**Runtime:** Only available on Tuesday, Wednesday,Thursday, excluding public holidays
-
-**Fee:** Complimentary
-
-**Modality:** In-person
-
-**Website**: https://www.nparks.gov.sg/avs/outreach/educational-programmes/learning
-
-**Mode of Registration:** By email
-
-**Capacity**: email for more info
-
-**Due Date for registration**: 1 month in advance
-
-**Contact**: AVS_Engage@nparks.gov.sg
-
-![](/images/nparks_RPO_PCF_Tampines.jpg)RPO PCF Tampines
+<p>Students will learn what it takes to be a good pet owner and why only
+certain types of animals should be kept as pets. They will also get to
+observe a demonstration of cleaning, feeding and grooming for various pet
+animals, and understand the importance of caring for a pet collectively
+as a household. For the Show &amp; Tell, AVS staff will visit schools with
+our animal ambassadors.</p>
+<p>For the Learning Journey at Jacob Ballas Children's Garden, students will
+visit the animal classroom and meet the animal ambassadors that are currently
+in the care of staff from the Animal &amp; Veterinary Service (AVS).</p>
+<p><strong>Details</strong>
+</p>
+<p>Through our educational programmes, students will learn about how they
+can contribute to a sustainable urban ecosystem where humans and animals
+live in harmony.</p>
+<p><strong>Learning Objectives</strong>
+</p>
+<p>Our RPO programmes equip existing and potential pet owners with knowledge
+about the care and responsibility needed for responsible pet ownership.</p>
+<p><strong>Target Audience</strong>: Primary 1 - 6 students</p>
+<p><strong>Runtime:</strong>&nbsp;Only available on Tuesday, Wednesday,Thursday,
+excluding public holidays</p>
+<p><strong>Fee:</strong>&nbsp;Complimentary</p>
+<p><strong>Modality:</strong>&nbsp;In-person</p>
+<p><strong>Mode of Registration:</strong>&nbsp;By email</p>
+<p><strong>Capacity</strong>: email for more info</p>
+<p><strong>Due Date for registration</strong>: 1 month in advance</p>
+<p><strong>Contact</strong>: <a href="mailto:AVS_Engage@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AVS_Engage@nparks.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Responsible_Pet_Ownership_photo_1.jpg">
+</div>
+<p>AVS' Adam educating children on the Dos and Don'ts of Responsible Pet
+Ownership</p>
