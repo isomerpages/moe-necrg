@@ -33,14 +33,12 @@ a booking</p>
 <p><strong>Contact Info: </strong><a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_cmsg_edu@nhb.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AOH_Photo1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AOH_Photo1.jpg">Travel back to Singapore many years back and experience the street hawker
+stalls from the past!
 </div>
-<p>
-<br>Travel back to Singapore many years back and experience the street hawker
-stalls from the past!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AOH_Photo2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AOH_Photo2.jpg">Design your own hawker centre using LEGOs!
 </div>
-<p>Design your own hawker centre using LEGOs!</p>
 <p></p>
 <p></p>
