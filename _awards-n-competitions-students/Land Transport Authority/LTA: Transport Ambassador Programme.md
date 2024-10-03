@@ -93,11 +93,13 @@ link</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Electric_bus_showcase.jpg">
 </div>
 <p>Electric Bus Showcase</p>
-<p>x</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Green_Commutes_Challenge.jpg">
+</div>
 <p>Roving Exhibition Panels</p>
-<p>x</p>
-<p>Green Commutes Challenge</p>
-<p>x</p>
-<p>x</p>
 <p></p>
-<p>x</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Roving_Exhibition_Panels.png">
+</div>
+<p>Green Commutes Challenge</p>
+<p></p>
