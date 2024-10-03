@@ -34,11 +34,9 @@ a booking</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TingkatTales_Photo1_.jpg">
-</div>
-<p>Meet a storyteller, Ah Seng, who came from the past and explore the galleries
-together!</p>
+Meet a storyteller, Ah Seng, who came from the past and explore the galleries together!</div>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TingkatTales_Photo2.jpg">
-</div>
-<p>Meet a food delivery ride, Sam, and help to collect the delivery orders!</p>
+Meet a food delivery ride, Sam, and help to collect the delivery orders!</div>
