@@ -33,4 +33,8 @@ of visit</p>
 <p><strong>Contact Info: </strong><a href="mailto:NHB_NM_Schools@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NHB_NM_Schools@nhb.gov.sg</a>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBL_2021.png">
+</div>
 <p>Image courtesy of Wesley Loh, Memphis West Pictures</p>
+<p></p>
