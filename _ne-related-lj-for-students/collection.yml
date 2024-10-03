@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Arts, Culture & Heritage/Children's Museum Singapore: Tingkat Tales.md"
       - Arts, Culture & Heritage/.keep
+      - "Arts, Culture & Heritage/Children's Museum Singapore: Tingkat Tales.md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour
