@@ -20,9 +20,7 @@ online via the CPIB website.</p>
 is not a victimless crime and its pitfall and impact to various aspects
 of society.</p>
 <p><strong>Target Audience: </strong>Sec 1 to 4/5 students, Post-Sec (JC/Poly/ITE)</p>
-<p><strong>Runtime:</strong> All year round</p>
-<p><strong>Fee:</strong> Complimentary</p>
-<p><strong>Modality: </strong>Virtual</p>
+<p></p>
 <p><strong>Website:</strong>  <a href="https://www.cpib.gov.sg/about-corruption/resources/corruption-casebook-2/" rel="noopener noreferrer nofollow" target="_blank">https://www.cpib.gov.sg/about-corruption/resources/corruption-casebook-2/</a>
 </p>
 <p><strong>Contact Info:</strong>  <a href="mailto:info@cpib.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@cpib.gov.sg</a>
