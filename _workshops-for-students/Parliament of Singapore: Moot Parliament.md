@@ -28,6 +28,6 @@ learning about the history, the people and how law-making works in singapore.</p
 <p><strong>Contact Info: </strong><a href="mailto:parl_edu@parl.gov.sg" rel="noopener noreferrer nofollow" target="_blank">parl_edu@parl.gov.sg</a>; 6332 5543</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parliament_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parliament_1.jpg">Image Courtesy of Parliament House
 </div>
-<p>Image Courtesy of Parliament House</p>
+<p></p>
