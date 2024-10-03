@@ -83,9 +83,15 @@ link</p>
 <p><strong>Due Date for Registration:</strong> At least 4 weeks in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:lta_school_outreach@lta.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lta_school_outreach@lta.gov.sg</a>
 </p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Assembly_Show.jpg">
+</div>
 <p>Assembly Show</p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAP_Electric_bus_showcase.jpg">
+</div>
 <p>Electric Bus Showcase</p>
 <p>x</p>
 <p>Roving Exhibition Panels</p>
