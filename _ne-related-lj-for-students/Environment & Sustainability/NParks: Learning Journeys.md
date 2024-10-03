@@ -69,6 +69,6 @@ link</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Learning_Journey_Kids_for_Nature_2_photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Learning_Journey_Kids_for_Nature_2_photo_1.jpg">Kids For Nature Learning Journey
 </div>
-<p>Kids For Nature Learning Journey</p>
+<p></p>
