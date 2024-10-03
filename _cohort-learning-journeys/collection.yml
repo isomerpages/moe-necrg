@@ -2,7 +2,6 @@ collections:
   cohort-learning-journeys:
     output: true
     order:
-      - National Museum.md
       - Overview.md
       - National Heritage Board/.keep
       - National Heritage Board/Asian Civilisations Museum.md
