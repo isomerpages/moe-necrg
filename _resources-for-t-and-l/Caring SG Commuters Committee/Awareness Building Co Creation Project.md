@@ -21,23 +21,23 @@ disabilities).</p>
 <p>The videos may be viewed at the following links:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Commuter with Dementia 1 – <a href="https://www.instagram.com/p/C1rNdOKPcLf/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1rNdOKPcLf/</a> 
+<p>Commuter with Dementia 1 – <a href="https://www.instagram.com/p/C1rNdOKPcLf/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1rNdOKPcLf/</a>
 </p>
 </li>
 <li>
-<p>Commuter with Dementia 2 – <a href="https://www.instagram.com/p/C19MkePvWkv/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C19MkePvWkv/</a> 
+<p>Commuter with Dementia 2 – <a href="https://www.instagram.com/p/C19MkePvWkv/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C19MkePvWkv/</a>
 </p>
 </li>
 <li>
-<p>Commuter with Dementia 3 – <a href="https://www.instagram.com/p/C2PRwAzPfsU/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C2PRwAzPfsU/</a> 
+<p>Commuter with Dementia 3 – <a href="https://www.instagram.com/p/C2PRwAzPfsU/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C2PRwAzPfsU/</a>
 </p>
 </li>
 <li>
-<p>Commuter with Temporary Physical Disability –<a href="https://www.instagram.com/p/C2hQQBrvJPe/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C2hQQBrvJPe/</a> 
+<p>Commuter with Temporary Physical Disability –<a href="https://www.instagram.com/p/C2hQQBrvJPe/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C2hQQBrvJPe/</a>
 </p>
 </li>
 <li>
-<p>Commuter with Visual Impairment – <a href="https://www.instagram.com/p/C1bm7TgvFq9/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1bm7TgvFq9/</a> 
+<p>Commuter with Visual Impairment – <a href="https://www.instagram.com/p/C1bm7TgvFq9/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1bm7TgvFq9/</a>
 </p>
 </li>
 </ul>
@@ -56,5 +56,12 @@ connecting with various stakeholders.</p>
 <p><strong>Contact Info: </strong>For any co-creation ideas and partnership,
 contact us at <a href="mailto:ptc_office@ptc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ptc_office@ptc.gov.sg</a> (Attention
 to Insights &amp; Advisory Division)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awareness_Building_Co_Creation_Project_Photo_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awareness_Building_Co_Creation_Project_Photo_2.jpg">
+</div>
 <p></p>
 <p></p>
