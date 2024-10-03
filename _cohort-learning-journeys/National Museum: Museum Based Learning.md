@@ -34,7 +34,6 @@ of visit</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBL_2021.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBL_2021.png">Image courtesy of Wesley Loh, Memphis West Pictures
 </div>
-<p>Image courtesy of Wesley Loh, Memphis West Pictures</p>
 <p></p>
