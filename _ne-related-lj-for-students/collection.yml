@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Arts, Culture & Heritage/National Museum: Museum Based Learning.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
