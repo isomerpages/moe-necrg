@@ -2,11 +2,11 @@ collections:
   awards-n-competitions-students:
     output: true
     order:
-      - "Land Transport Authority/LTA: OneEarth Challenge.md"
-      - Land Transport Authority/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Anti drug Ambassador Activity and Anti drug
         Montage Competition.md
       - Central Narcotics Bureau/DrugFreeSG Video Competition.md
       - Founders' Memorial (National Heritage Board).md
+      - Land Transport Authority/.keep
+      - "Land Transport Authority/LTA: OneEarth Challenge.md"
