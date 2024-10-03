@@ -7,7 +7,6 @@ third_nav_title: S'pore Chinese Cultural Centre
 ---
 <h3>Singapore Chinese Cultural Centre</h3>
 <h4>60 Chinese Community Leaders (Travelling Exhibition)</h4>
-<p>Exhibition featuring prominent leaders from Singapore’s Chinese community.</p>
 <p><strong>Details</strong>
 </p>
 <p>As part of SCCC’s SG60 celebrations, this exhibition will highlight 60
