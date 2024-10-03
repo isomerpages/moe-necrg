@@ -23,6 +23,18 @@ local dishes that became Singapore's signature dishes, and learn to appreciate
 the uniqueness of hawker centres in Singapore.</p>
 <p><strong>Target Audience:</strong> Pri 1 to 3 students</p>
 <p><strong>Runtime: </strong>All year round</p>
-<p>x</p>
-<p>x</p>
-<p>x</p>
+<p><strong>Fee:</strong> $8 per pax</p>
+<p><strong>Modality:</strong> In-person</p>
+<p><strong>Duration of Session: </strong>1 h 45 min</p>
+<p><strong>Programme Capacity: </strong>80 per session</p>
+<p><strong>Website:</strong> Visit <a href="http://bookmuseums.nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bookmuseums.nhb.gov.sg</a> to make
+a booking</p>
+<p><strong>Due Date for Registration: </strong>At least 6 weeks in advance</p>
+<p><strong>Contact Info: </strong><a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_cmsg_edu@nhb.gov.sg</a>
+</p>
+<p>
+<br>Travel back to Singapore many years back and experience the street hawker
+stalls from the past!</p>
+<p></p>
+<p>Design your own hawker centre using LEGOs!</p>
+<p></p>
