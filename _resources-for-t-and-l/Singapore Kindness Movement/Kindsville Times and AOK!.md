@@ -30,10 +30,12 @@ positive attitudes towards school-life challenges.</p>
 <p><strong>Modality</strong>: In-person</p>
 <p><strong>Relevant Commemorative Days</strong>: Total Defence Day, International
 Friendship Day, Racial Harmony Day, National Day</p>
-<p><strong>Website</strong>: https://kindsville.kindness.sg/read/</p>
-<p><strong>Mode of registration</strong>: No registration is needed.</p>
-<p><strong>Contact</strong>: Please email (Ms) Roxanne Lim at roxanne@kindness.sg</p>
+<p><strong>Website</strong>: <a href="https://kindsville.kindness.sg/read/" rel="noopener noreferrer nofollow" target="_blank">https://kindsville.kindness.sg/read/</a> 
+</p>
+<p><strong>Contact</strong>: Please email to <a href="mailto:primary@kindness.sg" rel="noopener noreferrer nofollow" target="_blank">primary@kindness.sg</a> 
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kindsville_Times_and_AOK_Photo1_FINAL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Kindsville_Times_and_A_OK__Photo_1.jpg">
 </div>
-<p>Cover designs for Kindsville Times/A-OK! 2023</p>
+<p></p>
