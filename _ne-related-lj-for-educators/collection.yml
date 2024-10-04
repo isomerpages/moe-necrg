@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Changi Airport Singapore/Teambonding Quest around Jewel & Changi
-        Experience Studio.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
       - Changi Airport Singapore/Planning The Best Airport Of The Future.md
@@ -13,6 +11,8 @@ collections:
       - Changi Airport Singapore/Changi Experience Studio Visit.md
       - "Changi Airport Singapore/Service Design: Understand Design Thinking at
         Changi Airport.md"
+      - Changi Airport Singapore/Teambonding Quest around Jewel & Changi
+        Experience Studio.md
       - Changi Airport Singapore/The Changi Way of Service.md
       - "Changi Airport Singapore/Digital Innovation: A Way of Working.md"
       - HCA Hospice/.keep
