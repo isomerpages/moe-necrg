@@ -60,8 +60,7 @@ sustainability efforts when designing the building</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17__Amazing_Jewel_CES_teambonding_quest_2.jpg">
 </div>
-<p>Take fun photos and bond with your team members while playing the quest</p>
-<p>
+<p>Take fun photos and bond with your team members while playing the quest
 <br>
 </p>
 <p></p>
