@@ -37,7 +37,7 @@ Friendship Day, Racial Harmony Day</p>
 <p><strong>Mode of Registration:</strong>&nbsp;By email.</p>
 <p><strong>Due Date for registration</strong>: Please book the show early
 with a minimum of 1 month notice.</p>
-<p><strong>Contact</strong>: <a href="mailto:primary@kindness.sg" rel="noopener noreferrer nofollow" target="_blank">primary@kindness.sg</a> 
+<p><strong>Contact</strong>: <a href="mailto:primary@kindness.sg" rel="noopener noreferrer nofollow" target="_blank">primary@kindness.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKM__Primary_Assembly_1.jpg">
