@@ -67,4 +67,3 @@ and the broader community”. - Secondary School Teacher</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKM_Friend_of_Singa__Secondary__Photo2.png">
 </div>
-<p>FOS (Sec) Logo</p>
