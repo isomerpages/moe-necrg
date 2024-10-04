@@ -54,13 +54,13 @@ sustainability efforts when designing the building</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17__Amazing_Jewel_CES_teambonding_quest_1.jpg">
-</div>
-<p>Take part in an exciting race between a plane and a race car</p>
+Take part in an exciting race between a plane and a race car</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17__Amazing_Jewel_CES_teambonding_quest_2.jpg">
-</div>
-<p>Take fun photos and bond with your team members while playing the quest
+Take fun photos and bond with your team members while playing the quest</div>
+<p>
 <br>
 </p>
 <p></p>
