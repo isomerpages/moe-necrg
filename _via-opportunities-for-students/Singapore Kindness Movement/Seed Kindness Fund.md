@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Singapore Kindness Movement
 ---
+Singapore
 Want to achieve a more gracious society by encouraging everyone to start, show and spread kindness? The Seed Kindness Fund (SKF) supports kindness community projects by youths aged 13-26 years old. SKF funds up to a $1,000 for each project that makes a positive difference in Singapore’s society. Each project will receive 60% of funds upon approval, and the remaining 40% of funds after the project is completed. Students can choose to unleash their own creative ideas or support and take up our partners’ project briefs. Our partners include the National Library Board, Cyber Security Agency, National Council of Social Services, Land Transport Authority, Media Literacy Council, Ministry of Manpower, Ministry of Culture, Community and Youth, Housing Development Board, and FairPrice.
 
 **Details**
