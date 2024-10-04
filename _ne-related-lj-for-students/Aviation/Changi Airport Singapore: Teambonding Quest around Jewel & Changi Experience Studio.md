@@ -51,9 +51,15 @@ sustainability efforts when designing the building</p>
 <p><strong>Due Date for Registration:</strong> 3 weeks in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:ces.sales@changiairport.com" rel="noopener noreferrer nofollow" target="_blank">ces.sales@changiairport.com</a>
 </p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17__Amazing_Jewel_CES_teambonding_quest_1.jpg">
+</div>
 <p>Take part in an exciting race between a plane and a race car</p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17__Amazing_Jewel_CES_teambonding_quest_2.jpg">
+</div>
 <p>Take fun photos and bond with your team members while playing the quest</p>
 <p>
 <br>
