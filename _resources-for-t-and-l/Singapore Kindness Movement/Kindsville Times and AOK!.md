@@ -27,7 +27,7 @@ positive attitudes towards school-life challenges.</p>
 <p><strong>Target Audience</strong>: Primary 1 - P6 students</p>
 <p><strong>Runtime</strong>: January, April, July, August, October</p>
 <p><strong>Fee</strong>: Complimentary</p>
-<p><strong>Modality</strong>: In-person, Virtual, Hybrid</p>
+<p><strong>Modality</strong>: In-person</p>
 <p><strong>Relevant Commemorative Days</strong>: Total Defence Day, International
 Friendship Day, Racial Harmony Day, National Day</p>
 <p><strong>Website</strong>: https://kindsville.kindness.sg/read/</p>
