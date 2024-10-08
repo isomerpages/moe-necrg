@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Defence Collective Singapore/I am a Town Planner.md
       - Defence Collective Singapore/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
