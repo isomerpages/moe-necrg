@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Defence Collective Singapore
 ---
 <h3>Defence Collective Singapore</h3>
-<h4>NE Ambassadors: Let’s Begin</h4>
+<h4>NE Ambassadors: Let’s Continue</h4>
 <p>Come sharpen your knowledge of being a National Education Ambassador by
 taking on the role of a guide. Students will be taught the basics of being
 a guide and will be given the opportunity to devise a spiel and guide their
