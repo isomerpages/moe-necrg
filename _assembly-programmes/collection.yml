@@ -2,15 +2,15 @@ collections:
   assembly-programmes:
     output: true
     order:
-      - "Defence Collective Singapore/Defence Collective Singapore:
-        Commemorative Day (Racial Harmony Day).md"
-      - Defence Collective Singapore/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
       - Central Narcotics Bureau/Interactive Skits.md
       - Central Narcotics Bureau/School Talk and Exhibition.md
       - Children's Museum Singapore.md
       - Corrupt Practices Investigation Bureau (CPIB).md
+      - Defence Collective Singapore/.keep
+      - "Defence Collective Singapore/Defence Collective Singapore:
+        Commemorative Day (Racial Harmony Day).md"
       - Dialogue in the Dark Singapore.md
       - Housing & Development Board/.keep
       - Housing & Development Board/Outreach to Young and Youth (OHYAY!)
