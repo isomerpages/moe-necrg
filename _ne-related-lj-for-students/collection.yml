@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - "Arts, Culture & Heritage/Defence Collective Singapore: Singapore Then &
+        Now.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
