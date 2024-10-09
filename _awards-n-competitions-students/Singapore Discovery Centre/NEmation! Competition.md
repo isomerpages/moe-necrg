@@ -66,8 +66,8 @@ Digital Defence.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_NEmation_240224__1_of_127_.jpg">
-</div>
+Students working on the storyboard submissions</div>
 <p></p>
-<p>Students working on the storyboard submissions</p>
+<p></p>
 <p></p>
 <p></p>
