@@ -46,12 +46,12 @@ support.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GOTC_Photo_1.jpg">
-</div>
-<p>Students testing their TD card game skills against their competitors</p>
+Students testing their TD card game skills against their competitors</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GOTC_Photo_2.jpg">
-</div>
-<p>Teams from various schools, competing to enter the semi-finals of GOTC</p>
+Teams from various schools, competing to enter the semi-finals of GOTC</div>
+<p></p>
 <p></p>
 <p></p>
