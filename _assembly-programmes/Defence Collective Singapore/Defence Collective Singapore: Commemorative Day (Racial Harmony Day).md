@@ -36,6 +36,4 @@ Whole School (per session)</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Racial_Harmony_Video_Resource.jpg">
-</div>
-<p>Racial Harmony Video Resource</p>
-<p></p>
+Racial Harmony Video Resource</div>
