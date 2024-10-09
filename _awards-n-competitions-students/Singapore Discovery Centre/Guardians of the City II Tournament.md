@@ -20,7 +20,7 @@ to the tournament day. Participants will then learn about the tournament
 rules and be briefed about the rundown of the tournament day. Participants
 will also be given a chance to try playing according to the tournament
 rules and clarify any doubts or questions regarding the gameplay.</p>
-<p><u>TOURNAMENT DAY [WHOLE DAY] </u>
+<p><u>TOURNAMENT DAY [WHOLE DAY]</u>
 </p>
 <p>Challenge yourselves and stand a chance to win attractive prizes. Split
 into 2 categories, Individual and Team, each category taking half a day.
@@ -44,8 +44,14 @@ support.</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:iskandar_atan@defencecollectivesg.com" rel="noopener noreferrer nofollow" target="_blank">iskandar_atan@defencecollectivesg.com</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GOTC_Photo_1.jpg">
+</div>
 <p>Students testing their TD card game skills against their competitors</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GOTC_Photo_2.jpg">
+</div>
 <p>Teams from various schools, competing to enter the semi-finals of GOTC</p>
 <p></p>
 <p></p>
