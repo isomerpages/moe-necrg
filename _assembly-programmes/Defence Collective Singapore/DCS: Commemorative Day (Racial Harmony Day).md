@@ -34,6 +34,8 @@ Whole School (per session)</p>
 <p><strong>Due Date for Registration:</strong> 2 weeks in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:education@defencecollectivesg.com" rel="noopener noreferrer nofollow" target="_blank">education@defencecollectivesg.com</a>
 </p>
-<p>xx</p>
-<p>xx</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Racial_Harmony_Video_Resource.jpg">
+</div>
+<p>Racial Harmony Video Resource</p>
 <p></p>
