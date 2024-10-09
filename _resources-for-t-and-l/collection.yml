@@ -2,8 +2,6 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
-      - Defence Collective Singapore/SIMSG Express.md
-      - Defence Collective Singapore/.keep
       - Overview.md
       - Agency for Integrated Care/.keep
       - Agency for Integrated Care/Intergenerational Toolkit.md
@@ -25,6 +23,8 @@ collections:
       - "CPIB/The Corruption Casebook: Stories From Under The Table.md"
       - "CPIB/The Corruption Casebook 2: Hidden Victims of Corruption.md"
       - CPIB/Corruzione.md
+      - Defence Collective Singapore/.keep
+      - Defence Collective Singapore/SIMSG Express.md
       - Inland Revenue Authority of Singapore.md
       - Land Transport Authority/.keep
       - Land Transport Authority/Inclusivity Video Series.md
