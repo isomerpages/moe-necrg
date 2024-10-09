@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Arts, Culture & Heritage/Defence Collective Singapore: NE Amazing
-        Race.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -35,6 +33,8 @@ collections:
         at CMGS (A Voyage Back in Time).md"
       - "Arts, Culture & Heritage/Defence Collective Singapore: A Grave
         Discovery.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: NE Amazing
+        Race.md"
       - "Arts, Culture & Heritage/Defence Collective Singapore: Quest for
         Harmony.md"
       - "Arts, Culture & Heritage/Defence Collective Singapore: Singapore Then &
