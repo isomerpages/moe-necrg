@@ -16,12 +16,12 @@ Defence into action.</p>
 expose youths to the fundamentals of animation. Additionally, youths are
 also able to pick up skills on project management and teamwork.</p>
 <p>Call for entry phase: June 2025 – September 2025</p>
-<p><u>Partner Immersion trips: August 2025 </u>
+<p><u>Partner Immersion trips: August 2025</u>
 </p>
 <p>Half day visit to one of our partner organisations for students to gain
 insights about how its core business is relevant to the various pillars
 of Total Defence Story</p>
-<p><u>Creation Workshops: July – September 2025</u> 
+<p><u>Creation Workshops: July – September 2025</u>
 </p>
 <p>3-hour story creation workshop to guide students on Total Defence, story-telling
 and creation of storyboards</p>
@@ -33,16 +33,16 @@ and creation of storyboards</p>
 <p>Shortlisting: September 2025</p>
 </li>
 </ul>
-<p><u>Masterclasses: Mid October 2025 </u>
+<p><u>Masterclasses: Mid October 2025</u>
 </p>
 <p>Masterclasses are open to students who are interested to learn more about
 the animation industry and the different aspects relating to animation
 from the professionals working in the field</p>
-<p><u>5-day animation workshop: Early November 2025 </u>
+<p><u>5-day animation workshop: Early November 2025</u>
 </p>
 <p>Top 20 teams will be guided by professionals in the animation industry
 to create a 30-seconds animation clip</p>
-<p><u>Open house: January 2026</u> 
+<p><u>Open house: January 2026</u>
 </p>
 <p>Animation by top 20 teams will be showcased and teams will reach out to
 the public to garner votes for their clips</p>
