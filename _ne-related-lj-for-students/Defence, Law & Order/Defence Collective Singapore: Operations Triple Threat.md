@@ -38,6 +38,4 @@ pax (per session)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OTT.jpg">
-</div>
-<p>Students gathering at Lim Bo Seng Memorial after completion of OTT</p>
-<p></p>
+Students gathering at Lim Bo Seng Memorial after completion of OTT</div><p></p>
