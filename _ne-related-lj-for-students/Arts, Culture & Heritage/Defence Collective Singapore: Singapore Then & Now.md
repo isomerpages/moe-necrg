@@ -16,18 +16,18 @@ Singapore Discovery Centre is managed by Defence Collective Singapore.</p>
 <p><strong>Details</strong>
 </p>
 <p>Schools will select 2 venues from the list below:</p>
-<p><u>1. Chinatown </u>
+<p><u>1. Chinatown</u>
 </p>
 <p>Shophouses in Chinatown, Buddha Tooth Relic Temple, Samsui Woman Statue</p>
-<p><u>2. Kampong Glam </u>
+<p><u>2. Kampong Glam</u>
 </p>
 <p>Streets along Kampong Glam, Malay Heritage Centre grounds, Muscat Street,
 Sultan Mosque</p>
-<p><u>3. Little India </u>
+<p><u>3. Little India</u>
 </p>
 <p>Streets of Little India, Little India Arcade, Former Tekka Market, Former
 House of Tan Teng Niah</p>
-<p><u>4. Boat Quay </u>
+<p><u>4. Boat Quay</u>
 </p>
 <p>Sculptures along Boat Quay District, Sir Stamford Raffles Statue, Cavenagh
 Bridge</p>
@@ -45,7 +45,6 @@ till the present day.</p>
 time)</p>
 <p><strong>Programme Capacity:</strong> Min. 35 Pax (per bus); Max. 40 Pax
 (per bus)</p>
-<p>*Each session can accommodate up to 3 classes of students.</p>
 <p><strong>Mode of Registration:</strong> By email</p>
 <p><strong>Due Date for Registration:</strong> 2 weeks in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:education@defencecollectivesg.com" rel="noopener noreferrer nofollow" target="_blank">education@defencecollectivesg.com</a>
