@@ -40,6 +40,6 @@ pax (per session)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students going on a tour around cultural sites" src="/images/Students_going_on_a_tour_around_cultural_sites.jpg">
-</div>
-<p>Students going on a tour around cultural sites</p>
+Students going on a tour around cultural sites</div>
+<p></p>
 <p></p>
