@@ -2,6 +2,8 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - "Defence Collective Singapore/DCS: Commemorative Day (Racial Harmony
+        Day).md"
       - Defence Collective Singapore/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
