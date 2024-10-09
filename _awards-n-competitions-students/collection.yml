@@ -2,6 +2,7 @@ collections:
   awards-n-competitions-students:
     output: true
     order:
+      - "Singapore Discovery Centre/SDC: NEmation Competition.md"
       - Singapore Discovery Centre/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
