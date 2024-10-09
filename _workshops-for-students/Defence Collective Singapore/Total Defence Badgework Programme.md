@@ -46,6 +46,6 @@ classes (per session)</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_Badge.jpg">
-</div>
-<p>Students discussing during their TD badge programme</p>
+Students discussing during their TD badge programme</div>
+<p></p>
 <p></p>
