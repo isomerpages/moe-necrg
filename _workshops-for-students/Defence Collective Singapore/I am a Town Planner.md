@@ -14,17 +14,17 @@ how we can continue to succeed by being innovative. Singapore Discovery
 Centre is managed by Defence Collective Singapore.</p>
 <p><strong>Details</strong>
 </p>
-<p><u>INTRODUCTION &amp; CLASSROOM ACTIVITIES [30 MINS] </u>
+<p><u>INTRODUCTION &amp; CLASSROOM ACTIVITIES [30 MINS]</u>
 </p>
 <p>Explore the idea of population growth and changing needs versus land constraints.
 Learn how Singapore overcame housing challenges since her independence
 and how we can continue to overcome land constraint challenges.</p>
-<p><u>GUIDED SOLAR PANEL TOUR [30 MINS] </u>
+<p><u>GUIDED SOLAR PANEL TOUR [30 MINS]</u>
 </p>
 <p>Develop a deeper understanding of how Singapore can overcome its land
 constraints with technology and innovation. Students will observe how solar
 panels work through a tour of the centre’s solar panel clusters.</p>
-<p><u>TOWN PLANNING SESSION &amp; DEBRIEF [1 HOUR 10 MINS] </u>
+<p><u>TOWN PLANNING SESSION &amp; DEBRIEF [1 HOUR 10 MINS]</u>
 </p>
 <p>Students will take on the role of town planners and plan their ideal future
 neighbourhood through a hands-on activity. They will learn and discover
