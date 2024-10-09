@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Defence Collective Singapore/.keep
-      - "Defence Collective Singapore: SG Through Art.md"
       - Overview.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
