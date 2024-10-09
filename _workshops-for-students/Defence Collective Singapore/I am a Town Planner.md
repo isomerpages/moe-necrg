@@ -47,6 +47,8 @@ to overcome its natural constraints.</p>
 <p><strong>Due Date for Registration:</strong> 2 weeks in advance</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:education@defencecollectivesg.com" rel="noopener noreferrer nofollow" target="_blank">education@defencecollectivesg.com</a>
 </p>
-<p>x</p>
-<p>x</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I_am_a_Town_Planner.jpg">
+</div>
 <p></p>
