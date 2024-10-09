@@ -2,6 +2,7 @@ collections:
   resources-for-t-and-l:
     output: true
     order:
+      - Defence Collective Singapore/SIMSG Express.md
       - Defence Collective Singapore/.keep
       - Overview.md
       - Agency for Integrated Care/.keep
