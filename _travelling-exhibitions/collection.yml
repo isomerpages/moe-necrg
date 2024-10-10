@@ -2,14 +2,21 @@ collections:
   travelling-exhibitions:
     output: true
     order:
-      - Wan Qing Yuan/“Chinese New Year Markets through Time” Travelling
-        (Roving) Exhibition.md
-      - Wan Qing Yuan/.keep
       - Overview.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
       - S'pore Chinese Cultural Centre/.keep
+      - S'pore Chinese Cultural Centre/60 Chinese Community Leaders.md
       - S'pore Chinese Cultural Centre/Festivals Unlocked Travelling
         Exhibition.md
+      - "S'pore Chinese Cultural Centre/Lim Kopi, Jiak Roti: Our Beloved Nanyang
+        Breakfast.md"
       - Singapore Food Agency/.keep
       - Singapore Food Agency/Food Security Travelling Exhibitions.md
+      - Wan Qing Yuan/.keep
+      - "Wan Qing Yuan/Celebrating Commonalities: Festive Customs in
+        Singapore.md"
+      - Wan Qing Yuan/Chinese New Year Markets through Time.md
+      - "Wan Qing Yuan/Mid Autumn Festival: A Taste of Reunion.md"
+      - "Wan Qing Yuan/Of Thumping Drumbeats and Delicious Dumplings: A Closer
+        look at Dragon Boat Festival in Singapore.md"

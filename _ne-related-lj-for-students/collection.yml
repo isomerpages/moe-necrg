@@ -20,6 +20,9 @@ collections:
         using ACM Wonders activity cards.md"
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Storytelling
         Guided Tour (Heroes of Asia).md"
+      - "Arts, Culture & Heritage/Children's Museum Singapore: Adventures of
+        Hawkerverse.md"
+      - "Arts, Culture & Heritage/Children's Museum Singapore: Tingkat Tales.md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
         at CMSG (The Enchanted Garden Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Learning Journey
@@ -28,7 +31,18 @@ collections:
         at CMSG (A maze ing Birthday Party).md"
       - "Arts, Culture & Heritage/Children's Museum Singapore: Self guided Visit
         at CMGS (A Voyage Back in Time).md"
-      - "Arts, Culture & Heritage/MHA: Harmony in Diversity Gallery.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: A Grave
+        Discovery.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: NE Amazing
+        Race.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: Quest for
+        Harmony.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: Quest on
+        Wheels.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: Singapore Then &
+        Now.md"
+      - "Arts, Culture & Heritage/Defence Collective Singapore: Yours,
+        Culturally.md"
       - Arts, Culture & Heritage/National Gallery Singapore.md
       - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
       - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
@@ -51,6 +65,8 @@ collections:
         School Prgrammes.md"
       - "Arts, Culture & Heritage/Singapore Chinese Cultural Centre: Self Guided
         Visits.md"
+      - "Aviation/Changi Airport Singapore: Teambonding Quest around Jewel &
+        Changi Experience Studio.md"
       - Aviation/.keep
       - "Aviation/Changi Airport Singapore: A Day In The Life Of A Changi
         Horticulturist.md"
@@ -69,7 +85,15 @@ collections:
       - "Aviation/Changi Airport Singapore: Singapore Story: The Changi Airpot
         Chapter.md"
       - Defence, Law & Order/.keep
+      - "Defence, Law & Order/Defence Collective Singapore: Operations Triple
+        Threat.md"
+      - "Defence, Law & Order/Defence Collective Singapore: Station Based
+        Activities (Total Defence).md"
       - Defence, Law & Order/Internal Security Department.md
+      - "Defence, Law & Order/IRAS Digital Gallery: The Singapore Tax Story.md"
+      - "Defence, Law & Order/Parliament of Singapore: Parliament in Session.md"
+      - "Defence, Law & Order/Parliament of Singapore: Visit on Non Sitting
+        Day.md"
       - Defence, Law & Order/National Library Board.md
       - "Defence, Law & Order/Singapore Courts: The Learning Court.md"
       - "Defence, Law & Order/Singapore Courts: State Courts Heritage Gallery.md"
@@ -80,19 +104,23 @@ collections:
       - Education and Career Guidance/Lifelong Learning Institute.md
       - Environment & Sustainability/.keep
       - Environment & Sustainability/Overview.md
+      - "Environment & Sustainability/Defence Collective Singapore: Station
+        Based Activities (Sustainability).md"
       - "Environment & Sustainability/National Environment Agency: Discovery
         Journey (Hawker Culture As A Nation).md"
       - "Environment & Sustainability/National Environment Agency: Learning
         Journey to Semakau Landfill and Incineration Plants.md"
-      - Environment & Sustainability/National Parks Board.md
-      - Environment & Sustainability/National Parks Board Learning Journeys.md
-      - Health & Community/.keep
-      - Health & Community/Dialogue in the Dark Singapore.md
-      - Health & Community/HCA Hospice.md
-      - Health & Community/Kwong Wai Shiu Hospital.md
-      - "Health & Community/MOM School Partnership Programme: Assembly Talk and
-        Learning Journey.md"
-      - Health & Community/RELIGIOUS REHABILITATION GROUP.md
+      - "Environment & Sustainability/NParks: Responsible Pet Ownership.md"
+      - "Environment & Sustainability/NParks: Learning Journeys.md"
+      - Health/.keep
+      - Health/HCA Hospice.md
+      - Health/Kwong Wai Shiu Hospital.md
+      - Inclusivity & Social Cohesion/Dialogue in the Dark Singapore.md
+      - "Inclusivity & Social Cohesion/MHA: Harmony in Diversity Gallery.md"
+      - "Inclusivity & Social Cohesion/MOM School Partnership Programme:
+        Assembly Talk and Learning Journey.md"
+      - Inclusivity & Social Cohesion/RELIGIOUS REHABILITATION GROUP.md
+      - Inclusivity & Social Cohesion/.keep
       - Infrastructure and Utilities/.keep
       - "Infrastructure and Utilities/Maritime and Port Authority of Singapore:
         Maritime Discovery Expeditions.md"

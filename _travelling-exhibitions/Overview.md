@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /travelling-exhibitions/overview/
 variant: tiptap
 description: ""
 ---
