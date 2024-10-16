@@ -30,9 +30,9 @@ Through guided field work, Students will learn about the history of Kreta Ayer a
 
 **Modality**: In-person	
 		
-**Duration of Session**: 2.5 hours		
+**Duration of Session**: 2hours		
 
-**Capacity**: 100 pax per session		
+**Capacity**: 80 pax per session		
 		
 **Relevant Commemorative Days**: Racial Harmony Day, National Day		
 
