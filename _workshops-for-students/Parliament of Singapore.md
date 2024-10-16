@@ -4,7 +4,7 @@ permalink: /parliament-of-singapore-moot-parliament/
 variant: markdown
 description: ""
 ---
-<h3>Parliament of Singapore: Moot Parliament</h3>
+<h3>Moot Parliament</h3>
 <p>Be the Speaker, Prime Minister or Leader of the Opposition for a day!
 Our programme will take students through a debate on a Bill in a specially
 created Moot Parliament Chamber. It is designed to allow students to have
