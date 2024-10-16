@@ -11,6 +11,8 @@ shortened every minute from the current rate of waste generation. In this guided
 will understand the importance of waste minimisation, and how they could play a role in
 achieving a sustainable living environment in Singapore.
 
+**Note**: Semakau Landfill is closed until further notice.
+
 **Incineration Plants:**
 Tonnes of wastes are transported and incinerated at Incineration Plants daily. It is important for
 everyone to understand the impact we will create to the environment, for every item that we
