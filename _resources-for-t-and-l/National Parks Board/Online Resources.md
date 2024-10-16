@@ -5,17 +5,17 @@ variant: markdown
 description: ""
 third_nav_title: National Parks Board
 ---
-We have put together a myriad of different teaching and learning resources for you to engage your students with.
+We have put together a myriad of different teaching and learning resources for you to engage your students on Singapore's biodiversity.
 
 **Details**
 
-Learn about everything under NParks through online materials such as Youtube playlists, posters, Flora & Fauna Web.
+Learn about our City in Nature through online resources such as Youtube videos, posters and NParks Flora & Fauna Web, our plant and animal directory.
 
 **Learning Objectives**
 
-To instil a love for the outdoors in your students or talk about human-wildlife encounters and civic-mindedness.
+To instil a love for the outdoors in your students and raise awareness of responsible human-wildlife encounters and civic-mindedness towards nature.
 
-**Target Audience**: Primary 1 - 6 students, Secondary 1 - 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Primary 1 - 6 students, Secondary 1 - 4/5 students, Post Secondary (JC/ Poly/ ITE), Educators
 
 **Runtime:** All year round
 
