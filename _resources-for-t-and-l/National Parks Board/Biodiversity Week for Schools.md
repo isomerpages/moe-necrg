@@ -9,10 +9,14 @@ Biodiversity Week for Schools is a week-long event held annually in May, to comm
 
 **Details**
 
-Biodiversity Week for Schools consists of 3 different activities: 
-1. Playtime series is a self-run programme to raise awareness of our natural heritage. This activity is suitable for Preschools and lower primary level. Through this activity, children will learn about our native flora and fauna through an interactive story book and animated video. 
-2. Green Wave is an ongoing global biodiversity education project that empowers children and youths to make a difference. Through the programme, students can learn about the importance of trees and also engage in active stewardship of the environment through the “One Million Trees” movement. This activity is suitable for all levels to participate. 
-3. BioBlitz for Schools aims to document and identify and record as many species of wildlife within the school campus. By participating in this event, schools will be able to keep track of biodiversity in their premises and contribute to the school’s effort in greening its compound. This activity is suitable for students from upper primary and above to participate.
+Biodiversity Week for Schools consists of 3 different activities:
+
+1. Playtime series is a self-run programme to raise awareness of our natural heritage. This activity is suitable for Preschools and lower primary level. Through this activity, children will learn about our native flora and fauna through an interactive story book and animated video.
+
+2. BioBlitz for Schools aims to document and identify and record as many species of wildlife within the school campus. By participating in this event, schools will be able to keep track of biodiversity in their premises and contribute to the school’s effort in greening its compound. This activity is suitable for students from upper primary and above to participate. 
+
+3. Festival of Biodiversity, organised in collaboration with the Biodiversity Roundtable, is an annual event which aims to create awareness and foster a sense of appreciation for our natural heritage. By participating in this event, visitors are presented with a range of activities, talks and worksops for all ages at the Festival.
+
 
 **Learning Objectives**
 
@@ -34,7 +38,7 @@ Students will have a better understanding and appreciation on the natural herita
 
 **Mode of Registration:** Online through website link
 
-**Due Date for registration**: Registration opens in March each year
+**Due Date for registration**: Registration opens in January each year
 
 **Contact**: CIN@NParks.gov.sg
 
