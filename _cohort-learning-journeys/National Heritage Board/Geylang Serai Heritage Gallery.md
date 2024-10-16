@@ -17,7 +17,7 @@ The learning journey comprises of a precinct walk around Pasar Geylang Serai, wh
 
 Through guided field work, Students will learn about the history of Geylang Serai and the cultural practices of the Malay-Muslim community in Singapore. Students will  also explore various stories from the Malay-Muslim community about growing up and living in Geylang Serai to understand the community's contributions towards building and nurturing multicultural Singapore.
 
-**Target Audience**: Primary 4 students
+**Target Audience**: Primary 3 students
 
 **Runtime**: January to May, July to November
 
@@ -25,9 +25,9 @@ Through guided field work, Students will learn about the history of Geylang Sera
 
 **Modality**: In-person
 		
-**Duration of Session**: 2.5 hours 		
+**Duration of Session**:  2hours 		
 
-**Capacity**: 100 pax per session		
+**Capacity**: 80 pax per session		
 		
 **Relevant Commemorative Days**: Racial Harmony Day, National Day	
 

@@ -1,6 +1,6 @@
 ---
-title: "Children's Museum Singapore: Learning Journey at CMSG: Spice is Nice"
-permalink: /ne-related-lj-for-students/arts-culture-and-heritage/spice-is-nice/
+title: "Children's Museum Singapore: Learning Journey at CMSG: Spice Quest"
+permalink: /ne-related-lj-for-students/arts-culture-and-heritage/spice-quest/
 variant: markdown
 description: ""
 third_nav_title: Arts, Culture & Heritage
@@ -39,4 +39,3 @@ Pupils will learn more about:
 **Due Date for registration**: 6 weeks in advance		
 		
 **Contact**: nhb_cmsg_edu@nhb.gov.sg
-

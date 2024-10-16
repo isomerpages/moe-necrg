@@ -27,7 +27,7 @@ Students will learn about the characteristics and prevalence of misinformation, 
 
 **Duration of Session:** 1 hour
 
-**Website**: https://sure.nlb.gov.sg 
+**Website**: [https://go.gov.sg/nlb-sure-2024](https://go.gov.sg/nlb-sure-2024)
 
 **Mode of Registration:** By email 
 
