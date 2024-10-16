@@ -8,4 +8,4 @@ variant: markdown
 
 Cohort Ljs consist of the Primary 5 NE Show, Museum-Based Learning (MBL) and Performing Arts-Based Learning (PABL) experiences.
 
-![](/images/cohort_learning_journey.png)
+![](/images/cohort_LJ_landscape_pic.png)
