@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency
 **Semakau Landfill**, the only landfill that habours human produced waste, has its lifespan
 shortened every minute from the current rate of waste generation. In this guided tour, visitors
 will understand the importance of waste minimisation, and how they could play a role in
-achieving a sustainable living environment in Singapore.
+achieving a sustainable living environment in Singapore. **Note: Semakau Landfill is closed until further notice.**
 
 **Incineration Plants:**
 Tonnes of wastes are transported and incinerated at Incineration Plants daily. It is important for
