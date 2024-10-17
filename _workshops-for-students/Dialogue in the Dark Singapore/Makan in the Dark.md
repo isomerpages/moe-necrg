@@ -19,19 +19,19 @@ Students/staff will get to foster team cohesivenes and energise team vitality in
 
 **Runtime**: All year round
 
-**Fee**:  Please email for more details
+**Fee**:  $39 ($42.51 after GST) per student and $49 ($53.41 after GST) per adult. Prices are subject to changes.
 
 **Modality:** In-person
 
 **Duration of Session**: 1 hour 
 
-**Capacity**: Minimum 20 students
+**Capacity**: Minimum 20 and maximum 42 students
 
 **Website**: https://www.np.edu.sg/didsg
 
 **Mode of registration:** By email.
 
-**Due Date for registration**: At least 2 weeks in advance. 
+**Due Date for registration**: At least 1.5 months in advance 
 
 **Contact**: Email: didsg@np.edu.sg Tel: 64606222
 
