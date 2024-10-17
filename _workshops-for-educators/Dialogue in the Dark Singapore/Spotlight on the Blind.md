@@ -23,7 +23,7 @@ Participants will be:
 **Runtime**: All year round
 
 **Fee**: 
-Adult: $20 ($21.60 after GST) for online, $50 ($54 after GST) for in-person
+Adult: $20 ($21.80 after GST) for online, $50 ($54.50 after GST) for in-person. Prices are subject to changes.
 
 **Modality**: In-person, Virtual
 
