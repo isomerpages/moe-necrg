@@ -8,12 +8,12 @@ Guided tour of SCCC’s SINGAPO人 exhibition for teachers.
 
 **Details**
 
-Join us every quarter for a guided tour of the exhibition, “SINGAPO人: Discovering Chinese Singaporean Culture”, which is led by our SCCC educators. You will be able to gather insights into the making of this exhibition, as well as bring back a specially designed resource pack to prepare for future visits with your students.   Schools who wish to visit the exhibition as part of their staff learning journey may opt for either a paid thematic tour or a docent-led guided tour.
+Pick a guided tour with or without a workshop of the exhibition, “SINGAPO人: Discovering Singapore Chinese Culture”, which is led by our trained facilitators. After that, SCCC educators will share about our resources and programmes for your planning purposes.
 
 **Learning Objectives**
 
 Participants will: 
-* Learn about the distinctiveness of Chinese Singaporean culture  
+* Learn about the distinctiveness of Singapore Chinese culture  
 * Link the permanent exhibition content to Chinese and Character and Citizenship Education syllabuses
 
 **Target Audience**: Educators
@@ -26,7 +26,7 @@ Participants will:
 
 **Duration of Session**: 1 hour - 2.5 hours
 
-**Capacity**: Please email for more details
+**Capacity**: Min 20, Max 40 pax
 
 **Relevant Commemorative Days**: Total Defence Day, International Friendship Day, Racial Harmony Day, National Day 
 

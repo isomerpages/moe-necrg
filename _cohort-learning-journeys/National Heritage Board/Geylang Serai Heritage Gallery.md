@@ -7,35 +7,35 @@ variant: markdown
 ---
 ### Museum Based Learning: Tales of the Emporium
 
-Travel with us to the emporium of Geylang Serai and join our expedition to learn about the contributions of the Malay community! Students, playing the role of young explorers, will visit Geylang Serai Heritage Gallery and discover the rich history of the area. They will also learn about leisure activities from yesteryear and the pasar (market) as a centre for food and goods for special occasions celebrated by the Malay and Muslim community.
+Travel with us to the emporium of Geylang Serai and join our expedition to learn about the contributions of the Malay and Muslim communities in the development of Geylang Serai over the years! Students, playing the role of young explorers, will visit Geylang Serai Heritage Gallery and discover the rich history of the area. They will also learn about leisure activities from yesteryear and the pasar (market) as a centre for food and goods for special occasions celebrated by the Malay and Muslim communities.
 
 **Details**
 
-The learning journey comprises of a precinct walk around Pasar Geylang Serai, where students will be introduced to the distinctive architecture and trades and of Geylang Serai. Students will then head to Geylang Serai Heritage Gallery to explore 5 stations that feature various lessons and activities relating to Malay-Muslim culture and heritage.
+The learning journey comprises of a precinct walk around Pasar Geylang Serai, where students will be introduced to the distinctive architecture and trades and of Geylang Serai. Students will then head to Geylang Serai Heritage Gallery to explore 4 stations that feature various lessons and activities relating to the history and development of Geylang Serai, as well as Malay-Muslim culture and heritage.
 
 **Learning Objectives**
 
-Through guided field work, Students will learn about the history of Geylang Serai and the cultural practices of the Malay-Muslim community in Singapore. Students will  also explore various stories from the Malay-Muslim community about growing up and living in Geylang Serai to understand the community's contributions towards building and nurturing multicultural Singapore.
+Through guided field work, Students will learn about the history of Geylang Serai and the contributions of the Malay and Muslim communities in the development of Geylang Serai over the years. Students will also explore various stories from the Malay and Muslim communities about growing up and living in Geylang Serai to understand the importance of knowing Singapore’s multicultural heritage.
 
 **Target Audience**: Primary 3 students
 
-**Runtime**: January to May, July to November
+**Runtime**: Weekdays of MOE School Calendar (exceptions apply)
 
-**Fee**: $8 before GST (MOE funding provided to schools)		
+**Fee**: $8.72 per student (including GST) (MOE funding provided to schools)		
 
 **Modality**: In-person
 		
-**Duration of Session**:  2hours 		
+**Duration of Session**:  2 hours 		
 
-**Capacity**: 80 pax per session		
+**Capacity**: 80 pax per session (session may be combined with other schools)		
 		
 **Relevant Commemorative Days**: Racial Harmony Day, National Day	
 
-**Website**: https://www.bookmuseums.nhb.gov.sg/programmepreview/c69370c4-7ca3-4da4-bdf7-1ce40f1aa33a
+**Website**: [https://www.bookmuseums.nhb.gov.sg/](https://www.bookmuseums.nhb.gov.sg/)
 
 **Mode of registration:** Online through website link.
 
-**Due Date for registration**: 6 weeks in advance of visit		
+**Due Date for registration**:  6 weeks (42 days) in advance of visit		
 		
 **Contact**: nhb_gshg_mbl@nhb.gov.sg
 

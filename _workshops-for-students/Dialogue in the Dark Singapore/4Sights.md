@@ -19,7 +19,7 @@ Participants will  - develop awareness of and empathy for the blind community - 
 
 **Runtime**: All year round
 
-**Fee**: Others: $25 ($27 after GST) per participant
+**Fee**: $25 ($27.25 after GST) per student. Price is subject to changes.
 
 **Modality**: In-person
 
