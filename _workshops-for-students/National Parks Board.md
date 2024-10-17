@@ -4,6 +4,7 @@ permalink: /biodiversity-week-for-schools/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Biodiversity Week for Schools</strong></h3>
 <p>Biodiversity Week for Schools is a week-long event held annually in May,
 to commemorate the International Day for Biological Diversity. A series
 of exciting activities - Green Wave, BioBlitz for Schools, and Playtime
