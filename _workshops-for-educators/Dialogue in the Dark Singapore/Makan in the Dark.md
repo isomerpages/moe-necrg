@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Dialogue in the Dark Singapore
 ---
-As students &/or staff partake in a meal in darkness, usually with no clue on what the menu items are, they undergo a transformational yet challenging process relying on their other senses to help them dine. Suitable as a social or team-building event, Lunch in the Dark allows participants to step out of their comfort zone in a fun, unique way, while building a sense of empathy and camaraderie.
+As students &/or staff partake in a meal in darkness, usually with no clue on what the menu items are, they undergo a transformational yet challenging process relying on their other senses to help them dine. Suitable as a social or team-building event, Makan in the Dark allows participants to step out of their comfort zone in a fun, unique way, while building a sense of empathy and camaraderie.
 
 **Details**
 
