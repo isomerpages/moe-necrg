@@ -45,5 +45,8 @@ our natural heritage.</p>
 each year</p>
 <p><strong>Contact</strong>: <a href="mailto:CIN@NParks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CIN@NParks.gov.sg</a>
 </p>
-<p>![](/images/NParks_Thumnail_Hershie_1.jpg)NParks' Biodiversity Week for
-schools 2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NParks_Thumnail_Hershie_1.jpg">
+</div>
+<p>Biodiversity Week for schools 2023</p>
