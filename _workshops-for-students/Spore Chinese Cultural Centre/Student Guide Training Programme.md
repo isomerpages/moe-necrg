@@ -25,7 +25,8 @@ to build an audience.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Target Audience</strong>: Secondary 1- 4/5 students, Post secondary</p>
+<p><strong>Target Audience</strong>: Secondary 1- 4/5 students, Post Secondary
+(JC/ Poly/ ITE)</p>
 <p><strong>Runtime</strong>: All year round</p>
 <p><strong>Fee</strong>: Please email for more details</p>
 <p><strong>Modality</strong>: In-person</p>
