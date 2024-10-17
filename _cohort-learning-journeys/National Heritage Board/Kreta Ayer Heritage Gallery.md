@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Heritage Board
 variant: markdown
 ---
-### Museum Based Learning: Culture Archive
+### Museum Based Learning: Culture Archives
 
 Take a trip with us to the cultural heartland of Kreta Ayer and join our “research team” to learn more about the contributions of the Chinese community! Students, playing the role of young researchers, will visit Kreta Ayer Heritage Gallery and study the Intangible Cultural Heritage of five cultural arts – Chinese Opera, Chinese Puppetry, Chinese Calligraphy, Chinese Tea and Nanyin. They will also learn about the shophouses of the area and the history of a former famous street, Sago Lane.
 
@@ -24,27 +24,27 @@ Through guided field work, Students will learn about the history of Kreta Ayer a
 		
 **Target Audience**: Primary 4 students
 
-**Runtime**: February to May, July to November		
+**Runtime**: Weekdays of MOE School Calendar (exceptions apply)	
 
-**Fee**: $8 before GST (MOE funding provided to schools)
+**Fee**: $8.72 per student (including GST) before GST (MOE funding provided to schools)
 
 **Modality**: In-person	
 		
-**Duration of Session**: 2hours		
+**Duration of Session**: 2 hours		
 
 **Capacity**: 80 pax per session		
 		
 **Relevant Commemorative Days**: Racial Harmony Day, National Day		
 
-**Website**: https://www.bookmuseums.nhb.gov.sg/programmepreview/3fa6d83a-f6a6-4076-b951-01441eb2e94b		
+**Website**: [https://www.bookmuseums.nhb.gov.sg](https://www.bookmuseums.nhb.gov.sg)
 
 **Mode of registration:** Online through website link.	
 
-**Due Date for registration**: 6 weeks in advance of visit 		
+**Due Date for registration**: 6 weeks (42 days) in advance of visit 		
 		
 
-
 **Contact**: nhb_kahg_mbl@nhb.gov.sg
+
 ![](/images/mbl%20culture%20archives%201.jpg)
 Photograph belongs to National Heritage Board.
 ![](/images/museum-based%20learning%20culture%20archives%202.jpg)
