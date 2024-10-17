@@ -24,7 +24,7 @@ Participants will:
 
 **Runtime**: All year round	
 
-**Fee**: $20 ($21.60 after GST) for students and $30 ($32.40 after GST) for adults	
+**Fee**: $20 ($21.60 after GST) for students and $30 ($32.40 after GST) for adults. Prices are subject to changes.	
 
 **Modality:** In-person
 	
