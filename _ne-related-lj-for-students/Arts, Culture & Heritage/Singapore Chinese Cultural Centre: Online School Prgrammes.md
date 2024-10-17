@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Arts, Culture & Heritage
 variant: markdown
 ---
-Learn the key points of SCCC’s SINGAPO人exhibition through facilitated discussion followed by hands-on activity on Zoom.
+Learn the key points of SCCC’s SINGAPO人 exhibition through facilitated discussion followed by hands-on activity on Zoom.
 
 **Details**
 
-Using a blended approach of facilitated discussions, soft copy handouts and multi-media formats, students will understand key points of Singapore Chinese Cultural Centre’s exhibition, “SINGAPO人: Discovering Chinese Singaporean Culture”.   Complete the guided tour with a hands-on segment where students can express their creativity and originality through craft-making or activity sheets.  This programme is held over Zoom and is also suitable for home-based learning. It is available on weekdays from 9am to 5pm.
+Using a blended approach of facilitated discussions, soft copy handouts and multi-media formats, students will understand key points of Singapore Chinese Cultural Centre’s exhibition, “SINGAPO人: Discovering Singapore Chinese Culture”.   Complete the guided tour with a hands-on segment where students can express their creativity and originality through craft-making or activity sheets.  This programme is held over Zoom and is also suitable for home-based learning. It is available on weekdays from 9am to 5pm.
 
 **Learning Objectives**
 
 Participants will:
-* Learn about our distinctive Chinese Singaporean culture
+* Learn about our distinctive Singapore Chinese culture
 * Experience a new way of learning out of the classroom
 * Acquire critical thinking skills
 * Be inspired to discover their identity, and the impact of their relationships and choices
@@ -36,7 +36,7 @@ Participants will:
 
 **Website:** [Singapore Chinese Cultural Centre](https://singaporeccc.org.sg/group-visits/#for-schools)
 
-**Mode of registration:** Online through website link or [register here](https://www.bookmuseums.nhb.gov.sg/)
+**Mode of registration:** Online through website link 
 
 **Due Date for registration**: 5 weeks in advance
 
