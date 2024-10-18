@@ -25,7 +25,7 @@ Students will get to learn how to organise themselves; engage members of the pub
 
 **Website**: go.gov.sg/hdb-lively-places-programme
 
-**Mode of registration:** By email or online through website link.
+**Mode of registration:** Online through website link above.
 
 **Due Date for registration**: HDB officer will be in touch with the team within 5 working days from successful submission of the grant application form.
 	
