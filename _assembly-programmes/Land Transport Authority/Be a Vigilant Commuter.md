@@ -33,16 +33,15 @@ In the presentation, we emphasize the critical role each one of us plays in enha
 		
 **Relevant Commemorative Days**: Total Defence Day, National Day 		
 
-**Website** https://lta.gov.sg
+**Website:** [https://lta.gov.sg](https://lta.gov.sg)
 
 **Mode of registration:** By email.		
 
 **Due Date for registration**: 3 weeks in advance. 		
 		
-**Contact**: steven_sung@lta.gov.sg or telephone 65851123
+**Contact**: [steven_sung@lta.gov.sg](steven_sung@lta.gov.sg) or telephone 65851123
 
-![](/images/be%20a%20vigilant%20commuter.jpeg)
-Recess engagement & sharing session at Pri Sch
+![](/images/LTA_be_a_vigilant_commuter.jpg)        Recess engagement & sharing session with Pri Sch
 
 > > I would like to express my thanks to you and your team for the assembly talk on 13 Feb 2023 and the recess engagement activities on 15 Feb 2023. 
 > > 
