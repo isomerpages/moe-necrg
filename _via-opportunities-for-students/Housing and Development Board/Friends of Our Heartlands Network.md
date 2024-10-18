@@ -1,6 +1,6 @@
 ---
 title: Friends of Our Heartlands Network
-permalink: /via-opportunities-for-students/housing-and-development-board/freinds-of-our-heartlands-network/
+permalink: /via-opportunities-for-students/housing-and-development-board/friends-of-our-heartlands-network/
 variant: markdown
 description: ""
 third_nav_title: Housing and Development Board
@@ -9,7 +9,7 @@ HDB’s Friends of Our Heartlands Network nurtures change makers within our town
 
 **Details**
 
-Students get to participate in a 3.5-hour training workshop (physical / virtual / hybrid) with breakout sessions and interactive games. Post-training, they will organise outreach initiatives that engage the community.
+Students get to participate in a 3.5-hour training workshop with breakout sessions and interactive games. Post-training, they will organise outreach initiatives that engage the community.
 
 **Learning Objectives**
 

@@ -9,11 +9,11 @@ HDB’s OHYAY! programme seeks to raise awareness on good neighbourly messages a
 
 **Details**
 
-“Festivals Unlocked” is an exhibition that brings new perspectives to six age-old Chinese festivals – Chinese New Year, Qingming, Duanwu, Zhongyuan, Mid-Autumn, and Winter Solstice. Each festival and the values they embody are brought to life through a locker, inviting students to “unlock” surprising origins and distinctive practices behind each festival. Beyond legends and fun facts, personal stories contributed by students reflect the diverse ways in which each festival is celebrated by Chinese Singaporean families. Exhibition texts are in English and Chinese. An area of 25m2 will be ideal for the exhibition, with a recommended three to four-week display period at each campus. Co-organised by Singapore Chinese Cultural Centre, Nan Chiau High School, and Nanyang Girls’ High School.
+The outreach consists of a digital roadshow and an e-learning module. The digital roadshow engages students through an audio-visual presentation and quizzes while the e-learning module reinforces the values learnt through infographic sharing and role play.
 
 **Learning Objectives**
 
-VirtualPrimary school students will learn and pick up responsible neighbourly behaviour and practical eco-friendly practices. Secondary school students will learn how the design of public housing facilitates the building of communities and how they can contribute towards promoting active and caring community bonds.
+Primary school students will learn and pick up responsible neighbourly behaviour and practical eco-friendly practices. Secondary school students will learn how the design of public housing facilitates the building of communities and how they can contribute towards promoting active and caring community bonds.
 
 **Target Audience**: Primary 1 - 6 students, Secondary 1 - 4/5 students
 
@@ -45,4 +45,3 @@ VirtualPrimary school students will learn and pick up responsible neighbourly be
 > “We are thrilled with the level of engagement and enthusiasm displayed by our students during the session.” 
 
 *Ms Jurana, Manjusri Secondary School, Teacher (2023)*
-

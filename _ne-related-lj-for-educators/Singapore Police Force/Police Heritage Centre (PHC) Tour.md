@@ -25,9 +25,9 @@ Visitors will find out more about the challenges of early policing, the post-WWI
 
 **Duration of Session:** 1.5 hours
 
-**Website**: https://www.police.gov.sg/Who-We-Are/Heritage-Centre/Visit-Us 
+**Website**: [https://www.police.gov.sg/Who-We-Are/Heritage-Centre/Visit-Us ](https://www.police.gov.sg/Who-We-Are/Heritage-Centre/Visit-Us )
 
-**Mode of Registration:** Visitors have to book through our Evenbrite page (https://go.gov.sg/phc-bookings). Upon successful booking, visitors will have to submit their particulars through the form.sg link as entry to the premises required security clearance.
+**Mode of Registration:** Visitors have to book through our Eventbrite page ([https://go.gov.sg/phc-bookings](https://go.gov.sg/phc-bookings)). Upon successful booking, visitors will have to submit their particulars through the form.sg link as entry to the premises required security clearance.
 
 **Capacity**: 60 (Divide into 2 sub-groups of 30 pax per group) per timeslot (e.g. Tuesday at 10am)
 
@@ -35,7 +35,7 @@ Visitors will find out more about the challenges of early policing, the post-WWI
 
 **Due Date for registration**: Registration has to be completed 7 working day before the preferred tour timeslot.
 
-**Contact**: SPF_Police_Heritage@spf.gov.sg
+**Contact**: [SPF_Police_Heritage@spf.gov.sg](SPF_Police_Heritage@spf.gov.sg)
 
 ![](/images/spf_Community_Policing_1.jpg)Community Policing – Forging the relationship with the community against crime.
 ![](/images/spf_Radio_Division_2.jpg)Radio Division – Formation of Radio Division after the war

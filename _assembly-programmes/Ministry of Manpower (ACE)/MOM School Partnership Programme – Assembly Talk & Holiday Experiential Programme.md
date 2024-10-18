@@ -24,15 +24,16 @@ Students will have a deeper understanding on migrant workforce issues, attain be
 
 **Modality**: In-person 
 
-**Duration of Session**: Assembly talk – 1h ; Holiday Experiential Programme – 2 days 
+**Duration of Session**: Assembly talk – 1h ; Holiday Experiential Programme – 1 day
 
-**Relevant Commemorative Days**: International Migrants Day
 
 **Mode of registration:** By email.
 
-**Due Date for registration**: 2 months in advance
+**Programme Capacity:** Assembly talk – No limits ; Holiday Experiential Programme – maximum 60pax
 
-**Contact**: youths@mom.gov.sg
+**Due Date for registration**: 3 months in advance (flexible)
+
+**Contact**: [youths@mom.gov.sg](youths@mom.gov.sg)
 
 ![](/images/TMJC_Photo1.jpg)
 Assembly talk – MOM speakers sharing with Tampines Meridian JC students on the support systems provided by the government and how they can help support our migrant workforce
