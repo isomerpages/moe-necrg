@@ -28,11 +28,10 @@ Students will have a deeper understanding on migrant workforce issues, attain be
 
 **Duration of Session**: Assembly talk – 1h ; Learning Journey – 2h
 
-**Capacity**: Assembly talk – N/A ; Learning Journey – max. 30 pax 
 
 **Mode of registration:** By email.
 
-**Programme Capacity:** Assembly talk – No limits ; Learning Journey – maximum 60pax"
+**Programme Capacity:** Assembly talk – No limits ; Learning Journey – maximum 60pax
 
 **Due Date for registration**: 3 months in advance
 
