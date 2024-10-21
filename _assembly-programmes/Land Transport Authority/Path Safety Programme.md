@@ -5,21 +5,43 @@ variant: markdown
 description: ""
 third_nav_title: Land Transport Authority
 ---
-Path Safety Programme comprises 3 components – assembly talk on safe path sharing; recess time booth with interactive games; and a practical session to learn best practices when riding an active mobility device (e.g. bicycle). Organise all 3 components for a complete Path Safety Programme experience at school. Self-help resources (in the form of slides and videos), adapted from the talk, are also available if schools/teachers wish to augment LTA’s sharing in the classroom. 
+Promotes safe and gracious path sharing practices at your school with LTA’s Path Safety Programme!
+
+The Path Safety Programme comprises three modules:
+•          A 25-minute assembly talk on safe path sharing;
+•          A recess-time booth with interactive games; and
+•          A 45-minute Confidence on Wheels session to learn best practices when riding an active mobility device (e.g. bicycle).
+
+You can choose the module(s) that best suit your school’s needs, or organise all three modules for the complete experience. Self-help resources (in the form of slides and videos), adapted from the talk, are also available for school’s use.
 
 **Details**
 
-Physical Talk: An LTA speaker will conduct the talk in the school hall, where short videos and quizzes will be used to engage the students. Recess Time Booth: Engaging educational games on safe path sharing are offered at the recess time booth, where participating students have the chance to win prizes. 
+**Assembly Talk**: An LTA speaker will conduct the talk in the school hall, where short videos and quizzes will be used to engage the students.
 
-Confidence on Wheels: The session (Primary level) comprises: 
-* Show-and-tell introduction to various types of Active Mobility devices, paths and gracious riding behaviour 
-* Learn basic device handling skills through riding through a circuit with mock-ups of key path infrastructure such as bus stops, road crossings etc. 
-* Debrief to highlight key learning points; The session 
+**Recess-time Booth**: Engaging educational games on safe path sharing are offered at the recess time booth, where participating students have the chance to win prizes.
 
-(Secondary/Post-Secondary level) comprises of: 
-* Short video introduction to key rules and code of conducts on public paths and roads 
-* Skills-based practical session to test students’ knowledge and safe riding skills by riding through several activity stations 
-* Short quiz to reiterate key learning points; Self-help resources: Teachers can use the self-help resources (slides and videos) to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths during PE or CCE class.
+**Confidence on Wheels (CW) programme**: CW helps students understand how they should use our paths safely and graciously as active mobility device users and pedestrians.
+
+Key components of the programme for primary schools include:
+
+* Introduction to different types of active mobility devices, types of paths, and gracious path sharing behaviours
+*
+·       Familiarisation of infrastructure such as cycling paths, road crossings
+·       Physical circuit where students learn how to apply path sharing behaviours when role playing as cyclists and pedestrians 
+
+Key components of the programme for secondary schools include:
+
+·       Introduction to different types of active mobility devices, cycling infrastructure, types of paths, active mobility rules and code of conduct
+
+·       How to perform simple pre-ride bicycle checks
+
+·       Raise awareness of students’ device handling skills through activity stations to help students ride more confidently
+
+·       Discussions to help students learn how they can apply safe path sharing behaviours in common real-life scenarios
+
+Self-help resources:
+
+Teachers can use the self-help resources (slides and videos) during PE or CCE classes to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths.
 
 **Learning Objectives**
 
