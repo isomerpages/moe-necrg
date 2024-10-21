@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Skillseed
 ---
 <h3>Skillseed</h3>
-<h4>Resilience Trails </h4>
+<h4>Resilience Trails</h4>
 <p>Resilience Trails is Skillseed’s place-based, asset-driven and community-led
 initiative that provides flexible, high wage and home-oriented work opportunities
 to lower-income families, through the medium of paid community trails in
@@ -14,11 +14,11 @@ our Community Guides’ neighbourhoods. Beyond simply being a means to boost
 the earnings of our Community Guides, the Resilience Trails further serve
 as a platform that promotes the agency, voice and dignity of our Guides,
 by drawing out their personal stories and strengths without downplaying
-their challenges. Participants who experience the trails gain deeper empathy,
-understanding and appreciation of our vulnerable communities’ lived experiences.
-Finally, the trails also placemake, as they highlight and connect the various
-community assets, thus becoming a springboard for community collaboration
-and convening.</p>
+their challenges.</p>
+<p>Participants who experience the trails gain deeper empathy, understanding
+and appreciation of our vulnerable communities’ lived experiences. Finally,
+the trails also placemake, as they highlight and connect the various community
+assets, thus becoming a springboard for community collaboration and convening.</p>
 <p><strong>Details</strong>
 </p>
 <p>Skillseed representatives, such as Skillseed staff and/or Community Guides,
