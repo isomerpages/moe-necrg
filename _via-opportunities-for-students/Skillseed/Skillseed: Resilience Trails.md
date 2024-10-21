@@ -75,9 +75,9 @@ email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferr
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_VIA___photo_2.jpg">
-</div>
-<p>Our Community Guide, Janet, sharing about public attitudes towards persons
-with disabilities</p>
+Our Community Guide, Janet, sharing about public attitudes towards persons
+with disabilities</div>
+<p></p>
 <blockquote>
 <p>“I get to learn more about the hardships people go through and heartwarming
 stories that people do for the community.” - Secondary School Participant</p>
