@@ -2,6 +2,7 @@ collections:
   assembly-programmes:
     output: true
     order:
+      - "Skillseed/Skillseed: Resilience Trails (Assembly Programme).md"
       - Skillseed/.keep
       - Overview.md
       - Central Narcotics Bureau/.keep
