@@ -22,26 +22,23 @@ You can choose the module(s) that best suit your school’s needs, or organise a
 
 **Confidence on Wheels (CW) programme**: CW helps students understand how they should use our paths safely and graciously as active mobility device users and pedestrians.
 
-Key components of the programme for primary schools include:
+Key components of the programme for *primary schools* include:
 
 * Introduction to different types of active mobility devices, types of paths, and gracious path sharing behaviours
-*
-·       Familiarisation of infrastructure such as cycling paths, road crossings
-·       Physical circuit where students learn how to apply path sharing behaviours when role playing as cyclists and pedestrians 
+*  Familiarisation of infrastructure such as cycling paths, road crossings
+* Physical circuit where students learn how to apply path sharing behaviours when role playing as cyclists and pedestrians 
 
-Key components of the programme for secondary schools include:
+Key components of the programme for *secondary schools* include:
 
-·       Introduction to different types of active mobility devices, cycling infrastructure, types of paths, active mobility rules and code of conduct
+*  Introduction to different types of active mobility devices, cycling infrastructure, types of paths, active mobility rules and code of conduct
 
-·       How to perform simple pre-ride bicycle checks
+* How to perform simple pre-ride bicycle checks
 
-·       Raise awareness of students’ device handling skills through activity stations to help students ride more confidently
+* Raise awareness of students’ device handling skills through activity stations to help students ride more confidently
 
-·       Discussions to help students learn how they can apply safe path sharing behaviours in common real-life scenarios
+* Discussions to help students learn how they can apply safe path sharing behaviours in common real-life scenarios
 
-Self-help resources:
-
-Teachers can use the self-help resources (slides and videos) during PE or CCE classes to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths.
+**Self-help resources**: Teachers can use the self-help resources (slides and videos) during PE or CCE classes to educate students on the safe riding behaviours, as well as provide safety tips and habits that active mobility users and pedestrians should adopt when walking or riding on public paths.
 
 **Learning Objectives**
 
