@@ -2,8 +2,6 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
-      - Skillseed/.keep
-      - "Skillseed/Skillseed: Resilience Trails.md"
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
@@ -24,5 +22,7 @@ collections:
       - National Parks Board/.keep
       - National Parks Board/Youth Stewards for Nature.md
       - People's Association.md
+      - Skillseed/.keep
+      - "Skillseed/Skillseed: Resilience Trails.md"
       - Singapore Kindness Movement/.keep
       - Singapore Kindness Movement/Seed Kindness Fund.md
