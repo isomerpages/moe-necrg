@@ -2,8 +2,6 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
-      - Skillseed/.keep
-      - "Skillseed/Skillseed: Resilience Trails.md"
       - Overview.md
       - Changi Airport Singapore/.keep
       - Changi Airport Singapore/Creating a Stress Free Changi Experience.md
@@ -47,6 +45,8 @@ collections:
         @ Supreme Court.md"
       - Singapore Police Force/.keep
       - Singapore Police Force/Police Heritage Centre (PHC) Tour.md
+      - Skillseed/.keep
+      - "Skillseed/Skillseed: Resilience Trails.md"
       - Urban Redevelopment Authority/.keep
       - Urban Redevelopment Authority/Rediscover Singapore River Interactive
         Quizshow.md
