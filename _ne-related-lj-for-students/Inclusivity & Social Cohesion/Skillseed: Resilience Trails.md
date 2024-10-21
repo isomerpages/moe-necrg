@@ -59,15 +59,16 @@ required</p>
 <p><strong>Contact Info:</strong> Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
 email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferrer nofollow" target="_blank">sheryl@skillseed.sg</a>
 </p>
-<p></p>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_1.jpg">
-</div>
-<p>Skillseed partners on a Resilience Trail</p>
+Skillseed partners on a Resilience Trail</div>
+<p></p>
 <blockquote>
 <p>“I think this experience highlighted a lot of community assets that we
 tend to not notice as much, and it was very heartwarming to see the influence
