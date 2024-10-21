@@ -2,6 +2,7 @@ collections:
   ne-related-lj-for-educators:
     output: true
     order:
+      - "Skillseed/Skillseed: Resilience Trails (LJ for Educators).md"
       - Skillseed/.keep
       - Overview.md
       - Changi Airport Singapore/.keep
