@@ -50,6 +50,7 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Fee**: Complimentary
 
+
 **Modality**: In-person
 
 **Duration of Session**: 
