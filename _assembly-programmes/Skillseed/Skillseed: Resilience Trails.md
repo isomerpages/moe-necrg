@@ -24,7 +24,7 @@ assets, thus becoming a springboard for community collaboration and convening.</
 <p>Skillseed representatives, such as Skillseed staff and/or Community Guides,
 will give a talk to share about how we co-created the Resilience Trails
 by tapping on various community and individual assets.</p>
-<p><strong>Learning Objectives: </strong>
+<p><strong>Learning Objectives:</strong>
 </p>
 <p>Participants will get to hear directly about the design principles and
 assets that Skillseed has tapped on to co-create our flagship Resilience
