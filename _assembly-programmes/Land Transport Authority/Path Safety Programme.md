@@ -42,11 +42,11 @@ Key components of the programme for *secondary schools* include:
 
 **Learning Objectives**
 
-Students will find out more on how pedestrians and active mobility device users can share public paths safely and graciously. They will gain a better understanding of active mobility rules, safety tips and habits that they can adopt when walking or riding on public paths.
+Students will find out more on how pedestrians and active mobility device users can share public paths safely and graciously. They will gain a better understanding of active mobility rules, and habits that they can adopt when walking or riding on public paths.
 
-**Target Audience**: Primary 2- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
+**Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
-**Runtime**: Assembly talk and recess time booth will be available all year round, while Confidence on Wheels will be available from Q1 2024 (exact month TBC).
+**Runtime**: Assembly talk, recess time booth and Confidence on Wheels will be available all year round (subject to availability)
 
 **Fee**: Complimentary
 
@@ -55,7 +55,7 @@ Students will find out more on how pedestrians and active mobility device users 
 **Duration of Session**: 
 * Assembly Talk – 25 minutes 
 * Recess Time Booth – Typically half a day (follows school recess timing) 
-* Practical Session (titled ‘Confidence on Wheels) – 45 minutes
+* Pract  Confidence on Wheels) – 45 minutes
 
 **Capacity**: NA (for path safety week, educational toolkit, and animation video); Confidence on Wheels – min 30 pax, max 40 pax per session 
 
