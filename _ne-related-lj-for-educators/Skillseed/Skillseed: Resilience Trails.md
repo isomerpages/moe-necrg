@@ -45,6 +45,7 @@ and how they have created value to further develop the community for themselves<
 <li>
 <p>Learn about social mobility and inequality in an engaging and respectful
 manner.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Runtime: </strong>All year round
