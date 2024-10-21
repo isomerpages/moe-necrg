@@ -22,11 +22,12 @@ assets, thus becoming a springboard for community collaboration and convening.</
 <p><strong>Details</strong>
 </p>
 <p>Each Resilience Trails consists of a 15 min pre-trail briefing, followed
-by a 2.5h learning trail in the Ang Mo Kio neighbourhood. The learning
-trail will comprise a walking trail, a conversation with a resident Community
-Guide, and reflections and debrief with a Skillseed facilitator.</p>
+by a 2.5h learning trail in the Ang Mo Kio neighbourhood. To apply our
+learning from the trail, participants will be linked up with various social
+service organisations for volunteering opportunities.</p>
 <p>Each Community Guide runs a unique trail and covers different social issues.
-Skillseed can curate the reflections segment to best suit learning objectives.</p>
+Skillseed can curate the reflections segment to best suit learning objectives
+and to help bridge a link to civic capacity or volunteering.</p>
 <p><strong>Learning Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -40,16 +41,24 @@ of the community</p>
 </li>
 <li>
 <p>Observe and identify strengths of the individual, community and environment,
-and how they have created value to further develop the community for themselves
-and d) learn about social mobility and inequality in an engaging and respectful
+and how they have created value to further develop the community for themselves</p>
+</li>
+<li>
+<p>Learn about social mobility and inequality in an engaging and respectful
 manner</p>
+</li>
+<li>
+<p>Apply their learning from the trails to engage with the community through
+volunteering opportunities</p>
 </li>
 </ul>
 <p><strong>Target Audience: </strong>Sec 1 to 4/5, Post-Sec (JC/Poly/ITE)</p>
 <p><strong>Runtime:</strong> All year round</p>
 <p><strong>Programme Fee:</strong> Please email for more details</p>
 <p><strong>Modality: </strong>In-person</p>
-<p><strong>Duration of Session:</strong> 3 hours</p>
+<p><strong>Duration of Session:</strong> 5 hours - please note that the Resilience
+Trails and volunteering segments can be conducted on separate days (i.e.
+can be 3h on one day for the trail and 2h another day for volunteering).</p>
 <p><strong>Programme Capacity: </strong>10-15 per trail, inclusive of chaperones</p>
 <p><strong>Website: </strong><a href="https://www.skillseed.sg/resilience-trails" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/resilience-trails</a>
 </p>
@@ -59,19 +68,18 @@ required</p>
 <p><strong>Contact Info:</strong> Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
 email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferrer nofollow" target="_blank">sheryl@skillseed.sg</a>
 </p>
-
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_VIA___photo_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_1.jpg">
-Skillseed partners on a Resilience Trail</div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_VIA___photo_2.jpg">
+Our Community Guide, Janet, sharing about public attitudes towards persons
+with disabilities</div>
 <p></p>
 <blockquote>
-<p>“I think this experience highlighted a lot of community assets that we
-tend to not notice as much, and it was very heartwarming to see the influence
-of community spirit on its people.” - Post-Secondary participant</p>
+<p>“I get to learn more about the hardships people go through and heartwarming
+stories that people do for the community.” - Secondary School Participant</p>
 </blockquote>
 <p></p>
