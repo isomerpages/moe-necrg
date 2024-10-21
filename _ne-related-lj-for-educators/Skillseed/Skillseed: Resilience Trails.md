@@ -1,9 +1,9 @@
 ---
 title: "Skillseed: Resilience Trails"
-permalink: /skillseed-resilience-trails-lj-for-students/
+permalink: /skillseed-resilience-trails-lj-for-educators/
 variant: markdown
 description: ""
-third_nav_title: Inclusivity & Social Cohesion
+third_nav_title: Skillseed
 ---
 <h3>Skillseed</h3>
 <h4>Resilience Trails</h4>
@@ -45,11 +45,10 @@ and how they have created value to further develop the community for themselves<
 <li>
 <p>Learn about social mobility and inequality in an engaging and respectful
 manner.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Target Audience: </strong>Sec 1 to 4/5, Post-Sec (JC/Poly/ITE)
-<br>
-<br><strong>Runtime: </strong>All year round
+<p><strong>Runtime: </strong>All year round
 <br><strong><br>Programme Fee: </strong>Please email for more details</p>
 <p><strong>Modality: </strong>In-person</p>
 <p><strong>Duration of Session: </strong>3 hours</p>
@@ -70,3 +69,5 @@ email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferr
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_2.jpg">
 Skillseed partners on a Resilience Trail</div>
+<p></p>
+<p></p>
