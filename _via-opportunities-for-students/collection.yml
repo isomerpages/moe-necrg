@@ -2,16 +2,16 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
-      - "Skillseed/Skillseed: Resilience Trails.md"
       - Skillseed/.keep
+      - "Skillseed/Skillseed: Resilience Trails.md"
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
       - Council for Third Age (C3A).md
       - HCA Hospice Limited/.keep
       - HCA Hospice Limited/Value In Action @ HCA Day Hospice.md
-      - Housing and Development Board/HDB Sustainability Trails.md
       - Housing and Development Board/.keep
+      - Housing and Development Board/HDB Sustainability Trails.md
       - Housing and Development Board/Friends of Our Heartlands Network.md
       - Housing and Development Board/Lively Places Programme.md
       - KWSH Heritage Gallery Learning Journey.md
