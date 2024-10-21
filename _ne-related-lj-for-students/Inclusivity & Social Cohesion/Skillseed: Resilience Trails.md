@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Inclusivity & Social Cohesion
 ---
 <h3>Skillseed</h3>
-<h4>Resilience Trails </h4>
+<h4>Resilience Trails</h4>
 <p>Resilience Trails is Skillseed’s place-based, asset-driven and community-led
 initiative that provides flexible, high wage and home-oriented work opportunities
 to lower-income families, through the medium of paid community trails in
@@ -59,7 +59,14 @@ required</p>
 <p><strong>Contact Info:</strong> Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
 email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferrer nofollow" target="_blank">sheryl@skillseed.sg</a>
 </p>
-<p>x</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_1.jpg">
+</div>
 <p>Skillseed partners on a Resilience Trail</p>
 <blockquote>
 <p>“I think this experience highlighted a lot of community assets that we
