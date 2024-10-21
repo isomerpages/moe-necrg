@@ -50,9 +50,9 @@ email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferr
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_Assembly_Photo_2.jpg">
-</div>
-<p>Lydia, Skillseed’s Mentor Community Guide, and Sheryl giving a guest lecture
-to NUS RC4 students</p>
+Lydia, Skillseed’s Mentor Community Guide, and Sheryl giving a guest lecture
+to NUS RC4 students</div>
+<p></p>
 <p></p>
 <blockquote>
 <p>“My students said the lecture was truly inspiring and eye-opening. It
