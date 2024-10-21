@@ -62,6 +62,8 @@ required</p>
 <p><strong>Contact Info: </strong>Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
 email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferrer nofollow" target="_blank">sheryl@skillseed.sg</a>
 </p>
+<p>x</p>
+<p></p>
 <p>Skillseed partners on a Resilience Trail</p>
 <blockquote>
 <p>“I think this experience highlighted a lot of community assets that we
