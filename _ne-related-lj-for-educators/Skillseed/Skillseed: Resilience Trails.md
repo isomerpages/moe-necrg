@@ -22,12 +22,11 @@ assets, thus becoming a springboard for community collaboration and convening.</
 <p><strong>Details</strong>
 </p>
 <p>Each Resilience Trails consists of a 15 min pre-trail briefing, followed
-by a 2.5h learning trail in the Ang Mo Kio neighbourhood. To apply our
-learning from the trail, participants will be linked up with various social
-service organisations for volunteering opportunities.</p>
+by a 2.5h learning trail in the Ang Mo Kio neighbourhood. The learning
+trail will comprise a walking trail, a conversation with a resident Community
+Guide, and reflections and debrief with a Skillseed facilitator.</p>
 <p>Each Community Guide runs a unique trail and covers different social issues.
-Skillseed can curate the reflections segment to best suit learning objectives
-and to help bridge a link to civic capacity or volunteering.</p>
+Skillseed can curate the reflections segment to best suit learning objectives.</p>
 <p><strong>Learning Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -45,36 +44,23 @@ and how they have created value to further develop the community for themselves<
 </li>
 <li>
 <p>Learn about social mobility and inequality in an engaging and respectful
-manner</p>
-</li>
-<li>
-<p>Apply their learning from the trails to engage with the community through
-volunteering opportunities</p>
+manner.</p>
 </li>
 </ul>
-
-<p><strong>Runtime:</strong> All year round</p>
-<p><strong>Programme Fee:</strong> Please email for more details</p>
+<p><strong>Runtime: </strong>All year round
+<br><strong><br>Programme Fee: </strong>Please email for more details</p>
 <p><strong>Modality: </strong>In-person</p>
-<p><strong>Duration of Session:</strong> 5 hours - please note that the Resilience
-Trails and volunteering segments can be conducted on separate days (i.e.
-can be 3h on one day for the trail and 2h another day for volunteering).</p>
+<p><strong>Duration of Session: </strong>3 hours</p>
 <p><strong>Programme Capacity: </strong>10-15 per trail, inclusive of chaperones</p>
-<p><strong>Website: </strong><a href="https://www.skillseed.sg/resilience-trails" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/resilience-trails</a>
+<p><strong>Website:</strong>  <a href="https://www.skillseed.sg/resilience-trails" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/resilience-trails</a>
 </p>
 <p><strong>Mode of Registration:</strong> Online through website link</p>
-<p><strong>Due Date for Registration:</strong> Minimum of 3 weeks lead time
+<p><strong>Due Date for Registration: </strong>Minimum of 3 weeks lead time
 required</p>
-<p><strong>Contact Info:</strong> Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
+<p><strong>Contact Info: </strong>Contact form at <a href="https://www.skillseed.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/contact</a> or
 email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferrer nofollow" target="_blank">sheryl@skillseed.sg</a>
 </p>
+<p>x</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_VIA___photo_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails_VIA___photo_2.jpg">
-Our Community Guide, Janet, sharing about public attitudes towards persons
-with disabilities</div>
+<p>Skillseed partners on a Resilience Trail</p>
 <p></p>
