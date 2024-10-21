@@ -69,11 +69,4 @@ email us directly at <a href="mailto:sheryl@skillseed.sg" rel="noopener noreferr
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resilience_Trails___Photo_2.jpg">
-</div>
-<p>Skillseed partners on a Resilience Trail</p>
-<blockquote>
-<p>“I think this experience highlighted a lot of community assets that we
-tend to not notice as much, and it was very heartwarming to see the influence
-of community spirit on its people.” - Post-Secondary participant</p>
-</blockquote>
-<p></p>
+Skillseed partners on a Resilience Trail</div>
