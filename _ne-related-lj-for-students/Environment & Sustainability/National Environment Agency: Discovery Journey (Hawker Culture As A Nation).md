@@ -28,7 +28,7 @@ SAFEGUARDING FOR A SUSTAINABLE FUTURE
 * Learn about our unique food culture, hawker trade and culinary practices. 
 * Create vibrancy in our hawker centres and appreciate them as community dining rooms.
 
-**Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
+**Target Audience**: Primary 1- P6 students, Secondary 1- 3 students. Programme is extended up to Sec 3 students.
 
 **Runtime:** All year round	
 
