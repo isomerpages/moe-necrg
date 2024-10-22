@@ -23,17 +23,17 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Fee:** Complimentary
 
-**Modality**: In-person
+**Modality**: Hybrid
 
-**Duration of Session**: 30 minutes 
+**Duration of Session**: We recommend that teachers spend about 30 minutes going through the video and activity sheets with students. This can be done in person or virtually. 
 
-**Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
+**Website**: Active Mobility Education Programmes and  Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education)
 
-**Mode of registration:** By email.
+**Mode of registration:** Teachers can download the [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&t=11s) and printable activity sheets [(P1/ P2, ](https://go.gov.sg/kindsvilletimes-junior) [P3/ P4)](https://go.gov.sg/kindsvilletimes-adventures) to reinforce lessons learnt from the video. 
 
 **Due Date for registration**: 1 week in advance
 
-**Contact**: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools_am@lta.gov.sg.
+**Contact**: [schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
 ![](/images/video_pic.PNG)
 Singa and the Kindness Cubbies Animation Video and Activity Sheets on Safe Path Sharing
