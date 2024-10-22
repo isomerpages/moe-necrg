@@ -40,7 +40,7 @@ All players from the qualifying rounds (be it whether they qualify to compete in
 
 **Target Audience**: Primary 5 - Primary 6 students; Secondary 1 - Secondary 4/5 students; Post-Secondary (JC/Poly/ITE)
 
-**Programme Runtime:** All year round (Till early 2025)
+**Programme Runtime:**From April 2
 
 **Due Date for Registration:** Open for discussion. Just hit us up & we will whip out something for your youths!
 
