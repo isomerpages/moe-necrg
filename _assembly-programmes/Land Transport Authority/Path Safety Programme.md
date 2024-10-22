@@ -76,6 +76,9 @@ To book a Confidence on Wheels session, please reach out to our appointed contra
 
 ![](/images/Assembly_Talk__Yumin_.jpg)
 An LTA officer conducting an assembly talk on path safety in a primary school. 
+
+![](/images/Recess_booth__Keming_.jpg)
+Students taking part in interactive activities to learn about safe and gracious path-sharing behaviours during the recess time booth. 
+
 ![](/images/path%20safety.png)
 Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session.
-
