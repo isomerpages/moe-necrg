@@ -57,9 +57,9 @@ Should there be more youths, we will split them into the next available timeslot
 Private booking via youth_engagement@cpf.gov.sg 
 [](/files/cpf%20board's%20catching%20insomnia%20game.pdf)
 
-**Contact Information:** For private bookings and any other enquiries, please contact youth_engagement@cpf.gov.sg
+**Contact Information:** For private bookings and any other enquiries, please contact [youth_engagement@cpf.gov.sg](youth_engagement@cpf.gov.sg)
 
-**Website:** cpf.gov.sg/CatchingInsomnia
+**Website:** [cpf.gov.sg/CatchingInsomnia](cpf.gov.sg/CatchingInsomnia)
 
 ![](/images/cpf%20-%20catching%20insomnia.png)
 Revolutionise your youths’ learning experience and sign them up for a game session now!
