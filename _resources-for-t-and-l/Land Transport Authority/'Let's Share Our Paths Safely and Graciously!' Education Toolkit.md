@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Land Transport Authority
 variant: markdown
 ---
-A teachers’ self-help toolkit packed with activities to conduct in classrooms. The toolkit includes a [Students' Activity Book](https://go.gov.sg/studentactivitybook) which contains worksheets and games; a [Teachers’ Guide](https://go.gov.sg/amteachersguide) that provides suggestions for activities and learning points; and a video jingle.
+A teachers’ self-help toolkit packed with activities to conduct in classrooms. The toolkit includes a [Students' Activity Book](https://go.gov.sg/studentactivitybook) which contains worksheets and games; a [Teachers' Guide](https://go.gov.sg/amteachersguide) that provides suggestions for activities and learning points; and a video jingle.
 
 **Details**
 
@@ -27,11 +27,13 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Website**: Active Mobility Education Programmes and Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education) 
 
-**Mode of registration:** By email.
+**Mode of registration:**        Teachers can download the [Students' Activity Book](https://go.gov.sg/studentactivitybook) and [Teachers' Guide](https://go.gov.sg/amteachersguide).
+Physical student booklets are available in limited quantities. You can request the physical copies via [schools_am@lta.gov.sg](schools_am@lta.gov.sg). The teachers' guide is available in digital format only.
 
-**Due Date for registration**: 1 week in advance
 
-**Contact**: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools_am@lta.gov.sg.
+**Due Date for registration**: 2 weeks in advance for requests of the physical Students' Activity Book.
+
+**Contact**: For queries, write to LTA at [schools_am@lta.gov.sg](schools_am@lta.gov.sg).
 
 ![](/images/Teacher_Guide.PNG)
 
