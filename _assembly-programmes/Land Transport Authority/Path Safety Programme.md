@@ -56,7 +56,7 @@ Students will find out more on how pedestrians and active mobility device users 
 **Duration of Session**: 
 * Assembly Talk – 25 minutes 
 * Recess Time Booth – Typically half a day (follows school recess timing) 
-* Pract  Confidence on Wheels) – 45 minutes
+* Confidence on Wheels) – 45 minutes
 
 **Capacity**: NA (for path safety week, educational toolkit, and animation video); Confidence on Wheels – min 30 pax, max 40 pax per session 
 
