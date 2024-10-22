@@ -20,7 +20,7 @@ Students will learn to:
 * Encourage character building, increase level of confidence and inculcate leadership capabilities through public interactions and participation. 
 * Exploration and learning about the history and evolution of Singapore's Hawker Culture.
 
-**Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
+**Target Audience**: Primary 1- P6 students, Secondary 1- 3 students. Programme is extended up to Sec 3 students.
 		
 **Runtime**: All year round		
 		
