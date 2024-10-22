@@ -56,11 +56,11 @@ Students will find out more on how pedestrians and active mobility device users 
 **Duration of Session**: 
 * Assembly Talk – 25 minutes 
 * Recess Time Booth – Typically half a day (follows school recess timing) 
-* Confidence on Wheels) – 45 minutes
+* Confidence on Wheels – 45 minutes
 
-**Capacity**: NA (for path safety week, educational toolkit, and animation video); Confidence on Wheels – min 30 pax, max 40 pax per session 
+**Capacity**: Confidence on Wheels – min 30 pax, max 40 pax per session, typically runs on a class basis 
 
-**Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
+**Website**: Active Mobility Education Programmes and Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
 
 **Mode of registration:** By email.
 
