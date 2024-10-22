@@ -40,7 +40,7 @@ All players from the qualifying rounds (be it whether they qualify to compete in
 
 **Target Audience**: Primary 5 - Primary 6 students; Secondary 1 - Secondary 4/5 students; Post-Secondary (JC/Poly/ITE)
 
-**Programme Runtime:**From April 2
+**Programme Runtime:** From April 2023 to April 2025
 
 **Due Date for Registration:** Open for discussion. Just hit us up & we will whip out something for your youths!
 
@@ -48,9 +48,12 @@ All players from the qualifying rounds (be it whether they qualify to compete in
 
 **Programme Fee**: Complimentary 
 
-**Programme Capacity**: Up to 320pax per concurrent game session. Should there be more youths, we will split them into the next available timeslot within the day or schedule them to play on another day.
+**Programme Capacity**: Up to 320pax per concurrent game session. 
 
-**Mode of Registration:** Public booking via cpf.gov.sg/CatchingInsomnia
+Should there be more youths, we will split them into the next available timeslot within the day or schedule them to play on another day.
+
+**Mode of Registration:** Public booking via [cpf.gov.sg/CatchingInsomnia](cpf.gov.sg/CatchingInsomnia)
+
 Private booking via youth_engagement@cpf.gov.sg 
 [](/files/cpf%20board's%20catching%20insomnia%20game.pdf)
 
