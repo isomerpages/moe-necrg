@@ -76,7 +76,7 @@ To book a Confidence on Wheels session, please reach out to our appointed contra
 
 
 ![](/images/path%20safety.png)
-Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels Programme
+Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session
 
 ![](/images/talk%20pic.jpg)
 School Assembly Talk, Recess Time Booth
