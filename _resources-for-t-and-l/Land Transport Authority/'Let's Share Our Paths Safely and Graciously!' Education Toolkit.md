@@ -9,7 +9,7 @@ A teachers’ self-help toolkit packed with activities to conduct in classrooms.
 
 **Details**
 
-The Teachers’ Guide provides teachers with instructions to conduct the classroom activities in the Students’ Activity Book The Guide also equips teachers with rationale behind suggested safe riding behaviours.
+The Teachers’ Guide provides teachers with instructions to conduct the classroom activities in the Students’ Activity Book. The Guide also equips teachers with rationale behind suggested safe riding behaviours.
 
 **Learning Objectives**
 
@@ -23,7 +23,7 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Modality**: In-person
 
-**Duration of Session**: 1 hour
+**Duration of Session**:        We recommend that teachers spend about an hour going through the activities provided in the toolkit.
 
 **Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
 
