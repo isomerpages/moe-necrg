@@ -46,7 +46,7 @@ SAFEGUARDING FOR A SUSTAINABLE FUTURE
 
 **Due Date for registration**: 6 weeks prior the selected date of the discovery journey programme, subject to NEA's approval.	
 	
-**Contact**: sghawkerculture@nea.gov.sg
+**Contact**: [sghawkerculture@nea.gov.sg](sghawkerculture@nea.gov.sg)
 
 ![](/images/TBM_for_NECRG.jpg)
 Tiong Bahru Market opened in 1951 as Seng Poh Road Market. The old market functioned like a town centre for public meetings and political rallies.
