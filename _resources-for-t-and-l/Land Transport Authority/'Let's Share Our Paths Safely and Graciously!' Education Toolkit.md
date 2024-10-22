@@ -25,7 +25,7 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Duration of Session**:        We recommend that teachers spend about an hour going through the activities provided in the toolkit.
 
-**Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
+**Website**: Active Mobility Education Programmes and Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education) 
 
 **Mode of registration:** By email.
 
