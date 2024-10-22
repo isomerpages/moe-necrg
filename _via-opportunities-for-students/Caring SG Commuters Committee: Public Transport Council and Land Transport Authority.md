@@ -56,7 +56,7 @@ Both students and educators will be able to:
 
 **Due Date for registration**: Please enquire for more details
 
-**Contact**: Email: ptc_office@ptc.gov.sg (Attention to Insights & Advisory Division)
+**Contact**: For any co-creation ideas and partnership, contact us at Email: ptc_office@ptc.gov.sg (Attention to Insights & Advisory Division)
 
 ![](/images/CARING_2.JPG)
 ![](/images/CARING_4.JPG)
