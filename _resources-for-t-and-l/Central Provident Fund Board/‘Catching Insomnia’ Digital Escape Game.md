@@ -5,11 +5,13 @@ description: ""
 variant: markdown
 third_nav_title: Central Provident Fund Board
 ---
-As part of NE efforts to instil national identity and the spirit of togetherness in the young, the CPF topic is introduced in the curriculum to seed early appreciation and understanding of the role it plays in Singapore and the importance of active saving to meet key needs in life. Using an immersive storytelling approach to shed light on the intricate link between sleep, emotions and financial decisions in the metaverse, ‘Catching Insomnia’ aims to impel youths to make smart decisions with their money and life, not emotional ones. With an intriguing fantasy plot, a plethora of puzzles, mind-boggling clues and nerve-wrecking time limit, this game guarantees a learning experience like no other!
+As part of NE efforts to instil national identity and the spirit of togetherness in the young, the CPF topic is introduced in the curriculum to seed early appreciation and understanding of the role it plays in Singapore and the importance of active saving to meet key needs in life. 
+
+Using an immersive storytelling approach to shed light on the intricate link between sleep, emotions and financial decisions in the metaverse, ‘Catching Insomnia’ aims to impel youths to make smart decisions with their money and life, not emotional ones. With an intriguing fantasy plot, a plethora of puzzles, mind-boggling clues and nerve-wrecking time limit, this game guarantees a learning experience like no other!
 
 **Details**
 
-This programme is made up of four game seasons, which will run from April 2023 to early 2025. Each game season comprises of a few qualifying rounds\* and a seasonal tournament. 
+This programme is made up of four game seasons, which will run from April 2023 to January 2025. Each game season comprises of a few qualifying rounds\* and a seasonal tournament. 
 
 *Note: Youths only need to participate in one qualifying round for a chance to compete at the seasonal tournament.*
 
