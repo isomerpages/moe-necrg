@@ -74,9 +74,8 @@ To book a Confidence on Wheels session, please reach out to our appointed contra
 
 **Contact**: schools_am@lta.gov.sg[schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
-
+![](/images/Assembly_Talk__Yumin_.jpg)
+An LTA officer conducting an assembly talk on path safety in a primary school. 
 ![](/images/path%20safety.png)
-Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session
+Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session.
 
-![](/images/talk%20pic.jpg)
-School Assembly Talk, Recess Time Booth
