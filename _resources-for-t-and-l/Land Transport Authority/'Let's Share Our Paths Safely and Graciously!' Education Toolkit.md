@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Land Transport Authority
 variant: markdown
 ---
-A teachers’ self-help toolkit packed with activities to conduct in classrooms. The toolkit includes a Students’ Activity Book which contains worksheets and games; a Teachers’ Guide that provides suggestions for activities and learning points; and a video jingle.
+A teachers’ self-help toolkit packed with activities to conduct in classrooms. The toolkit includes a [Students' Activity Book](https://go.gov.sg/studentactivitybook) which contains worksheets and games; a [Teachers’ Guide](https://go.gov.sg/amteachersguide) that provides suggestions for activities and learning points; and a video jingle.
 
 **Details**
 
