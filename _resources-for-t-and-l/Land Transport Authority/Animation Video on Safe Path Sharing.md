@@ -5,11 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Land Transport Authority
 ---
-### Land Transport Authority – Singapore Kindness Movement Singa and the Kindness Cubbies Animation Video and Activity Sheets on Safe Path Sharing
+A 7-minute [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&t=11s) showing the Kindness Cubbies’ encounters on their way to the park for a picnic. The video will highlight the desirable and undesirable behaviours of the Cubbies when walking and riding on paths, and educate students on how to use paths in a safe and considerate manner.  
 
-A 7-minute animation video showing the Kindness Cubbies’ encounters on their way to the park for a picnic. The video will highlight the desirable and undesirable behaviours of the Cubbies on paths, and educate students on how to use paths in a safe and considerate manner.  
-
-The activity sheets will recap and reinforce the learnings from the video.
+Printable activity sheets [(P1/P2,](https://go.gov.sg/kindsvilletimes-junior) [P3/ P4)](https://go.gov.sg/kindsvilletimes-adventures) can be downloaded to reinforce lessons learnt from the video. 
 
 **Details**
 
