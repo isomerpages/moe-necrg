@@ -56,21 +56,29 @@ Students will find out more on how pedestrians and active mobility device users 
 **Duration of Session**: 
 * Assembly Talk – 25 minutes 
 * Recess Time Booth – Typically half a day (follows school recess timing) 
-* Pract  Confidence on Wheels) – 45 minutes
+* Confidence on Wheels – 45 minutes
 
-**Capacity**: NA (for path safety week, educational toolkit, and animation video); Confidence on Wheels – min 30 pax, max 40 pax per session 
+**Capacity**: Confidence on Wheels – min 30 pax, max 40 pax per session, typically runs on a class basis 
 
-**Website**: LTA website: www.lta.gov.sg; Active Mobility Rules and Code of Conduct: www.go.gov.sg/amrules; Active Mobility Education Resources: www.go.gov.sg/am-education; Confidence on Wheels: www.go.gov.sg/cw
+**Website**: Active Mobility Education Programmes and Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education)
 
-**Mode of registration:** By email.
+**Mode of registration:**        To sign up for the assembly talk and recess time booth, click on the respective hyperlinks below:
+* [Assembly talk](https://www.booking.gov.sg/public/services/o16AEm6r/availability?anonymous=true)
+* [Recess time booth](https://www.booking.gov.sg/public/services/2Yxgb3eO/availability?anonymous=true)
+
+
+To book a Confidence on Wheels session, please reach out to our appointed contractor at [sales@uniquespeed.com.sg](mailto:sales@uniquespeed.com.sg). 
+
 
 **Due Date for registration**: 1 month in advance
 
-**Contact**: Path Safety Week, Educational Toolkit, and Animation Video: If you have any queries or how LTA can partner you to create awareness on safe riding, please do not hesitate to contact us at schools_am@lta.gov.sg.
+**Contact**: schools_am@lta.gov.sg[schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
+![](/images/Assembly_Talk__Yumin_.jpg)
+An LTA officer conducting an assembly talk on path safety in a primary school. 
+
+![](/images/Recess_booth__Keming_.jpg)
+Students taking part in interactive activities to learn about safe and gracious path-sharing behaviours during the recess time booth. 
 
 ![](/images/path%20safety.png)
-Confidence on Wheels Programme
-
-![](/images/talk%20pic.jpg)
-School Assembly Talk, Recess Time Booth
+Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session.

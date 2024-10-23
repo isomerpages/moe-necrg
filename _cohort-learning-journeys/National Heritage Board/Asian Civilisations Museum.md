@@ -22,7 +22,7 @@ What was life in Southeast Asia like in the past? Your students will be guided b
 	
 **Runtime**: All year round	
 	
-**Fee**: $8 per student (excluding GST)
+**Fee**: $8.72 per student (including GST)
 	
 **Modality**: In-person
 	

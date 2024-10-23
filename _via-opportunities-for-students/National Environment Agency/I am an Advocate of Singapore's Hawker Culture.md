@@ -20,7 +20,7 @@ Students will learn to:
 * Encourage character building, increase level of confidence and inculcate leadership capabilities through public interactions and participation. 
 * Exploration and learning about the history and evolution of Singapore's Hawker Culture.
 
-**Target Audience**: Primary 1- P6 students, Secondary 1- 2 students
+**Target Audience**: Primary 1- P6 students, Secondary 1- 3 students. Programme is extended up to Sec 3 students.
 		
 **Runtime**: All year round		
 		
@@ -36,7 +36,7 @@ Students will learn to:
 		
 **Due Date for registration**: 6 weeks prior the selected date of the Values-In Action programme, subject to NEA's approval.		
 		
-**Contact**: sghawkerculture@nea.gov.sg
+**Contact**: [sghawkerculture@nea.gov.sg](sghawkerculture@nea.gov.sg)
 
 ![](/images/VIA_Programme___Hawker_Culture_.jpg)
 East Coast Lagoon Food Village commenced operations in 1978. The hawker centre underwent several major upgrading exercises in 1988, 1992 and 2002. During the 2002 revamp, the structure of the new food centre was transformed to reflect Balinese-style architecture to look resort-like, to make full use of its unique location next to the beach.
