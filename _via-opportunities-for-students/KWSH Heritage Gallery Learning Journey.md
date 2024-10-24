@@ -16,7 +16,7 @@ The programme will feature a guided heritage tour as well as either a sharing/re
 
 Students will find out more about Singapore’s historical healthcare landscape and KWSH’s rich legacy of community service through the exploration of our artefacts, heritage gallery and pavilion garden. They can also learn about values such as our forefathers’ philanthropic spirit, compassion, and respect for the elderly. Additionally, students will have an increased awareness of issues relating to Singapore’s ageing population. There are also opportunities for inter-generational mingling and honing of interpersonal communication skills through simple activities with our nursing home residents.
 		
-**Target Audience**: Primary 4- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
+**Target Audience**: Primary 4- 6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)		
 
 **Runtime**: All year round		
 
@@ -28,12 +28,12 @@ Students will find out more about Singapore’s historical healthcare landscape 
 
 **Capacity**: 30 pax per group 		
 		
-**Website**: (https://heritage.kwsh.org.sg/)https://heritage.kwsh.org.sg/		
+**Website**: [https://www.kwsh.org.sg/](https://www.kwsh.org.sg/)
 
-**Mode of registration:** By email. Registration via phone is also available @ 6422 1265		
+**Mode of registration:** By email [(heritage@kwsh.org.sg)](heritage@kwsh.org.sg)
 
 **Due Date for registration**: At least 3 weeks in advance 		
 		
-**Contact**: heritage@kwsh.org.sg or  6422 1265
+**Contact**: [heritage@kwsh.org.sg](heritage@kwsh.org.sg) or  6422 1268
 
 ![](/images/kwsh%20heritage%20gallery%20learning%20journey_photo%201.jpg)A group of students visiting KWSH’s pavilion garden en route to the Heritage Gallery
