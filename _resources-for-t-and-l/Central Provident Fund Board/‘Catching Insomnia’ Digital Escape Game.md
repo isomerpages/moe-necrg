@@ -61,20 +61,16 @@ Private booking via youth_engagement@cpf.gov.sg
 
 **Website:** [cpf.gov.sg/CatchingInsomnia](cpf.gov.sg/CatchingInsomnia)
 
-![](/images/cpf%20-%20catching%20insomnia.png)
-Revolutionise your youths’ learning experience and sign them up for a game session now!
+![](/images/IMG_20240527_WA0046.jpg)
 
-> I loved how interactive yet fun the game was. It is a great game to play not only to challenge our minds but also to enhance teamwork and bond with friends. 
+   [https://safe.menlosecurity.com/https:/www.youtube.com/watch?v=EC7D3yGw1_s](https://safe.menlosecurity.com/https:/www.youtube.com/watch?v=EC7D3yGw1_s)
+![](/images/IMG_20240527_WA0012.jpg)
 
-Student, Nanyang Junior College 
 
 > The design of the game was very appealing, and the game mechanics are fun!
 
 Student, Raffles Institution 
 
-> I like how it effectively combines fun and education which makes the game efficient in teaching people about financial literacy. 
-
-Student, Ngee Ann Polytechnic 
 
 > The game consists of very interesting puzzles which are not often seen in new games. I like how the game was nicely developed with nice graphics. It felt really thought through. 
 
