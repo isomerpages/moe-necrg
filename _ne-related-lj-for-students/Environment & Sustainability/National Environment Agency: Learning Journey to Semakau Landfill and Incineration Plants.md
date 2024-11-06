@@ -38,7 +38,7 @@ This programme aims to educate students on the imporatance of a well-managed was
 		
 **Duration of Session**: About 2 hours 		
 
-**Capacity**: Approximately 15-20 pax		
+**Capacity**: Up to 40 pax	
 	
 **Website**: https://www.eportal.nea.gov.sg (Click on Public Education & Partnership)		
 
