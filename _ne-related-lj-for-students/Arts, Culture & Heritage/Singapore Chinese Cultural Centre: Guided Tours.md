@@ -11,8 +11,8 @@ variant: tiptap
 <p>What is “SINGAPO人” about the Chinese in Singapore? In this guided tour
 of Singapore Chinese Cultural Centre’s exhibition, “SINGAPO人: Discovering
 Singapore Chinese Culture”, our trained facilitators will lead students
-to explore what makes up Chinese Singaporean culture through daily life
-– local food, language, and festivals. Students will uncover the factors
+to explore what makes up Singapore Chinese culture through daily life –
+local food, language, and festivals. Students will uncover the factors
 which influence the shaping of culture and how this identity has evolved
 over time and continues to change today. Our exhibition is open from 10am
 to 8pm daily, except Mondays, when we are open from 2pm to 8pm.</p>
