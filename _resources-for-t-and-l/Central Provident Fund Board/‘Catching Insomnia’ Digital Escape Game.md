@@ -11,7 +11,7 @@ Using an immersive storytelling approach to shed light on the intricate link bet
 
 **Details**
 
-This programme is made up of four game seasons, which will run from April 2023 to January 2025. Each game season comprises of a few qualifying rounds\* and a seasonal tournament. 
+This programme is made up of four game seasons, which will run from April 2023 to March 2025. Each game season comprises of a few qualifying rounds and a seasonal tournament. 
 
 *Note: Youths only need to participate in one qualifying round for a chance to compete at the seasonal tournament.*
 
