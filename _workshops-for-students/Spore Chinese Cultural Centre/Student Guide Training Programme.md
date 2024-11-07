@@ -39,5 +39,15 @@ Friendship Day, Racial Harmony Day, National Day</p>
 <p><strong>How to register?</strong> Online through website link, or <a href="https://www.bookmuseums.nhb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">register here</a>
 </p>
 <p><strong>Due Date for registration</strong>: 5 weeks in advance</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0693.jpg">
+</div>
+<p>Anglican High School students practising with their friends</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0679.jpg">
+</div>
+<p></p>
 <p><strong>Contact</strong>: <a href="education@singaporeccc.org.sg" rel="noopener noreferrer nofollow" target="_blank">education@singaporeccc.org.sg</a>
 </p>
