@@ -4,4 +4,4 @@ permalink: /workshops-for-students/overview/
 variant: markdown
 description: ""
 ---
-![](/images/pic_3.PNG)
+![](/images/Workshops_for_students.png)
