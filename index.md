@@ -10,9 +10,6 @@ sections:
       background: /images/cover_2.PNG
       title: INVIGORATE INTERACT INSPIRE
       subtitle: NE Community Resource Guide
-  - resources:
-      title: Latest News
-      button: FIND OUT MORE
   - infobar:
       title: Looking to publish on NECRG?
       description: Email to MOE_CCEB@moe.gov.sg for more details.
