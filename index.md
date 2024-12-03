@@ -14,11 +14,4 @@ sections:
       title: Looking to publish on NECRG?
       description: Email to MOE_CCEB@moe.gov.sg for more details.
       url: home/overview of NE
-  - infopic:
-      title: Assembly Programmes
-      subtitle: NE Experiences for Students
-      id: infopic
-      button: Find out more
-      url: https://necrg.moe.edu.sg/assembly-programmes/overview/
-      image: /images/Assembly_Programmes_for_students_removebg_preview.png
 ---
