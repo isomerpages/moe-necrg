@@ -14,6 +14,6 @@ We hope that the NE Community Resource Guide (NECRG) will aid you in your effort
 
 If you would like to provide feedback on NECRG, we would love to hear your thoughts. Feel free to contact us at MOE_CCEB@moe.gov.sg.
 
-Wishing you a wonderful and exciting 2025 ahead!
+Wishing you a wonderful and exciting year ahead!
 
 The NE Resource Guide Team (Joel & Mun Ling)
