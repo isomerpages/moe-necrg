@@ -15,4 +15,4 @@ When students have greater ownership of their VIA experiences, they will
 find it more meaningful and be more motivated to continue making a
 difference, after graduation, to their community and nation.
 
-![](/images/VIA_cover.PNG)
+![](/images/NE_related_Learning_Journeys_for_Students.png)
