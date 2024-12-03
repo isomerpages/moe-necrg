@@ -21,5 +21,4 @@ sections:
       button: Find out more
       url: https://necrg.moe.edu.sg/assembly-programmes/overview/
       image: /images/Assembly_Programmes_for_students_removebg_preview.png
-      alt: Image alt text
 ---
