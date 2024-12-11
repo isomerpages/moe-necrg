@@ -8,8 +8,6 @@ notification: National Education Community Resource Guide
 sections:
   - hero:
       background: /images/NECRG_webBanner.png
-      title: INVIGORATE INTERACT INSPIRE
-      subtitle: NE Community Resource Guide
   - infobar:
       title: Looking to publish on NECRG?
       description: Email to MOE_CCEB@moe.gov.sg for more details.
