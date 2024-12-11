@@ -7,7 +7,7 @@ permalink: /
 notification: National Education Community Resource Guide
 sections:
   - hero:
-      background: /images/cover_2.PNG
+      background: /images/NECRG_webBanner.png
       title: INVIGORATE INTERACT INSPIRE
       subtitle: NE Community Resource Guide
   - infobar:
