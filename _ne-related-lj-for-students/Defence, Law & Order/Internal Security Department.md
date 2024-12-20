@@ -34,7 +34,7 @@ Visitors will:
 
 **Mode of Registration:** By email
 
-**Contact Information:** Jamilah Abu / [jamaliah_abu@moe.gov.sg](jamaliah_abu@moe.gov.sg)
+**Contact Information:** Jamaliah Abu / [jamaliah_abu@moe.gov.sg](jamaliah_abu@moe.gov.sg)
 
 ![](/images/internal%20security%20department.jpg)
 Car used in the JI terrorist plot
