@@ -2,8 +2,8 @@ collections:
   travelling-exhibitions:
     output: true
     order:
-      - EB Impact.md
       - Overview.md
+      - EB Impact.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
       - S'pore Chinese Cultural Centre/.keep
