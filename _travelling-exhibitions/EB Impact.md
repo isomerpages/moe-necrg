@@ -37,7 +37,7 @@ the opportunity to observe real-world applications and engage with stakeholders
 deeper understanding of the issues at hand and inspiring them to contribute
 to a more sustainable future.</p>
 <p><strong>Target Audience: </strong>Primary 3-6, Secondary 1-5, Post-Secondary
-(JC/Poly/ITE)</p>
+(JC/Poly/ITE), Educators</p>
 <p><strong>Runtime</strong>: August- November</p>
 <p><strong>Fee</strong>: Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
