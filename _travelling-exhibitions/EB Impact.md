@@ -35,6 +35,7 @@ to a more sustainable future.</p>
 <p><strong>Fee</strong>: Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Duration of Session:</strong> 3-6 hours</p>
+<p><strong>Programme Capacity:</strong> 1000</p>
 <p><strong>Mode of Registration</strong>: Online through website link</p>
 <p><strong>Contatct Info:</strong>  <a href="gerald.wong@ebimpact.org" rel="noopener nofollow" target="_blank">gerald.wong@ebimpact.org</a>
 </p>
