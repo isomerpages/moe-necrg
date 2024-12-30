@@ -40,4 +40,9 @@ to a more sustainable future.</p>
 <p><strong>Contatct Info:</strong>  <a href="gerald.wong@ebimpact.org" rel="noopener nofollow" target="_blank">gerald.wong@ebimpact.org</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_18___1_OFFICIAL.png">
+</div>
+<p>An overview of what's to come for the inaugural Sustainability Youth Festival</p>
+<p></p>
 <p></p>
