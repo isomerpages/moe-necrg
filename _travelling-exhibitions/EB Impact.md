@@ -11,3 +11,25 @@ unites students, schools, government agencies, and corporate industry leaders,
 providing a vibrant platform for young individuals to dive into sustainability
 topics, share innovative ideas, and connect with like-minded peers and
 organisations.</p>
+<p></p>
+<p><strong>Details</strong>
+</p>
+<p>At the core of the festival is a challenge where students can pitch their
+solutions in two categories: Youth Changemaker: solutions focused on awareness
+and behavioural change Youth Innovator: solutions that are viable products
+or services aimed at making direct environmental impact For students not
+participating in the challenge, there are still a variety of activities
+to enjoy! The festival will also consist of fringe activities such as booths
+hosted by local startups, NGOs, and sustainability-focused companies and
+engaging hands-on activities led by our partners.</p>
+<p><strong>Learning Objectives</strong>
+</p>
+<p>Students will learn about Singapore's sustainability challenges and the
+diverse approaches being taken to overcome them, all of which will be aligned
+with the Green Plan. They will have the opportunity to observe real-world
+applications and engage with stakeholders (government agencies, youth-led
+ground-ups, organisations), fostering a deeper understanding of the issues
+at hand and inspiring them to contribute to a more sustainable future.</p>
+<p></p>
+<p></p>
+<p></p>
