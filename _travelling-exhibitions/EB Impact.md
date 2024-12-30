@@ -15,13 +15,20 @@ organisations.</p>
 <p><strong>Details</strong>
 </p>
 <p>At the core of the festival is a challenge where students can pitch their
-solutions in two categories: Youth Changemaker: solutions focused on awareness
-and behavioural change Youth Innovator: solutions that are viable products
-or services aimed at making direct environmental impact For students not
-participating in the challenge, there are still a variety of activities
-to enjoy! The festival will also consist of fringe activities such as booths
-hosted by local startups, NGOs, and sustainability-focused companies and
-engaging hands-on activities led by our partners.</p>
+solutions in two categories:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Youth Changemaker: Solutions focused on awareness and behavioural change</p>
+</li>
+<li>
+<p>Youth Innovator: Solutions that are viable products or services aimed
+at making direct environmental impact.</p>
+<p>For students not participating in the challenge, there are still a variety
+of activities to enjoy! The festival will also consist of fringe activities
+such as booths hosted by local startups, NGOs, and sustainability-focused
+companies and engaging hands-on activities led by our partners.</p>
+</li>
+</ul>
 <p><strong>Learning Objectives: </strong>Students will learn about Singapore's
 sustainability challenges and the diverse approaches being taken to overcome
 them, all of which will be aligned with the Green Plan. They will have
@@ -35,14 +42,12 @@ to a more sustainable future.</p>
 <p><strong>Fee</strong>: Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Duration of Session:</strong> 3-6 hours</p>
-<p><strong>Programme Capacity:</strong> 1000</p>
+<p><strong>Programme Capacity:</strong> 1000pax</p>
 <p><strong>Mode of Registration</strong>: Online through website link</p>
-<p><strong>Contatct Info:</strong>  <a href="gerald.wong@ebimpact.org" rel="noopener nofollow" target="_blank">gerald.wong@ebimpact.org</a>
+<p><strong>Contatct Info: </strong>Gerald Wong, Executive Director, EB Impact
+- <a href="gerald.wong@ebimpact.org" rel="noopener nofollow" target="_blank">gerald.wong@ebimpact.org</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_18___1_OFFICIAL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSYF__1620_x_2880_.png">
 </div>
 <p>An overview of what's to come for the inaugural Sustainability Youth Festival</p>
-<p></p>
-<p></p>
