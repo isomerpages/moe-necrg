@@ -30,10 +30,8 @@ with the Green Plan. They will have the opportunity to observe real-world
 applications and engage with stakeholders (government agencies, youth-led
 ground-ups, organisations), fostering a deeper understanding of the issues
 at hand and inspiring them to contribute to a more sustainable future.</p>
-<p><strong>Target Audience: </strong>Primary 3 Students, d) Primary 4 Students,
-e) Primary 5 Students, f) Primary 6 Students, h) Secondary 2 Students,
-g) Secondary 1 Students, l) Educators, k) Post-Secondary (JC/Poly/ITE),
-j) Secondary 4/5 Students, i) Secondary 3 Students</p>
+<p><strong>Target Audience: </strong>Primary 3-6, Secondary 1-5, Post-Secondary
+(JC/Poly/ITE)</p>
 <p></p>
 <p></p>
 <p></p>
