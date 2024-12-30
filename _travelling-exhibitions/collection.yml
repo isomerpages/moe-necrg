@@ -2,6 +2,7 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - EB Impact.md
       - Overview.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
