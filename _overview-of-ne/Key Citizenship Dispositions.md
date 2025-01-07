@@ -1,7 +1,8 @@
 ---
-title: Key Citizenship Disposition
-permalink: /overview/key-citizenship-disposition/
+title: Key Citizenship Dispositions
+permalink: /overview/key-citizenship-dispositions/
 description: ""
+variant: tiptap
 ---
 The following key dispositions for citizenship in Singapore shape the purpose of and approach to National Education:
 
