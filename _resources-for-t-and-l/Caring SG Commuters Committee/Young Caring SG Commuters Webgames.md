@@ -13,8 +13,12 @@ about how they can help vulnerable commuters during their public transport
 journeys. With various game modes (e.g., an endless runner, semi open-world
 puzzles) and engaging teachable moments on how one can help vulnerable
 commuters during their public transport journeys, learning about caring
-commuting has never been more fun! The web-games will be officially launched
-after 9 November 2024.</p>
+commuting has never been more fun! Ready to master each game and claim your spot as a Young Caring SG Commuter? Don’t miss out on the fun – click the links below to start playing: 
+
+* 	https://go.gov.sg/youngcaringcommuter-4givesonthego
+* 	https://go.gov.sg/youngcaringcommuter-mycaringjourney
+* 	https://go.gov.sg/youngcaringcommuter-caringheroes
+* 	https://go.gov.sg/youngcaringcommuter-caringjourneyswithcc.</p>
 <p><strong>Learning Objectives:</strong> Students will get to learn more about
 how they can help vulnerable commuters during their public transport journeys</p>
 <p><strong>Target Audience:</strong> Pri 1 to 6 students</p>
