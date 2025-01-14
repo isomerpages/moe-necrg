@@ -13,12 +13,27 @@ about how they can help vulnerable commuters during their public transport
 journeys. With various game modes (e.g., an endless runner, semi open-world
 puzzles) and engaging teachable moments on how one can help vulnerable
 commuters during their public transport journeys, learning about caring
-commuting has never been more fun! Ready to master each game and claim your spot as a Young Caring SG Commuter? Don’t miss out on the fun – click the links below to start playing: 
-
-* 	https://go.gov.sg/youngcaringcommuter-4givesonthego
-* 	https://go.gov.sg/youngcaringcommuter-mycaringjourney
-* 	https://go.gov.sg/youngcaringcommuter-caringheroes
-* 	https://go.gov.sg/youngcaringcommuter-caringjourneyswithcc.</p>
+commuting has never been more fun! Ready to master each game and claim
+your spot as a Young Caring SG Commuter? Don’t miss out on the fun – click
+the links below to start playing:</p>
+<ul>
+<li>
+<p><a href="https://go.gov.sg/youngcaringcommuter-4givesonthego" rel="noopener nofollow" target="_blank">Link 1</a> 
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/youngcaringcommuter-mycaringjourney" rel="noopener nofollow" target="_blank">Link 2</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/youngcaringcommuter-caringheroes" rel="noopener nofollow" target="_blank">Link 3</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/youngcaringcommuter-caringjourneyswithcc" rel="noopener nofollow" target="_blank">Link 4</a>
+</p>
+</li>
+</ul>
 <p><strong>Learning Objectives:</strong> Students will get to learn more about
 how they can help vulnerable commuters during their public transport journeys</p>
 <p><strong>Target Audience:</strong> Pri 1 to 6 students</p>
@@ -31,10 +46,11 @@ to Insights &amp; Advisory Division)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Caring_SG_Commuters_Web_games_Photo_1.jpg">
-My Caring Journey / Caring Journeys with Commuter Champions</div>
+</div>
+<p>My Caring Journey / Caring Journeys with Commuter Champions</p>
 <p></p>
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Caring_SG_Commuters_Web_games_Photo_2.jpg">
-Caring Heroes/ Rush Hour! 4 ‘Gives’ on the Go</div>
+</div>
+<p>Caring Heroes/ Rush Hour! 4 ‘Gives’ on the Go</p>
 <p></p>
