@@ -52,7 +52,7 @@ manner.</p>
 <br><strong><br>Programme Fee: </strong>Please email for more details</p>
 <p><strong>Modality: </strong>In-person</p>
 <p><strong>Duration of Session: </strong>3 hours</p>
-<p><strong>Programme Capacity: </strong>10-15 per trail, inclusive of chaperones</p>
+<p><strong>Programme Capacity: </strong>10-15 per trai</p>
 <p><strong>Website:</strong>  <a href="https://www.skillseed.sg/resilience-trails" rel="noopener noreferrer nofollow" target="_blank">https://www.skillseed.sg/resilience-trails</a>
 </p>
 <p><strong>Mode of Registration:</strong> Online through website link</p>
