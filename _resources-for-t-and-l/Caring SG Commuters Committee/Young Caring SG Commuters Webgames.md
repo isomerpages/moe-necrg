@@ -47,10 +47,9 @@ to Insights &amp; Advisory Division)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Caring_SG_Commuters_Web_games_Photo_1.jpg">
 </div>
-<p>My Caring Journey / Caring Journeys with Commuter Champions</p>
-<p></p>
+My Caring Journey / Caring Journeys with Commuter Champions<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Young_Caring_SG_Commuters_Web_games_Photo_2.jpg">
 </div>
-<p>Caring Heroes/ Rush Hour! 4 ‘Gives’ on the Go</p>
+Caring Heroes/ Rush Hour! 4 ‘Gives’ on the Go<p></p>
 <p></p>
