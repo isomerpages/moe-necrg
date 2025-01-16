@@ -1,4 +1,5 @@
 collections:
   sdis-prototype-benjamin:
     output: true
-    order: []
+    order:
+      - sdistest.md
