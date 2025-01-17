@@ -1,5 +1,0 @@
-collections:
-  sdis-prototype-benjamin:
-    output: true
-    order:
-      - sdistest.md
