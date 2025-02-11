@@ -30,7 +30,7 @@ the uniqueness of hawker centres in Singapore.</p>
 <p><strong>Website:</strong> Visit <a href="http://bookmuseums.nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bookmuseums.nhb.gov.sg</a> to make
 a booking</p>
 <p><strong>Due Date for Registration: </strong>At least 6 weeks in advance</p>
-<p><strong>Contact Info: </strong><a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_cmsg_edu@nhb.gov.sg</a>
+<p><strong>Contact Info: </strong><a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">[cmsg_edu@heritage.sg](cmsg_edu@heritage.sg)</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AOH_Photo1.jpg">Travel back to Singapore many years back and experience the street hawker
