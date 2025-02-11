@@ -29,7 +29,7 @@ Singapore.</p>
 <p><strong>Website:</strong> Visit <a href="http://bookmuseums.nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bookmuseums.nhb.gov.sg</a> to make
 a booking</p>
 <p><strong>Due Date for Registration:</strong> At least 6 weeks in advance</p>
-<p><strong>Contact Info:</strong>  <a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_cmsg_edu@nhb.gov.sg</a>
+<p><strong>Contact Info:</strong>  <a href="mailto:nhb_cmsg_edu@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">[cmsg_edu@heritage.sg](cmsg_edu@heritage.sg)</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
