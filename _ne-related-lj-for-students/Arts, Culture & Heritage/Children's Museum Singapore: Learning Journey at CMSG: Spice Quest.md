@@ -38,4 +38,4 @@ Pupils will learn more about:
 		
 **Due Date for registration**: 6 weeks in advance		
 		
-**Contact**: nhb_cmsg_edu@nhb.gov.sg
+**Contact**: [cmsg_edu@heritage.sg](cmsg_edu@heritage.sg)
