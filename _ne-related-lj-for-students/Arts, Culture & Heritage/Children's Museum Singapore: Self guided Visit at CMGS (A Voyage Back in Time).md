@@ -34,7 +34,7 @@ Pupils will learn more about:  -	the different spices and their uses.  the diffe
 
 **Due Date for registration**: 6 weeks in advance
 
-**Contact**: nhb_cmsg_edu@nhb.gov.sg
+**Contact**: [cmsg_edu@heritage.sg](cmsg_edu@heritage.sg)
 
 ![](/images/Ahoy_Sg.jpg)
 Ahoy Singapore, one of the galleries featuring early Singapore.
