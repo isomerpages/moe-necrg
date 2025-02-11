@@ -31,5 +31,5 @@ where diverse communities came together.</p>
 <p><strong>Duration of Session: </strong>30 min</p>
 <p><strong>Mode of Registration:</strong> By email</p>
 <p><strong>Due Date for Registration:</strong> At least 6 weeks in advance</p>
-<p><strong>Contact Info: </strong><a href="mailto:cmsg_edu@heritage.sg" rel="noopener noreferrer nofollow" target="_blank">nhb_cmsg_edu@nhb.gov.sg</a>
+<p><strong>Contact Info: </strong><a href="cmsg_edu@heritage.sg" rel="noopener nofollow" target="_blank">cmsg_edu@heritage.sg</a>
 </p>
