@@ -2,4 +2,5 @@ collections:
   sg60-initiatives:
     output: true
     order:
+      - NE Commemorative Days 2025.md
       - Overview of SG60 Initiatives.md
