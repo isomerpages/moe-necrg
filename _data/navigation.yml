@@ -42,4 +42,6 @@ links:
         url: /workshops-for-educators/overview/
   - title: SG60 Initiatives
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: SG60 Initiatives
+        url: /permalink
