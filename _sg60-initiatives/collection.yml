@@ -1,0 +1,4 @@
+collections:
+  sg60-initiatives:
+    output: true
+    order: []
