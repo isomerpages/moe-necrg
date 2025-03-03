@@ -1,0 +1,4 @@
+collections:
+  sg60:
+    output: true
+    order: []
