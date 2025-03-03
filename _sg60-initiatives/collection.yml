@@ -2,5 +2,6 @@ collections:
   sg60-initiatives:
     output: true
     order:
+      - Page Under Construction.md
       - Overview of SG60 Initiatives.md
       - NE Commemorative Days 2025.md
