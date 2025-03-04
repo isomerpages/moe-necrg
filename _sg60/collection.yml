@@ -2,5 +2,6 @@ collections:
   sg60:
     output: true
     order:
+      - Kindness Day SG Appreciation Card.md
       - Overview of SG60 Initiatives.md
       - SGSHARE.md
