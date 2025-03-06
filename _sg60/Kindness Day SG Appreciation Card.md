@@ -4,7 +4,7 @@ permalink: /sg60/kindness-day-sg-appreciation-card/
 variant: tiptap
 description: ""
 ---
-<h3>Kindness Day SG Appreciation Card</h3>
+<h3>Kindness Day SG Celebrations</h3>
 <p><strong>Name of Organisation: </strong>Singapore Kindness Movement</p>
 <p><strong>Programme Type:</strong> Campaign</p>
 <p><strong>Programme Details:</strong>
