@@ -22,7 +22,7 @@ ground-up community projects.</p>
 <p><strong>Programme Runtime:</strong> The programme is scheduled to commence
 in May 2025 and end in Aug 2025, over six training sessions.</p>
 <p><strong>Target Audience: </strong>60 Malay/Muslim students from 60 secondary
-schools</p>
+schools who are currently in Secondary 2 or 3 (13-year to 14-year-old)</p>
 <p><strong>Nomination Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/60for60students</a>
 </p>
 <p>For any queries, please contact <a rel="noopener noreferrer nofollow" target="_blank">Juliana_SAHAIMI@pa.gov.sg</a>.</p>
