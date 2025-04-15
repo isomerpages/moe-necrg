@@ -2,7 +2,6 @@ collections:
   via-opportunities-for-students:
     output: true
     order:
-      - South East Community Development Council.md
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council and Land
         Transport Authority.md"
@@ -26,3 +25,4 @@ collections:
       - "Skillseed/Skillseed: Resilience Trails.md"
       - Singapore Kindness Movement/.keep
       - Singapore Kindness Movement/Seed Kindness Fund.md
+      - South East Community Development Council.md
