@@ -32,8 +32,8 @@ community service initiatives.</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Capacity:</strong> 40 students</p>
-<p><strong>Mode of registration: </strong>Online through website link;</p>
-<p>Kindly fill in the formSG link: <a href="https://go.gov.sg/seyaonboardingcamp2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/seyaonboardingcamp2025</a>
+<p><strong>Mode of registration: </strong>Online through website link; Kindly
+fill in the formSG link: <a href="https://go.gov.sg/seyaonboardingcamp2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/seyaonboardingcamp2025</a>
 </p>
 <p><strong>Due date for registration: </strong>14 April 2025</p>
 <p><strong>Contact:</strong>  <a href="yong_jing_yuan@pa.gov.sg" rel="noopener nofollow" target="_blank">yong_jing_yuan@pa.gov.sg</a>
