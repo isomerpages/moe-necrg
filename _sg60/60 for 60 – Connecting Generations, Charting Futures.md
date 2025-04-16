@@ -12,10 +12,9 @@ Executive Committees Council (MESRA)</p>
 </p>
 <p>PA MESRA would like to invite interested schools to nominate one Malay/Muslim
 student to participate in the ‘<strong>60 for 60 – Connecting Generations, Charting Futures</strong>’.</p>
-<p>As announced by Dr Maliki Osman at the Committee of Supply Debate 2025
-on 10 Mar 2025, the initiative aims to harness the diverse talents, skills,
-and life experiences of 60 individuals to create a rich learning environment
-to 60 Malay/Muslim students from 60 secondary schools.</p>
+<p>The initiative aims to harness the diverse talents, skills, and life experiences
+of 60 individuals to create a rich learning environment to 60 Malay/Muslim
+students from 60 secondary schools.</p>
 <p>Selected students will participate in a youth community leadership programme,
 which includes training sessions and the opportunity to design and implement
 ground-up community projects.</p>
