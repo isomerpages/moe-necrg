@@ -18,6 +18,7 @@ students from 60 secondary schools.</p>
 <p>Selected students will participate in a youth community leadership programme,
 which includes training sessions and the opportunity to design and implement
 ground-up community projects.</p>
+<p>Please refer to the email sent out by MOE CCEB for more information.</p>
 <p><strong>Programme Runtime:</strong> The programme is scheduled to commence
 in May 2025 and end in Aug 2025, over six training sessions.</p>
 <p><strong>Target Audience: </strong>60 Malay/Muslim students from 60 secondary
