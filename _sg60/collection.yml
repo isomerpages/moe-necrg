@@ -2,7 +2,7 @@ collections:
   sg60:
     output: true
     order:
-      - SG60 initiatives from other agencies open to schools.md
+      - SG60 initiatives from other agencies that are open to schools.md
       - Go Green SG 2025.md
       - Kindness Day SG Celebrations.md
       - SGSHARE.md
