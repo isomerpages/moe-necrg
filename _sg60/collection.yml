@@ -2,8 +2,8 @@ collections:
   sg60:
     output: true
     order:
-      - Go Green SG 2025.md
       - Overview of SG60 Initiatives.md
+      - Go Green SG 2025.md
       - Kindness Day SG Celebrations.md
       - SGSHARE.md
       - 60 for 60 – Connecting Generations, Charting Futures.md
