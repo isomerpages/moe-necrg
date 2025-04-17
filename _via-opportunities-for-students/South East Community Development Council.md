@@ -31,7 +31,8 @@ community service initiatives.</p>
 <p><strong>Runtime: </strong>June</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
-<p><strong>Capacity:</strong> 40 students</p>
+<p><strong>Duration: </strong>3 days 2 nights</p>
+<p><strong>Capacity:</strong> Max 40 students</p>
 <p><strong>Website: </strong><a href="https://go.gov.sg/seyaonboardingcamp2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/seyaonboardingcamp2025</a>
 </p>
 <p><strong>Mode of registration: </strong>Online through website link; Kindly
