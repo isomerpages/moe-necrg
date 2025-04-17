@@ -23,6 +23,8 @@ English lessons.</p>
 <p><strong>Programme Runtime:</strong> May to June</p>
 <p><strong>Target Audience: </strong>Students from primary schools, secondary
 schools and pre-university institutions</p>
-<p><strong>Link:</strong>  <a href="https://kindsville.kindness.sg/read/" rel="noopener noreferrer nofollow" target="_blank">https://kindsville.kindness.sg/read/</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gogreensg1.jpg">
+</div>
 <p></p>
