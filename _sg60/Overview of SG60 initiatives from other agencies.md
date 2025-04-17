@@ -20,7 +20,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.necrg.moe.edu.sg/sg/go-green-sg-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Go Green SG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Go Green SG" src="/images/gogreensg2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
