@@ -20,7 +20,7 @@ It will be uploaded onto SLS for teachers’ use in Social Studies, CCE or
 English lessons.</p>
 <p>Please refer to the email sent out by MOE Sustainability Workgroup on
 22 Nov 2024 for more information.</p>
-<p><strong>Programme Runtime:</strong> May to June</p>
+<p><strong>Programme Runtime:</strong> May to June 2025</p>
 <p><strong>Target Audience: </strong>Students from primary schools, secondary
 schools and pre-university institutions</p>
 <p></p>
