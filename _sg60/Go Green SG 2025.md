@@ -11,7 +11,7 @@ and the Environment (MSE)</p>
 <p><strong>Programme Details:</strong>
 </p>
 <p>Schools are invited to organise activities in support of Go Green SG national
-sustainability movement, which will be held from 20 May to 29 June 2025.</p>
+sustainability movement, which will be held from 16 May to 29 June 2025.</p>
 <p>Some possible activities include those which cultivate good eco-habits
 in students or within the community. Joint activities with other organisations
 and community groups are welcome.</p>
