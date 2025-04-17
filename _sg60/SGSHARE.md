@@ -23,7 +23,6 @@ inculcate the habit of giving in more Singaporeans.</p>
 <p><strong>Target Audience: </strong>Students &amp; Educators</p>
 <p><strong>Link:</strong>  <a href="https://www.sg60.gov.sg/care-and-share/" rel="noopener noreferrer nofollow" target="_blank">https://www.sg60.gov.sg/care-and-share/</a>
 </p>
-<p>For any queries, please contact <a rel="noopener noreferrer nofollow" target="_blank">Jayne_SEE@ncss.gov.sg</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGSHARE2banner.jpg">

@@ -28,10 +28,7 @@ the contest within the issue as part of the celebration.</p>
 SG on 23 May 2025.</p>
 </li>
 </ul>
-<p>SKM would like to appeal for schools’ support to post celebrations of
-Kindness Day SG on schools’ social media, and use #KindnessDaySG, along
-with #WeAreGratefulSG, and tag @kindnessSG to share how students are spreading
-kindness.</p>
+<p>Please refer to the email sent out by MOE CCEB for more information.</p>
 <p><strong>Programme Runtime:</strong> March to May</p>
 <p><strong>Target Audience: </strong>Primary school students</p>
 <p><strong>Link:</strong>  <a href="https://kindsville.kindness.sg/read/" rel="noopener noreferrer nofollow" target="_blank">https://kindsville.kindness.sg/read/</a>
