@@ -19,21 +19,40 @@ and funding, bringing their ideas to life in schools and communities.</p>
 </p>
 <p><u>Event Offering</u>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interactive booths with hands-on activities</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marketplace booths with sustainable merchandise</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “People, Planet, and Profit” Youth Conference</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Youth-led gamified “Ted Talks”</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Career speed dating</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TSYF Challenge Pitches and Sharing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Interactive booths with hands-on activities</p>
+</li>
+<li>
+<p>Marketplace booths with sustainable merchandise</p>
+</li>
+<li>
+<p>“People, Planet, and Profit” Youth Conference</p>
+</li>
+<li>
+<p>Youth-led gamified “Ted Talks”</p>
+</li>
+<li>
+<p>Career speed dating</p>
+</li>
+<li>
+<p>TSYF Challenge Pitches and Sharing</p>
+</li>
+</ul>
 <p></p>
 <p><u>TSYF Challenge Categories</u>
 </p>
 <p>Students can pitch their challenge solutions in two categories:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Youth Changemaker: Solutions
-focused on driving awareness and behavioural change within the community.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Youth Innovator: Solutions
-that are viable products or services aimed at making direct environmental
-impact.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Youth Changemaker: Solutions focused on driving awareness and behavioural
+change within the community.</p>
+</li>
+<li>
+<p>Youth Innovator: Solutions that are viable products or services aimed
+at making direct environmental impact.</p>
+</li>
+</ul>
 <p><strong>Learning Objectives: </strong>Students will learn about Singapore's
 sustainability challenges and the diverse approaches taken to overcome
 them, all of which will be aligned with the Green Plan. They will have
@@ -53,5 +72,8 @@ to a more sustainable future.</p>
 - <a href="hello@ebimpact.org" rel="noopener nofollow" target="_blank">hello@ebimpact.org</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSYF_EDM___For_Teachers_Educators.jpg">
+</div>
 <p></p>
 <p>Sustainability Youth Festival</p>
