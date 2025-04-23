@@ -27,6 +27,6 @@ description: ""
 <div class="isomer-card-title">Go Green SG</div>
 <div class="isomer-card-link">Click here to find out more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/world-aquatics-championships-singapore-2025/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="World Aquatics Championships – Singapore 2025" src="/images/WAC2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">World Aquatics Championships – Singapore 2025</div><div class="isomer-card-link">Click here to find out more</div></div></a>
 </div>
 <p></p>
