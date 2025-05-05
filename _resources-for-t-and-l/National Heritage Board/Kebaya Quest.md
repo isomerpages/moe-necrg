@@ -37,6 +37,9 @@ minutes</p>
 <p><strong>Contact Information: </strong><a href="Stella_woo@nhb.gov.sg" rel="noopener nofollow" target="_blank">Stella_woo@nhb.gov.sg, </a><a href="rui_qi_koh_from.tp@nhb.gov.sg" rel="noopener nofollow" target="_blank">rui_qi_koh_from.tp@nhb.gov.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kebaya.jpg">
+</div>
 <p></p>
 <p>
 <br>
