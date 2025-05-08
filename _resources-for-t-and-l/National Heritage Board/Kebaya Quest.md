@@ -26,7 +26,7 @@ about the kebaya’s role as a symbol of our shared history and cultural
 identity with our neighbouring countries. Students will explore, through
 game play, the craftsmanship involved in creating a kebaya, and the materials
 and accessories that go along with it.</p>
-<p><strong>Target Audience: </strong>Primary 3 to 6 Students</p>
+<p><strong>Target Audience: </strong>Primary 4 to 6 Students</p>
 <p><strong>Runtime: </strong>All year round</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality: </strong>Virtual</p>
