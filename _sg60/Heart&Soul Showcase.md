@@ -30,15 +30,16 @@ transportation, and urban planning in the future; and</p>
 futures for students, based on their hopes and aspirations.</p>
 </li>
 </ul>
-<p><strong>Programme Runtime:</strong> Soft launch from early Aug 2025.&nbsp;Showcase
-will be open to the public from 27 Aug to 31 Dec 2025.</p>
+<p><strong>Programme Runtime:</strong> 27 Aug – 31 Dec 2025 (Schools are invited
+to visit during the soft launch in early Aug)</p>
 <p><strong>Target Audience: </strong>Students in Primary schools, Secondary
 schools &amp; Pre-Us</p>
-<p><strong>Booking Form Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/heartandsoul-groupbooking</a>
+<p><strong>Cost of Admission: </strong>Free</p>
+<p><strong>Booking Form Link: </strong><a href="https://go.gov.sg/heartandsoul-groupbooking" rel="noopener nofollow" target="_blank">https://go.gov.sg/heartandsoul-groupbooking</a>
 </p>
-<p></p>
+<p><em>Please note that advanced booking is required for school groups.&nbsp; Schools will need to cater your own transport for this event.</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KindnessDaySGAppreciationCard2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H_S1.jpg">
 </div>
-<p></p>
 <p></p>
