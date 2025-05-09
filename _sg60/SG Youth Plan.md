@@ -23,7 +23,7 @@ The students can remain engaged on this platform when new and meaningful
 tasks are added at later points in the year.</p>
 <p><strong>Programme Runtime:</strong> All year round</p>
 <p><strong>Target Audience: </strong>Students aged 15 years old and above</p>
-<p><strong>Link:</strong> 
+<p><strong>Link:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,7 +35,8 @@ login required)</p>
 students without Singpass access</p>
 </li>
 </ul>
-<p><strong>For any queries, please contact</strong>: <a rel="noopener noreferrer nofollow" target="_blank">joseph_prakash_henry@nyc.gov.sg</a>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGYP1.jpg">
+</div>
 <p></p>
