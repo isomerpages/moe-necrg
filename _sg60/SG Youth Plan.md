@@ -7,7 +7,7 @@ description: ""
 <h3>SG Youth Plan</h3>
 <p><strong>Name of Organisation: </strong>Ministry of Culture, Community
 and Youth (MCCY) and National Youth Council Singapore (NYC)</p>
-<p><strong>Programme Type:</strong> Campaign</p>
+<p><strong>Programme Type:</strong> Engagement</p>
 <p><strong>Programme Details:</strong>
 </p>
 <p>SG Youth Plan involves a series of engagements with various agencies to
