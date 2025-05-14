@@ -24,7 +24,7 @@ grant, amplifying students’ efforts and making each act of kindness go
 even further. While schools commemorate a meaningful Youth Day, they are
 also welcome to extend their fundraising period in conjunction with SG60
 celebrations, contributing towards building a more caring and united Singapore.</p>
-<p><u>Fundraising Modalities for Schools</u> 
+<p><u>Fundraising Modalities for Schools</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
