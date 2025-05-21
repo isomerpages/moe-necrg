@@ -31,7 +31,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/heart-soul-showcase/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heart&amp;Soul" src="/images/H_S2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Heart&amp;Soul" src="/images/H_S3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
