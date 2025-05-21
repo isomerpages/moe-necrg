@@ -37,6 +37,6 @@ students without Singpass access</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGYP1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGYP_MOE_EDM_A4.png">
 </div>
 <p></p>
