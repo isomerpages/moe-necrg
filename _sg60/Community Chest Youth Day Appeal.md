@@ -46,4 +46,7 @@ fundraising through to National Day.</p>
 <p><strong>Contact Info: </strong>For any queries, please contact <a rel="noopener noreferrer nofollow" target="_blank">NCSS_School@ncss.gov.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YDA25_EDM_Final.jpg">
+</div>
 <p></p>
