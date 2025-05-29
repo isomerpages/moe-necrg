@@ -39,5 +39,16 @@ description: ""
 <div class="isomer-card-link">Click here to find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/community-chest-youth-day-appeal/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Chest Youth Day Appeal" src="/images/ComChest1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Chest Youth Day Appeal</div><div class="isomer-card-link">Click here to find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/the-stationery-personality-quiz/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Stationery Personality Quiz (by SGPO)" src="/images/SGPO_Quiz1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Stationery Personality Quiz (by SGPO)</div>
+<div class="isomer-card-link">Click here to find out more</div>
+</div>
+</a>
 </div>
 <p></p>
