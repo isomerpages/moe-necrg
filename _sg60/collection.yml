@@ -2,6 +2,7 @@ collections:
   sg60:
     output: true
     order:
+      - The Stationery Personality Quiz (by SGPO).md
       - Overview of SG60 Initiatives (Other Agencies).md
       - Community Chest Youth Day Appeal.md
       - Go Green SG 2025.md
