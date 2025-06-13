@@ -4,3 +4,27 @@ permalink: /institute-of-policy-studies-nus/
 variant: tiptap
 description: ""
 ---
+<h4>Connecting Faiths, Celebrating Cultures: Empowering Students Through Cultural &amp; Religious Literacy</h4>
+<p>The workshop on “Connecting Faiths, Celebrating Cultures: Empowering Students
+Through Cultural &amp; Religious Literacy” is part of the IPS Programme
+on Race, Religion and Intergroup Cohesion (RRIC), which is the first empirically
+based programme in Singapore aimed at promoting awareness, knowledge, and
+competence in discussing, managing, and promoting race, religion, and intergroup
+cohesion in our society.</p>
+<p>At the core of RRIC lies a deep commitment in enhancing awareness and
+knowledge of historical, current, and emerging issues relating to race,
+religion and intergroup cohesion in Singapore, moving the needle towards
+a more cohesive and inclusive society. Underpinned by years of cumulative
+research and grounded in policy relevance, the programme leverages multidisciplinary
+perspectives to develop practical tools, frameworks, and activities tailored
+for students—equipping them to address intergroup tensions, foster constructive
+dialogue, and nurture shared understanding in an increasingly complex and
+diverse social&nbsp;landscape. In collaboration with MHA's Harmony in Diversity
+Gallery, the workshop encourages students to reflect on their own cultural
+and religious identities while developing sensitivity to the traditions
+and practices of others. By identifying common values across different
+belief systems and learning the fundamentals of intercultural communication,
+students will be equipped to engage respectfully and effectively in diverse
+social settings. This will help our students to build bridges of understanding,
+promote empathy, and strengthen social cohesion in Singapore’s multicultural
+context.</p>
