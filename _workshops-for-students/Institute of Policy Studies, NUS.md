@@ -28,3 +28,12 @@ students will be equipped to engage respectfully and effectively in diverse
 social settings. This will help our students to build bridges of understanding,
 promote empathy, and strengthen social cohesion in Singapore’s multicultural
 context.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop on Multiculturalism" src="/images/Photograph_2.jpg">
+</div>
+<p></p>
+<p>Workshop on Multiculturalismm</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photograph_1.jpg">
+</div>
+<p></p>
