@@ -28,11 +28,17 @@ students will be equipped to engage respectfully and effectively in diverse
 social settings. This will help our students to build bridges of understanding,
 promote empathy, and strengthen social cohesion in Singapore’s multicultural
 context.</p>
+<p></p>
+<p>Details</p>
+<p>The programme features a curated experience that includes a visit to the
+Harmony in Diversity Gallery, a walking tour along Telok Ayer and Amoy
+Streets, food sampling of ethnic snacks, and a workshop on multiculturalism
+and cross-cultural communication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Workshop on Multiculturalism" src="/images/Photograph_2.jpg">
 </div>
 <p></p>
-<p>Workshop on Multiculturalismm</p>
+<p>Workshop on Multiculturalism</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photograph_1.jpg">
 </div>
