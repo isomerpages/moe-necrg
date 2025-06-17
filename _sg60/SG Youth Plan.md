@@ -17,8 +17,8 @@ blueprint for 2026-2030.</p>
 <p>MCCY and NYC would like to hear from as many youths as possible (15 to
 35y/o). Students can access the <a href="https://crowdtask.gov.sg/quest/sg-youth-plan" rel="noopener noreferrer nofollow" target="_blank">SG Youth Plan quest page</a> to
 take part in the surveys. There are various themes of interest to youths,
-such as pathways of success, interpersonal relationships, and environment
-&amp; sustainability. Additionally, there are other fun tasks for the students.
+such as pathways of success, interpersonal relationships, and environmental
+sustainability. Additionally, there are other fun tasks for the students.
 The students can remain engaged on this platform when new and meaningful
 tasks are added at later points in the year.</p>
 <p><strong>Programme Runtime:</strong> All year round</p>
