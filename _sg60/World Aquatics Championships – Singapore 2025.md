@@ -38,7 +38,8 @@ initatives:</p>
 <p>WCH Learning Journeys</p>
 </li>
 </ul>
-<p>Please refer to the email sent out by MOE PSOEB for more information.</p>
+<p>Please refer to the email sent out by MOE PSOEB on 15 August 2024 for
+more information.</p>
 <p><strong>Programme Runtime:</strong> Jan to Aug</p>
 <p><strong>Target Audience:</strong> Students from<strong> </strong>Primary
 schools, Secondary schools and Pre-Us</p>
