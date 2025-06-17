@@ -9,27 +9,30 @@ description: ""
 <p><strong>Programme Type:</strong> Campaign</p>
 <p><strong>Programme Details:</strong>
 </p>
-<p>Kindness Day SG, on 23 May 2025, is a special day in Singapore when everyone
-comes together to celebrate kindness! It’s a reminder to go the extra mile
-to connect with others, show care and express gratitude.</p>
-<p>Students are encouraged to use the perforated cards in the Kindsville
-Times / A-OK! publications to write a message to someone who has made a
-difference in their lives to express their appreciation (e.g., family member,
-classmate, school staff member, public transport worker, healthcare worker).</p>
-<p>Students can also participate in the Write to Singa activity, or join
-the contest within the issue as part of the celebration.</p>
-<p>Schools are encouraged to conduct this activity by:</p>
+<p>To celebrate Kindness Day SG, SKM has prepared an <u>Appreciation Card activity</u> within
+Kindsville Times/A-OK! Issue 2.&nbsp;&nbsp;Students can pen their appreciation
+for their family / school staff / people in our community (e.g., frontline
+workers, bus captains) and show care.&nbsp; Schools are encouraged to conduct
+the Appreciation Card activity by:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Riding on school’s existing programme (e.g., Gratitude Week); or</p>
+<p>Riding on school’s existing programme (e.g., Gratitude Week) which may
+not be in May; or</p>
 </li>
 <li>
 <p>Carrying it out as a school-wide VIA in May, in line with Kindness Day
 SG on 23 May 2025.</p>
 </li>
 </ul>
-<p>Please refer to the email sent out by MOE CCEB for more information.</p>
-<p><strong>Programme Runtime:</strong> March to May</p>
+<p>Schools can also encourage students to participate in the <em>Write to Singa</em> activity,
+or join the KDSG Drawing Contest as part of the celebration.&nbsp; More
+information about these two activities can be found in Issue 2.</p>
+<p>SKM would like to appeal for schools’ support to post celebrations of
+Kindness Day SG on schools’ social media, and use <u>#KindnessDaySG</u>,
+along with <u>#WeAreGratefulSG</u>, and <u>tag @kindnessSG</u> to share how
+students are spreading kindness.</p>
+<p>Please refer to the email sent out by MOE CCEB on 19 May 2025 for more
+information.</p>
 <p><strong>Target Audience: </strong>Primary school students</p>
 <p><strong>Link:</strong>  <a href="https://kindsville.kindness.sg/read/" rel="noopener noreferrer nofollow" target="_blank">https://kindsville.kindness.sg/read/</a>
 </p>
