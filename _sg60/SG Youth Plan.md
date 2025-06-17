@@ -32,7 +32,7 @@ login required)</p>
 </li>
 <li>
 <p><a href="http://go.gov.sg/sgyp-moe-form" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sgyp-moe-form</a> (For
-students without Singpass access</p>
+students without Singpass access)</p>
 </li>
 </ul>
 <p></p>
