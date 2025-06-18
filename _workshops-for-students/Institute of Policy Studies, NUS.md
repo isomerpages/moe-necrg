@@ -38,9 +38,12 @@ a deeper appreciation for cultural differences while discovering shared
 commonalities. The workshop also aims to develop cross-cultural understanding
 and equip students with the foundational skills to engage in effective
 intercultural communication.</p>
-<p>Target Audien</p>
-<p>TaargetSecondary 1 Students, h) Secondary 2 Students, i) Secondary 3 Students,
-j) Secondary 4/5 Students, k) Post-Secondary (JC/Poly/ITE)</p>
+<p><strong>Target Audience: </strong>Secondary 1- 4/5 Students, Post-Secondary
+(JC/Poly/ITE)</p>
+<p></p>
+<p><strong>Programme Runtime:</strong> All year round</p>
+<p>Programme Fee: Please email for more details</p>
+<p>Programme Modality: In-person</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
