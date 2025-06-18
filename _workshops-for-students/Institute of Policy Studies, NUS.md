@@ -42,26 +42,6 @@ intercultural communication.</p>
 (JC/Poly/ITE)</p>
 <p></p>
 <p><strong>Programme Runtime:</strong> All year round</p>
-<p>Programme Fee: Please email for more details</p>
+<p><strong>Programme Fee: </strong>Please email for more details</p>
 <p>Programme Modality: In-person</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Workshop on Multiculturalism" src="/images/Photograph_2.jpg">
-</div>
-<p></p>
 <p>Workshop on Multiculturalism</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photograph_1.jpg">
-</div>
-<p></p>
