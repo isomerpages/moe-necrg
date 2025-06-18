@@ -49,8 +49,7 @@ intercultural communication.</p>
 </p>
 <p><strong>Mode of Registration:</strong> By email</p>
 <p><strong>Due Date for Registration:</strong> 1month in advance</p>
-<p><strong>Contact Info: </strong>Kindly email Ms Sophy Tio (<a rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
-for enquiries</p>
+<p><strong>Contact Info: </strong>Kindly email Ms Sophy Tio (<a rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>) for enquiries</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
