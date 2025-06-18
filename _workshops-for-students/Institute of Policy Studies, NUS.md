@@ -38,10 +38,27 @@ a deeper appreciation for cultural differences while discovering shared
 commonalities. The workshop also aims to develop cross-cultural understanding
 and equip students with the foundational skills to engage in effective
 intercultural communication.</p>
-<p><strong>Target Audience: </strong>Secondary 1- 4/5 Students, Post-Secondary
-(JC/Poly/ITE)</p>
+<p><strong>Target Audience: </strong>Secondary 1- 4/5, Post-Secondary (JC/Poly/ITE)</p>
+<p><strong>Runtime:</strong> All year round</p>
+<p><strong>Fee: </strong>Please email for more details</p>
+<p><strong>Modality:</strong> In-person</p>
+<p><strong>Duration of Session: </strong>4 hours</p>
+<p><strong>Programme Capacity: </strong>Maximum of 25pax</p>
+<p><strong>Relevant Commemorative Days: </strong>Racial Harmony Day</p>
+<p><strong>Website</strong>: <a href="https://lkyspp.nus.edu.sg/ips/rric/about-rric/" rel="noopener nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/about-rric/</a>
+</p>
+<p><strong>Mode of Registration:</strong> By email</p>
+<p><strong>Due Date for Registration:</strong> 1month in advance</p>
+<p><strong>Contact Info: </strong>Kindly email Ms Sophy Tio (<a rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
+for enquiries</p>
 <p></p>
-<p><strong>Programme Runtime:</strong> All year round</p>
-<p><strong>Programme Fee: </strong>Please email for more details</p>
-<p>Programme Modality: In-person</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Visit to MHA's Harmony in Diversity Gallery" src="/images/Photograph_1.jpg">
+</div>
+<p>Visit to MHA's Harmony in Diversity Gallery</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photograph_2.jpg">
+</div>
 <p>Workshop on Multiculturalism</p>
