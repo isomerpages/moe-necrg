@@ -5,38 +5,36 @@ variant: tiptap
 description: ""
 ---
 <h3>World Para Swimming Championships Learning Journey</h3>
-<p><strong>Name of Organisation: </strong>Ministry of Culture, Community
-and Youth (MCCY) and National Youth Council Singapore (NYC)</p>
+<p><strong>Name of Organisation: </strong>Singapore Disability Sports Council</p>
 <p><strong>Programme Type:</strong> Engagement</p>
 <p><strong>Programme Details:</strong>
 </p>
-<p>SG Youth Plan involves a series of engagements with various agencies to
-get youths to share views, hopes and ideas that will shape their future.
-The insights garnered will culminate in an <a href="https://www.youthplan.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SG Youth Plan</a> – a five-year action
-blueprint for 2026-2030.</p>
-<p>MCCY and NYC would like to hear from as many youths as possible (15 to
-35y/o). Students can access the <a href="https://crowdtask.gov.sg/quest/sg-youth-plan" rel="noopener noreferrer nofollow" target="_blank">SG Youth Plan quest page</a> to
-take part in the surveys. There are various themes of interest to youths,
-such as pathways of success, interpersonal relationships, and environmental
-sustainability. Additionally, there are other fun tasks for the students.
-The students can remain engaged on this platform when new and meaningful
-tasks are added at later points in the year.</p>
-<p><strong>Programme Runtime:</strong> All year round</p>
-<p><strong>Target Audience: </strong>Students aged 15 years old and above</p>
-<p><strong>Link:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="http://go.gov.sg/sgyp-moe" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sgyp-moe</a> (Singpass
-login required)</p>
-</li>
-<li>
-<p><a href="http://go.gov.sg/sgyp-moe-form" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/sgyp-moe-form</a> (For
-students without Singpass access)</p>
-</li>
-</ul>
-<p></p>
+<p>The World Para Swimming Championships, the highest level competition for
+Para swimmers outside the Paralympic Games, will take place in Asia for
+the first time in September 2025. Singapore has been selected as the proud
+host of this prestigious event, and is recognising it as an SG60 Signature
+Event to promote our nation’s shared journey and future towards an inclusive
+and caring society.</p>
+<p>The event will bring together over 600 top Para swimmers with physical,
+visual and intellectual disabilities from more than 60 countries, and showcase
+the determination and excellence of Para athletes. TeamSG 7-time Paralympic
+medalist Yip Pin Xiu, Commonwealth Games medalist Toh Wei Soong and Paralympian
+Sophie Soon have met the qualifying standards to compete in this World
+Championships.</p>
+<p>We are excited to extend an opportunity for your school to inspire students,
+promote inclusivity, and raise awareness about disability sports and athletes
+with disabilities.</p>
+<p>Students will get the opportunity to be motivated and learn about values
+such as resilience as they cheer for disabled athletes who are competing
+in the championships. They will also have the opportunity to participate
+in meet and greet sessions with Singapore National Para-athletes, and develop
+a sense of empathy as they get to try para sports and understand the challenges
+that para athletes overcome.</p>
+<p><strong>Programme Runtime:</strong> 21 Sep to 27 Sep 2025</p>
+<p><strong>Target Audience: </strong>Primary &amp; Secondary school students</p>
+<p><strong>Registration Link: </strong>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdy1p8ysvVs-W5tRYhVqcKBxsKL6A7AdUdIU7sgzcVb8FPotQ/viewform" rel="noopener nofollow" target="_blank">here</a> to
+access</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGYP_MOE_EDM_A4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WPSC_Learning_Journey_A4.jpg">
 </div>
 <p></p>
