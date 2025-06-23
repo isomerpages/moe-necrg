@@ -34,7 +34,9 @@ that para athletes overcome.</p>
 <p><strong>Target Audience: </strong>Primary &amp; Secondary school students</p>
 <p><strong>Registration Link: </strong>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdy1p8ysvVs-W5tRYhVqcKBxsKL6A7AdUdIU7sgzcVb8FPotQ/viewform" rel="noopener nofollow" target="_blank">here</a> to
 access</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WPSC_Learning_Journey_A4.jpg">
 </div>
+<p></p>
 <p></p>
