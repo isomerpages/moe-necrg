@@ -12,7 +12,7 @@ The Path Safety Programme comprises the following modules:
 •    A 25-minute assembly talk on safe path sharing; and
 •    A 45-minute Confidence on Wheels session to learn best practices when riding an active mobility device (e.g. bicycle).
 
-You can choose the module(s) that best suit your school’s needs, or organise all three modules for the complete experience. Self-help resources (in the form of slides and videos), adapted from the talk, are also available for school’s use.
+You can choose the module(s) that best suit your school’s needs, or organise all modules for the complete experience. Self-help resources (in the form of slides and videos), adapted from the talk, are also available for school’s use.
 
 **Details**
 
