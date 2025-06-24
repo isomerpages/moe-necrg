@@ -7,10 +7,10 @@ third_nav_title: Land Transport Authority
 ---
 Promotes safe and gracious path sharing practices at your school with LTA’s Path Safety Programme!
 
-The Path Safety Programme comprises three modules:
-•          A 25-minute assembly talk on safe path sharing;
-•          A recess-time booth with interactive games; and
-•          A 45-minute Confidence on Wheels session to learn best practices when riding an active mobility device (e.g. bicycle).
+The Path Safety Programme comprises the following modules:
+
+•    A 25-minute assembly talk on safe path sharing; and
+•    A 45-minute Confidence on Wheels session to learn best practices when riding an active mobility device (e.g. bicycle).
 
 You can choose the module(s) that best suit your school’s needs, or organise all three modules for the complete experience. Self-help resources (in the form of slides and videos), adapted from the talk, are also available for school’s use.
 
@@ -18,7 +18,6 @@ You can choose the module(s) that best suit your school’s needs, or organise a
 
 **Assembly Talk**: An LTA speaker will conduct the talk in the school hall, where short videos and quizzes will be used to engage the students.
 
-**Recess-time Booth**: Engaging educational games on safe path sharing are offered at the recess time booth, where participating students have the chance to win prizes.
 
 **Confidence on Wheels (CW) programme**: CW helps students understand how they should use our paths safely and graciously as active mobility device users and pedestrians.
 
@@ -46,7 +45,7 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Target Audience**: Primary 1- P6 students, Secondary 1- 4/5 students, Post Secondary (JC/ Poly/ ITE)
 
-**Runtime**: Assembly talk, recess time booth and Confidence on Wheels will be available all year round (subject to availability)
+**Runtime**: Assembly talk and Confidence on Wheels will be available all year round (subject to availability)
 
 **Fee**: Complimentary
 
@@ -55,16 +54,14 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Duration of Session**: 
 * Assembly Talk – 25 minutes 
-* Recess Time Booth – Typically half a day (follows school recess timing) 
+
 * Confidence on Wheels – 45 minutes
 
 **Capacity**: Confidence on Wheels – min 30 pax, max 40 pax per session, typically runs on a class basis 
 
 **Website**: Active Mobility Education Programmes and Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education)
 
-**Mode of registration:**        To sign up for the assembly talk and recess time booth, click on the respective hyperlinks below:
-* [Assembly talk](https://www.booking.gov.sg/public/services/o16AEm6r/availability?anonymous=true)
-* [Recess time booth](https://www.booking.gov.sg/public/services/2Yxgb3eO/availability?anonymous=true)
+**Mode of registration:**       Click [here](https://cal.gov.sg/7qgr35dwcy1wglj6yq443dwd) to sign up for assembly talk.
 
 
 To book a Confidence on Wheels session, please reach out to our appointed contractor at [sales@uniquespeed.com.sg](mailto:sales@uniquespeed.com.sg). 
@@ -72,13 +69,11 @@ To book a Confidence on Wheels session, please reach out to our appointed contra
 
 **Due Date for registration**: 1 month in advance
 
-**Contact**: schools_am@lta.gov.sg[schools_am@lta.gov.sg](schools_am@lta.gov.sg)
+**Contact**: [schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
 ![](/images/Assembly_Talk__Yumin_.jpg)
 An LTA officer conducting an assembly talk on path safety in a primary school. 
 
-![](/images/Recess_booth__Keming_.jpg)
-Students taking part in interactive activities to learn about safe and gracious path-sharing behaviours during the recess time booth. 
 
 ![](/images/path%20safety.png)
 Students riding through activity stations to learn bicycle handling skills during a Confidence on Wheels session.
