@@ -25,4 +25,7 @@ the schedule of roving locations.</p>
 <p><strong>Target Audience: </strong>Students &amp; educators in Primary
 schools, Secondary schools and Pre-Us</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMP2025_poster_w_roving_locations_2_jpg.jpg">
+</div>
 <p></p>
