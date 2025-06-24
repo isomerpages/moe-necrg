@@ -49,6 +49,17 @@ description: ""
 <div class="isomer-card-title">The Stationery Personality Quiz (by SGPO)</div>
 <div class="isomer-card-link">Click here to find out more</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/world-para-swimming-championships-learning-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="World Para Swimming Championships Learning Journey" src="/images/SDSC1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">World Para Swimming Championships Learning Journey</div><div class="isomer-card-link">Click here to find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/ura-draft-master-plan-2025-exhibition/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="URA Draft Master Plan 2025 Exhibition" src="/images/dmp3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">URA Draft Master Plan 2025 Exhibition</div>
+<div class="isomer-card-link">Click here to find out more</div>
+</div>
 </a>
 </div>
 <p></p>

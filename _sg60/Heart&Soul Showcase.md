@@ -65,7 +65,8 @@ your booking via <a href="https://go.gov.sg/heartandsoul-groupbooking" rel="noop
 </p>
 <p><em>Please note that advanced booking is required for school groups.&nbsp; Schools will need to cater your own transport for this event.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H_S1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eDM_MOE_Organised_Groups_high_res.jpg">
 </div>
 <p></p>
