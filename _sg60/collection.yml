@@ -2,8 +2,8 @@ collections:
   sg60:
     output: true
     order:
-      - Community Chest Children's Day Appeal.md
       - Overview of SG60 Initiatives (Other Agencies).md
+      - Community Chest Children's Day Appeal.md
       - Community Chest Youth Day Appeal.md
       - Go Green SG 2025.md
       - Heart&Soul Showcase.md
