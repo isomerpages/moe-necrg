@@ -23,15 +23,15 @@ a long hiatus!</p>
 <p><strong>Programme Runtime:</strong> Fundraising Period is from end September
 to October 2025</p>
 <p><strong>Target Audience: </strong>Students in Preschools and Primary Schools</p>
-<p><strong>Links:</strong> 
+<p><strong>Links:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration link: <a href="https://go.gov.sg/cda2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cda2025</a> 
+<p>Registration link: <a href="https://go.gov.sg/cda2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cda2025</a>
 </p>
 </li>
 <li>
-<p>CDA Campaign page: <a href="https://www.comchest.gov.sg/cda" rel="noopener noreferrer nofollow" target="_blank">https://www.comchest.gov.sg/cda</a> 
+<p>CDA Campaign page: <a href="https://www.comchest.gov.sg/cda" rel="noopener noreferrer nofollow" target="_blank">https://www.comchest.gov.sg/cda</a>
 </p>
 </li>
 </ul>
