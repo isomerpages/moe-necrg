@@ -2,6 +2,7 @@ collections:
   exhibitions:
     output: true
     order:
+      - Founders' Memorial/.keep
       - Overview.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
