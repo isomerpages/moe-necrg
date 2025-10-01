@@ -27,7 +27,7 @@ and CCE curricula.</p>
 </p>
 </li>
 <li>
-<p>Education resources: visit the <a href="http://www.foundersmemorial.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 21 October 2025
+<p>Education resources: visit the Founders' Memorial <a href="http://www.foundersmemorial.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 21 October 2025
 onwards</p>
 </li>
 </ul>
@@ -38,5 +38,13 @@ ITE, University (P3 - Year 4, 9 - 22 years old)</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Contact Info:</strong>  <a href="mailto:founders_memorial@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">founders_memorial@nhb.gov.sg</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms1.jpg">
+</div><a class="isomer-image-wrapper" href="https://www.bookmuseums.nhb.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms2.jpg"></a>
+<a class="isomer-image-wrapper" href="https://www.bookmuseums.nhb.gov.sg/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms3.jpg">
+</a><a class="isomer-image-wrapper" href="https://www.foundersmemorial.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms4.jpg"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms5.jpg">
+</div>
 <p></p>
