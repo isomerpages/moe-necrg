@@ -44,7 +44,7 @@ ITE, University (P3 - Year 4, 9 - 22 years old)</p>
 <p><strong>Runtime:</strong> 31 October 2025 to 29 March 2026</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
-<p><strong>Contact Info:</strong>  <a href="mailto:founders_memorial@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">founders_memorial@nhb.gov.sg</a>
+<p><strong>For queries, please contact:</strong>  <a href="mailto:founders_memorial@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">founders_memorial@nhb.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nms1.jpg">
