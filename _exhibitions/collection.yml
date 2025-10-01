@@ -2,8 +2,8 @@ collections:
   exhibitions:
     output: true
     order:
-      - Founders' Memorial/.keep
       - Overview.md
+      - Founders' Memorial/.keep
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
       - S'pore Chinese Cultural Centre/.keep
