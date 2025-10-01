@@ -2,7 +2,6 @@ collections:
   sg60:
     output: true
     order:
-      - Project Citizens Pop Ups.md
       - Overview of SG60 Initiatives (Other Agencies).md
       - Community Chest Children's Day Appeal.md
       - Community Chest Youth Day Appeal.md
@@ -10,6 +9,7 @@ collections:
       - Heart&Soul Showcase.md
       - Kindness Day SG Celebrations.md
       - "Not Mere Spectators: The Makings of Multiculturalism in Singapore.md"
+      - Project Citizens Pop Ups.md
       - SG Youth Plan.md
       - The Stationery Personality Quiz (by SGPO).md
       - URA Draft Master Plan 2025 Exhibition.md
