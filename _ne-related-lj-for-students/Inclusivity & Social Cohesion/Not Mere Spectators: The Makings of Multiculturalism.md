@@ -30,6 +30,14 @@ and CCE curricula.</p>
 <p>Education resources: visit the Founders' Memorial <a href="http://www.foundersmemorial.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 21 October 2025
 onwards</p>
 </li>
+<li>
+<p>Click <a href="https://form.gov.sg/68a3d240165eb875a7f6b2c8" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register for the Educators’ Tour by 31 October, 2025.</p>
+</li>
+<li>
+<p>Click <a href="https://form.gov.sg/68a3d68fa0a7b45eed9e220b" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register for the Educators’ Workshop by 31 October, 2025.</p>
+</li>
 </ul>
 <p><strong>Target Audience:</strong> Primary, Secondary, Junior College, Polytechnic,
 ITE, University (P3 - Year 4, 9 - 22 years old)</p>
