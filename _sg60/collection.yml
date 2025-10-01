@@ -2,6 +2,7 @@ collections:
   sg60:
     output: true
     order:
+      - Project Citizens Pop Ups.md
       - Overview of SG60 Initiatives (Other Agencies).md
       - Community Chest Children's Day Appeal.md
       - Community Chest Youth Day Appeal.md
