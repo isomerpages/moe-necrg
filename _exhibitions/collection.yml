@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Founders' Memorial/Not Mere Spectators Exhibition.md
       - Founders' Memorial/.keep
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
