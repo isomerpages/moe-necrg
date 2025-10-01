@@ -1,5 +1,5 @@
 collections:
-  travelling-exhibitions:
+  exhibitions:
     output: true
     order:
       - Overview.md
