@@ -137,16 +137,23 @@ ITE, University (P3 - Year 4, 9 - 22 years old)</p>
 </p>
 <p><strong>For queries, please contact:</strong>  <a href="mailto:founders_memorial@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">founders_memorial@nhb.gov.sg</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pen_a_note.jpg">
+</div>
 <p>Pen a note of thanks to the founding generation and stand a chance to
 win exclusive Founders’ Memorial merchandise</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Diorama.jpg">
 </div>
+<p>Explore the stories of our founding generation through videos, miniature
+figurines and more</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Selfie.jpg">
 </div>
-<p>Explore the stories of our founding generation through videos, miniature
-figurines and more</p>
 <p>Snap a selfie with the larger-than-life vintage NRIC</p>
 <p></p>
 <p></p>
