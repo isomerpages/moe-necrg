@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Inclusivity & Social Cohesion
 ---
 <h3>Founders' Memorial</h3>
-<h4><em>Not Mere Spectators: The Makings of Multiculturalism in Singapore</em></h4>
+<h4><em>Not Mere Spectators: The Makings of Multicultural Singapore</em></h4>
 <p>This exhibition creates a space for reflection and conversations, and
 challenges Singaporeans to be active participants in shaping multicultural
 Singapore. It also offers valuable opportunities for classroom discussions
