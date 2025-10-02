@@ -1,11 +1,12 @@
 ---
-title: "Not Mere Spectators: The Makings of Multiculturalism in Singapore"
-permalink: /sg60/not-mere-spectators-exhibition/
+title: "Not Mere Spectators: The Makings of Multicultural Singapore"
+permalink: /not-mere-spectators-exhibition/
 variant: tiptap
 description: ""
+third_nav_title: Inclusivity & Social Cohesion
 ---
 <h3>Founders' Memorial</h3>
-<h4><em>Not Mere Spectators: The Makings of Multiculturalism in Singapore</em></h4>
+<h4><em>Not Mere Spectators: The Makings of Multicultural Singapore</em></h4>
 <p>This exhibition creates a space for reflection and conversations, and
 challenges Singaporeans to be active participants in shaping multicultural
 Singapore. It also offers valuable opportunities for classroom discussions
