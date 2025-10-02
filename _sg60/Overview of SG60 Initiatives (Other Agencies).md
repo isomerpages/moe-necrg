@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>These initiatives are open to schools:</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/not-mere-spectators-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Not Mere Spectators: The Makings of Multiculturalism in Singapore" src="/images/nmslogo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Not Mere Spectators: The Makings of Multiculturalism in Singapore</div><div class="isomer-card-link">Click here to find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/not-mere-spectators-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Not Mere Spectators: The Makings of Multicultural Singapore" src="/images/nmslogo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Not Mere Spectators: The Makings of Multicultural Singapore</div><div class="isomer-card-link">Click here to find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://necrg.moe.edu.sg/sg60/project-citizens-pop-ups/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
