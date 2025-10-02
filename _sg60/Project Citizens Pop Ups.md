@@ -6,6 +6,9 @@ description: ""
 ---
 <h3>Founders' Memorial</h3>
 <h4><em>Project Citizens Pop-ups</em></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/projcitizens1.jpg">
+</div>
 <p>The Project Citizens pop-ups feature the founding generation’s journey
 to citizenship and their experiences when they chose to become citizens
 of a newly independent Singapore. Visitors are challenged to reflect on
@@ -134,8 +137,17 @@ ITE, University (P3 - Year 4, 9 - 22 years old)</p>
 </p>
 <p><strong>For queries, please contact:</strong>  <a href="mailto:founders_memorial@nhb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">founders_memorial@nhb.gov.sg</a>
 </p>
-<p></p>
+<p>Pen a note of thanks to the founding generation and stand a chance to
+win exclusive Founders’ Memorial merchandise</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/projcitizens1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Diorama.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Selfie.jpg">
+</div>
+<p>Explore the stories of our founding generation through videos, miniature
+figurines and more</p>
+<p>Snap a selfie with the larger-than-life vintage NRIC</p>
+<p></p>
+<p></p>
 <p></p>
