@@ -13,17 +13,13 @@ opportunities for classroom discussions on the value of multiculturalism
 in Singapore, suitable for Social Studies and CCE curricula.</p>
 <p>Please refer to the poster below and the links in the following table
 for more information:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Exhibition Details</p>
 </th>
@@ -32,9 +28,6 @@ for more information:</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>a</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><em>Not Mere Spectators</em> exhibition and Scenario Room Programme</p>
 </td>
@@ -45,9 +38,6 @@ booking</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>b</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Educators’ Tour</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,9 +47,6 @@ registration (by 31 Oct)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>c</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Educators’ Workshop</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,9 +55,6 @@ registration (by 31 Oct)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>d</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Accompanying resources for exhibition</p>
 </td>
