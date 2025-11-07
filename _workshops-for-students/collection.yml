@@ -2,6 +2,7 @@ collections:
   workshops-for-students:
     output: true
     order:
+      - Institute of Policy Studies/Institute of Policy Studies, NUS.md
       - Institute of Policy Studies/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
