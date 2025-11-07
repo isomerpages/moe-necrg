@@ -2,13 +2,6 @@ collections:
   workshops-for-students:
     output: true
     order:
-      - "Institute of Policy Studies/Beyond Beliefs: Discover, Navigate and
-        Appreciate Religious Sensitivities in Singapore.md"
-      - "Institute of Policy Studies/Power of Diversity: Navigating Racial
-        Biases.md"
-      - "Institute of Policy Studies/Connecting Faiths, Celebrating Cultures:
-        Empowering Students Through Cultural & Religious Literacy.md"
-      - Institute of Policy Studies/.keep
       - Overview.md
       - "Caring SG Commuters Committee: Public Transport Council.md"
       - Changi Airport Singapore.md
@@ -34,6 +27,13 @@ collections:
       - Dialogue in the Dark Singapore/Spotlight on the Blind.md
       - Indian Heritage Centre/.keep
       - Indian Heritage Centre/Student Guide Training Programme.md
+      - Institute of Policy Studies/.keep
+      - "Institute of Policy Studies/Beyond Beliefs: Discover, Navigate and
+        Appreciate Religious Sensitivities in Singapore.md"
+      - "Institute of Policy Studies/Power of Diversity: Navigating Racial
+        Biases.md"
+      - "Institute of Policy Studies/Connecting Faiths, Celebrating Cultures:
+        Empowering Students Through Cultural & Religious Literacy.md"
       - National Arts Council/.keep
       - National Arts Council/Arts Education Programme.md
       - National Arts Council/Artists in School Scheme.md
