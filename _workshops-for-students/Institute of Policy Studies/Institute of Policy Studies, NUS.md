@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Institute of Policy Studies
 ---
-<h4>Connecting Faiths, Celebrating Cultures: Empowering Students Through Cultural &amp; Religious Literacy</h4>
 <p>This workshop is part of the IPS Programme on Race, Religion and Intergroup
 Cohesion (RRIC), aimed at promoting awareness, knowledge, and competence
 in discussing, managing, and promoting race, religion, and intergroup cohesion
