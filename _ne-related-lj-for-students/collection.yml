@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Arts, Culture & Heritage/NLB Presidential Pop Up Library Guided Tour.md
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -40,12 +39,13 @@ collections:
         Now.md"
       - "Arts, Culture & Heritage/Defence Collective Singapore: Yours,
         Culturally.md"
-      - Arts, Culture & Heritage/National Gallery Singapore.md
-      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
-      - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
-      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
       - "Arts, Culture & Heritage/National Arts Council: Arts Education
         Programme.md"
+      - Arts, Culture & Heritage/National Gallery Singapore.md
+      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
+      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
+      - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
+      - Arts, Culture & Heritage/NLB Presidential Pop Up Library Guided Tour.md
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
         the Peranakan Museum).md"
       - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board, Anak
