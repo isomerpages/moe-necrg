@@ -60,12 +60,12 @@ Post-Sec (JC/Poly/ITE)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PresidentialLibrary_Photo1.jpg">
 </div>
-<p>Entrance of Presidential Pop-Up Library that is reminiscent of the Istana’s
-facade</p>
+Entrance of Presidential Pop-Up Library that is reminiscent of the Istana’s
+facade
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PresidentialLibrary_Photo2.jpg">
 </div>
-<p>Write-ups with oral recordings that provide an immersive experience to
-learn about the history of Singapore’s Presidents</p>
+Write-ups with oral recordings that provide an immersive experience to
+learn about the history of Singapore’s Presidents
 <p></p>
