@@ -6,7 +6,7 @@ third_nav_title: Singapore Kindness Movement
 variant: tiptap
 ---
 <h3>Singapore Kindness Movement</h3>
-<h4>Kindsville Times/A-OK! Publications </h4>
+<h4>Kindsville Times/A-OK! Publications</h4>
 <p>Kindsville Times and A-OK! are publications that introduce kindness topics
 to primary school students. The publications are available in age-appropriate
 versions: Kindsville Times Junior (Primary 1 and 2), Kindsville Times Adventures
