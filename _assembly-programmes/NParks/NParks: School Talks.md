@@ -28,7 +28,6 @@ companion animals that share our environment.</p>
 <p><strong>Mode of Registration:</strong>&nbsp;Through website link</p>
 <p><strong>Capacity</strong>: 100 pax</p>
 <p><strong>Due Date for registration</strong>: 1 month in advance</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Assembly_talk_photo_1.jpg">
 </div>
