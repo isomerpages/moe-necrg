@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Singapore Kindness Movement
 variant: tiptap
 ---
-<h3>Singapore Kindness Movement</h3>
-<h4>Secondary School, Post-Secondary (Junior College and Centralised Institute) Assembly Show</h4>
+<h3></h3>
 <p>Through interactive drama, students will explore issues on CyberKindness.
 The show aspires to shine light on relevant contemporary issues in hope
 of sparking meaningful conversations among students. This will be done
