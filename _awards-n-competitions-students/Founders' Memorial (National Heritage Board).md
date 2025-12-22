@@ -37,4 +37,3 @@ Students will be able to deepen their knowledge of Singapore’s history through
 **Contact**: founders_memorial@nhb.gov.sg
 
 ![](/images/Founders__Memorial.jpg)
-
