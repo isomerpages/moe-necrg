@@ -19,11 +19,11 @@ Students/staff will get to foster team cohesivenes and energise team vitality in
 
 **Runtime**: All year round
 
-**Fee**:  $39 ($42.51 after GST) per student and $49 ($53.41 after GST) per adult. Prices are subject to changes.
+**Fee**:  $40 ($43.60 after GST) per student and $50 ($54.50 after GST) per adult. Prices are subject to changes.
 
 **Modality:** In-person
 
-**Duration of Session**: 1 hour 
+**Duration of Session**: 1.5 hour 
 
 **Capacity**: Minimum 20 and maximum 42 students
 
