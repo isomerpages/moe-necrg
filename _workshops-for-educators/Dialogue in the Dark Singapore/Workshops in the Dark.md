@@ -9,11 +9,17 @@ After experiencing activities/challenges in total darkness, participants will de
 
 **Details**
 
-The programme content and format may differ depending on the learning objectives. Please contact Dialogue in the Dark Singapore to discuss your requirements so that we may then propose a suitable programme.
+The experiential activities will be conducted entirely in complete darkness at Dialogue in the Dark Singapore, removing visual cues to encourage participants to rely on instinct, sound, and trust. This sensory shift fosters vulnerability, reflection, and genuine connection—key ingredients in building inclusivity. 
+
+Participants will explore how individual differences and group dynamics influence team effectiveness, and learn how to apply these insights to real-world environments. This is not just a workshop—it’s a powerful journey into the unseen dimensions of teamwork, where clarity, empathy, and adaptability become essential tools.
 
 **Learning Objectives**
 
-Learning objectives will vary depending on the needs of your participants.
+*  Learn practical techniques to improve team communication, with a focus on clarity, listening, and mutual understanding. 
+*  Develop strategies to build trust and empathy, strengthening relationships through shared challenges and reflective experiences. 
+*  Recognize and leverage diverse team roles, profiles and group dynamics to facilitate more effective and balanced collaboration. 
+
+Learning objectives can be customised based on the needs of the participants.
 
 **Target Audience**: Educators
 
@@ -23,7 +29,7 @@ Learning objectives will vary depending on the needs of your participants.
 
 **Modality**: In-person
 
-**Duration of Session**: 2 to 3 hours, customisable
+**Duration of Session**: 3 hours or full day, customisable
 
 **Website**: https://www.np.edu.sg/didsg
 
@@ -36,6 +42,6 @@ Learning objectives will vary depending on the needs of your participants.
 ![](/images/workshops%20in%20the%20dark.jpg)
 Reflections after an activity in the dark
 
-> "When faced with common adversity, it brings either the best or the worst in us. Fortunately, our team fared well with care, humor and teamwork." 
+> "We’ve learned to listen more to the team so that everyone can speak up and contribute. To build a high-performing team, it’s clear that trust amongst members is imperative." 
 
-– Participant from ITE
+– Participant from CapitaLand
