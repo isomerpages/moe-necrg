@@ -4,7 +4,7 @@ permalink: /awards-n-competitions-students/nhb-founders-memorial/
 variant: markdown
 description: ""
 ---
-### Student Archivist Project 2024
+### Student Archivist Project 2026
 
 SAP is an oral history project organised by the Founders' Memorial and National Museum of Singapore (NMS) in which student interviewers collect personal stories from senior interviewees about specific themes such as housing, public health policies etc. Student participants will be trained in oral history interview methodology before they plan and conduct their own oral history interview with senior interviewees aged 60 and above. Through the project, students stand to gain a better understanding of the past through the lenses of first-hand witnesses, and practise intergenerational communication skills and collaborative skills with their team mates. 
 
@@ -32,9 +32,9 @@ Students will be able to deepen their knowledge of Singapore’s history through
 
 **Mode of registration:** Online through website link		
 
-**Due Date for registration**: TBC (Jan 2024)		
+**Due Date for registration**: TBC (Jan 2026)		
 		
 **Contact**: founders_memorial@nhb.gov.sg
 
-![](/images/sap%20founders%20memorial.jpg)
-SAP filming
+![](/images/Founders__Memorial.jpg)
+
