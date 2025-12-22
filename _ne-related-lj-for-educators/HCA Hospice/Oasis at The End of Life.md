@@ -27,7 +27,7 @@ Together we can make a positive impact and redefine how we approach end-of-life 
 		
 **Duration of Session**: 1hr 30mins		
 
-**Capacity**: maximum 20pax.		
+**Capacity**: Up to 10 at Oasis@Woodlands (fka Kang Le) Day Hospice and up to 20 at Oasis@Outram Day Hospice
 		
 **Relevant Commemorative Days**: World Hospice and Palliative Care Day	
 
