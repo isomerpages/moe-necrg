@@ -23,7 +23,7 @@ through meaningful intergenerational conversations.</p>
 <p><strong>Fee</strong>: Complimentary</p>
 <p><strong>Website</strong>: <a href="https://for.sg/sparkconversations" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/sparkconversations</a>
 </p>
-<p><strong>Contact: </strong><a href="shirley.chau@aic.sg" rel="noopener noreferrer nofollow" target="_blank">shirley.chau@aic.sg</a>
+<p><strong>Contact: </strong><a href="sherryn.kam.jialin@aic.sg" rel="noopener nofollow" target="_blank">sherryn.kam.jialin@aic.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Spark_Conversations_Toolkit.png">
