@@ -15,7 +15,7 @@ think fast, support one another, and put Total Defence into action — not
 in theory, but in real, relatable challenges.</p>
 <p><strong>Details: </strong>The programme entails the following segments:
 (1) Briefing; (2) Start of Activities and (3) Debriefing.</p>
-<p><strong>Learning Objectives: </strong>
+<p><strong>Learning Objectives:</strong>
 </p>
 <p><strong><u>Primary</u></strong>
 </p>
