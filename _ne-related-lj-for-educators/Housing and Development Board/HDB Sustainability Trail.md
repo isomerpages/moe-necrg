@@ -1,7 +1,7 @@
 ---
 title: HDB Sustainability Trail
 permalink: /hdb-sustainability-trail/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Housing and Development Board
 ---
@@ -39,8 +39,7 @@ for their peers and/or the community. The trails feature places such as:</p>
 <p>Participants will gain a comprehensive understanding of the transformation
 of Punggol and the efforts made to enable sustainable living, thereby inspiring
 them to do their part for the environment and adopting a green lifestyle.</p>
-
-Target Audience: 
+<p><strong>Target Audience: </strong>Pri 4- 6, Sec 1- 4/5, Post-Sec (JC/Poly/ITE)</p>
 <p><strong>Runtime: </strong>All year round</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
@@ -57,11 +56,13 @@ required</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Trail_LearningJourney_Photo1.jpg">
-Students explored and learnt how the Dragonfly Pond promotes greater biodiversity
-in the urban environment during the Punggol Northshore Trail.</div>
+</div>
+<p>Students explored and learnt how the Dragonfly Pond promotes greater biodiversity
+in the urban environment during the Punggol Northshore Trail.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Trail_LearningJourney_Photo2.jpg">
-Students engaged at the training to acquire the skills needed to become
-Eco Guides.</div>
+</div>
+<p>Students engaged at the training to acquire the skills needed to become
+Eco Guides.</p>
 <p></p>
