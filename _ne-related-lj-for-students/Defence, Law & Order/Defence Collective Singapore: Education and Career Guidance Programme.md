@@ -21,7 +21,7 @@ Scouts, they will investigate real-world clues, decode tools of the trade,
 and uncover the skills that define key defence vocations. Additionally,
 students will reflect on their personal strengths, aspirations, and values
 to discover how they, too, can play a part in Singapore’s defence ecosystem.</p>
-<p><strong>Learning Objectives: </strong>
+<p><strong>Learning Objectives:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
