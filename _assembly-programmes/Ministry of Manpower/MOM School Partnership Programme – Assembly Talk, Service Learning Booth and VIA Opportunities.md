@@ -26,7 +26,7 @@ Through deeper engagement with Singapore's migrant workforce, students gain info
 
 **Modality**: In-person
 
-**Duration of Session**: Assembly talk – 1h ; Service-Learning booth- N/AVIA Opportunities – N/A
+**Duration of Session**: Assembly talk – 1h ; Service-Learning booth- N/A; VIA Opportunities – N/A
 
 
 **Mode of registration:** By email.
