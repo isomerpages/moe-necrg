@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Singapore Kindness Movement
 variant: tiptap
 ---
-<p><strong><em>Interactive Theatre: Racial Harmony </em></strong>
+<p><strong><em>Interactive Theatre: Racial Harmony</em></strong>
 </p>
 <p>Through interactive drama, students will explore issues on racial harmony
 and cultural understanding. This show aims to spark meaningful conversations
@@ -14,22 +14,26 @@ students will not only observe but actively participate in reshaping scenarios
 to practise empathy and inclusion.</p>
 <p><strong>Details</strong>
 </p>
-<p>Students will be given opportunities to have a voice during the hall-based
+<p>Students will be given opportunities to voice their ideas during the hall-based
 live stage show.</p>
 <p><strong>Learning Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students will develop critical thinking and decision-making skills when
-responding to undesirable behaviours and situations.</p>
+<p>Understand what racial harmony means in Singapore's multicultural context</p>
 </li>
 <li>
-<p>While exposed to social issues and its adverse effects online or in real
-life, students will identify and manage relevant situations, build resilience
-against negative behaviours and become encouraging and supportive individuals
-in their community and school.</p>
+<p>Reflect on how words and actions impact others</p>
+</li>
+<li>
+<p>Recognise unconcious bias and exclusion</p>
+</li>
+<li>
+<p>Practise standing up and speaking out with kindness and respect</p>
 </li>
 </ul>
+<p></p>
+<p>The Morning</p>
 <p><strong>Target Audience</strong>: Secondary 1 - 4/5 students, Post Secondary
 (JC/ Poly/ ITE)</p>
 <p><strong>Runtime</strong>: January - October</p>
