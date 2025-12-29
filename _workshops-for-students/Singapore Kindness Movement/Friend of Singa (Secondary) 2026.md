@@ -43,8 +43,8 @@ within schools and beyond.</p>
 <p><strong>Website</strong>: <a href="https://fos.kindness.sg/secondary/Home" rel="noopener noreferrer nofollow" target="_blank">https://fos.kindness.sg/secondary/Home</a>
 </p>
 <p><strong>Mode of Registration:</strong>&nbsp;Online through website link</p>
-<p><strong>Due Date for registration</strong>: 2 January 2025 to 31 January
-2025</p>
+<p><strong>Due Date for registration</strong>: 2 January 2026 to 31 January
+2026</p>
 <p><strong>Contact Info</strong>: <a href="mailto:fos@kindness.sg" rel="noopener noreferrer nofollow" target="_blank">fos@kindness.sg</a>
 </p>
 <blockquote>
