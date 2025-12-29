@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Singapore Kindness Movement
 ---
-<h3>Friends of Singa Students’ Campaign Programme (Primary)</h3>
 <p>Introduced in 1990, the Friend of Singa (FOS) programme has evolved into
 the Friends of Singa Students’ Campaign Programme (FOSSCP), empowering
 students to take the lead in fostering kindness within their schools through
@@ -19,7 +18,7 @@ themselves for the betterment of their surroundings (school, family and
 community).</p>
 <p><strong>Details</strong>
 </p>
-<p>Students will attend an interactive workshop at the end of February 2025
+<p>Students will attend an interactive workshop at the end of February 2026
 to learn the basics of implementing a kindness campaign in school. The
 workshop is optional.</p>
 <p>Students will also encounter experiential learning through their process
@@ -40,8 +39,8 @@ part in tackling issues within the schools and/or community.</p>
 </p>
 <p><strong>Mode of Registration:</strong>&nbsp;Online through <a href="https://fos.kindness.sg/primary/Registration" rel="noopener noreferrer nofollow" target="_blank">https://fos.kindness.sg/primary/Registration</a>
 </p>
-<p><strong>Due Date for registration</strong>: 2 January 2025 to 31 January
-2025</p>
+<p><strong>Due Date for registration</strong>: 2 January 2026 to 31 January
+2026</p>
 <p><strong>Contact</strong>: <a href="mailto:fos@kindness.sg" rel="noopener noreferrer nofollow" target="_blank">fos@kindness.sg</a>
 </p>
 <blockquote>
