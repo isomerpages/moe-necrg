@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Arts, Culture & Heritage
 ---
-<h3>National Library Board</h3>
-<h4>Presidential Pop-Up Library – Guided Tour</h4>
 <p>Following its successful run, the Presidential Pop-up Library has relocated
 to Plaza Singapura Level 3, with an enhanced experience that brings together
 curated reads and inspiring stories from Singapore’s leaders and community.
@@ -26,7 +24,7 @@ book recommendations</p>
 reading space</p>
 <p>• Exclusive educational worksheets designed to spark reflection and book
 reviewing</p>
-<p><strong>Objectives:</strong>
+<p><strong>Learning Objectives:</strong>
 </p>
 <p>a) Students can explore the diverse backgrounds, achievements, and leadership
 styles of Singapore's Presidents through write-ups, oral recordings and
@@ -43,9 +41,9 @@ to younger generations, provide students with motivational insights and
 life lessons that can guide their personal development, whilst the browsable
 collection and e-books offer accessible ways to engage with meaningful
 literature that resonates with their aspirations and challenges.</p>
-<p><strong>Target Audience:</strong> Pri 4 to 6 students, Sec 1 to 4/5 students,
-Post-Sec (JC/Poly/ITE)</p>
-<p><strong>Runtime: </strong>Jan, Feb, Mar 2026</p>
+<p><strong>Target Audience:</strong> Pri 4 to 6, Sec 1 to 4/5, Post-Sec (JC/Poly/ITE)
+students</p>
+<p><strong>Runtime: </strong>January to March 2026</p>
 <p><strong>Fee: </strong>Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Duration of Session: </strong>30 - 45 minutes</p>
@@ -60,12 +58,12 @@ Post-Sec (JC/Poly/ITE)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PresidentialLibrary_Photo1.jpg">
 </div>
-Entrance of Presidential Pop-Up Library that is reminiscent of the Istana’s
-facade
+<p>Entrance of Presidential Pop-Up Library that is reminiscent of the Istana’s
+facade</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PresidentialLibrary_Photo2.jpg">
 </div>
-Write-ups with oral recordings that provide an immersive experience to
-learn about the history of Singapore’s Presidents
+<p>Write-ups with oral recordings that provide an immersive experience to
+learn about the history of Singapore’s Presidents</p>
 <p></p>
