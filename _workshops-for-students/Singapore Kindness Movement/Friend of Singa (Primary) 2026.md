@@ -1,5 +1,5 @@
 ---
-title: Friend of Singa (Primary) 2025
+title: Friend of Singa (Primary) 2026
 permalink: /workshops-for-students/singapore-kindness-movement/fos-pri/
 variant: tiptap
 description: ""

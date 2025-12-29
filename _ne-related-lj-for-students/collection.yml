@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - "Arts, Culture & Heritage/People’s Association: Our Community Gallery.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -39,12 +40,14 @@ collections:
         Now.md"
       - "Arts, Culture & Heritage/Defence Collective Singapore: Yours,
         Culturally.md"
-      - Arts, Culture & Heritage/National Gallery Singapore.md
-      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
-      - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
-      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
       - "Arts, Culture & Heritage/National Arts Council: Arts Education
         Programme.md"
+      - Arts, Culture & Heritage/National Gallery Singapore.md
+      - "Arts, Culture & Heritage/National Gallery Singapore: sustainability.md"
+      - "Arts, Culture & Heritage/NHB: Monumental Hunt in the Civic District.md"
+      - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
+      - "Arts, Culture & Heritage/National Library Board: Presidential Pop Up
+        Library Guided Tour.md"
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
         the Peranakan Museum).md"
       - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board, Anak
@@ -80,6 +83,12 @@ collections:
         Future.md"
       - "Aviation/Changi Airport Singapore: Singapore Story: The Changi Airpot
         Chapter.md"
+      - "Defence, Law & Order/Defence Collective Singapore: International
+        Students and Permanent Residents Programme.md"
+      - "Defence, Law & Order/Defence Collective Singapore: Education and Career
+        Guidance Programme.md"
+      - "Defence, Law & Order/Defence Collective Singapore: Total Defence day
+        2026.md"
       - Defence, Law & Order/.keep
       - "Defence, Law & Order/Defence Collective Singapore: Operations Triple
         Threat.md"
@@ -102,6 +111,8 @@ collections:
       - Environment & Sustainability/Overview.md
       - "Environment & Sustainability/Defence Collective Singapore: Station
         Based Activities (Sustainability).md"
+      - "Environment & Sustainability/Housing and Development Board: HDB
+        Sustainability Trail.md"
       - "Environment & Sustainability/National Environment Agency: Discovery
         Journey (Hawker Culture As A Nation).md"
       - "Environment & Sustainability/National Environment Agency: Learning

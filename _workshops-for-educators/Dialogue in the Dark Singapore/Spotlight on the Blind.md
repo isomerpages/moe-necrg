@@ -9,7 +9,7 @@ Spotlight on the Blind is an interactive programme designed to develop empathy a
 
 **Details**
 
-The in-person programme will be conducted in a suitable classroom with AV projection facilities. As a class (preferable class size of 20 - 25 students), participants will engage in videos, simulations, and discussions, all led by blind facilitators.   The virtual programme will be conducted fully online via Zoom.  Following a brief introduction, participants will go into online breakout rooms where they will engage in videos, simulations and discussions, all led by blind facilitators.
+The in-person programme will be conducted in a suitable classroom with AV projection facilities. Participants will engage in videos, simulations, and discussions, all led by blind facilitators. The virtual programme will be conducted fully online via Zoom. Following a brief introduction, participants will go into online breakout rooms where they will engage in videos, simulations and discussions, all led by blind facilitators.
 
 **Learning Objectives**
 
@@ -23,7 +23,7 @@ Participants will be:
 **Runtime**: All year round
 
 **Fee**: 
-Adult: $20 ($21.80 after GST) for online, $50 ($54.50 after GST) for in-person. Prices are subject to changes.
+Adult: $27 ($29.43 after GST) for online, $50 ($54.50 after GST) for in-person. Prices are subject to changes.
 
 **Modality**: In-person, Virtual
 

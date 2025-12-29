@@ -24,7 +24,7 @@ that inhabit Singapore.</p>
 <p><strong>Modality:</strong>&nbsp;In-person</p>
 <p><strong>Duration of Session:</strong>&nbsp;45 mins</p>
 <p><strong>Capacity:</strong> 1000 pax</p>
-<p><strong>Mode of Registration:</strong>&nbsp;By email - <a href="mailto:chelsey_yang@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chelsey_yang@nparks.gov.sg</a>
+<p><strong>Mode of Registration:</strong>&nbsp;By email - <a href="bookings@playinc.com.sg" rel="noopener nofollow" target="_blank">bookings@playinc.com.sg</a>
 </p>
 <p><strong>Due Date for registration</strong>: Registration opens in August
 each year</p>

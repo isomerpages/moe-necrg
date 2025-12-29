@@ -1,11 +1,10 @@
 ---
-title: Friend of Singa (Secondary) 2025
+title: Friend of Singa (Secondary) 2026
 permalink: /workshops-for-students/singapore-kindness-movement/fos-sec/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Singapore Kindness Movement
 ---
-<h3>Friends of Singa Students’ Campaign Programme (Secondary)</h3>
 <p>Introduced in 1990, the Friend of Singa (FOS) programme has evolved into
 the Friends of Singa Students’ Campaign Programme (FOSSCP), empowering
 students to take the lead in fostering kindness within their schools through
@@ -37,7 +36,7 @@ awarded for their sustained participation in FOSSCP.</p>
 students, we can inspire a wave of kindness that will continue to grow
 within schools and beyond.</p>
 <p><strong>Target Audience</strong>: Secondary 1 - 4/5 students</p>
-<p><strong>Runtime:</strong>&nbsp;January - August</p>
+<p><strong>Runtime:</strong>&nbsp;January - August 2026</p>
 <p><strong>Fee:</strong>&nbsp;Complimentary</p>
 <p><strong>Modality:</strong>&nbsp;In-person</p>
 <p><strong>Duration of Session:</strong>&nbsp;3 hours</p>
@@ -67,3 +66,4 @@ and the broader community”. - Secondary School Teacher</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKM_Friend_of_Singa__Secondary__Photo2.png">
 </div>
+<p></p>

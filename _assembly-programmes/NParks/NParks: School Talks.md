@@ -23,14 +23,11 @@ companion animals that share our environment.</p>
 <p><strong>Runtime:</strong>&nbsp;All year round</p>
 <p><strong>Fee:</strong>&nbsp;Complimentary</p>
 <p><strong>Modality:</strong>&nbsp;In-person</p>
-<p><strong>Website</strong>: <a href="https://www.nparks.gov.sg/learning/programmes-for-schools/talks-and-exhibitions-for-schools" rel="noopener noreferrer nofollow" target="_blank">https://www.nparks.gov.sg/learning/programmes-for-schools/talks-and-exhibitions-for-schools</a>
+<p><strong>Website</strong>: <a href="https://www.nparks.gov.sg/learn/programmes/school-assembly-talks" rel="noopener nofollow" target="_blank">https://www.nparks.gov.sg/learn/programmes/school-assembly-talks</a>
 </p>
 <p><strong>Mode of Registration:</strong>&nbsp;Through website link</p>
 <p><strong>Capacity</strong>: 100 pax</p>
 <p><strong>Due Date for registration</strong>: 1 month in advance</p>
-<p><strong>Contact</strong>: <a href="mailto:raymond_chan@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raymond_chan@nparks.gov.sg</a>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Assembly_talk_photo_1.jpg">
 </div>
