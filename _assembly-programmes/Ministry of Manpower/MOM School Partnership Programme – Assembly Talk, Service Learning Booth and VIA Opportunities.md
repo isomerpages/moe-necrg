@@ -38,8 +38,6 @@ Through deeper engagement with Singapore's migrant workforce, students gain info
 
 **Contact**: [youths@mom.gov.sg](youths@mom.gov.sg)
 
-![](/images/NYJC_Photo_1.jpg)
-Assembly talk at Nanyang JC – MOM speakers sharing with students on the support systems provided by the government and how they can help support our migrant workforce
+![](/images/EJC_Talk_Photo_1.jpg)
 
-![](/images/RVHS_Photo2.jpg)
-Values In Action (VIA) opportunity – River Valley High School students co-organised a Lion Dance and cultural exchange to Chinatown for our migrant workers as part of their VIA project
+![](/images/TMJC_booth_Photo_2.jpg)
