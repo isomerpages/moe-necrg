@@ -5,15 +5,13 @@ description: ""
 third_nav_title: Singapore Kindness Movement
 variant: tiptap
 ---
-<h3></h3>
-<p>Through interactive drama, students will explore issues on CyberKindness.
-The show aspires to shine light on relevant contemporary issues in hope
-of sparking meaningful conversations among students. This will be done
-through recreating familiar scenarios or by introducing new settings within
-our local context to educate and differentiate the ‘normal’ from the right.</p>
-<p>The show focuses on CyberKindness, responsibility, and kindness online
-and in real life. The show teaches youths what online etiquette is, as
-well as offering avenues of support for people who have been cyberbullied.</p>
+<p><strong><em>Interactive Theatre: Racial Harmony </em></strong>
+</p>
+<p>Through interactive drama, students will explore issues on racial harmony
+and cultural understanding. This show aims to spark meaningful conversations
+about acceptance and respect in a multicultural society. Using forum theatre,
+students will not only observe but actively participate in reshaping scenarios
+to practise empathy and inclusion.</p>
 <p><strong>Details</strong>
 </p>
 <p>Students will be given opportunities to have a voice during the hall-based
