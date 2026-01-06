@@ -85,6 +85,8 @@ journey and the evolution of social policies</p>
 <li>
 <p>Community Diversity: Examining how diverse communities have come together
 to build our multicultural society</p>
+</li>
+<li>
 <p>Leadership Development: Drawing insights from leaders who have driven
 meaningful community-led change</p>
 </li>
