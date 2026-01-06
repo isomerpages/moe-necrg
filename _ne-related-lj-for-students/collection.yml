@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Arts, Culture & Heritage/People’s Association: Our Community Gallery.md"
       - Arts, Culture & Heritage/.keep
       - "Arts, Culture & Heritage/Asian Civilisations Museum: Guided Tour (Cross
         cultural Art).md"
@@ -48,6 +47,7 @@ collections:
       - "Arts, Culture & Heritage/NHB: Monumental Learning Journeys.md"
       - "Arts, Culture & Heritage/National Library Board: Presidential Pop Up
         Library Guided Tour.md"
+      - "Arts, Culture & Heritage/People’s Association: Our Community Gallery.md"
       - "Arts, Culture & Heritage/Peranakan Museum: Guided Tour (Anak Anak at
         the Peranakan Museum).md"
       - Arts, Culture & Heritage/Peranakan Museum, National Heritage Board, Anak
