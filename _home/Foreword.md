@@ -16,4 +16,4 @@ If you would like to provide feedback on NECRG, we would love to hear your thoug
 
 Wishing you a wonderful and exciting year ahead!
 
-The NE Resource Guide Team (Joel & Mun Ling)
+The NE Resource Guide Team (Kevin & Amethyst)
