@@ -19,7 +19,7 @@ purpose have strengthened Singapore's social fabric.</p>
 <p></p>
 <p><strong>Details: </strong>Students will be brought through four immersive
 zones that showcase Singapore’s community building journey:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Singapore's Turbulent Beginnings: Experience the 1960s racial riots and
 curfews through immersive recreations, understanding the challenges of
@@ -35,23 +35,36 @@ diverse communities.</p>
 who became everyday heroes during crises like SARS and COVID-19, demonstrating
 collective resilience.</p>
 </li>
-<li>
+</ul>
 <p>Charting Our Way Forward: Engage with interactive installations to learn
 about the experiences of ordinary Singaporeans contributing to the community
 and make personal pledges for building Singapore's future. For more information
 on the zones, view the e-brochure at <a href="https://go.gov.sg/ocg-brochure" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ocg-brochure</a>.
 The gallery experience can be enhanced with a post-visit debrief session
-at the Community Loft, a purpose-built learning space adjoining the gallery.
-NACLI is offering complimentary use of this versatile space suitable for:
-• Post-visit reflections and discussions • Classroom sessions and seminars
-• Student presentations • Dialogues with community leaders and practitioners
-• Interactive learning sessions that complement your curriculum, such as
+at the Community Loft, a purpose-built learning space adjoining the gallery.</p>
+<p></p>
+<p>NACLI is offering complimentary use of this versatile space suitable for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Post-visit reflections and discussions</p>
+</li>
+<li>
+<p>Classroom sessions and seminars</p>
+</li>
+<li>
+<p>Student presentations</p>
+</li>
+<li>
+<p>Dialogues with community leaders and practitioners</p>
+</li>
+<li>
+<p>Interactive learning sessions that complement your curriculum, such as
 fireside chats This flexible learning environment features tiered seating
 and projection facilities and can accommodate various class sizes and formats
 up to 50 pax, making it ideal for extending classroom experience beyond
 traditional settings.</p>
 </li>
-</ol>
+</ul>
 <p><strong>Learning Objectives: </strong>Students will discover how Singapore
 transformed from a period of social unrest in the 1960s into today's united,
 multicultural nation. Through interactive exploration of key historical
@@ -60,16 +73,32 @@ efforts that shaped modern Singapore. Students will also reflect on the
 importance of active citizenship, racial harmony, and collective resilience,
 while discovering how they can contribute meaningfully to their own communities
 and our ongoing nation-building journey to shape Singapore's "We-First"
-society. Our Community Gallery offers rich learning opportunities that
-align with the learning objectives with academic disciplines and programmes:
-• Historical Perspectives: Understanding Singapore's community development
-journey and the evolution of social policies • Community Diversity: Examining
-how diverse communities have come together to build our multicultural society
-• Leadership Development: Drawing insights from leaders who have driven
-meaningful community-led change • Community Engagement: Exploring the importance
-of community participation in governance and nation-building • Applied
-Learning: Real-world examples of successful community initiatives and their
-impact</p>
+society.</p>
+<p></p>
+<p>Our Community Gallery offers rich learning opportunities that align with
+the learning objectives with academic disciplines and programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Historical Perspectives: Understanding Singapore's community development
+journey and the evolution of social policies</p>
+</li>
+<li>
+<p>Community Diversity: Examining how diverse communities have come together
+to build our multicultural society</p>
+</li>
+<li>
+<p>Leadership Development: Drawing insights from leaders who have driven
+meaningful community-led change</p>
+</li>
+<li>
+<p>Community Engagement: Exploring the importance of community participation
+in governance and nation-building</p>
+</li>
+<li>
+<p>Applied Learning: Real-world examples of successful community initiatives
+and their impact</p>
+</li>
+</ul>
 <p><strong>Target Audience: </strong>Primary 3- 4 students, Secondary 1-
 2 students, Post-Secondary (JC/Poly/ITE)</p>
 <p><strong>Runtime: </strong>All year round</p>
@@ -93,4 +122,16 @@ Harmony Day, National Day</p>
 or institution, please email Eileen Lee at <a href="mailto:Eileen_Lee@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Eileen_Lee@pa.gov.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Photo1__1_.jpg">
+</div>
+<p>Zone 1 – Singapore’s Turbulent Beginnings: Immersive experience recreating
+the 1960s racial riots and curfews, showcasing how early community leaders
+worked to rebuild trust and restore harmony during Singapore's most turbulent
+period</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Photo_1.jpg">
+</div>
+<p>Interactive stations at Our Community Gallery tell the story of community
+building in Singapore.</p>
