@@ -75,6 +75,13 @@ an inclusive and connected community.</p>
 <p><strong>Website: </strong><a href="https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/" rel="noopener noreferrer nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/</a>
 </p>
 <p><strong>Mode of Registration:</strong> By email</p>
+<p><strong>Due Date for Registration: </strong>
+</p>
+<p>1 month in advance</p>
+<p><strong>Contact:</strong> Kindly email Ms Sophy Tio (<a href="mailto:ips.rric@nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
+for enquiries</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
