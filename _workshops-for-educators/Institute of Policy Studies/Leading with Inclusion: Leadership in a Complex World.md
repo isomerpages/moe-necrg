@@ -19,7 +19,7 @@ to understand individuals’ leadership behaviours, an Implicit Association
 Test to discover unconscious biases, a Virtual Reality experience to build
 empathy for different perspectives, and a facilitated group discussion
 to translate inclusive leadership principles into practical action.</p>
-<p><strong>Details </strong>
+<p><strong>Details</strong>
 </p>
 <p>The workshop consists of the following segments:</p>
 <ol data-tight="true" class="tight">
