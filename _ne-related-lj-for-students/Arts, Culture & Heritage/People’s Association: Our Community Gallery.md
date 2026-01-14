@@ -125,4 +125,13 @@ or institution, please email Eileen Lee at <a href="mailto:Eileen_Lee@pa.gov.sg"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Photo1__1_.jpg">
 </div>
+<p>Zone 1 – Singapore’s Turbulent Beginnings: Immersive experience recreating
+the 1960s racial riots and curfews, showcasing how early community leaders
+worked to rebuild trust and restore harmony during Singapore's most turbulent
+period</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Photo_1.jpg">
+</div>
+<p>Interactive stations at Our Community Gallery tell the story of community
+building in Singapore.</p>
