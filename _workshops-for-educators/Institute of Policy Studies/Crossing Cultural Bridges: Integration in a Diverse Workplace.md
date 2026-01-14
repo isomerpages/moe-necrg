@@ -80,6 +80,15 @@ an ally of cultural diversity</p>
 <p><strong>Target Audience:</strong> Educators</p>
 <p><strong>Runtime:</strong> All year round</p>
 <p><strong>Fee:</strong> Please email for more details</p>
+<p><strong>Modality:</strong> In-person</p>
+<p><strong>Duration of Session: </strong>4 hours</p>
+<p><strong>Programme Capacity:</strong> 12-20 pax</p>
+<p><strong>Website: </strong><a href="https://lkyspp.nus.edu.sg/ips/rric/programme/crossing-cultural-bridges-integration-in-a-diverse-workplace/" rel="noopener noreferrer nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/programme/crossing-cultural-bridges-integration-in-a-diverse-workplace/</a>
+</p>
+<p><strong>Mode of Registration: </strong>By email</p>
+<p><strong>Due Date for Registration: </strong>1 month in advance</p>
+<p><strong>Contact: </strong>Kindly email Ms Sophy Tio (<a href="mailto:ips.rric@nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
+for enquiries</p>
 <p></p>
 <p></p>
 <p></p>
