@@ -68,10 +68,16 @@ an inclusive and connected community.</p>
 </ul>
 <p><strong>Target Audience:</strong> Educators</p>
 <p><strong>Runtime:</strong> All year round</p>
-<p>Fee:</p>
-<p>Modality:</p>
-<p>Duration of Session:</p>
-<p>Programme Capacity:</p>
+<p><strong>Fee:</strong> Please email for more details</p>
+<p><strong>Modality:</strong> In-person</p>
+<p><strong>Duration of Session: </strong>2 hours</p>
+<p><strong>Programme Capacity:</strong> 12-25 pax</p>
+<p><strong>Website: </strong><a href="https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/" rel="noopener noreferrer nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/</a>
+</p>
+<p><strong>Mode of Registration:</strong> By email</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
