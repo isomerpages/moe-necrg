@@ -72,7 +72,7 @@ an inclusive and connected community.</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Duration of Session: </strong>2 hours</p>
 <p><strong>Programme Capacity:</strong> 12-25 pax</p>
-<p><strong>Website: </strong><a href="https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/" rel="noopener noreferrer nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/</a>
+<p><strong>Website: </strong><a href="https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/" rel="noopener nofollow" target="_blank">https://lkyspp.nus.edu.sg/ips/rric/programme/the-power-of-diversity-decoding-racial-biases-at-the-workplace/</a>
 </p>
 <p><strong>Mode of Registration:</strong> By email</p>
 <p><strong>Due Date for Registration:</strong>
@@ -81,8 +81,15 @@ an inclusive and connected community.</p>
 <p><strong>Contact:</strong> Kindly email Ms Sophy Tio (<a href="mailto:ips.rric@nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
 for enquiries</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Power_of_Diversity_Photo1.jpg">
+</div>
+<p>Facilitators conducting roleplay intervention segment</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Power_of_Diversity_Photo2.jpg">
+</div>
+<p>Participants practising intervention skills during roleplay segment</p>
 <p></p>
 <p></p>
 <p></p>
