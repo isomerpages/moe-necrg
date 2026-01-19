@@ -89,7 +89,14 @@ an ally of cultural diversity</p>
 <p><strong>Due Date for Registration: </strong>1 month in advance</p>
 <p><strong>Contact: </strong>Kindly email Ms Sophy Tio (<a href="mailto:ips.rric@nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
 for enquiries</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Crossing_Cultural_Bridges_Photo1.jpg">
+</div>
+<p>Participants using Virtual Reality to experience different perspectives</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Crossing_Cultural_Bridges_Photo2.jpg">
+</div>
+<p>Participants engaged in "Maybe, Perhaps" card game</p>
 <p></p>
 <p></p>
 <p></p>
