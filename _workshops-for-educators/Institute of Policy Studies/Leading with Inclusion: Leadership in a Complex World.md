@@ -87,8 +87,10 @@ where all team members feel valued and respected</p>
 <p><strong>Contact: </strong>Kindly email Ms Sophy Tio (<a href="mailto:ips.rric@nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ips.rric@nus.edu.sg</a>)
 for enquiries</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inclusive_Leadership_Photo1.jpg">
+</div>
+<p>Participants sharing takeaways from Inclusive Leadership workshop</p>
 <p></p>
 <p></p>
 <p></p>
