@@ -72,8 +72,8 @@ to a more sustainable future.</p>
 - <a href="hello@ebimpact.org" rel="noopener nofollow" target="_blank">hello@ebimpact.org</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSYF_EDM___For_Teachers_Educators.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSYF_2026_Comms_NECRG_Poster_TSYF_Poster.png">
+</div>
 <p>Sustainability Youth Festival</p>
