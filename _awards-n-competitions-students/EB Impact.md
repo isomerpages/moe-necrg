@@ -61,7 +61,7 @@ and contributing towards key pillars of the SG Green Plan 2030. Teams should
 include Design Thinking elements in their proposals. Winning teams will
 receive funding to implement their projects. This Category is open to the
 Secondary School division and the Post-Secondary (JC/Poly/ITE/University)
-division. Find out more here: <a href="https://www.tsyf.sg/changemaker" rel="noopener noreferrer nofollow" target="_blank">https://www.tsyf.sg/changemaker</a> 
+division. Find out more here: <a href="https://www.tsyf.sg/changemaker" rel="noopener noreferrer nofollow" target="_blank">https://www.tsyf.sg/changemaker</a>
 </p>
 <p></p>
 </li>
@@ -97,7 +97,6 @@ St, #B1-01 National Library / Lee Kong Chian Reference Library, Singapore
 <p><strong>Contact Info: </strong>Gerald Wong, Executive Director, EB Impact
 - <a href="hello@ebimpact.org" rel="noopener nofollow" target="_blank">hello@ebimpact.org</a>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSYF_2026_Comms_NECRG_Poster_TSYF_Poster.png">
