@@ -21,54 +21,80 @@ and funding, bringing their ideas to life in schools and communities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Interactive booths with hands-on activities</p>
+<p>Interactive booths with hands-on activities and games</p>
 </li>
 <li>
-<p>Marketplace booths with sustainable merchandise</p>
-</li>
-<li>
-<p>“People, Planet, and Profit” Youth Conference</p>
-</li>
-<li>
-<p>Youth-led gamified “Ted Talks”</p>
-</li>
-<li>
-<p>Career speed dating</p>
+<p>Youth-focused gamified workshops</p>
 </li>
 <li>
 <p>TSYF Challenge Pitches and Sharing</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<p><u>Tentative Festival Agenda:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>11.00 - 17.00 - Experiential Learning with Booth Activities. Interactive
+booths and displays designed by schools, youth groups and partner organisations
+will offer hands-on learning experiences related to sustainability themes.</p>
+</li>
+<li>
+<p>13.00 - 15.00 - TSYF Changemaker Challenge: Tertiary Division Pitching
+Session</p>
+</li>
+<li>
+<p>14.00 - 15.00 - TSYF Creator Finalists Booth Presentation</p>
+</li>
+<li>
+<p>15.00 - 17.00 - TSYF Changemaker Challenge: Secondary Division Pitching
+Session</p>
+</li>
+</ul>
 <p><u>TSYF Challenge Categories</u>
 </p>
 <p>Students can pitch their challenge solutions in two categories:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Youth Changemaker: Solutions focused on driving awareness and behavioural
-change within the community.</p>
+<p>Changemaker Category: This category is for solutions centred around advancing
+and contributing towards key pillars of the SG Green Plan 2030. Teams should
+include Design Thinking elements in their proposals. Winning teams will
+receive funding to implement their projects. This Category is open to the
+Secondary School division and the Post-Secondary (JC/Poly/ITE/University)
+division. Find out more here: <a href="https://www.tsyf.sg/changemaker" rel="noopener noreferrer nofollow" target="_blank">https://www.tsyf.sg/changemaker</a> 
+</p>
+<p></p>
 </li>
 <li>
-<p>Youth Innovator: Solutions that are viable products or services aimed
-at making direct environmental impact.</p>
+<p>Creator Category: The TSYF Challenge Creator category gives primary school
+students a platform to design engaging and interactive booth activities
+that communicate impactful sustainability messages. Selected student teams
+will be provided a booth space at TSYF 2026 on 15th May 2026. This category
+is only open to the Primary School division. Find out more here: <a href="https://www.tsyf.sg/creator" rel="noopener noreferrer nofollow" target="_blank">https://www.tsyf.sg/creator</a>
+</p>
 </li>
 </ul>
-<p><strong>Learning Objectives: </strong>Students will learn about Singapore's
+<p><strong>Learning Objectives:</strong> Students will learn about Singapore's
 sustainability challenges and the diverse approaches taken to overcome
-them, all of which will be aligned with the Green Plan. They will have
+them, all of which will be aligned with the SG Green Plan. They will have
 the opportunity to observe real-world applications and engage with stakeholders
 (government agencies, youth-led ground-ups, organisations), fostering a
 deeper understanding of the issues at hand and inspiring them to contribute
 to a more sustainable future.</p>
+<p>Sign up for the TSYF Challenge here: <a href="https://airtable.com/appVNP1eeKzMEWnQT/paggSFvm9R5KSwwpw/form" rel="noopener noreferrer nofollow" target="_blank">https://airtable.com/appVNP1eeKzMEWnQT/paggSFvm9R5KSwwpw/form</a>
+</p>
 <p><strong>Target Audience: </strong>Primary 3-6, Secondary 1-5, Post-Secondary
 (JC/Poly/ITE), Educators</p>
-<p><strong>Runtime</strong>: April- August</p>
+<p><strong>Date: </strong>15 May 2026</p>
+<p><strong>Venue:</strong> National Library, Central Library, 100 Victoria
+St, #B1-01 National Library / Lee Kong Chian Reference Library, Singapore
+188064</p>
 <p><strong>Fee</strong>: Complimentary</p>
 <p><strong>Modality:</strong> In-person</p>
 <p><strong>Duration of Session:</strong> 3-6 hours</p>
 <p><strong>Programme Capacity:</strong> 1300pax</p>
 <p><strong>Mode of Registration</strong>: Online through website link</p>
-<p><strong>Contatct Info: </strong>Gerald Wong, Executive Director, EB Impact
+<p><strong>Contact Info: </strong>Gerald Wong, Executive Director, EB Impact
 - <a href="hello@ebimpact.org" rel="noopener nofollow" target="_blank">hello@ebimpact.org</a>
 </p>
 <p></p>
