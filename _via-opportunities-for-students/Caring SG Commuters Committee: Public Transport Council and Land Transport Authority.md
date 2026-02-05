@@ -5,36 +5,31 @@ permalink: /via-opportunities-for-students/ptc-lta/
 variant: tiptap
 description: ""
 ---
-<h3>Caring SG Commuters Movement: Fostering a Gracious, Caring &amp; Inclusive Commuting Culture </h3>
-<p>Commuting is an essential part of our day-to-day experience; it enables
-us to work, play and journey home at the end of each day. From conversations
-with our commuters,Commuting is part of our daily lives, whether going
-to school, work, or home. The Caring SG Commuters Movement, launched in
-2017, aims to make public transport more gracious, caring, and inclusive
-for everyone. Students can learn to support vulnerable commuters and become
-advocates for a more inclusive commuting cultur. w that the culture of
-care among them is important. The Caring SG Commuters Movement was thus
-started in August 2017 to foster a caring commuting culture in Singapore.
-The programmes enable commuters (e.g., students and educators) to have
-the opportunity to learn how to help one another and make commuting more
-inclusive and caring.</p>
+<h3>Caring SG Commuters Movement: Fostering a Gracious, Caring &amp; Inclusive Commuting Culture</h3>
+<p>Commuting is part of our daily lives, whether going to school, work, or
+home. The Caring SG Commuters Movement, launched in 2017, aims to make
+public transport more gracious, caring, and inclusive for everyone. Students
+can learn to support vulnerable commuters and become advocates for a more
+inclusive commuting culture.</p>
 <p><strong>Details</strong>
 </p>
-<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CARE Ride Project (for Primary 5 students and above)</strong>
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuter Champion (CCC) Programme (for Sec 1 and above) </strong>
 </p>
-<p>Students and educators participating in this project can look forward
-to opportunities for inter-generational, as well as learning more about
-the needs of senior commuters. The projects aim to help participant become
-more aware and mindful of senior commuters in their midst, as well as how
-we can help them, thereby developing greater empathy and a willingness
-to help. This makes bus rides more inclusive, joyful, and welcoming for
-all.</p>
-<p>As part of CARE Ride, students and educators will also get to take part
-in an empathy workshop, e.g., the Public Bus Inclusivity Course (PBIC)
-conducted by Tower Transit Singapore, where they will learn how to help
-fellow commuters on public buses. It will equip them with awareness about
-the needs of vulnerable commuters, basic knowledge in assisting such commuters,
-and soft skills such as assisting others.</p>
+<p>Empower your students to become advocates for inclusive commuting</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly Talk (Live / Virtual)</p>
+<p>The Assembly Talk is an engaging session introducing students to the Four
+Caring Norms (Give Care, Give Time, Give a Hand and Give Thanks) and the
+“3A” framework (Assess, Ask and Assist). Students will learn about the
+needs of vulnerable commuters, such as commuters who are visually impaired,
+deaf or hard-of-hearing, seniors with dementia, and persons with invisible
+conditions.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCC E-Learning Course (~45 minutes)</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CCC E-Learning Course
+is a self-paced modular online course certifying students as Caring Commuter
+Champions. Upon completion, schools can propose related Values-in-Action
+(VIA) or co-creation projects to promote caring commuting in their community</p>
+<p>URL: <a href="https://www.caringcommuters.gov.sg/champions" rel="noopener noreferrer nofollow" target="_blank">https://www.caringcommuters.gov.sg/champions</a>
+</p>
 <p><strong>2.</strong>&nbsp;&nbsp;&nbsp; <strong>CARE by [School Name] Project (for Secondary school students and above)</strong>
 </p>
 <p>Students and educators will get first-hand experience to interact with
