@@ -35,7 +35,7 @@ commuting in their community.</p>
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Experiential Workshops (availability is subject to factors such as the number of participants)</strong>
+<p><strong>periential Workshops (availability is subject to factors such as the number of participants)</strong>
 </p>
 </li>
 </ol>
