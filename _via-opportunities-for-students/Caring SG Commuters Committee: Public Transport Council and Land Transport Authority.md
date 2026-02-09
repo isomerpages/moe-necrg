@@ -13,7 +13,7 @@ can learn to support vulnerable commuters and become advocates for a more
 inclusive commuting culture.</p>
 <p><strong>Details</strong>
 </p>
-<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuter Champion (CCC) Programme (for Sec 1 and above) </strong>
+<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuter Champion (CCC) Programme (for Sec 1 and above)</strong>
 </p>
 <p>Empower your students to become advocates for inclusive commuting</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly Talk (Live / Virtual)</p>
@@ -24,25 +24,28 @@ needs of vulnerable commuters, such as commuters who are visually impaired,
 deaf or hard-of-hearing, seniors with dementia, and persons with invisible
 conditions.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCC E-Learning Course (~45 minutes)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CCC E-Learning Course
-is a self-paced modular online course certifying students as Caring Commuter
-Champions. Upon completion, schools can propose related Values-in-Action
-(VIA) or co-creation projects to promote caring commuting in their community</p>
+<p>The CCC E-Learning Course is a self-paced modular online course certifying
+students as Caring Commuter Champions. Upon completion, schools can propose
+related Values-in-Action (VIA) or co-creation projects to promote caring
+commuting in their community.</p>
 <p>URL: <a href="https://www.caringcommuters.gov.sg/champions" rel="noopener noreferrer nofollow" target="_blank">https://www.caringcommuters.gov.sg/champions</a>
 </p>
-<p><strong>2.</strong>&nbsp;&nbsp;&nbsp; <strong>CARE by [School Name] Project (for Secondary school students and above)</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_09_114548.png">
+</div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong> Experiential Workshops (availability is subject to factors such as the number of participants)</strong>
 </p>
-<p>Students and educators will get first-hand experience to interact with
-vulnerable commuters in groups of four to five. Students are given the
-opportunity to display the Four Caring Norms (Give Care, Give Time, Give
-a Hand and Give Thanks) in various scenarios. For example, they may help
-vulnerable commuters’ (e.g., seniors) to carry groceries and bags during
-their last-mile travel from MRT stations, integrated transport hubs and
-bus interchanges. During the journey, students will have the opportunity
-to bond and empathise with vulnerable commuters. This will help students
-to better understand the travel needs and challenges of vulnerable commuters,
-as well as develop greater empathy and situational awareness.</p>
-<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuter Champions (for Secondary school students and above)</strong>
+</li>
+</ol>
+<p>Students can participate in experiential workshops, where they will put
+themselves in the shoes of more vulnerable commuters or commuters with
+disabilities by undergoing various simulations (e.g., a blindfolded participant
+attempts to navigate the public transport nodes etc). This will enable
+participants to gain a first-hand understanding of challenges faced by
+different commuter profiles.</p>
+<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuting Co-Creation Projects (preferably for Primary 4 students and above)</strong>
 </p>
 <p>The Caring Commuter Champion programme is a ~45-minute e-learning course
 which aims to educate participants on how to be a caring commuter during
