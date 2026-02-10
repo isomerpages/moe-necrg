@@ -13,7 +13,7 @@ can learn to support vulnerable commuters and become advocates for a more
 inclusive commuting culture.</p>
 <p><strong>Details</strong>
 </p>
-<p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuter Champion (CCC) Programme (for Sec 1 and above)</strong>
+<p><strong>1. Caring Commuter Champion (CCC) Programme (for Sec 1 and above)</strong>
 </p>
 <p>Empower your students to become advocates for inclusive commuting</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly Talk (Live / Virtual)</p>
@@ -30,85 +30,87 @@ related Values-in-Action (VIA) or co-creation projects to promote caring
 commuting in their community.</p>
 <p>URL: <a href="https://www.caringcommuters.gov.sg/champions" rel="noopener noreferrer nofollow" target="_blank">https://www.caringcommuters.gov.sg/champions</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_09_114548.png">
 </div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>periential Workshops (availability is subject to factors such as the number of participants)</strong>
+<p>Assembly Talk</p>
+<p><strong>2. Experiential Workshops (availability is subject to factors such as the number of participants)</strong>
 </p>
-</li>
-</ol>
 <p>Students can participate in experiential workshops, where they will put
 themselves in the shoes of more vulnerable commuters or commuters with
 disabilities by undergoing various simulations (e.g., a blindfolded participant
 attempts to navigate the public transport nodes etc). This will enable
 participants to gain a first-hand understanding of challenges faced by
 different commuter profiles.</p>
-<p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Caring Commuting Co-Creation Projects (preferably for Primary 4 students and above)</strong>
+<p><strong>3.</strong>&nbsp;<strong>Caring Commuting Co-Creation Projects (preferably for Primary 4 students and above)</strong>
 </p>
-<p>The Caring Commuter Champion programme is a ~45-minute e-learning course
-which aims to educate participants on how to be a caring commuter during
-their public transport journey.</p>
-<p>The course aims to equip participants with knowledge about the needs of
-various groups of vulnerable commuters (e.g., blind/visually impaired,
-Deaf/Hard-of-Hearing, seniors with dementia, invisible medical conditions)
-and how to interact with and help appropriately and safely through the
-three ‘A’s of Assess, Ask and Assist.</p>
-<p>Participants will receive a Caring Commuter Champion badge and an e-certificate
-upon successful completion of the course.</p>
-<p>Upon certification as Caring Commuter Champions, the school can propose
-a related Values-in-Action (VIA) or co-creation project with the Caring
-SG Commuters Committee for student Champions, to raise awareness on fostering
-a caring commuting culture (including the Four Caring Norms of Give Care,
-Give Time, Give a Hand and Give Thanks) or put the Four Caring Norms and
-aforementioned three ‘As’ into action through helping or guiding vulnerable
-commuters to get to their destination.</p>
-<p><strong>Learning Objectives</strong>
+<p>The co-creation projects are hands-on projects (in-person or virtual)
+which deepen empathy and foster community collaboration. Students, under
+the guidance of educators, can design and implement projects to make commuting
+more inclusive, such as:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Care Ride
+Project: Accompany seniors and/or Persons with Disabilities (PWDs) on a
+bus/train ride to understand their travel challenges. &nbsp;</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CARE Carnival:
+Organise exhibitions or simulation activities or quizzes at public transport
+nodes to raise awareness on inclusivity.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Media Campaigns:
+Create content (e.g. Instagram reels etc), showcasing practical ways to
+help fellow commuters. Examples are Instagram reels developed by St Andrew’s
+Junior College (SAJC) students:</p>
+<p>&nbsp;&nbsp;i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commuter with Dementia –
+<a href="https://www.instagram.com/p/C1rNdOKPcLf/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1rNdOKPcLf/</a>
 </p>
-<p>Both students and educators will be able to:</p>
+<p>&nbsp;&nbsp;ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commuter with Temporary Physical
+Disability - <a href="https://www.instagram.com/p/C2hQQBrvJPe/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C2hQQBrvJPe/</a>
+</p>
+<p>&nbsp;&nbsp;iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commuter with Visual Impairment
+–&nbsp;<a href="https://www.instagram.com/p/C1bm7TgvFq9/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/C1bm7TgvFq9/</a>
+</p>
+<p><strong>Learning Outcomes:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Better understand the travel needs of different groups of commuters, for
-example seniors and persons with disabilities (PWDs), so that they can
-be more mindful and confident when offering help to them on the public
-transport.</p>
+<p>Understand the travel needs of vulnerable commuters.</p>
 </li>
 <li>
-<p>Develop greater empathy and situational awareness</p>
+<p>Develop empathy, confidence, and situational awareness to offer help appropriately.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Collaborate with peers and community stakeholders to promote inclusive
+commuting.</p>
 </li>
 </ul>
-<p><strong>Target Audience</strong>: Primary 4 - 6 students, Secondary 1
-- 4/5 students, Post Secondary (JC/ Poly/ ITE), Educators</p>
+<p><strong>Target Audience</strong>: Primary 4 - 6 students, Secondary Level,
+and Post Secondary (JC/ Poly/ ITE)</p>
 <p><strong>Runtime:</strong>&nbsp;All year round</p>
-<p><strong>Fee:</strong>&nbsp;Please email for more details</p>
+<p><strong>Fee:</strong>&nbsp;Please enquire for more details</p>
 <p><strong>Modality:</strong>&nbsp;In-person or virtual</p>
 <p><strong>Duration of Session:</strong>&nbsp;Please enquire for more details</p>
 <p><strong>Capacity</strong>: Please enquire for more details</p>
 <p><strong>Website</strong>: https://www.caringcommuters.gov.sg</p>
-<p><strong>Mode of Registration:</strong>&nbsp;By email.</p>
+<p><strong>Mode of Registration:</strong>&nbsp;Please enquire for more details</p>
 <p><strong>Due Date for registration</strong>: Please enquire for more details</p>
-<p><strong>Contact</strong>: For any co-creation ideas and partnership, contact
-us at Email: ptc_office@ptc.gov.sg (Attention to Insights &amp; Advisory
-Division)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CARING_2.JPG">
-</div>
+<p><strong>Contact</strong>: For co-creation ideas, partnerships or customised
+programs for your school, contact us at <a href="https://go.gov.sg/ptc-feedback-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ptc-feedback-form</a> (Attention:
+Insights &amp; Advisory Division)</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CARING_4.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_10_103148.png">
 </div>
+<p>Lianhua Primary School and Youth Volunteers from the Bukit Gombak Youth
+Network participating in the CARE Ride programme</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CARING_3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_10_103157.png">
 </div>
-<p>Lianhua Primary School and NUS students participating in the CARE Ride
-programme that includes PBIC</p>
+<p>Care Carnival at Pasir Ris ITH, in collaboration with Pasir Ris Crest
+Secondary School and Go-Ahead Singapore (GAS)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTC_VIA2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_10_103210.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PTC_VIA2_1.jpg">
-</div>
-<p>Students interacting with and helping commuters during CARE by Chung Cheng
-(Yishun) and CARE by Hillgrove</p>
+<p>Instagram Reels by SAJC Students</p>
+<p></p>
