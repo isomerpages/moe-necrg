@@ -39,7 +39,7 @@ the programme is up to the arrangement of the school (e.g. 3 hours over
 1 hour of soft skills training before the programme to equip them with
 the knowledge of the ageing process, and the communication skills necessary
 for intergenerational interaction.</p>
-<p><strong>Website:</strong>  <a href="https://www.c3a.org.sg/intergenerational-learning-programme" rel="noopener nofollow" target="_blank">https://www.c3a.org.sg/intergenerational-learning-programme</a>
+<p><strong>Website:</strong> &nbsp;<a href="https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities#ED77C100CA0645B9AFB9F80D90C9A0B1" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg/Age-Well/Learning-and-Volunteerism/Learning-Opportunities#ED77C100CA0645B9AFB9F80D90C9A0B1</a>
 </p>
 <p><strong>Mode of registration</strong>: By email</p>
 <p><strong>Contact:</strong> Ms Cheryl Law, <a href="cheryl.law.lw@aic.sg" rel="noopener nofollow" target="_blank">cheryl.law.lw@aic.sg</a>
