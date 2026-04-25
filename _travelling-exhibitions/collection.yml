@@ -2,6 +2,8 @@ collections:
   travelling-exhibitions:
     output: true
     order:
+      - "Sentosa Development Corporation: Sentosa Sustainability Travelling
+        Exhibition.md"
       - Overview.md
       - National Heritage Board/.keep
       - "National Heritage Board/NHB: Heritage On The Move.md"
