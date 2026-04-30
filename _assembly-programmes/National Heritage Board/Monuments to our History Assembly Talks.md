@@ -33,7 +33,7 @@ Students will be introduced to relevant National Monuments and gain a better und
 
 **Due Date for registration**: 6-8 weeks in advance.
 
-**Contact**: nhb_nationalmonuments@nhb.gov.sg
+**Contact**:          [NMEDU@nhb.gov.sg](mailto:NMEDU@nhb.gov.sg)
 
 ![](/images/monumental%20to%20our%20history%20talk.PNG)
 Learning from our Built Heritage
