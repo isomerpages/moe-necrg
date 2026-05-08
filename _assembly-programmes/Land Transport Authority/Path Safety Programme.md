@@ -35,4 +35,4 @@ Students will find out more on how pedestrians and active mobility device users 
 **Contact**: [schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
 ![](/images/Assembly_Talk__Yumin_.jpg)
-An LTA officer conducting an assembly talk on path safety in a primary school. 
+An LTA officer conducting an assembly talk on path safety in a primary school.
