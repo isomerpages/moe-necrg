@@ -12,7 +12,7 @@ hands-on experience, contribute to the process and observe behind-the-scenes
 efforts! 💯 Date: 30 May (Sat) Time: 12pm to 3.30pm (lunch provided) Venue:
 SE CDC office (1 Engku Aman Turn, #03-02, Wisma Geylang Serai, Singapore
 408528)</p>
-<p><strong>Details: </strong>
+<p><strong>Details:</strong>
 </p>
 <p>Learning journey at Cloop sorting facility.</p>
 <p><strong>Learning Objective:</strong>
