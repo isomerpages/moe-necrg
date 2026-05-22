@@ -1,7 +1,7 @@
 ---
-title: Path Safety Programme
+title: Path Safety Assembly Talk
 permalink: /assembly-programmes/land-transport-authority/path-safety-programme/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Land Transport Authority
 ---
