@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Land Transport Authority
 ---
-A 7-minute [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&t=11s) showing the Kindness Cubbies’ encounters on their way to the park for a picnic. The video will highlight the desirable and undesirable behaviours of the Cubbies when walking and riding on paths, and educate students on how to use paths in a safe and considerate manner.  
+A 7-minute [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&amp;t=11s) showing the Kindness Cubbies’ encounters on their way to the park for a picnic. The video will highlight the desirable and undesirable behaviours of the Cubbies when walking and riding on paths, and educate students on how to use paths in a safe and considerate manner.  
 
 Printable activity sheets [(P1/P2,](https://go.gov.sg/kindsvilletimes-junior) [P3/ P4)](https://go.gov.sg/kindsvilletimes-adventures) can be downloaded to reinforce lessons learnt from the video. 
 
@@ -27,11 +27,9 @@ Students will find out more on how pedestrians and active mobility device users 
 
 **Duration of Session**: We recommend that teachers spend about 30 minutes going through the video and activity sheets with students. This can be done in person or virtually. 
 
-**Website**: Active Mobility Education Programmes and  Resources: [www.go.gov.sg/am-education](www.go.gov.sg/am-education)
+**Website**: Active Mobility Education Programmes and  Resources: [www.go.gov.sg/am-education](         ‘https://www.go.gov.sg/am-education)
 
-**Mode of registration:** Teachers can download the [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&t=11s) and printable activity sheets [(P1/ P2, ](https://go.gov.sg/kindsvilletimes-junior) [P3/ P4)](https://go.gov.sg/kindsvilletimes-adventures) to reinforce lessons learnt from the video. 
-
-**Due Date for registration**: 1 week in advance
+**Mode of registration:** Teachers can download the [animation video](https://www.youtube.com/watch?v=B63zJTGWOIw&amp;t=11s) and printable activity sheets [(P1/ P2, ](https://go.gov.sg/kindsvilletimes-junior) [P3/ P4)](https://go.gov.sg/kindsvilletimes-adventures) to reinforce lessons learnt from the video. 
 
 **Contact**: [schools_am@lta.gov.sg](schools_am@lta.gov.sg)
 
